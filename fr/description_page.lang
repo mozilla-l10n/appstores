@@ -21,7 +21,7 @@ Customize your Home panels with the Web content you want.
 
 # Key feature title
 ;Quick Share
-Quick Share
+Partage facile
 
 
 ;The most adaptive way to share anything.
@@ -231,8 +231,8 @@ Like Firefox on Facebook: {{facebook_link}}
 Follow Firefox on Twitter: {{twitter_link}}
 
 
-;Curious about add-ons? Check them out on <a {{amo_link}}>AMO</a>:
-Curious about add-ons? Check them out on <a {{amo_link}}>AMO</a>:
+;Curious about add-ons? Check them out on {{amo_link}} :
+Curious about add-ons? Check them out on {{amo_link}} :
 
 
 ;Browsing:
@@ -287,7 +287,7 @@ We're a global community of users, contributors and developers working to innova
 When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
 
 
-;Learn more at mozilla.org.
-Learn more at mozilla.org.
+;Learn more at {{mozilla_org_link}}.
+Learn more at {{mozilla_org_link}}.
 
 
