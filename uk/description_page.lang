@@ -3,20 +3,20 @@
 
 # Key feature title
 ;Sync
-Sync
+Синхронізація
 
 
 ;Bring your passwords, bookmarks, open tabs and more everywhere you go.
-Bring your passwords, bookmarks, open tabs and more everywhere you go.
+Візьміть з собою всюди свої паролі, закладки, відкриті вкладки та інше.
 
 
 # Key feature title
 ;Add-ons
-Add-ons
+Додатки
 
 
 ;Customize your Home panels with the Web content you want.
-Customize your Home panels with the Web content you want.
+Пристосуйте панелі домашньої сторінки веб-вмістом на свій смак.
 
 
 # Key feature title
@@ -236,23 +236,23 @@ Browsing:
 
 
 ;Adblock Plus, AutoPager, Full Screen mobile and more
-Adblock Plus, AutoPager, Full Screen mobile and more
+Adblock Plus, AutoPager, Full Screen mobile та інше
 
 
 ;Security:
-Security:
+Безпека:
 
 
 ;LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
-LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
+LastPass Password Manager, NoScript, Dr. Web LinkChecker та інше
 
 
 ;Reading:
-Reading:
+Читання:
 
 
 ;AutoPager, X-Notifier lite and more
-AutoPager, X-Notifier lite and more
+AutoPager, X-Notifier lite та інше
 
 
 ;Watching:
@@ -264,15 +264,15 @@ Low Quality Flash, ProxTube and more
 
 
 ;Social Networks:
-Social Networks:
+Соціальні мережі:
 
 
 ;Shareaholic, Foursquare and more
-Shareaholic, Foursquare and more
+Shareaholic, Foursquare та інші
 
 
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+ПРО MOZILLA
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
@@ -280,14 +280,14 @@ Mozilla is a proudly non-profit organization dedicated to keeping the power of t
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-We're a global community of users, contributors and developers working to innovate on your behalf.
+Ми всесвітня спільнота користувачів, помічників та розробників, які працюють над інноваціями від вашого імені.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+Коли ви використовуєте Firefox, ви стаєте частиною спільноти, допомагаючи нам будувати світліше майбутнє Інтернету.
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+Дізнатись більше на {{mozilla_org_link}}.
 
 
