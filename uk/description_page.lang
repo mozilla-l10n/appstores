@@ -93,15 +93,15 @@
 
 # Slogan
 ;We make it Firefox. You make it your own.
-We make it Firefox. You make it your own.
+Ми робимо його Firefox. Ви робите його своїм.
 
 
 ;Meet our most customizable Android browser yet.
-Meet our most customizable Android browser yet.
+Зустрічайте наш найбільш пристосований браузер для Android.
 
 
 ;Fast, smart and safe, the official Firefox for Android browser from Mozilla offers more ways than ever to make your mobile browsing experience uniquely yours.
-Fast, smart and safe, the official Firefox for Android browser from Mozilla offers more ways than ever to make your mobile browsing experience uniquely yours.
+Швидкий, розумний і безпечний, офіційний браузер Firefox для Android від Mozilla пропонує більше ніж будь-коли можливостей зробити мобільний перегляд унікально вашим.
 
 
 # Title
@@ -110,7 +110,7 @@ Fast, smart and safe, the official Firefox for Android browser from Mozilla offe
 
 
 ;Access, browse and search the Web at blazing speeds.
-Access, browse and search the Web at blazing speeds.
+Доступ, перегляд та пошук в Інтернеті з блискавичною швидкістю.
 
 
 # Title
@@ -196,25 +196,25 @@ Keep your browsing safe and private. Control your privacy, security and how much
 
 
 ;For a complete list of features, check out {{features_link}}
-For a complete list of features, check out {{features_link}}
+Щоб отримати повний перелік можливостей, перейдіть на {{features_link}}
 
 
 ;Learn more about Firefox for Android:
-Learn more about Firefox for Android:
+Дізнайтесь більше про Firefox для Android:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+Маєте питання чи потребуєте допомоги? Відвідайте {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+Прочитайте про дозволи Firefox: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+Дізнайтеся більше про те, що відбувається в Mozilla: {{blog_link}}
 
 
 # Bulleted list item
@@ -224,7 +224,7 @@ Like Firefox on Facebook: {{facebook_link}}
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Слідкуйте за Firefox у Twitter: {{twitter_link}}
 
 
 ;Curious about add-ons? Check them out on {{amo_link}} :
@@ -276,7 +276,7 @@ Shareaholic, Foursquare та інші
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla з гордістю неприбуткова організація, яка віддана збереженню можливостей Інтернету в руках людей.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
