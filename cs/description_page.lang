@@ -3,52 +3,52 @@
 
 # Key feature title
 ;Sync
-Sync
+Sync {ok}
 
 
 ;Bring your passwords, bookmarks, open tabs and more everywhere you go.
-Bring your passwords, bookmarks, open tabs and more everywhere you go.
+Vezměte si s sebou svá hesla, záložky, otevřené panely a historii prohlížení kamkoliv jdete.
 
 
 # Key feature title
 ;Add-ons
-Add-ons
+Doplňky
 
 
 ;Customize your Home panels with the Web content you want.
-Customize your Home panels with the Web content you want.
+Přizpůsobte si své Domovské panely s webovým obsahem, jaký chcete.
 
 
 # Key feature title
 ;Quick Share
-Quick Share
+Rychlé sdílení
 
 
 ;The most adaptive way to share anything.
-The most adaptive way to share anything.
+Nejpřizpůsobitelnější cesta jak sdílet úplně cokoliv.
 
 
 # Key feature title
 ;Private Browsing
-Private Browsing
+Anonymní prohlížení
 
 
 ;Browse the Web without any of your history being remembered.
-Browse the Web without any of your history being remembered.
+Prohlížejte web bez ukládání jakékoliv historie navštívených stránek.
 
 
 # Key feature title
 ;Guest Browsing
-Guest Browsing
+Prohlížení pro hosty
 
 
 ;Share your browser with friends and keep your data private.
-Share your browser with friends and keep your data private.
+Sdílejte svůj prohlížeč s přáteli a udržte si přitom své soukromá data pod kontrolou.
 
 
 # Key feature title
 ;Reader Mode
-Reader Mode
+Režim čtení
 
 
 ;Clear website clutter to make articles easier to read.
@@ -57,29 +57,29 @@ Clear website clutter to make articles easier to read.
 
 # Key feature title
 ;Home Panels
-Home Panels
+Domovské panely
 
 
 ;Display your Home panels in any order you like.
-Display your Home panels in any order you like.
+Zobrazujte své domovské panely v jakémkoliv pořadí chcete.
 
 
 # Key feature title
 ;Custom Search
-Custom Search
+Vlastní vyhledávání
 
 
 ;Add any search engine and make it your default.
-Add any search engine and make it your default.
+Přidejte a nastavte si jakýkoliv vyhledávač jako výchozí.
 
 
 # Key feature title
 ;Language Display
-Language Display
+Jazyk prohlížeče
 
 
 ;Change your browser language quickly and easily.
-Change your browser language quickly and easily.
+Změňte jazyk svého prohlížeče rychle a snadno.
 
 
 # Key feature title
@@ -88,55 +88,55 @@ Send to Device
 
 
 ;Stream video content from your device to your TV.
-Stream video content from your device to your TV.
+Sledujte video obsah ze svého zařízení na vaší televizi.
 
 
 # Slogan
 ;We make it Firefox. You make it your own.
-We make it Firefox. You make it your own.
+My vyrobíme Firefox. Vy si jej přizpůsobíte podle sebe.
 
 
 ;Meet our most customizable Android browser yet.
-Meet our most customizable Android browser yet.
+Poznejte náš nejpřizpůsobitelnější prohlížeč pro Android jaký kdy byl.
 
 
 ;Fast, smart and safe, the official Firefox for Android browser from Mozilla offers more ways than ever to make your mobile browsing experience uniquely yours.
-Fast, smart and safe, the official Firefox for Android browser from Mozilla offers more ways than ever to make your mobile browsing experience uniquely yours.
+Rychlý, chytrý a bezpečný, oficiální prohlížeč Firefox pro Android od Mozilly nabízí více možností než kdy dříve, jak mít prohlížení jedinečné a vaše.
 
 
 # Title
 ;FAST.
-FAST.
+RYCHLÝ.
 
 
 ;Access, browse and search the Web at blazing speeds.
-Access, browse and search the Web at blazing speeds.
+Procházejte a prohledávejte web neuvěřitelnou rychlostí.
 
 
 # Title
 ;SMART.
-SMART.
+CHATRÝ.
 
 
 ;Share and search just how you like, and keep your favorite Web content a tap away with our most customizable and intuitive features yet.
-Share and search just how you like, and keep your favorite Web content a tap away with our most customizable and intuitive features yet.
+Sdílejte a vyhledávejte jak sami chcete a udržte si svůj oblíbený obsah na dotyk daleko s našimi nejpřizpůsobitelnějšími intuitivními funkcemi.
 
 
 # Title
 ;SAFE.
-SAFE.
+BEZPEČNÝ.
 
 
 ;Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
-Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
+Mějte jistotu, že vaše prohlížení zůstane bezpečné s širokými možnostmi nastavení, doplňky a funkcemi jako je Do Not Track.
 
 
 ;Key Features:
-Key Features:
+Klíčové vlastnosti:
 
 
 ;Customizable Home Panels:
-Customizable Home Panels:
+Přizpůsobitelné domovské panely:
 
 
 ;Customize and display your Home panels however you like. Add new Web content any time and access your favorite feeds — like Instagram and Pocket Hits — instantly.
@@ -144,7 +144,7 @@ Customize and display your Home panels however you like. Add new Web content any
 
 
 ;Sync:
-Sync:
+Synchronizace:
 
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
@@ -152,7 +152,7 @@ Sync your Firefox desktop tabs, history, bookmarks and passwords to all your dev
 
 
 ;Add-ons:
-Add-ons:
+Doplňky:
 
 
 ;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
@@ -160,7 +160,7 @@ Customize your Web browser just the way you like it with add-ons including Ad-Bl
 
 
 ;Speed:
-Speed:
+Rychlost:
 
 
 ;Get to the Internet faster, with quick startup and page load times.
@@ -168,7 +168,7 @@ Get to the Internet faster, with quick startup and page load times.
 
 
 ;Accessibility:
-Accessibility:
+Přístupnost:
 
 
 ;Over 59 supported languages can be easily selected through the browser settings.
@@ -176,7 +176,7 @@ Over 59 supported languages can be easily selected through the browser settings.
 
 
 ;HTML5:
-HTML5:
+HTML5: {ok}
 
 
 ;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
@@ -184,7 +184,7 @@ Experience the unlimited possibilities of the Internet on mobile with support fo
 
 
 ;Mobile Video:
-Mobile Video:
+Mobilní video:
 
 
 ;Firefox for Android has mobile video support for a wide range of video formats, including h.264.
@@ -200,7 +200,7 @@ For a complete list of features, check out {{features_link}}
 
 
 ;Learn more about Firefox for Android:
-Learn more about Firefox for Android:
+Zjistěte více o Firefoxu pro Android:
 
 
 ;Have questions or need help? Visit {{support_link}}
@@ -219,12 +219,12 @@ Learn more about what’s up at Mozilla: {{blog_link}}
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+Olajkujte Firefox na Facebooku: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Sledujte Firefox na Twitteru: {{twitter_link}}
 
 
 ;Curious about add-ons? Check them out on {{amo_link}} :
@@ -232,7 +232,7 @@ Curious about add-ons? Check them out on {{amo_link}} :
 
 
 ;Browsing:
-Browsing:
+Prohlížení:
 
 
 ;Adblock Plus, AutoPager, Full Screen mobile and more
@@ -240,7 +240,7 @@ Adblock Plus, AutoPager, Full Screen mobile and more
 
 
 ;Security:
-Security:
+Bezpečnost:
 
 
 ;LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
@@ -248,7 +248,7 @@ LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
 
 
 ;Reading:
-Reading:
+Čtení:
 
 
 ;AutoPager, X-Notifier lite and more
@@ -256,7 +256,7 @@ AutoPager, X-Notifier lite and more
 
 
 ;Watching:
-Watching:
+Sledování obsahu:
 
 
 ;Low Quality Flash, ProxTube and more
@@ -264,7 +264,7 @@ Low Quality Flash, ProxTube and more
 
 
 ;Social Networks:
-Social Networks:
+Sociální sítě:
 
 
 ;Shareaholic, Foursquare and more
@@ -272,7 +272,7 @@ Shareaholic, Foursquare and more
 
 
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+O MOZILLE
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
@@ -288,6 +288,6 @@ When you use Firefox, you become a part of that community, helping us build a br
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+Zjistěte více na {{mozilla_org_link}}.
 
 
