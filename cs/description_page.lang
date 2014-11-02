@@ -52,7 +52,7 @@ Režim čtení
 
 
 ;Clear website clutter to make articles easier to read.
-Clear website clutter to make articles easier to read.
+Vyčistí na stránce nechtěný obsah a články tak budou mnohem lépe čitelné.
 
 
 # Key feature title
@@ -84,7 +84,7 @@ Změňte jazyk svého prohlížeče rychle a snadno.
 
 # Key feature title
 ;Send to Device
-Send to Device
+Odeslat do zařízení
 
 
 ;Stream video content from your device to your TV.
@@ -140,7 +140,7 @@ Přizpůsobitelné domovské panely:
 
 
 ;Customize and display your Home panels however you like. Add new Web content any time and access your favorite feeds — like Instagram and Pocket Hits — instantly.
-Customize and display your Home panels however you like. Add new Web content any time and access your favorite feeds — like Instagram and Pocket Hits — instantly.
+Přizpůsobte si zobrazení domovských panelů jakkoliv chcete. Přidejte si nový webový obsah kdykoliv chcete a přistupujte ke svým oblíbeným stránkám — jako je Instagram nebo Pocket Hits — okamžitě.
 
 
 ;Sync:
@@ -148,7 +148,7 @@ Synchronizace:
 
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
-Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
+Synchronizujte svůj Firefox s počítačem, své panely, historii, záložky a hesla na všech zařízeních - synchronizujte své prohlížení.
 
 
 ;Add-ons:
@@ -156,7 +156,7 @@ Doplňky:
 
 
 ;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
-Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
+Přizpůsobte si svůj webový prohlížeč jak se vám líbí s doplňky pro blokování reklam, správu hesel a dalšími.
 
 
 ;Speed:
@@ -164,7 +164,7 @@ Rychlost:
 
 
 ;Get to the Internet faster, with quick startup and page load times.
-Get to the Internet faster, with quick startup and page load times.
+Buďte na internetu rychlejší, včetně rychlého spuštění prohlížeče i načtení stránky.
 
 
 ;Accessibility:
@@ -172,7 +172,7 @@ Přístupnost:
 
 
 ;Over 59 supported languages can be easily selected through the browser settings.
-Over 59 supported languages can be easily selected through the browser settings.
+Podporováno je přes 59 jazyků, které můžete vybrat v možnostech nastavení prohlížeče.
 
 
 ;HTML5:
@@ -180,7 +180,7 @@ HTML5: {ok}
 
 
 ;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
-Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
+Zažijte neomezené možnosti internetu na mobilu s podporou pro HTML5 a webové API.
 
 
 ;Mobile Video:
@@ -188,15 +188,15 @@ Mobilní video:
 
 
 ;Firefox for Android has mobile video support for a wide range of video formats, including h.264.
-Firefox for Android has mobile video support for a wide range of video formats, including h.264.
+Firefox pro Android podporuje na mobilu široké množství formátů videa včetně H.264.
 
 
 ;Keep your browsing safe and private. Control your privacy, security and how much data you share on the Web.
-Keep your browsing safe and private. Control your privacy, security and how much data you share on the Web.
+Ohlídejte si svůj prohlížeč v bezpečí a data v soukromí. Mějte kontrolu nad svým soukromím a množstvím sdílení dat na webu.
 
 
 ;For a complete list of features, check out {{features_link}}
-For a complete list of features, check out {{features_link}}
+Pro seznam všech funkcí si přečtěte {{features_link}}
 
 
 ;Learn more about Firefox for Android:
@@ -204,17 +204,17 @@ Zjistěte více o Firefoxu pro Android:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+Máte otázku nebo potřebujete pomoci? Navštivte {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+Přečtěte si o právech prohlížeče Firefox: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+Zjistěte co je nového v Mozille: {{blog_link}}
 
 
 # Bulleted list item
@@ -228,7 +228,7 @@ Sledujte Firefox na Twitteru: {{twitter_link}}
 
 
 ;Curious about add-ons? Check them out on {{amo_link}} :
-Curious about add-ons? Check them out on {{amo_link}} :
+Zajímají vás doplňky? Vyzkoušejte je na {{amo_link}} :
 
 
 ;Browsing:
@@ -236,7 +236,7 @@ Prohlížení:
 
 
 ;Adblock Plus, AutoPager, Full Screen mobile and more
-Adblock Plus, AutoPager, Full Screen mobile and more
+Adblock Plus, AutoPager, Full Screen mobile a další
 
 
 ;Security:
@@ -244,7 +244,7 @@ Bezpečnost:
 
 
 ;LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
-LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
+LastPass Password Manager, NoScript, Dr. Web LinkChecker a další
 
 
 ;Reading:
@@ -252,7 +252,7 @@ LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
 
 
 ;AutoPager, X-Notifier lite and more
-AutoPager, X-Notifier lite and more
+AutoPager, X-Notifier lite a další
 
 
 ;Watching:
@@ -260,7 +260,7 @@ Sledování obsahu:
 
 
 ;Low Quality Flash, ProxTube and more
-Low Quality Flash, ProxTube and more
+Low Quality Flash, ProxTube a další
 
 
 ;Social Networks:
@@ -268,7 +268,7 @@ Sociální sítě:
 
 
 ;Shareaholic, Foursquare and more
-Shareaholic, Foursquare and more
+Shareaholic, Foursquare a další
 
 
 ;ABOUT MOZILLA
@@ -276,15 +276,15 @@ O MOZILLE
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla je nezisková organizace zaměřená na udržení síly internetu v rukou běžných lidí.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-We're a global community of users, contributors and developers working to innovate on your behalf.
+Jsme celosvětová komunita uživatelů, přispěvatelů a vývojářů pracujících na inovacích právě pro vás.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+Používáním Firefoxu se stanete členem naší komunity a pomůžete nám zajistit pro web světlejší budoucnost.
 
 
 ;Learn more at {{mozilla_org_link}}.
