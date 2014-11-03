@@ -3,7 +3,7 @@
 
 # Key feature title
 ;Sync
-Sync
+Sync {ok}
 
 
 ;Bring your passwords, bookmarks, open tabs and more everywhere you go.
@@ -21,7 +21,7 @@ Personaliza los paneles de Inicio con los contenidos web que quieras.
 
 # Key feature title
 ;Quick Share
-Quick Share
+Quick Share {ok}
 
 
 ;The most adaptive way to share anything.
@@ -144,7 +144,7 @@ Personaliza los paneles de Inicio con los contenidos web que quieras y accede a 
 
 
 ;Sync:
-Sync:
+Sync: {ok}
 
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
@@ -176,7 +176,7 @@ A través de los ajustes del navegador se puede configurar fácilmente la compat
 
 
 ;HTML5:
-HTML5:
+HTML5: {ok}
 
 
 ;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
