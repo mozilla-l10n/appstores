@@ -93,7 +93,7 @@
 
 # Slogan
 ;We make it Firefox. You make it your own.
-Ми робимо його Firefox. Ви робите його своїм.
+Ми створюємо Firefox. Ви робите його своїм.
 
 
 ;Meet our most customizable Android browser yet.
@@ -119,80 +119,80 @@
 
 
 ;Share and search just how you like, and keep your favorite Web content a tap away with our most customizable and intuitive features yet.
-Share and search just how you like, and keep your favorite Web content a tap away with our most customizable and intuitive features yet.
+Шукайте та діліться вмістом так, як вам подобається, а також зберігайте свій улюблений веб-вміст на відстані дотику з нашими набільш пристосованими та інтуїтивними функціями.
 
 
 # Title
 ;SAFE.
-ЗЕЗПЕЧНИЙ.
+БЕЗПЕЧНИЙ.
 
 
 ;Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
-Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
+Будьте певні, що ваш перегляд залишається безпечним та приватним, дякуючи широким можливостям налаштування, додаткам і таким функціям захисту від стеження.
 
 
 ;Key Features:
-Key Features:
+Основні можливості:
 
 
 ;Customizable Home Panels:
-Customizable Home Panels:
+Пристосовувані домашні панелі:
 
 
 ;Customize and display your Home panels however you like. Add new Web content any time and access your favorite feeds — like Instagram and Pocket Hits — instantly.
-Customize and display your Home panels however you like. Add new Web content any time and access your favorite feeds — like Instagram and Pocket Hits — instantly.
+Пристосовуйте та відображуйте свої домашні панелі на свій смак. Будь-коли додавайте новий вміст. Миттєво отримуйте доступ до улюблених каналів, таких як Instagram і Pocket Hits.
 
 
 ;Sync:
-Sync:
+Синхронізація:
 
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
-Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
+Синхронізуйте вкладки, історію, закладки та паролі Firefox з усіма своїми пристроями та спростіть свій веб-перегляд.
 
 
 ;Add-ons:
-Add-ons:
+Додатки:
 
 
 ;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
-Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
+Пристосовуйте свій браузер на свій смак за допомогою додатків, таких як Ad-Blocker, Password Manager та інших.
 
 
 ;Speed:
-Speed:
+Швидкість:
 
 
 ;Get to the Internet faster, with quick startup and page load times.
-Get to the Internet faster, with quick startup and page load times.
+Виходьте в Інтернет швидше, дякуючи швидкому запуску та завантаженню сторінок.
 
 
 ;Accessibility:
-Accessibility:
+Доступність:
 
 
 ;Over 59 supported languages can be easily selected through the browser settings.
-Over 59 supported languages can be easily selected through the browser settings.
+Підтримка понад 59 мов, які можна легко вибрати через налаштування браузера.
 
 
 ;HTML5:
-HTML5:
+HTML5: {ok}
 
 
 ;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
-Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
+Відчуйте необмежені можливості Інтернету на мобільному телефоні, завдяки підтримці HTML5 та Web API.
 
 
 ;Mobile Video:
-Mobile Video:
+Мобільне відео:
 
 
 ;Firefox for Android has mobile video support for a wide range of video formats, including h.264.
-Firefox for Android has mobile video support for a wide range of video formats, including h.264.
+Firefox для Android підтримує велику кількість форматів мобільного відео, включаючи h.264.
 
 
 ;Keep your browsing safe and private. Control your privacy, security and how much data you share on the Web.
-Keep your browsing safe and private. Control your privacy, security and how much data you share on the Web.
+Зробіть свій перегляд безпечним і приватним. Контролюйте свою приватність, безпеку та дані, якими ви ділитесь в Інтернеті.
 
 
 ;For a complete list of features, check out {{features_link}}
@@ -219,7 +219,7 @@ Keep your browsing safe and private. Control your privacy, security and how much
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+Лайк Firefox на Facebook: {{facebook_link}}
 
 
 # Bulleted list item
@@ -228,11 +228,11 @@ Like Firefox on Facebook: {{facebook_link}}
 
 
 ;Curious about add-ons? Check them out on {{amo_link}} :
-Curious about add-ons? Check them out on {{amo_link}} :
+Цікавитесь додатками? Гляньте на них на {{amo_link}} :
 
 
 ;Browsing:
-Browsing:
+Веб-перегляд:
 
 
 ;Adblock Plus, AutoPager, Full Screen mobile and more
@@ -256,11 +256,11 @@ AutoPager, X-Notifier lite та інше
 
 
 ;Watching:
-Watching:
+Перегляд:
 
 
 ;Low Quality Flash, ProxTube and more
-Low Quality Flash, ProxTube and more
+Low Quality Flash, ProxTube та інше
 
 
 ;Social Networks:
@@ -276,11 +276,11 @@ Shareaholic, Foursquare та інші
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla з гордістю неприбуткова організація, яка віддана збереженню можливостей Інтернету в руках людей.
+Mozilla являється неприбутковою організацією, яка віддана збереженню влади над Інтернетом в руках людей.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-Ми всесвітня спільнота користувачів, помічників та розробників, які працюють над інноваціями від вашого імені.
+Ми являємось всесвітньою спільнотою користувачів, помічників та розробників, які працюють над інноваціями від вашого імені.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
