@@ -3,11 +3,11 @@
 
 # Key feature title
 ;Sync
-Sinhroniziraj
+Sinhronizacija
 
 
 ;Bring your passwords, bookmarks, open tabs and more everywhere you go.
-Ponesite gesla, zaznamke, odprte zavihke in še več, kamorkoli greste.
+Ponesite gesla, zaznamke, odprte zavihke in še več kamorkoli greste.
 
 
 # Key feature title
@@ -21,7 +21,7 @@ Prilagodite si vaše domače plošče s spletnimi stranmi po vaši želji.
 
 # Key feature title
 ;Quick Share
-Quick Share {ok}
+Hitro deljenje
 
 
 ;The most adaptive way to share anything.
@@ -61,21 +61,21 @@ Domače plošče
 
 
 ;Display your Home panels in any order you like.
-Prikažite vaše domače plošče v kakršnem koli vrstnem redu želite.
+Prikažite vaše domače plošče v kakršnemkoli vrstnem redu želite.
 
 
 # Key feature title
 ;Custom Search
-Iskalnik po želji
+Iskanje po meri
 
 
 ;Add any search engine and make it your default.
-Dodajte kakršen koli spletni iskalnik in ga nastavite za privzetega.
+Dodajte poljuben iskalnik in ga nastavite kot privzetega.
 
 
 # Key feature title
 ;Language Display
-Prikazni jezik
+Prikaz jezikov
 
 
 ;Change your browser language quickly and easily.
@@ -84,11 +84,11 @@ Spremenite vaš jezik brskalnika hitro in preprosto.
 
 # Key feature title
 ;Send to Device
-Pošlji v napravo
+Pošlji na napravo
 
 
 ;Stream video content from your device to your TV.
-Prenesite video vsebino z vaše naprave na televizijo.
+Prenesite video vsebino z vaše naprave na TV.
 
 
 # Slogan
@@ -106,7 +106,7 @@ Hitro, pametno in preprosto - uradni Mozillin brskalnik Firefox za Android ponuj
 
 # Title
 ;FAST.
-HITRO.
+HITER.
 
 
 ;Access, browse and search the Web at blazing speeds.
@@ -115,7 +115,7 @@ Dostopajte, brskajte in iščite po spletu z neverjetno hitrostjo.
 
 # Title
 ;SMART.
-PAMETNO.
+PAMETEN.
 
 
 ;Share and search just how you like, and keep your favorite Web content a tap away with our most customizable and intuitive features yet.
@@ -124,15 +124,15 @@ Delite in brskajte, kakor želite in ohranite vaše priljubljene spletne vsebine
 
 # Title
 ;SAFE.
-VARNO.
+VAREN.
 
 
 ;Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
-Prepričajte se, da je vaše brskanje varno in zasebno z naprednimi varnostnimi nastavitvami, dodatki in možnostmi, kot na primer ne sledi.
+Prepričajte se, da je vaše brskanje varno in zasebno z naprednimi varnostnimi nastavitvami, dodatki in možnostmi, kot na primer brez sledenja.
 
 
 ;Key Features:
-Glavne možnosti:
+Glavne zmogljivosti:
 
 
 ;Customizable Home Panels:
@@ -144,7 +144,7 @@ Organizirajte vaše domače plošče po vaši želji. Dodajte nove spletne vsebi
 
 
 ;Sync:
-Sinhronizirajte:
+Sinhronizacija:
 
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
@@ -156,7 +156,7 @@ Dodatki:
 
 
 ;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
-Prilagodite vaš spletni brskalnik, kakorkoli želite z dodatki, kot so Ad-Blocker, Password Manager in več.
+Prilagodite vaš spletni brskalnik po svojem okusu z dodatki, kot so Ad-Blocker, Password Manager in drugi.
 
 
 ;Speed:
@@ -164,7 +164,7 @@ Hitrost:
 
 
 ;Get to the Internet faster, with quick startup and page load times.
-Pridite do spleta hitreje s hitrim zagonom in manjšo obremenitvijo strani.
+Dostopite do spleta hitreje s hitrim zagonom in manjšo obremenitvijo strani.
 
 
 ;Accessibility:
@@ -172,7 +172,7 @@ Dostopnost:
 
 
 ;Over 59 supported languages can be easily selected through the browser settings.
-Za privzeti jezik lahko izbirate med več kot 59-imi jeziki.
+V nastavitvah lahko izbirate med več kot 59 jeziki.
 
 
 ;HTML5:
@@ -180,7 +180,7 @@ HTML5: {ok}
 
 
 ;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
-Izkusite neomejene zmožnosti spleta na telefonu s podporo za HTML5 in Web API.
+Izkusite neomejene zmožnosti spleta na telefonu s podporo za HTML5 in Web APIs.
 
 
 ;Mobile Video:
@@ -228,7 +228,7 @@ Sledite Firefoxu na Twitterju: {{twitter_link}}
 
 
 ;Curious about add-ons? Check them out on {{amo_link}} :
-Ste radovedni glede dodatkov? Oglejte si jih na {{amo_link}} :
+Vas zanimajo dodatki? Oglejte si jih na {{amo_link}} :
 
 
 ;Browsing:
@@ -236,7 +236,7 @@ Brskanje:
 
 
 ;Adblock Plus, AutoPager, Full Screen mobile and more
-Adblock Plus, AutoPager, Full Screen mobile in več
+Adblock Plus, AutoPager, Full Screen mobile in drugi
 
 
 ;Security:
@@ -244,7 +244,7 @@ Varnost:
 
 
 ;LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
-LastPass Password Manager, NoScript, Dr. Web LinkChecker in več
+LastPass Password Manager, NoScript, Dr. Web LinkChecker in drugi
 
 
 ;Reading:
@@ -252,23 +252,23 @@ Branje:
 
 
 ;AutoPager, X-Notifier lite and more
-AutoPager, X-Notifier lite in več
+AutoPager, X-Notifier lite in drugi
 
 
 ;Watching:
-Gledanje:
+Video:
 
 
 ;Low Quality Flash, ProxTube and more
-Low Quality Flash, ProxTube in več
+Low Quality Flash, ProxTube in drugi
 
 
 ;Social Networks:
-Socialna omrežja:
+Družbena omrežja:
 
 
 ;Shareaholic, Foursquare and more
-Shareaholic, Foursquare in več
+Shareaholic, Foursquare in drugi
 
 
 ;ABOUT MOZILLA
