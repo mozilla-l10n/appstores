@@ -137,11 +137,11 @@ Assurez-vous de la sécurité et de la confidentialité de votre navigation grâ
 
 
 ;Key Features:
-Fonctionnalités principales&nbsp;:
+Fonctionnalités principales :
 
 
 ;Customizable Home Panels:
-Panneaux personnalisables&nbsp;:
+Panneaux personnalisables :
 
 
 ;Customize and display your Home panels however you like. Add new Web content any time and access your favorite feeds — like Instagram and Pocket Hits — instantly.
@@ -149,7 +149,7 @@ Personnalisez et organisez à votre goût les panneaux de votre écran d'accueil
 
 
 ;Sync:
-Sync&nbsp;:
+Sync :
 
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
@@ -157,7 +157,7 @@ Synchronisez vos onglets, votre historique, vos marque-page et vos mots de passe
 
 
 ;Add-ons:
-Modules complémentaires&nbsp;:
+Modules complémentaires :
 
 
 ;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
@@ -165,7 +165,7 @@ Personnalisez votre navigateur web comme bon vous semble à l'aide des modules c
 
 
 ;Speed:
-Vitesse&nbsp;:
+Vitesse :
 
 
 ;Get to the Internet faster, with quick startup and page load times.
@@ -173,7 +173,7 @@ Naviguez plus vite sur Internet grâce à un démarrage rapide et des temps de c
 
 
 ;Accessibility:
-Accessibilité&nbsp;:
+Accessibilité :
 
 
 ;Over 59 supported languages can be easily selected through the browser settings.
@@ -181,7 +181,7 @@ Plus de 59 langues sont prises en charge et peuvent être sélectionnées très 
 
 
 ;HTML5:
-HTML5&nbsp;:
+HTML5 :
 
 
 ;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
@@ -189,7 +189,7 @@ Découvrez les possibilités infinies de l'Internet mobile avec la prise en char
 
 
 ;Mobile Video:
-Vidéo mobile&nbsp;:
+Vidéo mobile :
 
 
 ;Firefox for Android has mobile video support for a wide range of video formats, including h.264.
@@ -205,39 +205,39 @@ Pour une liste complète des fonctionnalités, consultez {{features_link}}
 
 
 ;Learn more about Firefox for Android:
-Apprenez-en davantage sur Firefox pour Android&nbsp;:
+Apprenez-en davantage sur Firefox pour Android :
 
 
 ;Have questions or need help? Visit {{support_link}}
-Vous avez des questions ou avez besoin d'aide&nbsp;? Visitez {{support_link}}
+Vous avez des questions ou avez besoin d'aide ? Visitez {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-À propos des permissions de Firefox&nbsp;: {{permission_link}}
+À propos des permissions de Firefox : {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Apprenez-en davantage sur ce qu'il se passe chez Mozilla&nbsp;: {{blog_link}}
+Apprenez-en davantage sur ce qu'il se passe chez Mozilla : {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Aimez la page Facebook de Firefox&nbsp;: {{facebook_link}}
+Aimez la page Facebook de Firefox : {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Suivez-nous sur Twitter&nbsp;: {{twitter_link}}
+Suivez-nous sur Twitter : {{twitter_link}}
 
 
 ;Curious about add-ons? Check them out on {{amo_link}} :
-Les modules complémentaires vous intéressent&nbsp;? Rendez-vous sur {{amo_link}} &nbsp;:
+Les modules complémentaires vous intéressent ? Rendez-vous sur {{amo_link}}  :
 
 
 ;Browsing:
-Navigation&nbsp;:
+Navigation :
 
 
 ;Adblock Plus, AutoPager, Full Screen mobile and more
@@ -245,7 +245,7 @@ Adblock Plus, AutoPager, Full Screen mobile et bien plus
 
 
 ;Security:
-Sécurité&nbsp;:
+Sécurité :
 
 
 ;LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
@@ -253,7 +253,7 @@ LastPass Password Manager, NoScript, Dr. Web LinkChecker et bien plus
 
 
 ;Reading:
-Lecture&nbsp;:
+Lecture :
 
 
 ;AutoPager, X-Notifier lite and more
@@ -261,7 +261,7 @@ AutoPager, X-Notifier lite et bien plus
 
 
 ;Watching:
-Vidéos&nbsp;:
+Vidéos :
 
 
 ;Low Quality Flash, ProxTube and more
@@ -269,7 +269,7 @@ Low Quality Flash, ProxTube et bien plus
 
 
 ;Social Networks:
-Réseaux sociaux&nbsp;:
+Réseaux sociaux :
 
 
 ;Shareaholic, Foursquare and more
@@ -281,7 +281,7 @@ Shareaholic, Foursquare et bien plus
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla est une organisation à but non lucratif qui contribue à maintenir la puissance du Web entre  les mains de tous.
+Mozilla est une organisation à but non lucratif qui contribue à maintenir la puissance du Web entre les mains de tous.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
