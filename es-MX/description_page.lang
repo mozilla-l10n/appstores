@@ -1,4 +1,4 @@
-﻿## NOTE: this is the text used on Google Play to download Firefox Android
+## NOTE: this is the text used on Google Play to download Firefox Android
 
 
 # This is the short tagline for the app on Google Play, beware, there is a hard max limit of 80 characters!
@@ -111,7 +111,7 @@ Rápido, inteligente y seguro, el navegador oficial de Firefox para Android de M
 
 # Title
 ;FAST.
-;RÁPIDO.
+RÁPIDO.
 
 
 ;Access, browse and search the Web at blazing speeds.
@@ -129,7 +129,7 @@ Comparte y busca como más te gusta, y mantén tu contenido web favorito a un so
 
 # Title
 ;SAFE.
-;SEGURO.
+SEGURO.
 
 
 ;Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
@@ -137,7 +137,7 @@ Asegúrate de que tu navegación se mantenga segura y privada con nuestra amplia
 
 
 ;Key Features:
-;Características clave
+Características clave
 
 
 ;Customizable Home Panels:
@@ -148,16 +148,16 @@ Paneles de inicio personalizables:
 Personaliza y visualiza tus paneles de inicio como más te gusta. Agrega nuevo contenido web en cualquier momento y accede instantáneamente a tus fuentes favoritas, como Instagram y Pocket Hits.
 
 
-;Sync
-;Sync {ok}
+;Sync:
+Sync: {ok}
 
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
 Sincroniza las etiquetas de tu escritorio de Firefox, el historial, los marcadores y las contraseñas con todos tus dispositivos y simplifica tu navegación.
 
 
-;Add-ons
-Complementos
+;Add-ons:
+Complementos:
 
 
 ;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
@@ -165,7 +165,7 @@ Personaliza tu navegador web como más te gusta con complementos como Ad-Blocker
 
 
 ;Speed:
-;Velocidad:
+Velocidad:
 
 
 ;Get to the Internet faster, with quick startup and page load times.
@@ -223,12 +223,12 @@ Aprende más acerca de lo que está pasando en Mozilla: {{blog_link}}
 
 
 # Bulleted list item
-;Like us on Facebook {{facebook_link}}
+;Like Firefox on Facebook: {{facebook_link}}
 Danos un "Me gusta" en Facebook {{facebook_link}}
 
 
 # Bulleted list item
-;Follow us on Twitter {{twitter_link}}
+;Follow Firefox on Twitter: {{twitter_link}}
 Síguenos en Twitter {{twitter_link}}
 
 
