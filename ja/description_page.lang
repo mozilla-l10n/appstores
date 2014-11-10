@@ -71,7 +71,7 @@
 
 # Key feature title
 ;Custom Search
-独自検索
+カスタム検索
 
 
 ;Add any search engine and make it your default.
@@ -224,7 +224,7 @@ Mozilla の最新情報: {{blog_link}}
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Facebook で Firefox をフォロー: {{facebook_link}}
+Facebook で Firefox にいいね！: {{facebook_link}}
 
 
 # Bulleted list item
@@ -233,7 +233,7 @@ Twitter で Firefox をフォロー: {{twitter_link}}
 
 
 ;Curious about add-ons? Check them out on {{amo_link}} :
-アドオンに興味がありますか？ {{amo_link}} をチェックしてください
+アドオンに興味がありますか？ 以下のものを {{amo_link}} をチェックしてみましょう。
 
 
 ;Browsing:
