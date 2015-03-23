@@ -17,7 +17,7 @@ Sync {ok}
 
 
 ;Bring your passwords, bookmarks, open tabs and more everywhere you go.
-Võta paroolid, järjehoidjad, avatud kaardid ja muu endaga kaasa, kuhu iganes lähed.
+Paroolid, järjehoidjad, avatud kaardid ja muu on sinuga kaasas, kuhu iganes lähed.
 
 
 # Key feature title
@@ -26,7 +26,7 @@ Lisad
 
 
 ;Customize your Home panels with the Web content you want.
-Kohanda avalehe paneele veebisisuga oma soovide järgi.
+Avalehe paneelid on kohandatavad sinu soovidele vastava veebisisuga.
 
 
 # Key feature title
@@ -44,7 +44,7 @@ Privaatne veebilehitsemine
 
 
 ;Browse the Web without any of your history being remembered.
-Sirvi veebi ajalugu salvestamata.
+Veebi sirvimine lehitsemisajalugu salvestamata.
 
 
 # Key feature title
@@ -53,7 +53,7 @@ Külalisseanss
 
 
 ;Share your browser with friends and keep your data private.
-Jaga brauserit sõpradega ja hoia enda andmed privaatsetena.
+Saad brauserit sõpradega jagada ja hoida sealjuures enda andmed privaatsetena.
 
 
 # Key feature title
@@ -62,7 +62,7 @@ Lugeri režiim
 
 
 ;Clear website clutter to make articles easier to read.
-Eemalda veebilehtedelt segav virvarr ning loe artikleid kergemini.
+Eemaldab veebilehtedelt segava virrvarri ning muudab artiklid lihtsamini loetavaks.
 
 
 # Key feature title
@@ -71,7 +71,7 @@ Avalehe paneelid
 
 
 ;Display your Home panels in any order you like.
-Kuva avalehe paneele enda soovitud järjekorras.
+Paneelide järjekord on sinu poolt muudetav.
 
 
 # Key feature title
@@ -80,7 +80,7 @@ Otsingu kohandamine
 
 
 ;Add any search engine and make it your default.
-Lisa mis tahes otsingumootor ning kasuta seda vaikimisi.
+Võid brauserile lisada mis tahes otsingumootori ja seda ka vaikimisi kasutada.
 
 
 # Key feature title
@@ -89,7 +89,7 @@ Keele valik
 
 
 ;Change your browser language quickly and easily.
-Vaheta brauseri keelt kiirelt ja lihtsalt.
+Brauseri keele vahetamine on kiire ja lihtne.
 
 
 # Key feature title
@@ -98,7 +98,7 @@ Seadmesse saatmine
 
 
 ;Stream video content from your device to your TV.
-Saada videot seadmest telerisse.
+Video edastamine sinu seadmest telerisse.
 
 
 # Slogan
@@ -107,11 +107,11 @@ Meie teeme sellest Firefoxi. Sina kujundad selle endale sobivaks.
 
 
 ;Meet our most customizable Android browser yet.
-Tutvu meie kõige kohandatavama Androidi brauseriga.
+Tutvustame sulle meie seni kõige paremini kohandatavat Androidi brauserit.
 
 
 ;Fast, smart and safe, the official Firefox for Android browser from Mozilla offers more ways than ever to make your mobile browsing experience uniquely yours.
-Kiire, nutikas ja turvaline. Ametlik Firefox Androidile Mozillalt pakub varasemast enam viise oma mobiilse veebilehitsemise isikupärastamiseks.
+Kiire, nutika ja turvalisena pakub ametlik Firefox Androidile Mozillalt varasemast enam viise oma mobiilse veebilehitsemise just sulle sobivaks kohandamiseks.
 
 
 # Title
@@ -120,7 +120,7 @@ KIIRE.
 
 
 ;Access, browse and search the Web at blazing speeds.
-Sirvi veebi ja tee otsinguid välkkiirelt.
+Veebi sirvimine ja otsingud on välkkiired.
 
 
 # Title
@@ -129,7 +129,7 @@ NUTIKAS.
 
 
 ;Share and search just how you like, and keep your favorite Web content a tap away with our most customizable and intuitive features yet.
-Jaga ja otsi just nii, nagu sulle meeldib. Sinu lemmik veebisisu on vaid puudutuse kaugusel meie hästi kohandatavate ja intuitiivsete võimaluste abil.
+Jagamine ja otsing toimivad just nii, nagu sulle meeldib. Sinu lemmik veebisisu on vaid puudutuse kaugusel meie hästi kohandatavate ja intuitiivsete võimaluste abil.
 
 
 # Title
@@ -138,7 +138,7 @@ TURVALINE.
 
 
 ;Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
-Kindlusta laialdaste turvaseadete, lisade ja Do Not Track'i abil turvaline ja privaatne veebilehitsemine.
+Veebilehitsemise turvalisus ja privaatsus on laiade võimalustega turvaseadete, lisade ja Do Not Track’i abil kindlustatav.
 
 
 ;Key Features:
@@ -150,7 +150,7 @@ Kohandatavad avalehe paneelid:
 
 
 ;Customize and display your Home panels however you like. Add new Web content any time and access your favorite feeds — like Instagram and Pocket Hits — instantly.
-Kohanda avalehe paneele, kuidas soovid. Lisa uut veebisisu ja pääse oma lemmik uudisvoogude, näiteks Instagrami või Pocketi hittide, juurde kiirelt.
+Avalehe paneelid on sinu soovidele kohandatavad. Uue veebisisu lisamine sinna on võimalik igal hetkel ja pääs oma lemmik uudisvoogude – näiteks Instagrami või Pocketi hittide – juurde on kiire.
 
 
 ;Sync:
@@ -158,7 +158,7 @@ Sync: {ok}
 
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
-Sünkrooni töölaua Firefoxi kaardid, ajalugu ja paroolid kõigisse oma seadmetesse ning lehitse veebi ladusalt.
+Töölaua Firefoxi kaardid, ajaloo ja paroolid saad kõigisse oma seadmetesse sünkroonida ja sellega veebilehitsemise ladusaks muuta.
 
 
 ;Add-ons:
@@ -166,7 +166,7 @@ Lisad:
 
 
 ;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
-Kohanda oma veebilehitsejat reklaamide blokeerija, paroolihalduri ja teiste lisadega nii, nagu soovid.
+Veebilehitseja on reklaamide blokeerija, paroolihalduri ja paljude teiste lisade abil kohandatav selliseks nagu sina soovid.
 
 
 ;Speed:
@@ -174,7 +174,7 @@ Kiirus:
 
 
 ;Get to the Internet faster, with quick startup and page load times.
-Jõua internetini kiiremini lühikese käivitus- ja veebilehtede laadimisajaga.
+Lühikesed käivitus- ja veebilehtede laadimisajad aitavad kiiremini internetis oleva infoni jõuda.
 
 
 ;Accessibility:
@@ -190,7 +190,7 @@ HTML5: {ok}
 
 
 ;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
-Tunneta mobiilse interneti piiramatuid võimalusi koos toega HTML5-le ja veebi API-dele.
+HTML5 toega ning veebi API-dega tunnetad mobiilse interneti piiramatuid võimalusi.
 
 
 ;Mobile Video:
@@ -198,11 +198,11 @@ Mobiilne video:
 
 
 ;Firefox for Android has mobile video support for a wide range of video formats, including h.264.
-Firefox Androidile toetab mobiilset videot mitmetes eri videovormingutes, kaasa arvatud h.264.
+Firefox Androidile toetab mobiilset videot mitmetes eri vormingutes, kaasa arvatud h.264.
 
 
 ;Keep your browsing safe and private. Control your privacy, security and how much data you share on the Web.
-Hoia veebilehitsemine turvalise ja privaatsena. Juhi oma privaatsust, turvalisust ja andmete jagamise mahtu veebis ise.
+Veebilehitsemine on turvaline ja privaatne. Oma privaatsust, turvalisust ja andmete jagamise mahtu kontrollid veebis ise.
 
 
 ;For a complete list of features, check out {{features_link}}
