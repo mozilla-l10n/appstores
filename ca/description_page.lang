@@ -1,12 +1,12 @@
 ## NOTE: this is the text used on Google Play to download Firefox Android
 
 
-# Title of the  App on Google Play
+# Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android
 Firefox per a l'Android
 
 
-# This is the short tagline for the app on Google Play, beware, there is a hard max limit of 80 characters!
+# This is the short tagline for the app on Google Play
 ;Fast. Free. Uniquely yours. Browse the Web your way with Firefox.
 Ràpid, lliure. Totalment vostre. Navegueu el web al vostre aire amb el Firefox.
 
@@ -140,6 +140,7 @@ SEGUR.
 ;Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
 Assegureu-vos que la vostra navegació és segura i roman privada amb els paràmetres ampliats de seguretat, complements i característiques com «No vull ser seguit».
 
+
 ;Key Features:
 Característiques clau::
 
@@ -158,6 +159,7 @@ Sync:{ok}
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
 Sincronitzeu les pestanyes, l'historial de navegació, els preferits i les contrasenyes del Firefox d'escriptori a tots els dispositius i milloreu la vostra navegació.
+
 
 ;Add-ons:
 Complements
@@ -204,7 +206,7 @@ Mantingueu la vostra navegació segura i privada. Controleu la privadesa, segure
 
 
 ;For a complete list of features, check out {{features_link}}
-Per a una llista completa de característiques, visiteu {{features_link}} 
+Per a una llista completa de característiques, visiteu {{features_link}}
 
 
 ;Learn more about Firefox for Android:
@@ -233,6 +235,7 @@ Feu un «Like» a Firefox al Facebook: {{facebook_link}}
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
 Seguiu a Firefox al Twitter: {{twitter_link}}
+
 
 ;Curious about add-ons? Check them out on {{amo_link}} :
 Voleu saber més dels complements? Aneu a {{amo_link}} :

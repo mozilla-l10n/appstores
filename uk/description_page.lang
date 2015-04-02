@@ -1,12 +1,12 @@
 ## NOTE: this is the text used on Google Play to download Firefox Android
 
 
-# Title of the  App on Google Play
+# Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android
 Firefox для Android
 
 
-# This is the short tagline for the app on Google Play, beware, there is a hard max limit of 80 characters!
+# This is the short tagline for the app on Google Play
 ;Fast. Free. Uniquely yours. Browse the Web your way with Firefox.
 Швидкий. Безплатний. Справді ваш. Переглядайте Інтернет з Firefox.
 
@@ -103,11 +103,11 @@ Firefox для Android
 
 # Slogan
 ;We make it Firefox. You make it your own.
-Ми створюємо Firefox. Ви робите його своїм. 
+Ми створюємо Firefox. Ви робите його своїм.
 
 
 ;Meet our most customizable Android browser yet.
-Зустрічайте наш браузер, який найкраще адаптований для Android. 
+Зустрічайте наш браузер, який найкраще адаптований для Android.
 
 
 ;Fast, smart and safe, the official Firefox for Android browser from Mozilla offers more ways than ever to make your mobile browsing experience uniquely yours.
@@ -116,7 +116,7 @@ Firefox для Android
 
 # Title
 ;FAST.
-ШВИДКИЙ. 
+ШВИДКИЙ.
 
 
 ;Access, browse and search the Web at blazing speeds.
@@ -125,7 +125,7 @@ Firefox для Android
 
 # Title
 ;SMART.
-РОЗУМНИЙ. 
+РОЗУМНИЙ.
 
 
 ;Share and search just how you like, and keep your favorite Web content a tap away with our most customizable and intuitive features yet.
@@ -134,7 +134,7 @@ Firefox для Android
 
 # Title
 ;SAFE.
-БЕЗПЕЧНИЙ. 
+БЕЗПЕЧНИЙ.
 
 
 ;Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
@@ -146,7 +146,7 @@ Firefox для Android
 
 
 ;Customizable Home Panels:
-Адаптивні домашні панелі: 
+Адаптивні домашні панелі:
 
 
 ;Customize and display your Home panels however you like. Add new Web content any time and access your favorite feeds — like Instagram and Pocket Hits — instantly.
@@ -154,7 +154,7 @@ Firefox для Android
 
 
 ;Sync:
-Синхронізація: 
+Синхронізація:
 
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
@@ -162,7 +162,7 @@ Firefox для Android
 
 
 ;Add-ons:
-Додатки: 
+Додатки:
 
 
 ;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
@@ -170,7 +170,7 @@ Firefox для Android
 
 
 ;Speed:
-Швидкість: 
+Швидкість:
 
 
 ;Get to the Internet faster, with quick startup and page load times.
@@ -178,14 +178,14 @@ Firefox для Android
 
 
 ;Accessibility:
-Доступність: 
+Доступність:
 
 
 ;Over 59 supported languages can be easily selected through the browser settings.
 Підтримка понад 59 мов, які можна легко вибрати через налаштування браузера.
 
 
-;HTML5: 
+;HTML5:
 HTML5: {ok}
 
 
@@ -194,7 +194,7 @@ HTML5: {ok}
 
 
 ;Mobile Video:
-Мобільне відео: 
+Мобільне відео:
 
 
 ;Firefox for Android has mobile video support for a wide range of video formats, including h.264.
@@ -242,7 +242,7 @@ Firefox для Android підтримує велику кількість фор
 
 
 ;Browsing:
-Веб-перегляд: 
+Веб-перегляд:
 
 
 ;Adblock Plus, AutoPager, Full Screen mobile and more
@@ -250,7 +250,7 @@ Adblock Plus, AutoPager, Full Screen mobile та інше
 
 
 ;Security:
-Безпека: 
+Безпека:
 
 
 ;LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
@@ -258,7 +258,7 @@ LastPass Password Manager, NoScript, Dr. Web LinkChecker та інше
 
 
 ;Reading:
-Читання: 
+Читання:
 
 
 ;AutoPager, X-Notifier lite and more
@@ -266,7 +266,7 @@ AutoPager, X-Notifier lite та інше
 
 
 ;Watching:
-Перегляд: 
+Перегляд:
 
 
 ;Low Quality Flash, ProxTube and more
@@ -274,7 +274,7 @@ Low Quality Flash, ProxTube та інше
 
 
 ;Social Networks:
-Соціальні мережі: 
+Соціальні мережі:
 
 
 ;Shareaholic, Foursquare and more
@@ -286,15 +286,15 @@ Shareaholic, Foursquare та інші
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla є неприбутковою організацією, яка віддана збереженню влади над Інтернетом в руках людей. 
+Mozilla є неприбутковою організацією, яка віддана збереженню влади над Інтернетом в руках людей.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-Ми є всесвітньою спільнотою користувачів, помічників та розробників, які працюють над інноваціями від вашого імені. 
+Ми є всесвітньою спільнотою користувачів, помічників та розробників, які працюють над інноваціями від вашого імені.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-Коли ви використовуєте Firefox, ви стаєте частиною спільноти, допомагаючи нам будувати світліше майбутнє Інтернету. 
+Коли ви використовуєте Firefox, ви стаєте частиною спільноти, допомагаючи нам будувати світліше майбутнє Інтернету.
 
 
 ;Learn more at {{mozilla_org_link}}.
