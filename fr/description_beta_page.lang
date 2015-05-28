@@ -1,0 +1,303 @@
+## NOTE: this is the text used on Google Play to download Firefox Android
+
+
+# Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
+;Firefox Beta for Android
+Firefox Beta pour Android
+
+
+# This is the short tagline for the app on Google Play
+;Fast. Free. Uniquely yours. Browse the Web your way with Firefox.
+Rapide. Gratuit. Personnalisable. Naviguez à votre manière avec Firefox.
+
+
+# Key feature title
+;Sync
+Sync {ok}
+
+
+;Bring your passwords, bookmarks, open tabs and more everywhere you go.
+Emportez vos mots de passe, marque-pages, onglets ouverts et bien plus, où que vous alliez.
+
+
+# Key feature title
+;Add-ons
+Modules complémentaires
+
+
+;Customize your Home panels with the Web content you want.
+Personnalisez les panneaux de votre écran d'accueil avec le contenu web que vous souhaitez.
+
+
+# Key feature title
+;Quick Share
+Partage intelligent
+
+
+;The most adaptive way to share anything.
+La façon la plus adaptée de partager du contenu.
+
+
+# Key feature title
+;Private Browsing
+Navigation privée
+
+
+;Browse the Web without any of your history being remembered.
+Naviguez sur le Web sans que votre historique ne soit enregistré.
+
+
+# Key feature title
+;Guest Browsing
+Navigation invité
+
+
+;Share your browser with friends and keep your data private.
+Partagez votre navigateur avec vos amis et gardez vos données privées.
+
+
+# Key feature title
+;Reader Mode
+Mode lecture
+
+
+;Clear website clutter to make articles easier to read.
+Retirez le superflu des sites pour rendre les articles plus faciles à lire.
+
+
+# Key feature title
+;Home Panels
+Panneaux de l'écran d'accueil
+
+
+;Display your Home panels in any order you like.
+Agencez à votre convenance les panneaux de votre écran d'accueil.
+
+
+# Key feature title
+;Custom Search
+Moteurs de recherche personnalisés
+
+
+;Add any search engine and make it your default.
+Ajoutez tous ceux que vous voulez et définissez l'un d'eux comme moteur de recherche par défaut.
+
+
+# Key feature title
+;Language Display
+Langue d'affichage
+
+
+;Change your browser language quickly and easily.
+Changez la langue de votre navigateur rapidement et facilement.
+
+
+# Key feature title
+;Send to Device
+Envoyer à l'appareil
+
+
+;Stream video content from your device to your TV.
+Regardez un flux vidéo de votre appareil directement sur votre TV.
+
+
+# Slogan
+;We make it Firefox. You make it your own.
+Nous créons Firefox. C'est vous qui faites le reste.
+
+
+;Meet our most customizable Android browser yet.
+Découvrez notre navigateur Android le plus personnalisable à ce jour.
+
+
+;Fast, smart and safe, the official Firefox for Android browser from Mozilla offers more ways than ever to make your mobile browsing experience uniquely yours.
+Rapide, intelligent et sûr, le navigateur officiel de Mozilla, Firefox pour Android, vous offre plus de possibilités que jamais pour rendre unique votre navigation mobile.
+
+
+# Title
+;FAST.
+RAPIDE.
+
+
+;Access, browse and search the Web at blazing speeds.
+Naviguez et recherchez sur le Web à une vitesse incroyable.
+
+
+# Title
+;SMART.
+INTELLIGENT.
+
+
+;Share and search just how you like, and keep your favorite Web content a tap away with our most customizable and intuitive features yet.
+Partagez et recherchez à votre guise, et conservez vos contenus web préférés à portée de main grâce à nos fonctionnalités intuitives et entièrement personnalisables.
+
+
+# Title
+;SAFE.
+SÛR.
+
+
+;Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
+Assurez-vous de la sécurité et de la confidentialité de votre navigation grâce aux paramètres de sécurité avancés, aux modules complémentaires et aux fonctionnalités comme Ne pas me pister.
+
+
+;Key Features:
+Fonctionnalités principales :
+
+
+;Customizable Home Panels:
+Panneaux personnalisables :
+
+
+;Customize and display your Home panels however you like. Add new Web content any time and access your favorite feeds — like Instagram and Pocket Hits — instantly.
+Personnalisez et organisez à votre goût les panneaux de votre écran d'accueil. Ajoutez de nouveaux contenus web à tout moment et accédez instantanément à vos flux préférés comme par exemple Instagram ou Pocket Hits.
+
+
+;Sync:
+Sync :
+
+
+;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
+Synchronisez vos onglets, votre historique, vos marque-pages et vos mots de passe depuis la version pour ordinateurs de Firefox sur tous les appareils que vous utilisez pour naviguer.
+
+
+;Add-ons:
+Modules complémentaires :
+
+
+;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
+Personnalisez votre navigateur web comme bon vous semble à l'aide des modules complémentaires comme Ad-Blocker, Password Manager, et bien d'autres.
+
+
+;Speed:
+Vitesse :
+
+
+;Get to the Internet faster, with quick startup and page load times.
+Naviguez plus vite sur Internet grâce à un démarrage rapide et des temps de chargement des pages réduits.
+
+
+;Accessibility:
+Accessibilité :
+
+
+;Over 59 supported languages can be easily selected through the browser settings.
+Plus de 59 langues sont prises en charge et peuvent être sélectionnées très facilement depuis les paramètres du navigateur.
+
+
+;HTML5:
+HTML5 :
+
+
+;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
+Découvrez les possibilités infinies de l'Internet mobile avec la prise en charge de HTML5 et des API Web.
+
+
+;Mobile Video:
+Vidéo mobile :
+
+
+;Firefox for Android has mobile video support for a wide range of video formats, including h.264.
+Firefox pour Android prend en charge un large éventail de formats vidéo comme le h.264.
+
+
+;Keep your browsing safe and private. Control your privacy, security and how much data you share on the Web.
+Gardez votre navigation sécurisée et privée. Contrôlez votre vie privée, la sécurité et les données que vous souhaitez partager sur le Web.
+
+
+;For a complete list of features, check out {{features_link}}
+Pour une liste complète des fonctionnalités, consultez {{features_link}}
+
+
+;Learn more about Firefox for Android:
+Apprenez-en davantage sur Firefox pour Android :
+
+
+;Have questions or need help? Visit {{support_link}}
+Vous avez des questions ou avez besoin d'aide ? Visitez {{support_link}}
+
+
+# Bulleted list item
+;Read about Firefox permissions: {{permission_link}}
+À propos des permissions de Firefox : {{permission_link}}
+
+
+# Bulleted list item
+;Learn more about what’s up at Mozilla: {{blog_link}}
+Apprenez-en davantage sur ce qu'il se passe chez Mozilla : {{blog_link}}
+
+
+# Bulleted list item
+;Like Firefox on Facebook: {{facebook_link}}
+Aimez la page Facebook de Firefox : {{facebook_link}}
+
+
+# Bulleted list item
+;Follow Firefox on Twitter: {{twitter_link}}
+Suivez-nous sur Twitter : {{twitter_link}}
+
+
+;Curious about add-ons? Check them out on {{amo_link}} :
+Les modules complémentaires vous intéressent ? Rendez-vous sur {{amo_link}}  :
+
+
+;Browsing:
+Navigation :
+
+
+;Adblock Plus, AutoPager, Full Screen mobile and more
+Adblock Plus, AutoPager, Full Screen mobile et d'autres
+
+
+;Security:
+Sécurité :
+
+
+;LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
+LastPass Password Manager, NoScript, Dr. Web LinkChecker et d'autres
+
+
+;Reading:
+Lecture :
+
+
+;AutoPager, X-Notifier lite and more
+AutoPager, X-Notifier lite et d'autres
+
+
+;Watching:
+Vidéos :
+
+
+;Low Quality Flash, ProxTube and more
+Low Quality Flash, ProxTube et d'autres
+
+
+;Social Networks:
+Réseaux sociaux :
+
+
+;Shareaholic, Foursquare and more
+Shareaholic, Foursquare et d'autres
+
+
+;ABOUT MOZILLA
+À PROPOS DE MOZILLA
+
+
+;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla est une organisation à but non lucratif qui contribue à maintenir la puissance du Web entre les mains de tous.
+
+
+;We're a global community of users, contributors and developers working to innovate on your behalf.
+Nous formons une communauté mondiale d'utilisateurs, de contributeurs et de développeurs qui travaillent ensemble pour innover en votre nom.
+
+
+;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+Lorsque vous utilisez Firefox, vous devenez membre de cette communauté et vous nous aidez à bâtir un meilleur avenir pour le Web.
+
+
+;Learn more at {{mozilla_org_link}}.
+Apprenez-en davantage sur {{mozilla_org_link}}.
+
+
