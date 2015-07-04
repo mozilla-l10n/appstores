@@ -3,7 +3,7 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android
-Firefox for Android {OK}
+Firefox for Android {ok}
 
 
 # This is the short tagline for the app on Google Play
@@ -13,7 +13,7 @@ Firefox for Android {OK}
 
 # Key feature title
 ;Sync
-Sync {OK}
+Sync {ok}
 
 
 ;Bring your passwords, bookmarks, open tabs and more everywhere you go.
@@ -103,7 +103,7 @@ Sync {OK}
 
 # Slogan
 ;We make it Firefox. You make it your own.
-We make it Firefox. You make it your own. {OK}
+We make it Firefox. You make it your own. {ok}
 
 
 ;Meet our most customizable Android browser yet.
@@ -154,7 +154,7 @@ Mozilla 推出的官方版 Firefox for Android 瀏覽器提供您快速、聰明
 
 
 ;Sync:
-Sync: {OK}
+Sync: {ok}
 
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
@@ -186,7 +186,7 @@ Sync: {OK}
 
 
 ;HTML5:
-HTML5: {OK}
+HTML5: {ok}
 
 
 ;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
