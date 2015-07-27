@@ -3,36 +3,36 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox pentru Android Beta
 
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Obține navigatorul oficial Firefox Beta și trimite-ne o părere!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Ajută-ne să șlefuim cele mai noi funcționalități și să le pregătim pentru utilizarea de zi cu zi. Cu Firefox Beta primești ultimul răcnet în materie de performanță, personalizare și securitate înainte ca acestea să ajungă în versiunea următoare.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+Contribuie pentru a face ultimele retușuri în materie de funcții și funcționalitate.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Avem nevoie de ajutorul tău pentru a testa dispozitive Intel x86 Atom! Dacă ai un dispozitiv Intel x86 Atom, descarcă Firefox Beta și spune-ne o părere.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Ai găsit un defect? Raportează-l la {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Vrei să afli mai multe despre permisiunile cerute de Firefox? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Vezi lista de dispozitive suportate și cerințele minime de sistem la https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
