@@ -3,21 +3,21 @@
 
 # This is the short tagline for the app on Google Play, beware, there is a hard max limit of 80 characters!
 ;Fast. Free. Uniquely yours. Browse the Web your way with Firefox.
-Fast. Free. Uniquely yours. Browse the Web your way with Firefox.
+Ya haraka. Bure. Ya kipekee kwako. Jivinjari kwenye tovuti kwa njia yako na Firefox.
 
 
 # Key feature title
 ;Sync
-Sync
+Sawazisha
 
 
 ;Bring your passwords, bookmarks, open tabs and more everywhere you go.
-Bring your passwords, bookmarks, open tabs and more everywhere you go.
+Leta nywila yako, bookmarks, tabo wazi na zaidi kila unapoenda.
 
 
 # Key feature title
 ;Add-ons
-Add-ons
+Programu saidizi
 
 
 ;Customize your Home panels with the Web content you want.
@@ -26,16 +26,16 @@ Customize your Home panels with the Web content you want.
 
 # Key feature title
 ;Quick Share
-Quick Share
+Shiriki kwa haraka
 
 
 ;The most adaptive way to share anything.
-The most adaptive way to share anything.
+Njia ya utohozi ili kushiriki chochote.
 
 
 # Key feature title
 ;Private Browsing
-Private Browsing
+Kuvinjari ta kibinafsi
 
 
 ;Browse the Web without any of your history being remembered.
@@ -53,43 +53,43 @@ Share your browser with friends and keep your data private.
 
 # Key feature title
 ;Reader Mode
-Reader Mode
+Modi ya msomaji
 
 
 ;Clear website clutter to make articles easier to read.
-Clear website clutter to make articles easier to read.
+Ondoa kujifinya kwa tovuti kufanya makala rahisi kusoma.
 
 
 # Key feature title
 ;Home Panels
-Home Panels
+Paneli za nyumbani
 
 
 ;Display your Home panels in any order you like.
-Display your Home panels in any order you like.
+Onyesha ukurasa wako wa paneli ya Kwanza unavyopenda.
 
 
 # Key feature title
 ;Custom Search
-Custom Search
+Utafutaji Maalum
 
 
 ;Add any search engine and make it your default.
-Add any search engine and make it your default.
+Ongeza injini yoyote ya utafutaji na kuifanya kuwa ya chaguo-msingi.
 
 
 # Key feature title
 ;Language Display
-Language Display
+Maonyesho ya Lugha
 
 
 ;Change your browser language quickly and easily.
-Change your browser language quickly and easily.
+Badilisha lugha ya kisakuzi chako haraka na kwa urahisi.
 
 
 # Key feature title
 ;Send to Device
-Send to Device
+Tuma kwa kifaa
 
 
 ;Stream video content from your device to your TV.
@@ -111,16 +111,16 @@ Fast, smart and safe, the official Firefox for Android browser from Mozilla offe
 
 # Title
 ;FAST.
-FAST.
+FAST. {ok}
 
 
 ;Access, browse and search the Web at blazing speeds.
-Access, browse and search the Web at blazing speeds.
+Fikia, Jivinjari na kutafuta Web kwa kasi kali.
 
 
 # Title
 ;SMART.
-SMART.
+SMART. {ok}
 
 
 ;Share and search just how you like, and keep your favorite Web content a tap away with our most customizable and intuitive features yet.
@@ -129,7 +129,7 @@ Share and search just how you like, and keep your favorite Web content a tap awa
 
 # Title
 ;SAFE.
-SAFE.
+SAFE. {ok}
 
 
 ;Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
@@ -137,7 +137,7 @@ Make sure your browsing stays safe and private with extensive security settings,
 
 
 ;Key Features:
-Key Features:
+Sifa muhimu:
 
 
 ;Customizable Home Panels:
@@ -149,7 +149,7 @@ Customize and display your Home panels however you like. Add new Web content any
 
 
 ;Sync:
-Sync:
+Sawazisha:
 
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
@@ -157,7 +157,7 @@ Sync your Firefox desktop tabs, history, bookmarks and passwords to all your dev
 
 
 ;Add-ons:
-Add-ons:
+Programu saidizi:
 
 
 ;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
@@ -165,7 +165,7 @@ Customize your Web browser just the way you like it with add-ons including Ad-Bl
 
 
 ;Speed:
-Speed:
+Kasi:
 
 
 ;Get to the Internet faster, with quick startup and page load times.
@@ -173,15 +173,15 @@ Get to the Internet faster, with quick startup and page load times.
 
 
 ;Accessibility:
-Accessibility:
+Upatikanaji:
 
 
 ;Over 59 supported languages can be easily selected through the browser settings.
-Over 59 supported languages can be easily selected through the browser settings.
+Zaidi ya lugha 59 zinazotumika zinaweza kwa urahisi kuchaguliwa kupitia mazingira ya browser.
 
 
 ;HTML5:
-HTML5:
+HTML5: {ok}
 
 
 ;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
@@ -237,39 +237,39 @@ Curious about add-ons? Check them out on {{amo_link}} :
 
 
 ;Browsing:
-Browsing:
+Kujuvinjari:
 
 
 ;Adblock Plus, AutoPager, Full Screen mobile and more
-Adblock Plus, AutoPager, Full Screen mobile and more
+Adblock Plus, AutoPager, skirini kamili ya simu ya mkono na zaidi
 
 
 ;Security:
-Security:
+Usalama:
 
 
 ;LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
-LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
+LastPass Kidhibiti cha Manenosiri, NoScript, Dk Web LinkChecker na zaidi
 
 
 ;Reading:
-Reading:
+Unayosoma:
 
 
 ;AutoPager, X-Notifier lite and more
-AutoPager, X-Notifier lite and more
+AutoPager, X-Notifier lite na zaidi
 
 
 ;Watching:
-Watching:
+Unayoangalia:
 
 
 ;Low Quality Flash, ProxTube and more
-Low Quality Flash, ProxTube and more
+Kiwango cha chini cha Flash, ProxTube na zaidi
 
 
 ;Social Networks:
-Social Networks:
+Mitandao ya Kijamii:
 
 
 ;Shareaholic, Foursquare and more
@@ -277,7 +277,7 @@ Shareaholic, Foursquare and more
 
 
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+KUHUSU MOZILLA
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
