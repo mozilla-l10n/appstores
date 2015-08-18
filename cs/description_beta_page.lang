@@ -3,12 +3,12 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox pro Android Beta
 
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Získejte zdarma oficiální betaverzi prohlížeče Firefox a pošlete nám zpětnou vazbu!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
@@ -20,19 +20,19 @@ Have an impact by helping to put the finishing touches on features and functiona
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Potřebujeme pomoci s testováním na zařízeních s procesory Intel x86 Atom! Pokud máte takové zařízení, stáhněte si prosím Firefox Beta a napište nám, jak funguje.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Našli jste chybu? Nahlaste ji na {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Chcete se dozvěte více o oprávněních potřebných pro aplikaci Firefox? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Podívejte se na seznam podporovaných zařízení a minimální systémové požadavky na adrese https://www.mozilla.org/firefox/mobile/platforms/.
 
 
 # TITLE
