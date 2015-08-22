@@ -62,7 +62,7 @@ Mod citire
 
 
 ;Clear website clutter to make articles easier to read.
-Șterge dezordinea de pe sait pentru a face articolele mai ușor de citit.
+Curăță dezordinea de pe site-uri pentru a face articolele mai ușor de citit.
 
 
 # Key feature title
@@ -71,7 +71,7 @@ Panouri principale
 
 
 ;Display your Home panels in any order you like.
-Afișează panourile principale în orice ordine dorită.
+Afișează panourile principale în orice ordine pe care o dorești.
 
 
 # Key feature title
@@ -89,7 +89,7 @@ Limba de afișare
 
 
 ;Change your browser language quickly and easily.
-Schimbă limba navigatorului rapid și ușor.
+Schimbă limba browserului rapid și ușor.
 
 
 # Key feature title
@@ -111,7 +111,7 @@ Fă cunoștință cu cel mai personalizabil Firefox pentru Android de până acu
 
 
 ;Fast, smart and safe, the official Firefox for Android browser from Mozilla offers more ways than ever to make your mobile browsing experience uniquely yours.
-Rapid, inteligent și sigur, navigatorul oficial Firefox pentru Android de la Mozilla oferă mai multe modalitați ca oricând pentru a-ți crea experiența mobilă unică de navigare.
+Rapid, inteligent și sigur, browserul oficial Firefox pentru Android de la Mozilla oferă mai multe modalitați ca oricând pentru a-ți crea experiența mobilă unică de navigare.
 
 
 # Title
@@ -120,7 +120,7 @@ RAPID.
 
 
 ;Access, browse and search the Web at blazing speeds.
-Accesează, navighează și caută pe net la viteze uimitoare.
+Accesează, navighează și caută pe web la viteze uimitoare.
 
 
 # Title
@@ -166,7 +166,7 @@ Suplimente:
 
 
 ;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
-Personalizează navigatorul în felul în care îți place cu suplimente ca Ad-Blocker și multe altele.
+Personalizează browserul în felul în care îți place cu suplimente ca Ad-Blocker, Password Manager și multe altele.
 
 
 ;Speed:
@@ -182,7 +182,7 @@ Accesibilitate:
 
 
 ;Over 59 supported languages can be easily selected through the browser settings.
-Peste 59 de limbi suportate pot fi selectate cu ușurință din setările navigatorului.
+Peste 59 de limbi suportate pot fi selectate cu ușurință din setările browserului.
 
 
 ;HTML5:
@@ -202,11 +202,11 @@ Firefox pentru Android suportă o gamă largă de formate video, inclusiv h.264.
 
 
 ;Keep your browsing safe and private. Control your privacy, security and how much data you share on the Web.
-Păstrează navigarea sigură și privată. Controlează confidențialitatea, securitatea și datele împărtășite pe Web.
+Păstrează navigarea sigură și privată. Controlează confidențialitatea, securitatea și datele împărtășite pe web.
 
 
 ;For a complete list of features, check out {{features_link}}
-Pentru o listă completă de funcții, vizitează {{features_link}}
+Pentru o listă completă a funcțiilor, vizitează {{features_link}}
 
 
 ;Learn more about Firefox for Android:
@@ -286,7 +286,7 @@ DESPRE MOZILLA
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla este o organizație nonprofit mândră, dedicată menținerii puterii Web-ului în mâinile oamenilor.
+Mozilla este o organizație nonprofit mândră, dedicată păstrării puterii Web-ului în mâinile oamenilor.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
@@ -294,7 +294,7 @@ Suntem o comunitate globală de utilizatori, contribuitori și dezvoltatori care
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-Când folosești Firefox devii o parte a acelei comunități, ajutându-ne să clădim un viitor mai bun pentru Web.
+Când folosești Firefox, devii o parte a acelei comunități, ajutându-ne să clădim un viitor mai luminos pentru web.
 
 
 ;Learn more at {{mozilla_org_link}}.
