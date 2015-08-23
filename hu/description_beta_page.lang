@@ -3,36 +3,36 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox for Android Beta  {ok}
 
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Telepítse az ingyenes Firefox Beta böngészőt és ossza meg velünk véleményét!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Segítsen – még a premier előtt – a legújabb funkciók tökéletesítésében. A Firefox Beta használatvával kipróbálhatja a legújabb teljesítmény, testreszabási, biztonsági fejlesztéseket, mielőtt az új végleges verzióban megjelenne.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+Legyen hatással a szolgáltatásokon és funkciókon végzett utolsó simításokra.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Segítse teszteléssel az Intel x86 Atom alapú eszközöknél! Ha rendelkezik Intel x86 Atom alapú rendszerrel, töltse le a Firefox Beta és mondja el véleményét.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Hibát talál? Jelentse be itt: {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Szeretne többet megtudni a Firefox engedélykéréseiről? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Tekintse meg a támogatott eszközök listáját és a minimális rendszerkövetelményeket: https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
