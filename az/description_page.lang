@@ -1,0 +1,304 @@
+## NOTE: this is the text used on Google Play to download Firefox Android
+
+
+# Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
+## MAX_LENGTH: 30
+;Firefox for Android
+Android üçün Firefox
+
+
+# This is the short tagline for the app on Google Play
+;Fast. Free. Uniquely yours. Browse the Web your way with Firefox.
+Sürətli. Pulsuz. Sizə unikal. İnterneti Firefox ilə öz zövqünüzcə gəzin.
+
+
+# Key feature title
+;Sync
+Sinxronlaşdırma
+
+
+;Bring your passwords, bookmarks, open tabs and more everywhere you go.
+Getdiyiniz hər yerə parol, əlfəcin, açıq vərəq və daha bir çox məlumatlarınızı özünüzlə götürün.
+
+
+# Key feature title
+;Add-ons
+Əlavələr
+
+
+;Customize your Home panels with the Web content you want.
+Ana panellərinizi istədiyiniz Web məzmunla fərdiləşdirin.
+
+
+# Key feature title
+;Quick Share
+Sürətli Paylaşma
+
+
+;The most adaptive way to share anything.
+Hər şeyi paylaşmağın ən adaptiv yolu.
+
+
+# Key feature title
+;Private Browsing
+Məxfi Səyahət
+
+
+;Browse the Web without any of your history being remembered.
+Hər hansı bir tarixçə qeydi olmadan internetdə gəzin.
+
+
+# Key feature title
+;Guest Browsing
+Qonaq Səyahəti
+
+
+;Share your browser with friends and keep your data private.
+Səyyahınızı yoldaşlarınızla paylaşın və məlumatlarınızı məxfi tutun.
+
+
+# Key feature title
+;Reader Mode
+Oxuma Rejimi
+
+
+;Clear website clutter to make articles easier to read.
+Saytda lazımsız bölümləri kəsərək məqalələrin oxunmasını rahatlaşdırın.
+
+
+# Key feature title
+;Home Panels
+Ana Panellər
+
+
+;Display your Home panels in any order you like.
+Ana Panellərinizi istədiyiniz sırada düzün.
+
+
+# Key feature title
+;Custom Search
+Fərdi Axtarış
+
+
+;Add any search engine and make it your default.
+İstədiyiniz axtarış mühərrikini əlavə edin və onu əsas seçin.
+
+
+# Key feature title
+;Language Display
+Göstərmə Dili
+
+
+;Change your browser language quickly and easily.
+Səyyahınızın dilini cəld və rahat dəyişin.
+
+
+# Key feature title
+;Send to Device
+Cihaza Göndər
+
+
+;Stream video content from your device to your TV.
+Video məzmunlarınızı cihazınızdan TV-ə yayımlayın.
+
+
+# Slogan
+;We make it Firefox. You make it your own.
+Biz Firefox düzəltdik. Siz onu özünüzkü edin.
+
+
+;Meet our most customizable Android browser yet.
+Ən çox fərdiləşdirilə bilən Android səyyahımızla tanış olun.
+
+
+;Fast, smart and safe, the official Firefox for Android browser from Mozilla offers more ways than ever to make your mobile browsing experience uniquely yours.
+Fast, smart and safe, the official Firefox for Android browser from Mozilla offers more ways than ever to make your mobile browsing experience uniquely yours.
+
+
+# Title
+;FAST.
+SÜRƏTLİ.
+
+
+;Access, browse and search the Web at blazing speeds.
+Access, browse and search the Web at blazing speeds.
+
+
+# Title
+;SMART.
+AĞILLI.
+
+
+;Share and search just how you like, and keep your favorite Web content a tap away with our most customizable and intuitive features yet.
+Share and search just how you like, and keep your favorite Web content a tap away with our most customizable and intuitive features yet.
+
+
+# Title
+;SAFE.
+SAFE.
+
+
+;Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
+Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
+
+
+;Key Features:
+Key Features:
+
+
+;Customizable Home Panels:
+Customizable Home Panels:
+
+
+;Customize and display your Home panels however you like. Add new Web content any time and access your favorite feeds — like Instagram and Pocket Hits — instantly.
+Customize and display your Home panels however you like. Add new Web content any time and access your favorite feeds — like Instagram and Pocket Hits — instantly.
+
+
+;Sync:
+Sync:
+
+
+;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
+Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
+
+
+;Add-ons:
+Add-ons:
+
+
+;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
+Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
+
+
+;Speed:
+Speed:
+
+
+;Get to the Internet faster, with quick startup and page load times.
+Get to the Internet faster, with quick startup and page load times.
+
+
+;Accessibility:
+Accessibility:
+
+
+;Over 59 supported languages can be easily selected through the browser settings.
+Over 59 supported languages can be easily selected through the browser settings.
+
+
+;HTML5:
+HTML5:
+
+
+;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
+Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
+
+
+;Mobile Video:
+Mobile Video:
+
+
+;Firefox for Android has mobile video support for a wide range of video formats, including h.264.
+Firefox for Android has mobile video support for a wide range of video formats, including h.264.
+
+
+;Keep your browsing safe and private. Control your privacy, security and how much data you share on the Web.
+Keep your browsing safe and private. Control your privacy, security and how much data you share on the Web.
+
+
+;For a complete list of features, check out {{features_link}}
+For a complete list of features, check out {{features_link}}
+
+
+;Learn more about Firefox for Android:
+Learn more about Firefox for Android:
+
+
+;Have questions or need help? Visit {{support_link}}
+Have questions or need help? Visit {{support_link}}
+
+
+# Bulleted list item
+;Read about Firefox permissions: {{permission_link}}
+Read about Firefox permissions: {{permission_link}}
+
+
+# Bulleted list item
+;Learn more about what’s up at Mozilla: {{blog_link}}
+Learn more about what’s up at Mozilla: {{blog_link}}
+
+
+# Bulleted list item
+;Like Firefox on Facebook: {{facebook_link}}
+Like Firefox on Facebook: {{facebook_link}}
+
+
+# Bulleted list item
+;Follow Firefox on Twitter: {{twitter_link}}
+Follow Firefox on Twitter: {{twitter_link}}
+
+
+;Curious about add-ons? Check them out on {{amo_link}} :
+Curious about add-ons? Check them out on {{amo_link}} :
+
+
+;Browsing:
+Browsing:
+
+
+;Adblock Plus, AutoPager, Full Screen mobile and more
+Adblock Plus, AutoPager, Full Screen mobile and more
+
+
+;Security:
+Təhlükəsizlik:
+
+
+;LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
+LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
+
+
+;Reading:
+Reading:
+
+
+;AutoPager, X-Notifier lite and more
+AutoPager, X-Notifier lite and more
+
+
+;Watching:
+Watching:
+
+
+;Low Quality Flash, ProxTube and more
+Low Quality Flash, ProxTube and more
+
+
+;Social Networks:
+Sosial Şəbəkələr:
+
+
+;Shareaholic, Foursquare and more
+Shareaholic, Foursquare and more
+
+
+;ABOUT MOZILLA
+MOZILLA HAQQINDA
+
+
+;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+
+
+;We're a global community of users, contributors and developers working to innovate on your behalf.
+We're a global community of users, contributors and developers working to innovate on your behalf.
+
+
+;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+
+
+;Learn more at {{mozilla_org_link}}.
+Ətraflı {{mozilla_org_link}} ünvanından öyrənin.
+
+
