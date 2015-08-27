@@ -3,36 +3,36 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox for Android Beta 測試版
 
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+下載免費的 Firefox 官方 Beta 測試版瀏覽器，並提供您的意見回饋！
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+請幫助我們琢磨準備正式推出的最新功能。透過 Firefox Beta 測試版，您將可以在最新版推出前測試最新版本的效能、自訂性、安全性改進。
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+透過幫忙修正功能來改善我們的產品。
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+我們需要您來幫忙在 Intel x86 Atom 裝置上測試！若您有 Intel x86 Atom 裝置，請下載 Firefox Beta 測試版，並告訴我們您的想法。
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+遇到 bug 了嗎？請到 {{android_bugs}} 回報給我們知道。
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+想知道 Firefox 要這麼多權限都在幹嘛嗎？請參考 {{permission_link}}。
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+請到 https://www.mozilla.org/en-US/firefox/mobile/platforms/ 了解支援裝置清單與最低系統需求。
 
 
 # TITLE
