@@ -3,36 +3,36 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox для Android Beta
 
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Отримайте офіційний, безплатний браузер Firefox Beta і повідомте про своє враження!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Допоможіть покращити і вдосконалити найновіші функції, які майже готові до виходу. З Firefox Beta ви отримуєте можливість тестувати останні вдосконалення швидкодії, пристосування та безпеки перед тим, як вони будуть включені в нашу наступну версію.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+Впливайте на остаточне визначеня елементів функцій та можливостей.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Нам потрібна ваша допомога в тестуванні на пристроях на базі Intel x86 Atom! Якщо ви маєте пристрій на базі Intel x86 Atom, завантажте Firefox Beta і розкажіть нам про своє враження.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Знайшли помилку? Звітуйте про неї на {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Хочете знати більше про запити дозволів Firefox? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Перегляньте наш список підтримуваних пристроїв й останні мінімальні системні вимоги на https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
