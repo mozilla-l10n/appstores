@@ -3,12 +3,12 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox 安卓测试版
 
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+免费从官网获取火狐浏览器测试版并提交反馈吧！
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
@@ -24,7 +24,7 @@ We need your help testing Intel x86 Atom based devices! If you have an Intel x86
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+发现了错误？到 {{android_bugs}} 去反馈吧。
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
@@ -32,12 +32,12 @@ Want to know more about the permissions Firefox requests? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+在此查看我们所支持的设备和最新的最低系统要求：https://www.mozilla.org/zh-CN/firefox/mobile/platforms/ 。
 
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+关于 MOZILLA
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
@@ -53,6 +53,6 @@ When you use Firefox, you become a part of that community, helping us build a br
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+到 {{mozilla_org_link}} 详细了解。
 
 
