@@ -160,7 +160,7 @@ Customize your Web browser just the way you like it with add-ons including Ad-Bl
 
 
 ;Speed:
-Speed:
+வேகம்:
 
 
 ;Get to the Internet faster, with quick startup and page load times.
@@ -172,7 +172,7 @@ Accessibility:
 
 
 ;Over 59 supported languages can be easily selected through the browser settings.
-Over 59 supported languages can be easily selected through the browser settings.
+59 மேலா ஆதரவு மொழிகளை எளிதாக உலாவி அமைப்புகள் மூலம் தேர்வு செய்யமுடியும்.
 
 
 ;HTML5:
@@ -200,11 +200,11 @@ For a complete list of features, check out {{features_link}}
 
 
 ;Learn more about Firefox for Android:
-Learn more about Firefox for Android:
+Android'க்கான Firefox பற்றி மேலும் அறியக::
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+கேள்விகள் உள்ளதா அல்லது உதவி தேவையா? பார்க்க {{support_link}}
 
 
 # Bulleted list item
@@ -272,7 +272,7 @@ Shareaholic, Foursquare and more
 
 
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+MOZILLA பற்றி
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
