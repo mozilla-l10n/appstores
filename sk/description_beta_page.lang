@@ -3,7 +3,7 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox pre Android Beta
+Firefox Beta pre Android
 
 
 # This is the short tagline for the app on Google Play
@@ -12,27 +12,27 @@ Získajte zadarmo oficiálnu betaverziu prehliadača Firefox a pošlite nám sp�
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Pomôžte nám vylepšovať najnovšie funkcie, ktoré sú takmer pripravené na vydanie. S Firefox Beta máte možnosť odtestova poslední vylepšení rychlosti a přizpůsobení i bezpečnosti před jejich vydání v nové verzi.
+Pomôžte nám vylepšovať najnovšie funkcie, ktoré sú takmer pripravené na vydanie. S Firefox Beta máte možnosť otestovať posledné vylepšenia rýchlosti, prispôsobenia a bezpečnosti pred ich vydaním v novej verzii.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+Priložte ruku k dielu a pomáhajte dokončiť posledné úpravy nových funkcií a vlastností.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Potrebujeme vašu pomoc s testovaním na zariadeniach s procesormi Intel x86 Atom! Ak máte také zariadenie, prevezmite si prosím Firefox Beta a napíšte nám, ako funguje.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Našli ste chybu? Nahláste ju na {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Chcete sa dozvedieť viac o oprávneniach potrebných pre aplikáciu Firefox? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Pozrite si zoznam podporovaných zariadení a minimálne systémové požiadavky na adrese https://www.mozilla.org/firefox/mobile/platforms/.
 
 
 # TITLE
