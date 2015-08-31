@@ -3,36 +3,36 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox Androidile beeta
 
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Hangi tasuta ametlik Firefoxi beeta ja anna veebilehitsejale tagasisidet!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Aita lihvida ning täiustada uusi võimalusi, mis on väljatulekuks peaaegu valmis. Firefoxi beetas saad testida viimast jõudlust ja kohandamis- ning turvatäiustusi veel enne, kui need järgmisse versiooni jõuavad.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+Aita anda viimast lihvi võimalustele ja funktsionaalsusele.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Meil on vaja sinu abi Intel x86 Atom põhinevate seadmete testimisel! Kui sul Intel x86 Atom seade, siis laadi alla Firefoxi beeta ning anna meile teada, mida sellest arvad.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Leidsid vea? Raporteeri see lehel {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Soovid rohkem teada Firefoxi küsitud juurdepääsuõiguste kohta? Vaata {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Vaata meie toetatud seadmete nimekirja ning uusimaid süsteeminõudeid aadressil https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
