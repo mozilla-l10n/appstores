@@ -20,7 +20,7 @@ FAST. SMART. YOURS.
 
 
 ;Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing.
-Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing. 
+Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -72,32 +72,32 @@ Learn more about Firefox for iOS:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+Vous avez des questions ou avez besoin d'aide ? Visitez {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+À propos des permissions de Firefox : {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+Apprenez-en davantage sur ce qu'il se passe chez Mozilla : {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+Aimez la page Facebook de Firefox : {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Suivez-nous sur Twitter : {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+À PROPOS DE MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled. We build products like Firefox to promote choice and transparency and give people more control over their lives online. Learn more at mozilla.org
@@ -162,9 +162,10 @@ Seamless browsing <br>with Sync
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
 Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
 
+
 # Screenshot text, displayed as a bold title
 ;Private Browsing
-Private Browsing
+Navigation privée
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -185,3 +186,5 @@ internet,safari,chrome,opera,explorer,search,adblock,flash,browse,browsing,incog
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
 This update contains stability improvements and bug fixes.
+
+
