@@ -100,8 +100,16 @@ Follow Firefox on Twitter: {{twitter_link}}
 ABOUT MOZILLA
 
 
-;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled. We build products like Firefox to promote choice and transparency and give people more control over their lives online. Learn more at mozilla.org
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled. We build products like Firefox to promote choice and transparency and give people more control over their lives online. Learn more at mozilla.org
+;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+
+
+;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+
+
+;Learn more at {{mozilla_org_link}}
+Learn more at {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
