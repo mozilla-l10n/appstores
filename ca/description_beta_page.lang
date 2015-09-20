@@ -3,36 +3,36 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox Beta per a l'Android
 
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Baixeu el navegador Firefox Beta oficial i comenteu-ho!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Ajudeu-nos a refinar i polir les noves característiques. Amb el Firefox Beta, podreu provar les últimes millores de rendiment, personalització i seguretat abans que apareguin a la propera versió.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+Tingueu repercussió ajudant a posar el toc final a les característiques i funcionalitats.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Necessitem la vostra ajuda provant els dispositius basats en Intel Atom x86! Si en teniu un, baixeu el Firefox Beta i digueu-nos què en penseu.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Heu trobat un error? Feu-nos-ho saber a {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Voleu més informació quant als permisos que demana el Firefox? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Consulteu la llista de dispositius compatibles i els requeriments mínims de sistema a https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
