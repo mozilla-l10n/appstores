@@ -2,11 +2,11 @@
 
 
 ;Firefox Web Browser
-Navigateur Web Firefox
+Navigateur web Firefox
 
 
 ;Experience a fast, smart and personal Web.
-Profitez d'un Web rapide, intelligent et personnel.
+Profitez d’un Web rapide, intelligent et personnel.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
@@ -23,7 +23,7 @@ VIF. FUTÉ. PRIVÉ.
 
 
 ;Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing.
-Firefox est conçu pour vous: nous y intégrons des fonctionnalités intelligentes pour que vous naviguiez sans soucis.
+Firefox est conçu pour vous : nous y intégrons des fonctionnalités intelligentes pour que vous naviguiez sans souci.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -54,7 +54,7 @@ Grâce à votre compte Firefox, votre historique de navigation et vos onglets ou
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-D'un appareil à l'autre, Firefox se souviendra pour vous de vos mots de passe, de façon sécurisée.
+D’un appareil à l’autre, Firefox se souviendra pour vous de vos mots de passe, de façon sécurisée.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -71,31 +71,31 @@ Ouvrez-en autant que vous le désirez sans perdre le fil de votre navigation.
 
 
 ;Learn more about Firefox for iOS:
-En savoir plus sur Firefox pour iOS :
+En savoir plus sur Firefox pour iOS :
 
 
 ;Have questions or need help? Visit {{support_link}}
-Vous avez des questions ou avez besoin d'aide ? Visitez {{support_link}}a
+Vous avez des questions ou avez besoin d’aide ? Visitez {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-À propos des permissions de Firefox : {{permission_link}}a
+À propos des permissions de Firefox : {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Apprenez-en davantage sur ce qu'il se passe chez Mozilla : {{blog_link}}a
+Apprenez-en davantage sur ce qu’il se passe chez Mozilla : {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Aimez la page Facebook de Firefox : {{facebook_link}}a
+Aimez la page Facebook de Firefox : {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Suivez-nous sur Twitter : {{twitter_link}}a
+Suivez-nous sur Twitter : {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
@@ -112,11 +112,11 @@ Le respect du choix et la transparence sont au cœur de tous nos développements
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Apprenez-en davantage sur {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Politique de confidentialité : {{privacy_link}}
 
 
 # Screenshot text, displayed as a bold title
@@ -126,17 +126,17 @@ Vif. Futé. Privé.
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Profitez de tout le potentiel de Firefox et<br>rejoignez des centaines de millions<br> d’utilisateurs de Firefox sur mobiles et ordinateurs.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Profitez de tout le potentiel de Firefox et<br>rejoignez des centaines de millions d’utilisateurs de Firefox.
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Installez Firefox et rejoignez<br>des centaines de millions d’utilisateurs de Firefox.
 
 
 # Adjust line break tag position (<br>) for your language
@@ -151,7 +151,7 @@ Onglets visuels et intuitifs
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-Retrouvez rapidement vos pages<br>ouvertes grâce aux onglets numérotés
+Retrouvez rapidement vos pages<br>ouvertes grâce aux onglets numérotés.
 
 
 # Screenshot text, displayed as a bold title
@@ -161,12 +161,12 @@ Recherche intelligente
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-Des résultats précis et intuitifs avant même d'avoir terminé d'écrire.
+Des résultats précis et intuitifs avant même d’avoir terminé d’écrire.
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-Une navigation fluide et <b>globable grace à Sync
+Une navigation fluide et <b>globale grâce à Sync
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -181,7 +181,7 @@ Navigation privée
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Make specific tabs private and browse<br>the Web without your history being saved
-Make specific tabs private and browse<br>the Web without your history being saved
+Rendez des onglets privés et naviguez<br>sur le Web sans que votre historique ne soit conservé
 
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
