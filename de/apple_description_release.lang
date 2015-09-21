@@ -1,74 +1,77 @@
+## NOTE: this is the text used on Apple AppStore to download Firefox for iOS, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/en-US/apple/release/
+
+
 ;Firefox Web Browser
-Firefox Web Browser
+Firefox
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+Erleben Sie ein schnelles, intelligentes und persönliches Internet.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox ist der unabhängige Browser, für den Menschen im Fokus stehen. Er wurde von Mozilla entwickelt, dem vertrauenswürdigsten Internet-Unternehmen in Sachen Datenschutz.
 
 
 ;Hundreds of millions of people around the world use Firefox on desktop for a more personal browsing experience.
-Hundreds of millions of people around the world use Firefox on desktop for a more personal browsing experience.
+Hunderte Millionen Menschen weltweit verwenden Firefox auf Desktop-Computern, um ein persönlicheres Surf-Erlebnis zu erhalten.
 
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+SCHNELL. INTELLIGENT. PERSÖNLICH.
 
 
 ;Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing.
-Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing.
+Firefox wurde für Ihre Bedürfnisse entwickelt. Deswegen gestalten wir das Produkt mit intelligenten Funktionen, die Ihnen beim Surfen das Raten ersparen.
 
 
 # Slogan in uppercase, displayed as a category title
 ;GET THERE FASTER WITH INTELLIGENT SEARCH
-GET THERE FASTER WITH INTELLIGENT SEARCH
+SCHNELLER SURFEN DANK INTELLIGENTER SUCHE
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox sieht Ihre Bedürfnisse voraus und zeigt mehrere Vorschläge und frühere Suchergebnisse aus Ihren Lieblingssuchmaschinen an. Jedes Mal.
 
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+EINFACHER ZUGRIFF AUF IHRE LIEBLINGS-WEBSITES
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Spend your time reading your favorites sites instead of looking for them.
+Verbringen Sie Zeit auf Ihren Lieblings-Websites und nicht auf der Suche danach.
 
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+SYNCHRONISIEREN SIE FIREFOX ZWISCHEN IHREN GERÄTEN
 
 
 ;With a Firefox Account, access your history and open tabs everywhere you use Firefox.
-With a Firefox Account, access your history and open tabs everywhere you use Firefox.
+Mit einem Firefox-Konto können Sie überall, wo Sie Firefox nutzen, auf Ihre Chronik und offenen Tabs zugreifen.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox speichert auch Ihre Passwörter sicher über mehrere Geräte hinweg, damit Sie dies nicht tun müssen.
 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE NUMBERED TABS
-INTUITIVE NUMBERED TABS
+INTUITIVE NUMMERIERTE TABS
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Intuitive visual and numbered tabs easily let you find content for future reference.
+Dank intuitiven visuellen und nummerierten Tabs finden Sie Inhalte auch in Zukunft wieder.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Open as many tabs as you like without losing track of your open Web pages.
+Öffnen Sie beliebig viele Tabs, ohne die Übersicht über Ihre offenen Webseiten zu verlieren.
 
 
 ;Learn more about Firefox for iOS:
-Learn more about Firefox for iOS:
+Erfahren Sie mehr über Firefox für iOS:
 
 
 ;Have questions or need help? Visit {{support_link}}
@@ -101,19 +104,19 @@ Folgen Sie Firefox auf Twitter: {{twitter_link}}
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla ist dafür da, das Internet als öffentliche und für jeden zugängliche Ressource zu entwickeln, weil wir glauben, dass offen und frei besser ist als geschlossen und kontrolliert.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Wir entwickeln Produkte wie Firefox, um Wahlfreiheit und Transparenz zu fördern, und um Menschen mehr Kontrolle über ihre Online-Leben zu geben.
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Erfahren Sie mehr auf {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Datenschutzerklärung: {{privacy_link}}
 
 
 # Screenshot text, displayed as a bold title
@@ -183,7 +186,7 @@ Make specific tabs private and browse<br>the Web without your history being save
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browse,browsing,incognito,private,browse
-internet,safari,chrome,opera,explorer,search,adblock,flash,browse,browsing,incognito,private,browse
+Internet,Safari,Chrome,Opera,Explorer,Suche,Werbeblocker,Flash,Surfen,Inkognito,Privat
 
 
 # Copyright notice on the page
