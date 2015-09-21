@@ -3,36 +3,36 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox pour Android Beta
 
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Installez le navigateur officiel Firefox Beta et dites-nous ce que vous en pensez !
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Aidez-nous à apporter la touche finale aux nouvelles fonctionnalités. Avec Firefox Beta, vous pouvez tester les dernières améliorations concernant les performances, la personnalisation et la sécurité avant qu'elles ne soient disponibles dans la version stable suivante.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+Jouez un rôle dans la mise à disposition de la prochaine version en nous aidant à peaufiner les prochaines fonctionnalités.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Nous avons besoin de votre aide pour tester les appareils disposant de micro-processeurs Intel Atom x86. Si vous possédez un appareil équipé d’un tel micro-processeur, téléchargez Firefox Beta et faites-nous savoir ce que vous en pensez.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Vous avez découvert un problème ? Signalez-le sur {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Vous souhaitez en apprendre davantage sur les permissions que Firefox demande ? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Consultez la liste des appareils pris en charge ainsi que la configuration système minimale requise sur https://www.mozilla.org/firefox/mobile/platforms/.
 
 
 # TITLE
