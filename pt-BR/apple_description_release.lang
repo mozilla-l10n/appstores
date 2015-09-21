@@ -2,11 +2,11 @@
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Navegador Web Firefox
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+Experimente uma web rápida, inteligente e pessoal.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
@@ -71,7 +71,7 @@ Open as many tabs as you like without losing track of your open Web pages.
 
 
 ;Learn more about Firefox for iOS:
-Learn more about Firefox for iOS:
+Saiba mais sobre o Firefox para iOS:
 
 
 ;Have questions or need help? Visit {{support_link}}
@@ -116,12 +116,12 @@ Learn more at {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Política de privacidade: {{privacy_link}}
 
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Rápido. Inteligente. Seu
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
@@ -136,12 +136,12 @@ Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox user
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Atualize para o Firefox e juntar-se a<br>centenas de milhões de usuários do Firefox
 
 
 # Adjust line break tag position (<br>) for your language
 ;Announcing<br>Firefox for iOS<br>Download now!
-Announcing<br>Firefox for iOS<br>Download now!
+Anunciando<br>Firefox para iOS<br>Faça o download agora!
 
 
 # Screenshot text, displayed as a bold title
@@ -156,7 +156,7 @@ Quickly find and manage<br>your open browser tabs
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Intelligent searches
+Pesquisas inteligentes
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
@@ -191,11 +191,11 @@ internet,safari,chrome,opera,explorer,search,adblock,flash,browse,browsing,incog
 
 # Copyright notice on the page
 ;© Mozilla and its contributors {{year}}
-© Mozilla and its contributors {{year}}
+© Mozilla e seus contribuidores {{ano}}
 
 
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
-This update contains stability improvements and bug fixes.
+Esta atualização contém aprimoramentos de estabilidade e correções de bugs.
 
 
