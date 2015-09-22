@@ -19,7 +19,7 @@ Centinaia di milioni di utenti in tutto il mondo scelgono Firefox sul proprio co
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-VELOCE. INTELLIGENTE. TUO.
+VELOCE. INTELLIGENTE. PERSONALE.
 
 
 ;Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing.
@@ -46,7 +46,7 @@ Invece di perdere tempo cercando i tuoi siti preferiti, sfruttalo al meglio legg
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SINCRONIZZA FIREFOX ATTRAVERSO I TUOI DISPOSITIVI
+SINCRONIZZA FIREFOX SU TUTTI I TUOI DISPOSITIVI
 
 
 ;With a Firefox Account, access your history and open tabs everywhere you use Firefox.
@@ -54,7 +54,7 @@ Con l’account Firefox puoi accedere alla cronologia e alle schede aperte ovunq
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Nessun bisogno di memorizzare le password, Firefox lo farà al tuo posto, in modo sicuro, attraverso tutti i tuoi dispositivi.
+Non c'è bisogno di memorizzare le password: Firefox lo farà al tuo posto, in modo sicuro, su tutti i tuoi dispositivi.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -67,7 +67,7 @@ Un design intuitivo con schede numerate ti permette di ritrovare facilmente i co
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Apri tutte le schede di cui hai bisogno senza perdere traccia delle pagine web che stai visitando.
+Apri tutte le schede di cui hai bisogno senza perdere di vista le pagine web che stai visitando
 
 
 ;Learn more about Firefox for iOS:
@@ -121,7 +121,7 @@ Informativa sulla privacy: {{privacy_link}}
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-Veloce. Intelligente. Tuo
+Veloce. Intelligente. Personale
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
@@ -182,7 +182,7 @@ Navigazione anonima
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Make specific tabs private and browse<br>the Web without your history being saved
-Rendi specifiche schede anonime e naviga<br>sul Web senza salvare alcuna cronologia
+Crea apposite schede anonime e naviga<br>sul Web senza salvare alcuna cronologia
 
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
@@ -197,6 +197,6 @@ internet,safari,chrome,opera,explorer,ricerca,adblock,flash,navigatore,navigazio
 
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
-Questo aggiornamento include miglioramenti relativi alla stabilità e correzioni di problemi.
+Questo aggiornamento comprende miglioramenti relativi alla stabilità e correzioni di problemi.
 
 
