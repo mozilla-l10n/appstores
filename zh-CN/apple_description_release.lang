@@ -23,16 +23,16 @@ Firefox 是由独立、以人为本的 Mozilla 制作的浏览器，曾获选隐
 
 
 ;Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing.
-Firefox 为你而做。我们具有智能化的产品功能，可以推测你想要浏览的内容。
+Firefox 为你而作。我们设计了智能化的产品功能，可以猜测你想要浏览的内容。
 
 
 # Slogan in uppercase, displayed as a category title
 ;GET THERE FASTER WITH INTELLIGENT SEARCH
-智能搜索，更快获得
+更快的智能搜索
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox 每次会预期到你的需求，并直观的在你喜欢的搜索引擎上提供多个建议和以前搜索过的结果。
+Firefox 能预测你的需求，每次都直观的在你喜欢的搜索引擎上提供多项建议及以前搜索过的结果。
 
 
 # Slogan in uppercase, displayed as a category title
@@ -63,11 +63,11 @@ Firefox 也可以安全的记住您的密码，跨越各个设备，省去输入
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-直观的可视化和数字编号标签页，让您可以轻松在未来找到想要的内容。
+直观的可视化且数字编号的标签页，让您可以轻松在未来找到想要的内容。
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Open as many tabs as you like without losing track of your open Web pages.
+随你喜欢打开许多标签页，无需担心丢失已打开的网页。
 
 
 ;Learn more about Firefox for iOS:
@@ -112,7 +112,7 @@ Mozilla 的存在是为了将互联网建设为面向所有人可用的公共资
 
 
 ;Learn more at {{mozilla_org_link}}
-在 {{mozilla_org_link}} 了解更多
+访问 {{mozilla_org_link}} 了解更多信息
 
 
 ;Privacy Policy: {{privacy_link}}
@@ -126,7 +126,7 @@ Mozilla 的存在是为了将互联网建设为面向所有人可用的公共资
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-升级到强有力的 Firefox<br>并加入数以亿计的<br>Firefox 桌面版和移动版用户的行列。
+升级到强有力的 Firefox<br>并加入数以亿计的 Firefox<br>桌面版和移动版用户的行列。
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
@@ -151,7 +151,7 @@ Mozilla 的存在是为了将互联网建设为面向所有人可用的公共资
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-快捷查找和管理<br>你已打开的标签页
+快捷查找和管理<br>已打开的标签页
 
 
 # Screenshot text, displayed as a bold title
@@ -161,7 +161,7 @@ Mozilla 的存在是为了将互联网建设为面向所有人可用的公共资
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-在你输入完成之前<br>获得精准的推测结果
+在输入完成之前<br>就获得精准的预测结果
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
@@ -171,7 +171,7 @@ Mozilla 的存在是为了将互联网建设为面向所有人可用的公共资
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-即时访问您的书签、<br>历史记录、已打开的标签页，密码<br>无论您在哪里使用 Firefox
+即时访问您的书签、历史记录<br>以及已打开的标签页，还有密码<br>无论您是在哪里使用 Firefox
 
 
 # Screenshot text, displayed as a bold title
