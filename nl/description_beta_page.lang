@@ -3,36 +3,36 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox voor Android Bèta
 
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Download de officiële gratis Firefox Bèta-browser en geef uw feedback!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Help de nieuwste functies die bijna gereed zijn voor vrijgave te verfijnen en bij te schaven. Met Firefox Bèta kunt u de nieuwste verbeteringen in prestaties, aanpassingen en beveiliging testen voordat ze de volgende versie halen.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+Oefen invloed uit door de puntjes op de i van functies en functionaliteiten te helpen zetten.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Uw hulp is nodig voor het testen van op Intel x86 Atom gebaseerde apparaten! Als u een op Intel x86 Atom gebaseerd apparaat hebt, download dan Firefox Bèta en laat ons weten wat u ervan vindt.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Een bug gevonden? Meld hem op {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Wilt u meer weten over de machtigingen waar Firefox om vraagt? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Bekijk de lijst van ondersteunde apparaten en meest recente minimale systeemvereisten op https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
