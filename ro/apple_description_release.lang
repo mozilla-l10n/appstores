@@ -23,25 +23,25 @@ RAPID. INTELIGENT. AL TĂU.
 
 
 ;Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing.
-Firefox este construit cu tine în minte. De aceea am proiectat acest produs cu funcțiile inteligente care elimină confuzia în timpul navigării.
+Firefox este creat cu gândul la tine. De aceea am proiectat acest produs cu funcțiile inteligente care elimină nesiguranța din timpul navigării.
 
 
 # Slogan in uppercase, displayed as a category title
 ;GET THERE FASTER WITH INTELLIGENT SEARCH
-MERGI MAI RAPID UNDE VREI PRIN CĂUTAREA INTELIGENTĂ
+AJUNGI MAI RAPID UNDE DOREȘTI CU CĂUTAREA INTELIGENTĂ
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox anticipează nevoile tale și-ți oferă în mod intuitiv rezultate sugerate și căutate anterior cu ajutorul motorului tău de căutare favorit. De fiecare dată.
+Firefox anticipează nevoile tale și-ți oferă în mod intuitiv rezultate sugerate și căutate anterior în cadrul motoarelor tale de căutare favorite. De fiecare dată.
 
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-ACCES RAPID LA SITE-URI DE TOP
+ACCES FACIL LA SITE-URILE TALE DE TOP
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Petrece timpul citind site-urile favorite în loc să cauți după ele.
+Petrece-ți timpul citind site-urile favorite în loc să le cauți.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -50,11 +50,11 @@ SINCRONIZEAZĂ FIREFOX PE DISPOZITIVELE TALE
 
 
 ;With a Firefox Account, access your history and open tabs everywhere you use Firefox.
-Cu un cont Firefox, accesează istoricul și filele deschise de oriunde utilizezi Firefox.
+Cu un cont Firefox, accesează istoricul și filele deschise de oriunde folosești Firefox.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-De pe un dispozitiv pe altul, Firefox va reține în siguranță parolele tale.
+De asemenea, Firefox reține în siguranță parolele tale pe toate dispozitivele încât să nu trebuiască să o faci tu.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -63,11 +63,11 @@ FILE INTUITIVE NUMEROTATE
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-File intuitive vizual și numerotate pentru a găsi ușor conținut care te interesează.
+Filele intuitive vizual și numerotate îți permit să găsești conținut interesant pentru viitor.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Deschide câte file vrei fără să pierzi evidența asupra paginilor web deschise.
+Deschide câte file dorești fără să pierzi evidența asupra paginilor web deschise.
 
 
 ;Learn more about Firefox for iOS:
@@ -80,7 +80,7 @@ Ai întrebări sau ai nevoie de ajutor? Vizitează {{support_link}}
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Citește mai multe despre permisiunile Firefox: {{permission_link}}
+Citește despre permisiunile Firefox: {{permission_link}}
 
 
 # Bulleted list item
@@ -104,7 +104,7 @@ DESPRE MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Deoarece credem că deschiderea și libertatea sunt valori fundamentale, Mozilla are misiunea de a transforma internetul într-o resursă publică accesibilă tuturor.
+Mozilla există cu scopul de a transforma internetul într-o resursă publică globală accesibilă tuturor deoarece credem că deschiderea și libertatea reprezintă valori fundamentale.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
@@ -126,17 +126,17 @@ Rapid. Inteligent. Al tău.
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Profită de întregul potențial Firefox și<br>alătură-te milioanelor de<br> utilizatori Firefox pe calculator și mobil.
+Profită de întregul potențial Firefox și<br>alătură-te sutelor de milioane<br> care folosesc Firefox pe desktop și mobil.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Profită de întregul potențial Firefox și<br>alătură-te milioanelor de utilizatori Firefox
+Profită de întregul potențial Firefox și<br>alătură-te sutelor de milioane care folosesc Firefox
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Instalează Firefox și alătură-te<br>sutelor de milioane de utilizatori Firefox
+Treci pe Firefox și alătură-te<br>sutelor de milioane de utilizatori Firefox
 
 
 # Adjust line break tag position (<br>) for your language
@@ -146,7 +146,7 @@ Introducem<br>Firefox pentru iOS<br>Descarcă acum!
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Concepție vizuală și intuitivă a filelor
+Design vizual și intuitiv al filelor
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -156,12 +156,12 @@ Găsește rapid și gestionează<br>filele tale deschise
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Căutare inteligentă
+Căutări inteligente
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-Obține rezultate predictive precise<br>înainte de a termina tastarea
+Obține rezultate predictive, precise<br>înainte de a termina să tastezi
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
@@ -171,7 +171,7 @@ Navigare fără întreruperi <br>cu Sincronizare
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-Accesează instant semnele de carte, <br>istoricul, filele deschise și parolele <br>de oriunde utilizezi Firefox
+Accesează instant semnele de carte, <br>istoricul, filele deschise și parolele <br>de oriunde folosești Firefox
 
 
 # Screenshot text, displayed as a bold title
@@ -181,7 +181,7 @@ Navigare privată
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Make specific tabs private and browse<br>the Web without your history being saved
-Fă anumite file private și navighează<br>webul fără ca istoricul de navigare să fie salvat
+Fă anumite file private și navighează<br>pe web fără ca istoricul de navigare să fie salvat
 
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
@@ -196,5 +196,5 @@ internet,safari,chrome,opera,explorer,search,adblock,flash,browse,browsing,incog
 
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
-Actualizarea conține stabilitate crescută și remedieri de defecte.
+Această actualizare conține îmbunătățiri de securitate și remedieri de probleme.
 
