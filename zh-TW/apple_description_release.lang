@@ -10,11 +10,11 @@ Firefox 網頁瀏覽器
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox 是獨立、以您為本的瀏覽器，由被推選為在隱私權方面最受信任的網路公司 Mozilla 所打造。
+Firefox 是獨立、以您為本的瀏覽器，由被票選為在隱私權方面最可信任的網路公司 Mozilla 所打造。
 
 
 ;Hundreds of millions of people around the world use Firefox on desktop for a more personal browsing experience.
-全球數以億計的使用者使用 Firefox 桌面版打造一個更加個人化的上網體驗。
+全球數以億計的使用者皆已使用 Firefox 桌面版，享受更加個人化的上網體驗。
 
 
 # Slogan in uppercase, displayed as a category title
@@ -23,7 +23,7 @@ Firefox 是獨立、以您為本的瀏覽器，由被推選為在隱私權方面
 
 
 ;Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing.
-Firefox 時時都會想到您，這也是為什麼我們要在產品內放入滿滿的智慧功能，讓您不用在上網時猶豫不決。
+Firefox 時時為您著想，這也是為什麼我們要在產品內放入滿滿的智慧功能，讓您上網時不再猶豫不決。
 
 
 # Slogan in uppercase, displayed as a category title
@@ -32,7 +32,7 @@ Firefox 時時都會想到您，這也是為什麼我們要在產品內放入滿
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox 為您設想，每次搜尋時都能透過您最愛的搜尋引擎提供建議搜尋結果。
+Firefox 為您設想，每次搜尋時，都能透過您最愛的搜尋引擎提供建議搜尋結果。
 
 
 # Slogan in uppercase, displayed as a category title
@@ -50,24 +50,24 @@ Firefox 為您設想，每次搜尋時都能透過您最愛的搜尋引擎提供
 
 
 ;With a Firefox Account, access your history and open tabs everywhere you use Firefox.
-透過 Firefox 帳號，讓您的瀏覽紀錄與開啟分頁隨身帶著走。
+透過 Firefox 帳號，將您的瀏覽紀錄與開啟分頁隨身帶著走。
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox 也能安全地為您記住在各個裝置登入網站時使用的密碼，讓您不必再死背。
+Firefox 也能安全地跨裝置記住各個網站的登入資訊，讓您不必再死背。
 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE NUMBERED TABS
-直覺式編號分頁
+直覺式多重分頁
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-視覺化並編號的分頁，讓您可以直覺地就找到想找的內容。
+視覺化的多重分頁，讓您可以直覺地找到想找的內容。
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-隨您所需開啟，不再搞混你開啟過的網頁。
+愛開多少就開多少，不再搞丟您開啟過的網頁。
 
 
 ;Learn more about Firefox for iOS:
@@ -75,7 +75,7 @@ Firefox 也能安全地為您記住在各個裝置登入網站時使用的密碼
 
 
 ;Have questions or need help? Visit {{support_link}}
-有問題，或需要幫助嗎？請至 {{support_link}} 取得支援
+有問題或需要幫助嗎？請至 {{support_link}} 取得支援
 
 
 # Bulleted list item
@@ -104,11 +104,11 @@ Firefox 也能安全地為您記住在各個裝置登入網站時使用的密碼
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla 的存在是為了要將網際網路打造為任何人都可以使用的公開資源。因為我們相信，開放與自由總是比封閉、受限來得更好。
+Mozilla 的存在，是為了要將網際網路打造為任何人都可以使用的公眾資源。因為我們相信，開放與自由總是比封閉、受限來得更好。
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-我們打造像是 Firefox 這樣的產品，來推廣不同選擇與透明，讓人們能夠自行控制線上生活。
+我們打造如 Firefox 這樣的產品，來推廣多元選擇與透明化，讓人們能夠自行控制線上生活。
 
 
 ;Learn more at {{mozilla_org_link}}
@@ -186,7 +186,7 @@ Firefox for iOS 正式推出<br>快來下載！
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
-internet,safari,chrome,opera,search,adblock,browser,隱私,搜尋,上網,網路,瀏覽,火狐,謀智
+internet,safari,chrome,opera,search,adblock,browser,隱私,搜尋,上網,網路,瀏覽,火狐,謀智,無痕,搜索,
 
 # Copyright notice on the page
 ;© Mozilla and its contributors {{year}}
