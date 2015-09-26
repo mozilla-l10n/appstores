@@ -26,7 +26,7 @@ Suplimente
 
 
 ;Customize your Home panels with the Web content you want.
-Personalizează panourile principale cu conținutul dorit.
+Personalizează panourile principale cu conținutul web dorit.
 
 
 # Key feature title
@@ -229,7 +229,7 @@ Află mai multe despre ceea ce se întâmplă la Mozilla: {{blog_link}}
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Dă „like” la Firefox pe Facebook: {{facebook_link}}
+Apreciază Firefox pe Facebook: {{facebook_link}}
 
 
 # Bulleted list item
@@ -286,7 +286,7 @@ DESPRE MOZILLA
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla este o organizație nonprofit mândră, dedicată păstrării puterii Web-ului în mâinile oamenilor.
+Mozilla este o organizație nonprofit mândră, dedicată păstrării puterii webului în mâinile oamenilor.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
@@ -294,7 +294,7 @@ Suntem o comunitate globală de utilizatori, contribuitori și dezvoltatori care
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-Când folosești Firefox, devii o parte a acelei comunități, ajutându-ne să clădim un viitor mai luminos pentru web.
+Când folosești Firefox, devii parte a acelei comunități, ajutându-ne să clădim un viitor mai luminos pentru web.
 
 
 ;Learn more at {{mozilla_org_link}}.
