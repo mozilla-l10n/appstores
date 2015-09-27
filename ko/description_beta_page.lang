@@ -3,56 +3,56 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox for Android Beta
+안드로이드용 Firefox Beta
 
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+공식 Firefox Beta 브라우저를 사용해 보고 의견을 주세요!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+거의 완성이 된 새 기능을 마지막으로 점검해 주세요. Firefox Beta를 사용하면 다음 버전에 제공하게 될 최신의 성능과 개인화, 보안 향상 기능을 사용해 볼 수 있습니다.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+새 기능들을 마지막 단계로 사용해 보시고 도움을 주세요.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Intel x86 Atom 기반의 기기에서의 테스트를 도와주세요! Intel x86 Atom 기반의 기기를 가지고 계시다면 Firefox Beta를 다운 받아서 사용해 보시고 의견을 말씀해 주세요.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+버그가 있나요? {{android_bugs}}에 알려주세요.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Firefox가 요청하는 권한에 대해서 더 자세히 알고 싶으세요? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+https://www.mozilla.org/en-US/firefox/mobile/platforms/ 에서 지원 기기와 최소 시스템 요구사항을 확인해 보세요.
 
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+MOZILLA 소개
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla는 비영리 단체로 사람들의 손에 웹의 위대한 힘을 지키기위해 노력합니다.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-We're a global community of users, contributors and developers working to innovate on your behalf.
+우리는 여러분을 대신해서 일하는 사용자와 공헌자, 개발자들로 이루어진 글로벌 커뮤니티입니다.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+Firefox를 사용함으로써 여러분은 커뮤니티의 일원이 되고 웹의 밝은 미래를 만드는데 도움을 줄 수 있습니다.
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+더 자세히 보기 {{mozilla_org_link}}.
 
 
