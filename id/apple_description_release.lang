@@ -2,200 +2,198 @@
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Peramban Web Firefox
+
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+Rasakan web yang cepat, pintar, dan pribadi.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox adalah peramban pilihan pertama yang dibuat Mozilla yang independen, dipilih sebagai Perusahaan Internet Paling Terpercaya di bidang Privasi.
 
 
 ;Hundreds of millions of people around the world use Firefox on desktop for a more personal browsing experience.
-Hundreds of millions of people around the world use Firefox on desktop for a more personal browsing experience.
+Ratusan juta orang diseluruh dunia menggunakan Firefox desktop untuk pengalaman menjelajah yang lebih pribadi. 
 
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+CEPAT. PINTAR. MILIK ANDA.
 
 
 ;Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing.
-Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing.
+Firefox dibuat dengan mempertimbangkan kebutuhan Anda. Itulah alasan kami merancang produk tersebut dengan fitur pintar yang membuat penjelajahan Anda lebih nyaman.
 
 
 # Slogan in uppercase, displayed as a category title
 ;GET THERE FASTER WITH INTELLIGENT SEARCH
-GET THERE FASTER WITH INTELLIGENT SEARCH
+SAMPAILAH LEBIH CEPAT DENGAN PENCARIAN CERDAS
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox mengantisipasi kebutuhan Anda dan menyuguhkan beberapa saran yang intuitif serta mencari hasilnya di berbagai mesin pencari kesukaan Anda. Setiap waktu. 
 
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
-
+AKSES MUDAH KE SITUS KESUKAANMU
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Spend your time reading your favorites sites instead of looking for them.
-
+Habiskan waktu untuk membaca situs kesukaanmu daripada menunggunya. 
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
-
+SINKRONISASIKAN FIREFOX DIANTARA SEMUA PERANGKATMU
 
 ;With a Firefox Account, access your history and open tabs everywhere you use Firefox.
-With a Firefox Account, access your history and open tabs everywhere you use Firefox.
-
+Dengan akun Firefox, dapatkan akses ke riwayat dan buka tab darimana pun kamu menggunakan Firefox.
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
-
+Firefox juga mengingat dengan aman kata sandi Anda di berbagai perangkat sehingga Anda tidak perlu melakukannya.
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE NUMBERED TABS
-INTUITIVE NUMBERED TABS
+TAB BERNOMOR YANG INTUITIF
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Intuitive visual and numbered tabs easily let you find content for future reference.
-
+Visual yang intuitif dan tab bernomor yang memudahkan Anda mencari konten untuk referensi di masa depan. 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Open as many tabs as you like without losing track of your open Web pages.
+Bukalah tab sebanyak yang Anda suka tanpa harus kehilangan jejak dari halaman yang sudah terbuka.
 
 
 ;Learn more about Firefox for iOS:
-Learn more about Firefox for iOS:
-
+Pelajari lebih lanjut tentang Firefox untuk iOS:
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+Punya pertanyaan atau butuh bantuan ? Kunjungi {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+Bacalah perizinan Firefox: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+Pelajari lebih lanjut tentang apa yang terjadi di Mozilla: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+Sukai kami di Facebook: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Ikuti kami di Twitter: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+TENTANG MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla ada untuk membangun Internet sebagai sumber daya umum yang bisa diakses siapa saja karena kami percaya bahwa menjadi terbuka dan bebas lebih baik daripada tertutup dan dikontrol.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Kami membuat produk seperti Firefox untuk mendukung pilihan dan transparansi, serta untuk memberi pengguna lebih banyak kontrol tentang kehidupan daringnya.
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Pelajari lebih lanjut pada {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Kebijakan Privasi: {{privacy_link}}
 
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Cepat. Pintar. Milik Anda
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Beralihlah ke Firefox dan bergabunglah bersama kekuatan<br>ribuan juta pengguna Firefox pada desktop dan perangkat bergerak.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Beralihlah ke Firefox dan bergabunglah bersama kekuatan<br>ribuan juta pengguna Firefox
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Beralihlah ke Firefox dan bergabunglah bersama<br>ribuan juta pengguna Firefox
 
 
 # Adjust line break tag position (<br>) for your language
 ;Announcing<br>Firefox for iOS<br>Download now!
-Announcing<br>Firefox for iOS<br>Download now!
+Memperkenalkan<br>Firefox untuk iOS<br>Unduh sekarang juga!
 
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Intuitive visual tab design
+Desain visual tab yang intuitif
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-Quickly find and manage<br>your open browser tabs
+Cari dengan cepat dan atur<br>tab peramban Anda yang terbuka
 
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Intelligent searches
+Pencarian Cerdas
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-Get accurate, predictive results <br>before you finish typing
+Dapatkan hasil yang akurat, prediktif, <br>sebelum Anda selesai mengetik
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-Seamless browsing <br>with Sync
+Penjelajahan tanpa gangguan <br>dengan Sinkronisasi
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Dapatkan akses cepat ke markah, <br>riwayat, tab terbuka, dan kata sandi <br>dimanapun Anda menggunakan Firefox
 
 
 # Screenshot text, displayed as a bold title
 ;Private Browsing
-Private Browsing
+Penjelajahan Pribadi
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Make specific tabs private and browse<br>the Web without your history being saved
-Make specific tabs private and browse<br>the Web without your history being saved
+Buatlah suatu tab spesifik menjadi pribadi dan jelajahi<br>Web tanpa menyimpan riwayat
 
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
+<<<<<<< HEAD
+;internet,safari,chrome,opera,explorer,search,adblock,flash,browse,browsing,incognito,private,browse
+internet,safari,chrome,opera,explorer,pencarian,adblock,flash,jelajah,penjelajahan,incognito,pribadi,jelajah
+=======
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
 internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
+>>>>>>> ce59a1e9031d325a9fc6e36398cc335f63fe891d
 
 
 # Copyright notice on the page
 ;© Mozilla and its contributors {{year}}
-© Mozilla and its contributors {{year}}
+© Mozilla dan kontributornya {{year}}
 
 
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
-This update contains stability improvements and bug fixes.
-
+Pembaruan ini berisi peningkatan stabilitas dan perbaikan kerusakan. 
 
