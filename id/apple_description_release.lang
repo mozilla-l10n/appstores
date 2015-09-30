@@ -5,7 +5,6 @@
 Peramban Web Firefox
 
 
-
 ;Experience a fast, smart and personal Web.
 Rasakan web yang cepat, pintar, dan pribadi.
 
@@ -15,7 +14,7 @@ Firefox adalah peramban pilihan pertama yang dibuat Mozilla yang independen, dip
 
 
 ;Hundreds of millions of people around the world use Firefox on desktop for a more personal browsing experience.
-Ratusan juta orang diseluruh dunia menggunakan Firefox desktop untuk pengalaman menjelajah yang lebih pribadi. 
+Ratusan juta orang diseluruh dunia menggunakan Firefox desktop untuk pengalaman menjelajah yang lebih pribadi.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -33,25 +32,30 @@ SAMPAILAH LEBIH CEPAT DENGAN PENCARIAN CERDAS
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox mengantisipasi kebutuhan Anda dan menyuguhkan beberapa saran yang intuitif serta mencari hasilnya di berbagai mesin pencari kesukaan Anda. Setiap waktu. 
+Firefox mengantisipasi kebutuhan Anda dan menyuguhkan beberapa saran yang intuitif serta mencari hasilnya di berbagai mesin pencari kesukaan Anda. Setiap waktu.
 
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
 AKSES MUDAH KE SITUS KESUKAANMU
 
+
 ;Spend your time reading your favorites sites instead of looking for them.
-Habiskan waktu untuk membaca situs kesukaanmu daripada menunggunya. 
+Habiskan waktu untuk membaca situs kesukaanmu daripada menunggunya.
+
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
 SINKRONISASIKAN FIREFOX DIANTARA SEMUA PERANGKATMU
 
+
 ;With a Firefox Account, access your history and open tabs everywhere you use Firefox.
 Dengan akun Firefox, dapatkan akses ke riwayat dan buka tab darimana pun kamu menggunakan Firefox.
 
+
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
 Firefox juga mengingat dengan aman kata sandi Anda di berbagai perangkat sehingga Anda tidak perlu melakukannya.
+
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE NUMBERED TABS
@@ -59,7 +63,8 @@ TAB BERNOMOR YANG INTUITIF
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Visual yang intuitif dan tab bernomor yang memudahkan Anda mencari konten untuk referensi di masa depan. 
+Visual yang intuitif dan tab bernomor yang memudahkan Anda mencari konten untuk referensi di masa depan.
+
 
 ;Open as many tabs as you like without losing track of your open Web pages.
 Bukalah tab sebanyak yang Anda suka tanpa harus kehilangan jejak dari halaman yang sudah terbuka.
@@ -67,6 +72,7 @@ Bukalah tab sebanyak yang Anda suka tanpa harus kehilangan jejak dari halaman ya
 
 ;Learn more about Firefox for iOS:
 Pelajari lebih lanjut tentang Firefox untuk iOS:
+
 
 ;Have questions or need help? Visit {{support_link}}
 Punya pertanyaan atau butuh bantuan ? Kunjungi {{support_link}}
@@ -190,5 +196,6 @@ internet,safari,chrome,opera,explorer,pencarian,adblock,flash,jelajah,penjelajah
 
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
-Pembaruan ini berisi peningkatan stabilitas dan perbaikan kerusakan. 
+Pembaruan ini berisi peningkatan stabilitas dan perbaikan kerusakan.
+
 
