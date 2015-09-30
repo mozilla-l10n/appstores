@@ -14,7 +14,7 @@ Firefox adalah peramban pilihan pertama yang dibuat Mozilla yang independen, dip
 
 
 ;Hundreds of millions of people around the world use Firefox on desktop for a more personal browsing experience.
-Ratusan juta orang diseluruh dunia menggunakan Firefox desktop untuk pengalaman menjelajah yang lebih pribadi.
+Ratusan juta orang di seluruh dunia menggunakan Firefox desktop untuk pengalaman menjelajah yang lebih pribadi.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -28,11 +28,11 @@ Firefox dibuat dengan mempertimbangkan kebutuhan Anda. Itulah alasan kami meranc
 
 # Slogan in uppercase, displayed as a category title
 ;GET THERE FASTER WITH INTELLIGENT SEARCH
-SAMPAILAH LEBIH CEPAT DENGAN PENCARIAN CERDAS
+SAMPAI LEBIH CEPAT DENGAN PENCARIAN CERDAS
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox mengantisipasi kebutuhan Anda dan menyuguhkan beberapa saran yang intuitif serta mencari hasilnya di berbagai mesin pencari kesukaan Anda. Setiap waktu.
+Firefox mengantisipasi kebutuhan Anda dan menyuguhkan saran yang intuitif serta mencari hasilnya di berbagai mesin pencari kesukaan Anda. Selalu.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -41,20 +41,20 @@ AKSES MUDAH KE SITUS KESUKAANMU
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Habiskan waktu untuk membaca situs kesukaanmu daripada menunggunya.
+Habiskan waktu untuk membaca situs kesukaanmu daripada mencarinya.
 
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SINKRONISASIKAN FIREFOX DIANTARA SEMUA PERANGKATMU
+SINKRONISASIKAN FIREFOX DI ANTARA SEMUA PERANGKATMU
 
 
 ;With a Firefox Account, access your history and open tabs everywhere you use Firefox.
-Dengan akun Firefox, dapatkan akses ke riwayat dan buka tab darimana pun kamu menggunakan Firefox.
+Dengan Akun Firefox, dapatkan akses ke riwayat dan buka tab dari mana pun kamu menggunakan Firefox.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox juga mengingat dengan aman kata sandi Anda di berbagai perangkat sehingga Anda tidak perlu melakukannya.
+Firefox juga mengingat dengan aman kata sandi Anda di berbagai perangkat agar Anda tidak perlu mengingatnya.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -85,7 +85,7 @@ Bacalah perizinan Firefox: {{permission_link}}
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Pelajari lebih lanjut tentang apa yang terjadi di Mozilla: {{blog_link}}
+Pelajari lebih lanjut tentang kabar Mozilla: {{blog_link}}
 
 
 # Bulleted list item
@@ -112,7 +112,7 @@ Kami membuat produk seperti Firefox untuk mendukung pilihan dan transparansi, se
 
 
 ;Learn more at {{mozilla_org_link}}
-Pelajari lebih lanjut pada {{mozilla_org_link}}
+Pelajari lebih lanjut di {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
@@ -126,7 +126,7 @@ Cepat. Pintar. Milik Anda
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Beralihlah ke Firefox dan bergabunglah bersama kekuatan<br>ribuan juta pengguna Firefox pada desktop dan perangkat bergerak.
+Beralihlah ke Firefox dan bergabunglah bersama kekuatan<br>ribuan juta pengguna Firefox pada desktop dan perangkat seluler.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
@@ -146,12 +146,12 @@ Memperkenalkan<br>Firefox untuk iOS<br>Unduh sekarang juga!
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Desain visual tab yang intuitif
+Desain tab visual yang intuitif
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-Cari dengan cepat dan atur<br>tab peramban Anda yang terbuka
+Cari dengan cepat dan kelola<br>tab peramban Anda yang terbuka
 
 
 # Screenshot text, displayed as a bold title
@@ -166,12 +166,12 @@ Dapatkan hasil yang akurat, prediktif, <br>sebelum Anda selesai mengetik
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-Penjelajahan tanpa gangguan <br>dengan Sinkronisasi
+Penjelajahan tanpa gangguan <br>dengan Sync
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-Dapatkan akses cepat ke markah, <br>riwayat, tab terbuka, dan kata sandi <br>dimanapun Anda menggunakan Firefox
+Dapatkan akses cepat ke markah, <br>riwayat, tab terbuka, dan kata sandi <br>di mana saja Anda menggunakan Firefox
 
 
 # Screenshot text, displayed as a bold title
@@ -181,12 +181,12 @@ Penjelajahan Pribadi
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Make specific tabs private and browse<br>the Web without your history being saved
-Buatlah suatu tab spesifik menjadi pribadi dan jelajahi<br>Web tanpa menyimpan riwayat
+Buatlah tab tertentu menjadi pribadi dan jelajahi<br>Web tanpa menyimpan riwayat
 
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
-internet,safari,chrome,opera,explorer,pencarian,adblock,flash,jelajah,penjelajahan,incognito,pribadi,jelajah
+internet,safari,chrome,opera,explorer,pencarian,adblock,flash,browser,browsing,incognito,pribadi
 
 
 # Copyright notice on the page
