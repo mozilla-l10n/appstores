@@ -2,7 +2,7 @@
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Navegador web Firefox
 
 
 ;Experience a fast, smart and personal Web.
@@ -19,7 +19,7 @@ Hundreds of millions of people around the world use Firefox on desktop for a mor
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+RÁPIDO. INTELIGENTE. TUYO.
 
 
 ;Firefox is made with you in mind. That’s why we design the product with smart features that take the guesswork out of browsing.
@@ -28,7 +28,7 @@ Firefox is made with you in mind. That’s why we design the product with smart 
 
 # Slogan in uppercase, displayed as a category title
 ;GET THERE FASTER WITH INTELLIGENT SEARCH
-GET THERE FASTER WITH INTELLIGENT SEARCH
+NAVEGA MÁS RÁPIDO CON BÚSQUEDA INTELIGENTE
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
@@ -37,7 +37,7 @@ Firefox anticipates your needs and intuitively provides multiple suggested and p
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+ACCESO SENCILLO A TUS SITIOS PREFERIDOS
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
@@ -46,7 +46,7 @@ Spend your time reading your favorites sites instead of looking for them.
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+SINCRONIZA FIREFOX ENTRE TUS DISPOSITIVOS
 
 
 ;With a Firefox Account, access your history and open tabs everywhere you use Firefox.
@@ -59,7 +59,7 @@ Firefox also safely remembers your passwords across devices so you don’t have 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE NUMBERED TABS
-INTUITIVE NUMBERED TABS
+INTUITIVAS PESTAÑAS NUMERADAS
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
@@ -121,7 +121,7 @@ Privacy Policy: {{privacy_link}}
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Rápido. Inteligente. Tuyo
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
@@ -141,37 +141,37 @@ Upgrade to Firefox and join<br>hundreds of millions of Firefox users
 
 # Adjust line break tag position (<br>) for your language
 ;Announcing<br>Firefox for iOS<br>Download now!
-Announcing<br>Firefox for iOS<br>Download now!
+Anunciamos<br>Firefox para iOS<br>¡Descárgalo ahora!
 
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Intuitive visual tab design
+Intuitivo diseño de pestañas visual
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-Quickly find and manage<br>your open browser tabs
+Busca entre tus pestañas<br>abiertas y adminístralas con facilidad
 
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Intelligent searches
+Búsquedas inteligentes
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-Get accurate, predictive results <br>before you finish typing
+Recibes resultados correctos y predicibles <br>antes de terminar de teclar
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-Seamless browsing <br>with Sync
+Navegación eficiente <br>con Sync
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Accede a los marcadores<br> el historial, las pestañas abiertas y las contraseñas <br>en todo lugar que usas Firefox
 
 
 # Screenshot text, displayed as a bold title
@@ -181,21 +181,21 @@ Navegación privada
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Make specific tabs private and browse<br>the Web without your history being saved
-Make specific tabs private and browse<br>the Web without your history being saved
+Clasifica ciertas pestañas como privadas y navega<br>la Web sin que se guarde en el historial
 
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
-internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
+internet,safari,chrome,opera,explorer,búsqueda,adblock,flash,navegador,navegación,incógnito,privado,navegar
 
 
 # Copyright notice on the page
 ;© Mozilla and its contributors {{year}}
-© Mozilla and its contributors {{year}}
+© Mozilla y sus contribuidores {{year}}
 
 
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
-This update contains stability improvements and bug fixes.
+Esta actualización contiene mejor stabilidad y soluciones de bugs.
 
 
