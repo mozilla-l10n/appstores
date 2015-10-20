@@ -3,24 +3,24 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android
-Firefox per Android
+Firefox pentru Android
 
 
 ;Firefox Web Browser
-Browser web Firefox
+Browserul web Firefox
 
 
 # This is the short tagline for the app on Google Play
 ;Fast. Free. Uniquely yours. Browse the Web your way with Firefox.
-Veloce. Gratuito. Unicamente tuo. Naviga sul Web come desideri con Firefox.
+Rapid. Gratuit. Personalizabil. Navighează pe web în felul tău cu Firefox.
 
 
 ;Experience a fast, smart and personal Web.
-Scopri un Web veloce, intelligente e personalizzato.
+Experimentează un web rapid, inteligent și personal.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Realizzato da Mozilla, votata come società Internet più attenta alla privacy, Firefox è il browser independente che mette le persone al primo posto.
+Firefox este browserul independent care pune oamenii pe primul loc, realizat de Mozilla, votată cea mai de încredere companie de pe internet pentru confidențialitate.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
@@ -29,7 +29,7 @@ Upgrade today and join hundreds of millions who depend on Firefox for a more per
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-VELOCE. INTELLIGENTE. PERSONALIZZATO.
+RAPID. INTELIGENT. AL TĂU.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
@@ -46,7 +46,7 @@ SEARCH INTELLIGENTLY & GET THERE FASTER
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox è in grado di anticipare le tue necessità, proponendoti in modo intuitivo suggerimenti e risultati di ricerche precedenti su tutti i tuoi motori di ricerca preferiti.
+Firefox anticipează nevoile tale și-ți oferă în mod intuitiv rezultate sugerate și căutate anterior în cadrul motoarelor tale de căutare favorite. De fiecare dată.
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
@@ -68,7 +68,7 @@ Private Browsing with Tracking Protection blocks parts of Web pages that may tra
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SINCRONIZZA FIREFOX SU TUTTI I TUOI DISPOSITIVI
+SINCRONIZEAZĂ FIREFOX PE DISPOZITIVELE TALE
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
@@ -76,7 +76,7 @@ With a Firefox Account, access your history, bookmarks and open tabs from your d
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Non c'è bisogno di memorizzare le password: Firefox lo farà al tuo posto, conservandole in modo sicuro su tutti i tuoi dispositivi.
+De asemenea, Firefox reține în siguranță parolele tale pe toate dispozitivele încât să nu trebuiască să o faci tu.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -85,20 +85,20 @@ INTUITIVE VISUAL TABS
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Un design intuitivo con schede numerate ti permette di ritrovare facilmente i contenuti che ti interessano.
+Filele intuitive vizual și numerotate îți permit să găsești conținut interesant pentru viitor.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Apri tutte le schede di cui hai bisogno senza perdere di vista le pagine web che stai visitando
+Deschide câte file dorești fără să pierzi evidența asupra paginilor web deschise.
 
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-ACCESSO RAPIDO AI SITI PIÙ VISITATI
+ACCES FACIL LA SITE-URILE TALE DE TOP
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Perché sprecare tempo a cercare i tuoi siti preferiti, quando puoi accedervi in un attimo?
+Petrece-ți timpul citind site-urile favorite în loc să le cauți.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -129,87 +129,87 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 
 ;Learn more about Firefox for Android:
-Ulteriori informazioni su Firefox per Android:
+Află mai multe despre Firefox pentru Android:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Hai bisogno d’aiuto? Visita {{support_link}}
+Ai întrebări sau ai nevoie de ajutor? Vizitează {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Informazioni sui permessi di Firefox: {{permission_link}}
+Citește despre permisiunile Firefox: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Scopri le ultime novità dal mondo Mozilla: {{blog_link}}
+Află mai multe despre ceea ce se întâmplă la Mozilla: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Dai un “Mi piace” alla pagina Facebook di Firefox: {{facebook_link}}
+Apreciază Firefox pe Facebook: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Segui @Firefox su Twitter: {{twitter_link}}
+Urmărește Firefox pe Twitter: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-Informazioni su Mozilla
+DESPRE MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla esiste per garantire che Internet rimanga una risorsa pubblica e accessibile a tutti. Crediamo che una realtà aperta, gratuita e libera sia preferibile a una chiusa e costantemente sotto controllo.
+Mozilla există cu scopul de a transforma internetul într-o resursă publică globală accesibilă tuturor deoarece credem că deschiderea și libertatea reprezintă valori fundamentale.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-Realizziamo prodotti come Firefox per promuovere la libertà di scelta e la trasparenza, per garantire alle persone il pieno controllo della propria vita online.
+Construim produse ca Firefox pentru a promova alegerea și transparența și pentru a oferi oamenilor mai mult control asupra vieților lor online.
 
 
 ;Learn more at {{mozilla_org_link}}
-Per ulteriori informazioni visita {{mozilla_org_link}}
+Află mai multe la {{mozilla_org_link}}
 
 
 # Title of screenshot
 ;Next level privacy
-Il prossimo livello di privacy
+Next level privacy
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
-La Navigazione anonima con <br>protezione antitracciamento blocca gli elementi <br>che monitorano la tua attività sui siti visitati
+Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
 
 
 # Title of screenshot
 ;Add-ons for everything
-Un componente aggiuntivo per tutto
+Add-ons for everything
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
-Personalizza il tuo browser con <br>componenti aggiuntivi per bloccare pubblicità, <br>gestire password, download e molto altro ancora.
+Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
 
 
 # Title of screenshot
 ;Quick Share
-Condivisione rapida
+Partajare rapidă
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
-Firefox memorizza le app <br>che hai utilizzato di recente <br>per soddisfare ogni tua esigenza
+Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
 
 
 # Title of screenshot
 ;Send to device
-Invia a dispositivo
+Send to device
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
-Invia video e contenuti web <br>da smartphone o tablet <br>a qualsiasi dispositivo compatibile
+Send video and Web content from <br>your smartphone or tablet <br>to any supported device
 
 
