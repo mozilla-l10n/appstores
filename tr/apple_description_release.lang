@@ -2,15 +2,15 @@
 
 
 ;Firefox Web Browser
-Firefox 网络浏览器
+Firefox Web Browser
 
 
 ;Experience a fast, smart and personal Web.
-体验快速、智能、个性化的网络。
+Experience a fast, smart and personal Web.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox 是由独立、以人为本的 Mozilla 制作的浏览器，曾获选隐私方面最值得信赖的互联网公司。
+Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
@@ -19,7 +19,7 @@ Upgrade today and join hundreds of millions who depend on Firefox for a more per
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-快速、智能、个性。
+FAST. SMART. YOURS.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
@@ -36,7 +36,7 @@ SEARCH INTELLIGENTLY & GET THERE FASTER
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox 能预测你的需求，每次都直观的在你喜欢的搜索引擎上提供多项建议及以前搜索过的结果。
+Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
@@ -65,7 +65,7 @@ iOS 9 required for Private Browsing mode
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-在您的设备间同步 Firefox
+SYNC FIREFOX ACROSS YOUR DEVICES
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
@@ -73,7 +73,7 @@ With a Firefox Account, access your history, bookmarks and open tabs from your d
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox 也可以安全的记住您的密码，跨越各个设备，省去输入时间。
+Firefox also safely remembers your passwords across devices so you don’t have to.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -82,148 +82,148 @@ INTUITIVE VISUAL TABS
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-直观的可视化且数字编号的标签页，让您可以轻松在未来找到想要的内容。
+Intuitive visual and numbered tabs easily let you find content for future reference.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-随你喜欢打开许多标签页，无需担心丢失已打开的网页。
+Open as many tabs as you like without losing track of your open Web pages.
 
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-轻松访问常用网站
+EASY ACCESS TO YOUR TOP SITES
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-将时间花在阅读你喜欢的网站，而不是你找它们。
+Spend your time reading your favorites sites instead of looking for them.
 
 
 ;Learn more about Firefox for iOS:
-了解更多有关 Firefox for iOS：
+Learn more about Firefox for iOS:
 
 
 ;Have questions or need help? Visit {{support_link}}
-有疑问或者需要帮助？访问 {{support_link}}
+Sorularınız veya yardıma ihtiyacınız mı var? {{support_link}} adresine gidin.
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-了解有关 Firefox 权限：{{permission_link}}
+Firefox izinleri hakkında bilgi alın: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-了解有关 Mozilla 的新鲜事：{{blog_link}}
+Mozilla’da neler olup bittiğini öğrenin: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-在 Facebook 上赞 Firefox：{{facebook_link}}
+Firefox’u Facebook’ta beğenin: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-在 Twitter 上关注 Firefox：{{twitter_link}}
+Firefox’u Twitter’da takip edin: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-关于 Mozilla
+MOZILLA HAKKINDA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla 的存在是为了将互联网建设为面向所有人可用的公共资源，因为我们相信，开放和免费优于封闭和管控。
+Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-我们打造了 Firefox 等产品，以促进可选性和透明度，为人们的网上生活提供更多掌控。
+We build products like Firefox to promote choice and transparency and give people more control over their lives online.
 
 
 ;Learn more at {{mozilla_org_link}}
-访问 {{mozilla_org_link}} 了解更多信息
+Learn more at {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-隐私政策：{{privacy_link}}
+Privacy Policy: {{privacy_link}}
 
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-快速 · 智能 · 个性
+Fast. Smart. Yours
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-升级到强有力的 Firefox<br>并加入数以亿计的 Firefox<br>桌面版和移动版用户的行列。
+Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-升级到强有力的 Firefox<br>并加入数以亿计的 Firefox 用户行列
+Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-升级到 Firefox 并加入<br>数以亿计的 Firefox 用户行列
+Upgrade to Firefox and join<br>hundreds of millions of Firefox users
 
 
 # Adjust line break tag position (<br>) for your language
 ;Announcing<br>Firefox for iOS<br>Download now!
-正式宣布<br>Firefox for iOS<br>即刻下载！
+Announcing<br>Firefox for iOS<br>Download now!
 
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-直观的可视化标签页设计
+Intuitive visual tab design
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-快捷查找和管理<br>已打开的标签页
+Quickly find and manage<br>your open browser tabs
 
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-智能搜索
+Intelligent searches
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-在输入完成之前<br>就获得精准的预测结果
+Get accurate, predictive results <br>before you finish typing
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-使用“同步”<br>无缝浏览
+Seamless browsing <br>with Sync
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-即时访问您的书签、历史记录<br>以及已打开的标签页，还有密码<br>无论您是在哪里使用 Firefox
+Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
 
 
 # Screenshot text, displayed as a bold title
 ;Private Browsing
-隐私浏览
+Gizli tarama
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Make specific tabs private and browse<br>the Web without your history being saved
-使特定标签页变为隐私浏览<br>不保存您浏览该网站的历史记录
+Make specific tabs private and browse<br>the Web without your history being saved
 
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
-internet,safari,chrome,opera,adblock,flash,互联网,浏览器,火狐,浏览,搜索,上网,广告屏蔽,隐私,隐身,无痕
+internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
 
 
 # Copyright notice on the page
 ;© Mozilla and its contributors {{year}}
-© Mozilla 与贡献者 {{year}}
+© Mozilla and its contributors {{year}}
 
 
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
-此更新包含稳定性改进和问题修复。
+This update contains stability improvements and bug fixes.
 
 

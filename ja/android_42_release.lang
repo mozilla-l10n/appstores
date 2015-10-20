@@ -1,4 +1,176 @@
-## NOTE: this is the text used on Android #42, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/en-US
+## NOTE: this is the text used on Android #42, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/google/next/
+
+
+# Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
+;Firefox for Android
+Android 版 Firefox
+
+
+;Firefox Web Browser
+Firefox Web ブラウザ
+
+
+# This is the short tagline for the app on Google Play
+;Fast. Free. Uniquely yours. Browse the Web your way with Firefox.
+高速。自由。一人ひとりに最適化。Firefox で思いのままに Web をブラウジング。
+
+
+;Experience a fast, smart and personal Web.
+高速、スマート、パーソナルな Web を体験。
+
+
+;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox は、プライバシーに関して最も信頼されるインターネット企業に選ばれた Mozilla が開発している、独立を貫きユーザ第一を掲げたブラウザです。
+
+
+;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+
+
+# Slogan in uppercase, displayed as a category title
+;FAST. SMART. YOURS.
+高速。スマート。パーソナル。
+
+
+;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+
+
+;That’s why we design the product with smart features that take the guesswork out of browsing.
+That’s why we design the product with smart features that take the guesswork out of browsing.
+
+
+# Slogan in uppercase, displayed as a category title
+;SEARCH INTELLIGENTLY & GET THERE FASTER
+SEARCH INTELLIGENTLY & GET THERE FASTER
+
+
+;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox はあなたのニーズを見越して、気に入ったいくつかの検索エンジンから複数の推測候補や過去の検索結果を直感的に表示します。毎回検索に掛ける時間が格段に短くなります。
+
+
+;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+
+
+# Slogan in uppercase, displayed as a category title
+;NEXT LEVEL PRIVACY
+NEXT LEVEL PRIVACY
+
+
+;Your privacy has been upgraded.
+Your privacy has been upgraded.
+
+
+;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+
+
+# Slogan in uppercase, displayed as a category title
+;SYNC FIREFOX ACROSS YOUR DEVICES
+複数の端末で Firefox の設定を同期
+
+
+;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+
+
+;Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox は記憶されたパスワードも安全に同期してくれるので、自分で覚えておく必要はもうありません。
+
+
+# Slogan in uppercase, displayed as a category title
+;INTUITIVE VISUAL TABS
+INTUITIVE VISUAL TABS
+
+
+;Intuitive visual and numbered tabs easily let you find content for future reference.
+直感的な視覚効果と番号付きタブで、コンテンツを後で見直したいときも簡単に見つけられます。
+
+
+;Open as many tabs as you like without losing track of your open Web pages.
+開いている Web ページを見失うことなく、いくつでも好きなだけタブを開けます。
+
+
+# Slogan in uppercase, displayed as a category title
+;EASY ACCESS TO YOUR TOP SITES
+よく訪れるサイトへ簡単アクセス
+
+
+;Spend your time reading your favorites sites instead of looking for them.
+お気に入りのサイトを探すためでなく、楽しむために時間を費やしましょう。
+
+
+# Slogan in uppercase, displayed as a category title
+;ADD-ONS FOR EVERYTHING
+ADD-ONS FOR EVERYTHING
+
+
+;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+
+
+# Slogan in uppercase, displayed as a category title
+;QUICK SHARE
+QUICK SHARE
+
+
+;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+
+
+# Slogan in uppercase, displayed as a category title
+;TAKE IT TO THE BIG SCREEN
+TAKE IT TO THE BIG SCREEN
+
+
+;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+
+
+;Learn more about Firefox for Android:
+Android 版 Firefox の詳細:
+
+
+;Have questions or need help? Visit {{support_link}}
+質問があるときやサポートが必要な場合は {{support_link}} を訪れてください
+
+
+# Bulleted list item
+;Read about Firefox permissions: {{permission_link}}
+Firefox が求める許可設定: {{permission_link}}
+
+
+# Bulleted list item
+;Learn more about what’s up at Mozilla: {{blog_link}}
+Mozilla の最新情報: {{blog_link}}
+
+
+# Bulleted list item
+;Like Firefox on Facebook: {{facebook_link}}
+Facebook で Firefox にいいね！: {{facebook_link}}
+
+
+# Bulleted list item
+;Follow Firefox on Twitter: {{twitter_link}}
+Twitter で Firefox をフォロー: {{twitter_link}}
+
+
+# Slogan in uppercase, displayed as a category title
+;ABOUT MOZILLA
+Mozilla について
+
+
+;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla は、開かれた自由な世界が閉鎖的で管理された世界より良いと信じ、誰でもアクセス可能な公共資源としてインターネットを構築するために存在しています。
+
+
+;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+私たちは、選択肢を広げ透明性を高めるとともに、消費者が自らインターネット生活のあり方を決められるよう、Firefox を始めとする製品を開発しています。
+
+
+;Learn more at {{mozilla_org_link}}
+詳しくは {{mozilla_org_link}} をご覧ください。
 
 
 # Title of screenshot

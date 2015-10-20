@@ -1,4 +1,176 @@
-## NOTE: this is the text used on Android #42, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/en-US
+## NOTE: this is the text used on Android #42, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/google/next/
+
+
+# Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
+;Firefox for Android
+Firefox pour Android
+
+
+;Firefox Web Browser
+Navigateur web Firefox
+
+
+# This is the short tagline for the app on Google Play
+;Fast. Free. Uniquely yours. Browse the Web your way with Firefox.
+Rapide. Gratuit. Personnalisable. Naviguez à votre manière avec Firefox.
+
+
+;Experience a fast, smart and personal Web.
+Profitez d’un Web rapide, intelligent et personnel.
+
+
+;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Indépendant et fièrement au service de ses utilisateurs, Firefox est le navigateur créé par Mozilla, Entreprise Internet élue la plus fiable en matière de respect de la vie privée.
+
+
+;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+
+
+# Slogan in uppercase, displayed as a category title
+;FAST. SMART. YOURS.
+VIF. FUTÉ. PRIVÉ.
+
+
+;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+
+
+;That’s why we design the product with smart features that take the guesswork out of browsing.
+That’s why we design the product with smart features that take the guesswork out of browsing.
+
+
+# Slogan in uppercase, displayed as a category title
+;SEARCH INTELLIGENTLY & GET THERE FASTER
+SEARCH INTELLIGENTLY & GET THERE FASTER
+
+
+;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox anticipe toujours vos besoins et vous fournit intuitivement des suggestions et résultats liés à vos recherches précédentes sur vos moteurs de recherche préférés.
+
+
+;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+
+
+# Slogan in uppercase, displayed as a category title
+;NEXT LEVEL PRIVACY
+NEXT LEVEL PRIVACY
+
+
+;Your privacy has been upgraded.
+Your privacy has been upgraded.
+
+
+;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+
+
+# Slogan in uppercase, displayed as a category title
+;SYNC FIREFOX ACROSS YOUR DEVICES
+SYNCHRONISEZ FIREFOX SUR TOUS VOS APPAREILS
+
+
+;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+
+
+;Firefox also safely remembers your passwords across devices so you don’t have to.
+D’un appareil à l’autre, Firefox se souviendra pour vous de vos mots de passe, de façon sécurisée.
+
+
+# Slogan in uppercase, displayed as a category title
+;INTUITIVE VISUAL TABS
+INTUITIVE VISUAL TABS
+
+
+;Intuitive visual and numbered tabs easily let you find content for future reference.
+Pour consulter plus tard les pages qui vous intéressent, vous avez au bout des doigts des onglets numérotés et faciles à repérer.
+
+
+;Open as many tabs as you like without losing track of your open Web pages.
+Ouvrez-en autant que vous le désirez sans perdre le fil de votre navigation.
+
+
+# Slogan in uppercase, displayed as a category title
+;EASY ACCESS TO YOUR TOP SITES
+ACCÉDEZ FACILEMENT À TOUS VOS SITES PRÉFÉRÉS
+
+
+;Spend your time reading your favorites sites instead of looking for them.
+Passez moins de temps à chercher vos sites préférés et plus de temps à les consulter.
+
+
+# Slogan in uppercase, displayed as a category title
+;ADD-ONS FOR EVERYTHING
+ADD-ONS FOR EVERYTHING
+
+
+;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+
+
+# Slogan in uppercase, displayed as a category title
+;QUICK SHARE
+QUICK SHARE
+
+
+;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+
+
+# Slogan in uppercase, displayed as a category title
+;TAKE IT TO THE BIG SCREEN
+TAKE IT TO THE BIG SCREEN
+
+
+;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+
+
+;Learn more about Firefox for Android:
+Apprenez-en davantage sur Firefox pour Android :
+
+
+;Have questions or need help? Visit {{support_link}}
+Vous avez des questions ou avez besoin d'aide ? Visitez {{support_link}}
+
+
+# Bulleted list item
+;Read about Firefox permissions: {{permission_link}}
+À propos des permissions de Firefox : {{permission_link}}
+
+
+# Bulleted list item
+;Learn more about what’s up at Mozilla: {{blog_link}}
+Apprenez-en davantage sur ce qu'il se passe chez Mozilla : {{blog_link}}
+
+
+# Bulleted list item
+;Like Firefox on Facebook: {{facebook_link}}
+Aimez la page Facebook de Firefox : {{facebook_link}}
+
+
+# Bulleted list item
+;Follow Firefox on Twitter: {{twitter_link}}
+Suivez-nous sur Twitter : {{twitter_link}}
+
+
+# Slogan in uppercase, displayed as a category title
+;ABOUT MOZILLA
+À PROPOS DE MOZILLA
+
+
+;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Parce que nous pensons que l’ouverture et la liberté sont des valeurs fondamentales, Mozilla s’est donné pour mission de transformer Internet en une ressource publique accessible à tous et pour tous.
+
+
+;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Le respect du choix et la transparence sont au cœur de tous nos développements. C’est pour cela que nous créons des logiciels tels que Firefox, afin de permettre aux utilisateurs de mieux contrôler leur vie numérique.
+
+
+;Learn more at {{mozilla_org_link}}
+Apprenez-en davantage sur {{mozilla_org_link}}
 
 
 # Title of screenshot
