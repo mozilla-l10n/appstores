@@ -14,7 +14,7 @@ Firefox es el navegador independiente y humano desarrollado por Mozilla, el cual
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Actualiza hoy y únete a cientos de millones quienes dependen de Firefox para una experiencia de navegación personal.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -23,16 +23,16 @@ RÁPIDO. INTELIGENTE. TUYO.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox se ha creado contigo en mente y te da poder para tomar de regreso el control de tu experiencia web.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
-That’s why we design the product with smart features that take the guesswork out of browsing.
+Por eso diseñamos el producto con características inteligentes que no te dejan adivinando.
 
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+BUSCA INTELIGENTEMENTE Y LLEGA MÁS RÁPIDAMENTE
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
@@ -40,27 +40,24 @@ Firefox anticipa tus necesidades y provee de forma intuitiva varios resultados d
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
-Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Accede accesos directos a proveedores de búsqueda como Wikipedia, Twitter y Amazon.
 
 
 ;BROWSE PRIVATELY
-BROWSE PRIVATELY
+NAVEGA EN FORMA PRIVADA
 
 
 ;Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
-Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
-
+tu información personal te pertenece. En el modo de Navegación Privado, Firefox no recordará nada de tu historial o cookies, pero marcadores nuevos se guardarán.
 
 ;Delete your browsing history, passwords and more in a single tap.
-Delete your browsing history, passwords and more in a single tap.
-
+Borra tu historial de navegación, contraseñas y más en un solo clic.
 
 ;Choose the private data you want to remove.
-Choose the private data you want to remove.
-
+Elige los datos privados que quieres eliminar.
 
 ;iOS 9 required for Private Browsing mode
-iOS 9 required for Private Browsing mode
+Se requiere iOS 9 para el modo de navegación privada.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -69,7 +66,7 @@ SINCRONIZA FIREFOX ENTRE TUS DISPOSITIVOS
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+Con una cuenta de Firefox, accede tu historial, marcadores y pestañas abiertas de tu escritorio, en tu teléfono inteligente y tu tableta.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
@@ -78,7 +75,7 @@ Firefox también recuerda tus contraseñas seguramente a través de los disposit
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE VISUAL TABS
-INTUITIVE VISUAL TABS
+PESTAÑAS INTUITIVAS Y VISUALES
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
@@ -132,12 +129,10 @@ ACERCA DE MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-
+Mozilla existe para desarrollar el Internet como un recurso público accesible a todos porque creemos que abierto y gratis es mejor que cerrado y controlado.
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-
+Creamos productos como Firefox para promover elección y transparencia y dar a las personas más control de sus vidas en línea.
 
 ;Learn more at {{mozilla_org_link}}
 Aprende más en {{mozilla_org_link}}
@@ -224,6 +219,6 @@ internet,safari,chrome,opera,explorer,búsqueda,adblock,flash,navegador,navegaci
 
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
-Esta actualización contiene mejor stabilidad y soluciones de bugs.
+Esta actualización contiene mejor estabilidad y soluciones de bugs.
 
 
