@@ -7,7 +7,7 @@ Firefox pro Android
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Prohlížeč Firefox
 
 
 # This is the short tagline for the app on Google Play
@@ -55,7 +55,7 @@ Easily access shortcuts to search providers including Wikipedia, Twitter and Ama
 
 # Slogan in uppercase, displayed as a category title
 ;NEXT LEVEL PRIVACY
-NEXT LEVEL PRIVACY
+VYŠŠÍ ÚROVEŇ SOUKROMÍ
 
 
 ;Your privacy has been upgraded.
@@ -125,7 +125,7 @@ TAKE IT TO THE BIG SCREEN
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
-Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Zobrazujte video a obsah z internetu z vašeho chytrého telefonu nebo tabletu na jakékoliv televizi s možností streamování.
 
 
 ;Learn more about Firefox for Android:
@@ -170,12 +170,12 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Zjistěte více na {{mozilla_org_link}}
 
 
 # Title of screenshot
 ;Next level privacy
-Next level privacy
+Vyšší úroveň soukromí
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -205,11 +205,11 @@ Firefox remembers your recently <br>used apps to help you get the <br>word out t
 
 # Title of screenshot
 ;Send to device
-Send to device
+Odeslat do zařízení
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
-Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+Zobrazujte video a obsah z internetu <br>z vašeho chytrého telefonu nebo tabletu <br>na jakémkoliv podporovaném zařízení
 
 
