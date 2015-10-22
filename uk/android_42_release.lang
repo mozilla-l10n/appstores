@@ -68,64 +68,64 @@ Firefox передбачає ваші потреби та інтуїтивно �
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+СИНХРОНІЗУЙТЕ FIREFOX НА ВСІХ СВОЇХ ПРИСТРОЯХ
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+З обліковим записом Firefox отримуйте доступ до історії, закладок та відкритих вкладок свого настільного комп'ютера на смартфоні та планшеті.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox також надійно запам'ятовує ваші паролі на всіх пристроях, отже вам не слід про це хвилюватися.
 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE VISUAL TABS
-INTUITIVE VISUAL TABS
+ІНТУЇТИВНІ ВІЗУАЛЬНІ ВКЛАДКИ
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Intuitive visual and numbered tabs easily let you find content for future reference.
+Інтуїтивні візуальні та нумеровані вкладки дозволяють вам легко знаходити вміст для подальшого використання.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Open as many tabs as you like without losing track of your open Web pages.
+Відкривайте стільки вкладок, скільки забажаєте, не втрачаючи відкритих веб-сторінок.
 
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+ЛЕГКИЙ ДОСТУП ДО ВАШИХ ЧАСТИХ САЙТІВ
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Spend your time reading your favorites sites instead of looking for them.
+Витрачайте свій час на читання улюблених сайтів, а не на їх пошук.
 
 
 # Slogan in uppercase, displayed as a category title
 ;ADD-ONS FOR EVERYTHING
-ADD-ONS FOR EVERYTHING
+ДОДАТКИ ДЛЯ ЧОГО-ЗАВГОДНО
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
-Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+Тримайте контроль над своєю роботою в мережі, шляхом персоналізації Firefox додатками для блокування реклами, менеджерами паролів та завантажень і багатьох інших.
 
 
 # Slogan in uppercase, displayed as a category title
 ;QUICK SHARE
-QUICK SHARE
+ШВИДКЕ ПОШИРЕННЯ
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
-Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox пам'ятає ваші нещодавно використані програми, щоб допомогти вам легко ділитися вмістом у Facebook, Twitter, WhatsApp, Skype та інших.
 
 
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
-TAKE IT TO THE BIG SCREEN
+ПОКАЖІТЬ ЙОГО НА ВЕЛИКОМУ ЕКРАНІ
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
-Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Відправляйте відео та веб-вміст зі свого смартфона чи планшета на будь-який телевізор з підтримкою потокового відео.
 
 
 ;Learn more about Firefox for Android:
@@ -148,7 +148,7 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Вподобати Firefox на Facebook: {{facebook_link}}
+Вподобайте Firefox на Facebook: {{facebook_link}}
 
 
 # Bulleted list item
@@ -162,35 +162,35 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla існує щоб створювати Інтернет як доступний всім громадський ресурс, тому що ми віримо в те, що відкритість і свобода є кращими, ніж закритість і контрольованість.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Ми створюємо продукти на зразок Firefox для поширення вибору і прозорості, а також щоб дати людям більше контролю над їх життям в Інтернеті.
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Докладніше на {{mozilla_org_link}}
 
 
 # Title of screenshot
 ;Next level privacy
-Next level privacy
+Новий рівень приватності
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
-Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
+Приватний перегляд із захистом <br>від стеження блокує частини веб-сторінок, <br>які можуть відстежувати вашу діяльність в Інтернеті
 
 
 # Title of screenshot
 ;Add-ons for everything
-Add-ons for everything
+Додатки для чого-завгодно
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
-Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
+Персоналізуйте свій веб-браузер <br>додатками для блокування реклами, менеджерами <br>паролів та завантажень і багатьох інших.
 
 
 # Title of screenshot
@@ -200,16 +200,16 @@ Personalize your Web browser with <br>add-ons like ad blockers, password <br>and
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
-Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+Firefox пам'ятає ваші нещодавно <br>використані програми, щоб допомогти вам <br>легко ділитися вмістом так, як ви хочете
 
 
 # Title of screenshot
 ;Send to device
-Send to device
+Надіслати на пристрій
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
-Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+Відправляйте відео та веб-вміст зі свого <br>смартфона чи планшета на будь-який <br>підтримуваний пристрій
 
 
