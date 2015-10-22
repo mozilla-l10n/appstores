@@ -46,11 +46,11 @@ Firefox створений з думкою про вас і дає вам вла
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox передбачає ваші потреби та інтуїтивно надає численні пропоновані результати з попередніх пошукових запитів для ваших улюблених засобів пошуку. Щоразу.
+Firefox передбачає ваші потреби та інтуїтивно надає численні пропоновані результати з попередніх пошукових запитів для ваших улюблених засобів пошуку.
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
-Ярлики швидкого доступу до провайдерів пошуку, включаючи Wikipedia, Twitter та Amazon.
+Швидкий доступ до провайдерів пошуку, включаючи Wikipedia, Twitter та Amazon.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -121,7 +121,7 @@ Firefox пам'ятає ваші нещодавно використані пр�
 
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
-ПОКАЖІТЬ ЙОГО НА ВЕЛИКОМУ ЕКРАНІ
+ВІДПРАВТЕ ЙОГО НА ВЕЛИКИЙ ЕКРАН
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
@@ -180,7 +180,7 @@ Mozilla існує щоб створювати Інтернет як досту�
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
-Приватний перегляд із захистом <br>від стеження блокує частини веб-сторінок, <br>які можуть відстежувати вашу діяльність в Інтернеті
+Приватний перегляд із захистом <br>від стеження блокує частини веб-сторінок, які <br>можуть відстежувати вашу діяльність в Інтернеті
 
 
 # Title of screenshot
