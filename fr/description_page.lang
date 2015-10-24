@@ -26,7 +26,7 @@ Modules complémentaires
 
 
 ;Customize your Home panels with the Web content you want.
-Personnalisez les panneaux de votre écran d'accueil avec le contenu web que vous souhaitez.
+Personnalisez les panneaux de votre écran d’accueil avec le contenu web que vous souhaitez.
 
 
 # Key feature title
@@ -67,11 +67,11 @@ Retirez le superflu des sites pour rendre les articles plus faciles à lire.
 
 # Key feature title
 ;Home Panels
-Panneaux de l'écran d'accueil
+Panneaux de l’écran d’accueil
 
 
 ;Display your Home panels in any order you like.
-Agencez à votre convenance les panneaux de votre écran d'accueil.
+Agencez à votre convenance les panneaux de votre écran d’accueil.
 
 
 # Key feature title
@@ -80,12 +80,12 @@ Moteurs de recherche personnalisés
 
 
 ;Add any search engine and make it your default.
-Ajoutez tous ceux que vous voulez et définissez l'un d'eux comme moteur de recherche par défaut.
+Ajoutez tous ceux que vous voulez et définissez l’un d’eux comme moteur de recherche par défaut.
 
 
 # Key feature title
 ;Language Display
-Langue d'affichage
+Langue d’affichage
 
 
 ;Change your browser language quickly and easily.
@@ -94,7 +94,7 @@ Changez la langue de votre navigateur rapidement et facilement.
 
 # Key feature title
 ;Send to Device
-Envoyer à l'appareil
+Envoyer à l’appareil
 
 
 ;Stream video content from your device to your TV.
@@ -103,7 +103,7 @@ Regardez un flux vidéo de votre appareil directement sur votre TV.
 
 # Slogan
 ;We make it Firefox. You make it your own.
-Nous créons Firefox. C'est vous qui faites le reste.
+Nous créons Firefox. C’est vous qui faites le reste.
 
 
 ;Meet our most customizable Android browser yet.
@@ -150,7 +150,7 @@ Panneaux personnalisables :
 
 
 ;Customize and display your Home panels however you like. Add new Web content any time and access your favorite feeds — like Instagram and Pocket Hits — instantly.
-Personnalisez et organisez à votre goût les panneaux de votre écran d'accueil. Ajoutez de nouveaux contenus web à tout moment et accédez instantanément à vos flux préférés comme par exemple Instagram ou Pocket Hits.
+Personnalisez et organisez à votre goût les panneaux de votre écran d’accueil. Ajoutez de nouveaux contenus web à tout moment et accédez instantanément à vos flux préférés comme par exemple Instagram ou Pocket Hits.
 
 
 ;Sync:
@@ -166,7 +166,7 @@ Modules complémentaires :
 
 
 ;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
-Personnalisez votre navigateur web comme bon vous semble à l'aide des modules complémentaires comme Ad-Blocker, Password Manager, et bien d'autres.
+Personnalisez votre navigateur web comme bon vous semble à l’aide des modules complémentaires comme Ad-Blocker, Password Manager, et bien d’autres.
 
 
 ;Speed:
@@ -190,7 +190,7 @@ HTML5 :
 
 
 ;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
-Découvrez les possibilités infinies de l'Internet mobile avec la prise en charge de HTML5 et des API Web.
+Découvrez les possibilités infinies de l’Internet mobile avec la prise en charge de HTML5 et des API Web.
 
 
 ;Mobile Video:
@@ -214,7 +214,7 @@ Apprenez-en davantage sur Firefox pour Android :
 
 
 ;Have questions or need help? Visit {{support_link}}
-Vous avez des questions ou avez besoin d'aide ? Visitez {{support_link}}
+Vous avez des questions ou avez besoin d’aide ? Visitez {{support_link}}
 
 
 # Bulleted list item
@@ -224,7 +224,7 @@ Vous avez des questions ou avez besoin d'aide ? Visitez {{support_link}}
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Apprenez-en davantage sur ce qu'il se passe chez Mozilla : {{blog_link}}
+Apprenez-en davantage sur ce qu’il se passe chez Mozilla : {{blog_link}}
 
 
 # Bulleted list item
@@ -246,7 +246,7 @@ Navigation :
 
 
 ;Adblock Plus, AutoPager, Full Screen mobile and more
-Adblock Plus, AutoPager, Full Screen mobile et d'autres
+Adblock Plus, AutoPager, Full Screen mobile et d’autres
 
 
 ;Security:
@@ -254,7 +254,7 @@ Sécurité :
 
 
 ;LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
-LastPass Password Manager, NoScript, Dr. Web LinkChecker et d'autres
+LastPass Password Manager, NoScript, Dr. Web LinkChecker et d’autres
 
 
 ;Reading:
@@ -262,7 +262,7 @@ Lecture :
 
 
 ;AutoPager, X-Notifier lite and more
-AutoPager, X-Notifier lite et d'autres
+AutoPager, X-Notifier lite et d’autres
 
 
 ;Watching:
@@ -270,7 +270,7 @@ Vidéos :
 
 
 ;Low Quality Flash, ProxTube and more
-Low Quality Flash, ProxTube et d'autres
+Low Quality Flash, ProxTube et d’autres
 
 
 ;Social Networks:
@@ -278,7 +278,7 @@ Réseaux sociaux :
 
 
 ;Shareaholic, Foursquare and more
-Shareaholic, Foursquare et d'autres
+Shareaholic, Foursquare et d’autres
 
 
 ;ABOUT MOZILLA
@@ -290,7 +290,7 @@ Mozilla est une organisation à but non lucratif qui contribue à maintenir la p
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-Nous formons une communauté mondiale d'utilisateurs, de contributeurs et de développeurs qui travaillent ensemble pour innover en votre nom.
+Nous formons une communauté mondiale d’utilisateurs, de contributeurs et de développeurs qui travaillent ensemble pour innover en votre nom.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
