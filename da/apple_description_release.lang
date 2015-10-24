@@ -1,105 +1,103 @@
-## NOTE: this is the text used on Apple AppStore to download Firefox for iOS, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/en-US/apple/release/
+## NOTE: this is the text used on Apple AppStore to download Firefox for iOS, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/da/apple/release/
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Firefox browser
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+Oplev et hurtigt, smart og personligt web.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox er den uafhængige browser, der sætter mennesket i første række. Den er udviklet af Mozilla, som er kåret the Most Trusted Internet Company for Privacy.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Opgradér i dag og slut dig til hundredvis af millioner, som stoler på Firefox til en mere personlig oplevelse på nettet.
 
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+HURTIG. SMART. DIN.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox er lavet med dig i tankerne, og giver dig styrken til at tage kontrollen over din weboplevelse.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
-That’s why we design the product with smart features that take the guesswork out of browsing.
+Det er derfor, vi designer produktet med smarte funktioner, der tager gætteriet ud af browsing.
 
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+SØG INTELLIGENT & KOM HURTIGERE FREM
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox forudser dine behov og leverer foreslåede resultater og tidligere søgte resultater fra alle dine foretrukne søgetjenester. Hver gang.
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
-Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Nem adgang til søgning, fx på Wikipedia, Twitter og Amazon.
 
 
 ;BROWSE PRIVATELY
-BROWSE PRIVATELY
+BROWSE PRIVAT
 
 
 ;Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
-Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
+Dine personlige data tilhører dig. I privat browsing-tilstand, vil Firefox ikke huske noget af din historik eller cookies, men nye bogmærker vil blive gemt.
 
 
 ;Delete your browsing history, passwords and more in a single tap.
-Delete your browsing history, passwords and more in a single tap.
+Slet din browserhistorik, adgangskoder med mere med et enkelt tryk.
 
 
 ;Choose the private data you want to remove.
-Choose the private data you want to remove.
+Vælg de private data, du vil fjerne.
 
 
 ;iOS 9 required for Private Browsing mode
-iOS 9 required for Private Browsing mode
+iOS 9 nødvendig for privat browsing-tilstand
 
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+SYNKRONISER FIREFOX MELLEM DINE ENHEDER
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+Med en Firefox-konto får du på din smartphone og tablet adgang til din computers historik, bogmærker og åbne faneblade.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox husker også sikkert dine adgangskoder mellem enheder, så du ikke behøver at gøre det.
 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE VISUAL TABS
-INTUITIVE VISUAL TABS
+INTUITIVE SYNLIGE FANEBLADE
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Intuitive visual and numbered tabs easily let you find content for future reference.
+Intuitive synlige og nummererede faneblade lader dig finde indhold til fremtidig brug.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Open as many tabs as you like without losing track of your open Web pages.
-
+Åbn så mange faneblade, som du har lyst til, uden at miste overblikket over dine åbne websider.
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+NEM ADGANG TIL DINE MEST BESØGTE WEBSTEDER
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Spend your time reading your favorites sites instead of looking for them.
-
+Brug din tid på at læse dine foretrukne websider i stedet for at lede efter dem.
 
 ;Learn more about Firefox for iOS:
-Learn more about Firefox for iOS:
+Læs mere om Firefox til iOS:
 
 
 ;Have questions or need help? Visit {{support_link}}
@@ -132,74 +130,74 @@ OM MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla er til for at bygge internettet som en offentlig ressource, der er tilgængelig for alle, fordi vi mener, at åben og fri er bedre end lukket og kontrolleret.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Vi laver produkter som Firefox for at fremme valgfrihed og gennemsigtighed, og for at give brugerne mere kontrol over deres liv online.
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Læs mere på {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Privatlivspolitik: {{privacy_link}}
 
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Hurtig. Smart. Din
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Opgradér til Firefox' styrke og slut <br>dig til hundredvis af millioner, som <br>bruger Firefox til computer og mobil.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Opgradér til Firefox' styrke og slut dig<br>til hundredvis af millioner, som bruger Firefox
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Opgradér til Firefox og slut dig til<br>hundredvis af millioner, som bruger Firefox
 
 
 # Adjust line break tag position (<br>) for your language
 ;Announcing<br>Firefox for iOS<br>Download now!
-Announcing<br>Firefox for iOS<br>Download now!
+Præsenterer<br>Firefox til iOS<br>Hent nu!
 
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Intuitive visual tab design
+Intuitivt visuelt faneblads-design
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-Quickly find and manage<br>your open browser tabs
+Find og håndtér hurtigt<br>dine faneblade
 
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Intelligent searches
+Intelligente søgninger
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-Get accurate, predictive results <br>before you finish typing
+Få nøjagtige, forudsigende resultater <br>inden du er færdig med at taste
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-Seamless browsing <br>with Sync
+Gnidningsløs browsing <br>med Sync
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Øjeblikkelig adgang til dine bogmærker, <br>historik, åbne faneblade og adgangskoder <br>overalt, hvor du bruger Firefox
 
 
 # Screenshot text, displayed as a bold title
@@ -209,21 +207,21 @@ Privat browsing
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Make specific tabs private and browse<br>the Web without your history being saved
-Make specific tabs private and browse<br>the Web without your history being saved
+Gør bestemte faneblade private, og surf på nettet<br>uden din historik bliver gemt
 
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
-internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
+internet,safari,chrome,opera,explorer,søg,reklameblokering,flash,browser,browsing,inkognito,privat,browse
 
 
 # Copyright notice on the page
 ;© Mozilla and its contributors {{year}}
-© Mozilla and its contributors {{year}}
+© Mozilla og deres bidragsydere {{year}}
 
 
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
-This update contains stability improvements and bug fixes.
+Denne opdatering indeholder stabilitetsforbedringer og rettelser.
 
 

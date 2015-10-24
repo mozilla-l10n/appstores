@@ -1,4 +1,4 @@
-## NOTE: this is the text used on Android #42, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/google/next/
+## NOTE: this is the text used on Android #42, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/da/google/next/
 
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
@@ -7,7 +7,7 @@ Firefox til Android
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Firefox browser
 
 
 # This is the short tagline for the app on Google Play
@@ -16,116 +16,116 @@ Hurtig. Gratis. Din helt egen. Brug nettet på din måde med Firefox.
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+Oplev et hurtigt, smart og personligt web.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox er den uafhængige browser, der sætter mennesket i første række. Den er udviklet af Mozilla, som er kåret the Most Trusted Internet Company for Privacy.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Opgradér i dag og slut dig til hundredvis af millioner, som stoler på Firefox til en mere personlig oplevelse på nettet.
 
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+HURTIG. SMART. DIN.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox er lavet med dig i tankerne, og giver dig styrken til at tage kontrollen over din weboplevelse.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
-That’s why we design the product with smart features that take the guesswork out of browsing.
+Det er derfor, vi designer produktet med smarte funktioner, der tager gætteriet ud af browsing.
 
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+SØG INTELLIGENT & KOM HURTIGERE FREM
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox forudser dine behov og leverer foreslåede resultater og tidligere søgte resultater fra alle dine foretrukne søgetjenester. Hver gang.
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
-Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Nem adgang til genveje til søgeudbydere herunder Wikipedia, Twitter og Amazon.
 
 
 # Slogan in uppercase, displayed as a category title
 ;NEXT LEVEL PRIVACY
-NEXT LEVEL PRIVACY
+ET HØJERE NIVEAU AF PRIVATLIV
 
 
 ;Your privacy has been upgraded.
-Your privacy has been upgraded.
+Dit privatliv er blevet opgraderet.
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
-Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+Privat browsing med sporingsbeskyttelse blokerer dele af websider, der måske kan spore din aktivitet på nettet.
 
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+SYNKRONISER FIREFOX MELLEM DINE ENHEDER
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+Med en Firefox-konto får du på din smartphone og tablet adgang til din computers historik, bogmærker og åbne faneblade.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox husker også sikkert dine adgangskoder mellem enheder, så du ikke behøver at gøre det.
 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE VISUAL TABS
-INTUITIVE VISUAL TABS
+INTUITIVE SYNLIGE FANEBLADE
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Intuitive visual and numbered tabs easily let you find content for future reference.
+Intuitive synlige og nummererede faneblade lader dig finde indhold til fremtidig brug.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Open as many tabs as you like without losing track of your open Web pages.
+Åbn så mange faneblade, som du har lyst til, uden at miste overblikket over dine åbne websider.
 
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+NEM ADGANG TIL DINE MEST BESØGTE WEBSTEDER
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Spend your time reading your favorites sites instead of looking for them.
+Brug din tid på at læse dine foretrukne websider i stedet for at lede efter dem.
 
 
 # Slogan in uppercase, displayed as a category title
 ;ADD-ONS FOR EVERYTHING
-ADD-ONS FOR EVERYTHING
+TILFØJELSER TIL ALT
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
-Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+Tag kontrollen over din weboplevelse ved at tilpasse Firefox med tilføjelser, som fx blokerer reklamer, håndterer adgangskoder eller hentede filer med mere.
 
 
 # Slogan in uppercase, displayed as a category title
 ;QUICK SHARE
-QUICK SHARE
+QUICK SHARE {ok}
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
-Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox husker dine seneste brugte app, og gør det nemt at dele indhold på Facebook, Twitter, WhatsApp, Skype med mere.
 
 
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
-TAKE IT TO THE BIG SCREEN
+VIS DET PÅ EN STOR SKÆRM
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
-Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Send video og webindhold fra din smartphone eller tablet til ethvert TV, der er udstyret med understøttede streaming-funktioner.
 
 
 ;Learn more about Firefox for Android:
@@ -162,35 +162,35 @@ OM MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla er til for at bygge internettet som en offentlig ressource, der er tilgængelig for alle, fordi vi mener, at åben og fri er bedre end lukket og kontrolleret.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Vi laver produkter som Firefox for at fremme valgfrihed og gennemsigtighed, og for at give brugerne mere kontrol over deres liv online.
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Læs mere på {{mozilla_org_link}}
 
 
 # Title of screenshot
 ;Next level privacy
-Next level privacy
+Et højere niveau af privatliv
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
-Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
+Privat browsing med sporingsbeskyttelse<br>blokerer dele af websider, der måske<br>kan spore din aktivitet på nettet
 
 
 # Title of screenshot
 ;Add-ons for everything
-Add-ons for everything
+Tilføjelser til alt
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
-Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
+Tilpas din browser med tilføjelser<br>som fx blokerer reklamer, håndterer <br>adgangskoder og hentede filer med mere.
 
 
 # Title of screenshot
@@ -200,16 +200,16 @@ Quick Share {ok}
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
-Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+Firefox husker dine seneste <br>brugte apps, og gør det nemt for dig <br>at sprede dine budskaber
 
 
 # Title of screenshot
 ;Send to device
-Send to device
+Send til enhed
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
-Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+Send video og webindhold fra <br>din smartphone eller tablet <br>til enhver understøttet enhed
 
 
