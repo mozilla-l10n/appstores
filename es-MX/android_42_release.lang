@@ -12,7 +12,7 @@ Navegador web Firefox
 
 # This is the short tagline for the app on Google Play
 ;Fast. Free. Uniquely yours. Browse the Web your way with Firefox.
-Rápido, inteligente y seguro, el navegador oficial de Firefox para Androiid.
+Rápido, gratuito, unicamente para ti, navega la Web de la forma que quieras con Firefox.
 
 
 ;Experience a fast, smart and personal Web.
@@ -33,7 +33,7 @@ RÁPIDO. INTELIGENTE. TUYO.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox se ha creado contigo en mente y te da poder para tomar de regreso el control de tu experiencia web.
+Firefox se ha creado contigo en mente y te da poder para tomar el control de tu experiencia web.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
@@ -50,7 +50,7 @@ Firefox anticipa tus necesidades y provee de forma intuitiva varios resultados d
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
-Accede fácilmente accesos directos a proveedores de búsqueda como Wikipedia, Twitter y Amazon.
+Accede fácilmente con accesos directos a proveedores de búsqueda como Wikipedia, Twitter y Amazon.
 
 # Slogan in uppercase, displayed as a category title
 ;NEXT LEVEL PRIVACY
@@ -62,7 +62,7 @@ Tu privacidad se ha actualizado.
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
-Navegación Privada con Protección <br>contra Rastreo bloquea partes de las<br>páginas web que pueden rastrear tu actividad.
+Navegación Privada con Protección contra Rastreo bloquea partes de las páginas web que pueden rastrear tu actividad.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -74,7 +74,7 @@ SINCRONIZA FIREFOX ENTRE TUS DISPOSITIVOS
 Con una cuenta de Firefox, accede tu historial, marcadores y pestañas abiertas de tu escritorio, en tu teléfono inteligente y tu tableta.
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox también recuerda tus contraseñas seguramente a través de los dispositivos para que tú no tengas que hacerlo.
+Firefox también recuerda tus contraseñas entre dispositivos para que tú no tengas que hacerlo.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -105,7 +105,7 @@ COMPLEMENTOS PARA TODO
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
-Toma control de tu experiencia web, personalizando Firefox con complementos como bloqueadores de publicidad, administradores de contraseñas y descargas y más.
+Toma el control de tu experiencia web, personalizando Firefox con complementos como bloqueadores de publicidad, administradores de contraseñas, administradores de descargas y más.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -114,7 +114,7 @@ COMPARTE RÁPIDO
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
-Firefox recuerda tus aplicaciones utilizadas recientemente para ayudarte a compartir contenido fácilmente a Facebook, Twitter, WhatsApp, Skype y más.
+Firefox recuerda tus aplicaciones utilizadas recientemente para ayudarte a compartir contenido fácilmente en Facebook, Twitter, WhatsApp, Skype y más.
 
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
@@ -185,7 +185,7 @@ Complementos para todo
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
-Personaliza tu navegador web con complementos <br>como bloqueadores de publicidad, administradores <br>de contraseñas y descargas y más.
+Personaliza tu navegador web con complementos <br>como bloqueadores de publicidad, administradores <br>de contraseñas, administradores de descargas y más.
 
 
 # Title of screenshot
@@ -206,5 +206,3 @@ Enviar a dispositivo
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
 Manda video y contenido web de <br>tu teléfono inteligente o tableta <br>a cualquier dispositivo compatible.
-
-
