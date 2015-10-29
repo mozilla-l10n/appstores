@@ -63,73 +63,73 @@ Vaša zasebnost je nadgrajena.
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
-Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+Zasebno brskanje s sestavnimi deli za zaščito pred sledenjem na spletnih straneh, ki lahko sledijo vašemu brskanju.
 
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+SINHONIZIRAJTE FIREFOX NA VAŠIH NAPRAVAH
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+S Firefox računom dostopajte do vaše zgodovine, zaznamkov in odprtih zavihkov z vašega namizja, na vašem pametnem telefonu ali tablici.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox si prav tako varno zapomni vaša gesla na vseh napravah, zato da si vam ni treba.
 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE VISUAL TABS
-INTUITIVE VISUAL TABS
+INTUINTIVNI VIZUALNI ZAZNAMKI
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Intuitive visual and numbered tabs easily let you find content for future reference.
+Intuintivni vizualni iz oštevilčeni zaznamki vam omogočajo lahkotno iskanje vsebine za prihodnjo uporabo.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Open as many tabs as you like without losing track of your open Web pages.
+Odprite toliko zavihkov, kot želite, brez da bi izgubili nadzor nad odprtimi spletnimi stranmi.
 
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+PREPROST DOSTOP DO VAŠIH NAJBOLJ PRILJUBLJENIH STRANI
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Spend your time reading your favorites sites instead of looking for them.
+Namesto iskanja, raje svoj čas porabite za prebiranje vaših priljubljenih strani.
 
 
 # Slogan in uppercase, displayed as a category title
 ;ADD-ONS FOR EVERYTHING
-ADD-ONS FOR EVERYTHING
+DODATKI ZA VSE
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
-Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+Prevzemite nadzor nad vašim brskanje po spletu s personalizacijo brskalnika Firefox z dodatki, kot so preprečevalniki oglasov, upravljalci gesel in prenosov ter ostali.
 
 
 # Slogan in uppercase, displayed as a category title
 ;QUICK SHARE
-QUICK SHARE
+HITRO DELJENJE
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
-Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox si zapomni vaše nedavno uporabljene aplikacije ter vam pomaga enostavno deliti vsebino na Facebook, Twitter, WhatsApp, Skype in ostale.
 
 
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
-TAKE IT TO THE BIG SCREEN
+PRENESITE GA NA VELIKI ZASLON
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
-Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Pošljite video in spletno vsebino z vašega pametnega telefona ali tablice na kateri koli TV sprejemnik, opremljen in podprt z možnostmi pretočnega prenosa.
 
 
 ;Learn more about Firefox for Android:
-Spoznajte več o Firefoxu za Android:
+Izvedite več o brskalniku Firefox za Android:
 
 
 ;Have questions or need help? Visit {{support_link}}
@@ -143,7 +143,7 @@ Preberite več o dovoljenjih za Firefox: {{permission_link}}
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Spoznajte več o Mozillinih novostih: {{blog_link}}
+Izvedite več o Mozillinih novostih: {{blog_link}}
 
 
 # Bulleted list item
@@ -153,7 +153,7 @@ Všečkajte Firefox na Facebooku: {{facebook_link}}
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Sledite Firefoxu na Twitterju: {{twitter_link}}
+Sledite brskalniku Firefox na Twitterju: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
@@ -162,20 +162,20 @@ O MOZILLI
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla obstaja zato, da gradi internet kot javni vir, dostopen vsem, ker verjamemo, da je odprto in brezplačno bolje kot zaprto in nadzorovano.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Gradimo izdelke, kot je Firefox, ker s tem spodbujamo zavest o izbiri in transparentnosti ter ponujamo ljudem več nadzora nad njihovimi spletnimi življenji.
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Izvedite več na {{mozilla_org_link}}
 
 
 # Title of screenshot
 ;Next level privacy
-Next level privacy
+Zasebnost naslednje stopnje
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
