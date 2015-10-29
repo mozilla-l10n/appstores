@@ -7,7 +7,7 @@ Firefox za Android
 
 
 ;Firefox Web Browser
-Firefox brskalnik
+Firefox spletni brskalnik
 
 
 # This is the short tagline for the app on Google Play
@@ -16,7 +16,7 @@ Hiter. Brezplačen. Samo vaš. Brskajte po svoje. S Firefoxom.
 
 
 ;Experience a fast, smart and personal Web.
-Izkusite hiter, pameten in oseben splet.
+Izkusite hiter, pameten in personaliziran splet.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
@@ -24,7 +24,7 @@ Firefox je neodvisni brskalnik, uporabnikova prva izbira in prihaja s strani Moz
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Nadgradite danes in se pridružite stotim milijonom, ki zaupajo brskalniku Firefox za še bolj osebno izkušnjo brskanja po spletu.
+Nadgradite danes in se pridružite stotim milijonom, ki zaupajo brskalniku Firefox za še bolj personalizirano izkušnjo brskanja po spletu.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -33,7 +33,7 @@ HITER. PAMETEN. VAŠ.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox je bil narejen z mislijo na vas in vam vrača nadzor nad vašo izkušnjo brskanja po spletu.
+Firefox je bil narejen z mislijo na vas in vam vrača nadzor nad vašim brskanjem po spletu.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
@@ -180,7 +180,7 @@ Zasebnost naslednje stopnje
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
-Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
+Zasebno brskanje z <br>zaščito pred sledenjem<br>na straneh, ki lahko sledijo vašemu brskanju
 
 
 # Title of screenshot
