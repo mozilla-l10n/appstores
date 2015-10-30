@@ -7,7 +7,7 @@ Firefox pre Android
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Webový prehliadač Firefox
 
 
 # This is the short tagline for the app on Google Play
@@ -16,7 +16,7 @@ Rýchly. Voľne dostupný. Jedinečný. Váš. Prehliadajte web s Firefoxom.
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+Spoznajte rýchly, šikovný a osobný web.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
@@ -59,7 +59,7 @@ NEXT LEVEL PRIVACY
 
 
 ;Your privacy has been upgraded.
-Your privacy has been upgraded.
+Vaše súkromie bolo aktualizované.
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
@@ -170,12 +170,12 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Ďalšie informácie na stránke {{mozilla_org_link}}
 
 
 # Title of screenshot
 ;Next level privacy
-Next level privacy
+Vyššia úroveň súkromia
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -205,7 +205,7 @@ Firefox remembers your recently <br>used apps to help you get the <br>word out t
 
 # Title of screenshot
 ;Send to device
-Send to device
+Odoslať do zariadenia
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
