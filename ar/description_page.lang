@@ -26,7 +26,7 @@
 
 # Key feature title
 ;Quick Share
-تشارع سريع
+تشارك سريع
 
 
 ;The most adaptive way to share anything.
@@ -39,7 +39,7 @@
 
 
 ;Browse the Web without any of your history being remembered.
-تصفّح الويب من دون أن يتم تذكّر تاريخ تصفّحك
+ابحر على الويب من دون أن يتم تذكّر تاريخ تصفّحك
 
 
 # Key feature title
@@ -57,7 +57,7 @@
 
 
 ;Clear website clutter to make articles easier to read.
-تخلّص مما هو غير ضروري في الصّفحة لجعل الصّفحة أسهل للقراءة.
+تخلّص مما هو غير ضروري في الصّفحة لجعلها أسهل للقراءة.
 
 
 # Key feature title
@@ -75,7 +75,7 @@
 
 
 ;Add any search engine and make it your default.
-أضف أيّ مُحرّك بحث واجعله افتراضيًا.
+أضف أيّ مُحرّك بحث واجعله مُحرّك البحث الافتراضي.
 
 
 # Key feature title
@@ -97,7 +97,7 @@
 
 # Slogan
 ;We make it Firefox. You make it your own.
-نحن نوفّر فَيَرفُكس. استخدمه كما يحلو لك.
+نحن نُطوّر فَيَرفُكس. استخدمه كما يحلو لك.
 
 
 ;Meet our most customizable Android browser yet.
@@ -190,106 +190,104 @@ HTML5: {ok}
 
 
 ;Firefox for Android has mobile video support for a wide range of video formats, including H.264.
-Firefox for Android has mobile video support for a wide range of video formats, including H.264.
-
+يدعم فَيَرفُكس على نظام أندرويد عددًا كبيرًا من معايير الفيديو بما فيها H.264.
 
 ;Keep your browsing safe and private. Control your privacy, security and how much data you share on the Web.
-Keep your browsing safe and private. Control your privacy, security and how much data you share on the Web.
-
+تصفّح بشكل خاص وآمن. تحكّم في خصوصيّتك، في أمنك وفي مقدار البيانات التي تتشاركها على الويب.
 
 ;For a complete list of features, check out {{features_link}}
-For a complete list of features, check out {{features_link}}
+للاطّلاع على قائمة الخصائص الكاملة، قم بزيارة {{features_link}}
 
 
 ;Learn more about Firefox for Android:
-Learn more about Firefox for Android:
+اعرف المزيد حول فَيَرفُكس على نظام أندرويد
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+هل لديك أسئلة أو تحتاج إلى مُساعدة؟ قم بزيارة {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+اعرف المزيد حول تصريحات فَيَرفُكس : {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+تعرّف على ما تقوم به موزيلا: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+انضم إلى صفحتنا على فيس بوك: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+تابعنا على تويتر: {{twitter_link}}
 
 
 ;Curious about add-ons? Check them out on {{amo_link}} :
-Curious about add-ons? Check them out on {{amo_link}} :
+ترغب في معرفة المزيد حول الإضافات؟ ألق نظرة هنا {{amo_link}} :
 
 
 ;Browsing:
-Browsing:
+التّصفّح:
 
 
 ;Adblock Plus, AutoPager, Full Screen mobile and more
-Adblock Plus, AutoPager, Full Screen mobile and more
+Adblock Plus، AutoPager، Full Screen mobile والمزيد
 
 
 ;Security:
-Security:
+الأمن:
 
 
 ;LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
-LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
+LastPass Password Manager، NoScript، Dr. Web LinkChecker والمزيد
 
 
 ;Reading:
-Reading:
+القراءة:
 
 
 ;AutoPager, X-Notifier lite and more
-AutoPager, X-Notifier lite and more
+AutoPager، X-Notifier lite والمزيد
 
 
 ;Watching:
-Watching:
+المُشاهدة:
 
 
 ;Low Quality Flash, ProxTube and more
-Low Quality Flash, ProxTube and more
+Low Quality Flash، ProxTube والمزيد
 
 
 ;Social Networks:
-Social Networks:
+الشّبكات الاجتماعية:
 
 
 ;Shareaholic, Foursquare and more
-Shareaholic, Foursquare and more
+Shareaholic، Foursquare والمزيد
 
 
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+حول موزيلا
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+موزيلا هي شركة غير ربحية تُساهم في الحفاظ على قوّة الويب في أيدي الجميع.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-We're a global community of users, contributors and developers working to innovate on your behalf.
+نحن مُجتمع عالمي من المُستخدمين، المُساهمين والمُطوّرين، نعمل على الإبداع باسمك.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+لمّا تستخدم فَيَرفُكس فإنّك تُصبح عُضوًا في هذا المُجتمع، وتُساعدنا على بناء مُستقبل مُشرق للويب.
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+اعرف المزيد هنا {{mozilla_org_link}}.
 
 
