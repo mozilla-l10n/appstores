@@ -10,29 +10,29 @@ Hızlı, akıllı ve kişisel bir web deneyimini yaşayın.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox, gizlilik konusunda en çok güvenilen internet şirketi seçilen Mozilla tarafından geliştirilen, bağımsız ve insanları ilk sıraya koyan bir tarayıcıdır.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Hemen Firefox’a geçin, siz de daha kişisel bir gezinti deneyimi için Firefox’a güvenen yüz milyonlarca insana katılın.
 
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+HIZLI, AKILLI, SİZİN.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox’u sizi düşünerek tasarladık. Web deneyiminizde kontrolü elinize almanız artık mümkün.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
-That’s why we design the product with smart features that take the guesswork out of browsing.
+İşte bunun için, Web’de gezinirken sizi bir şeyleri tahmin etmek zorunda bırakmayacak akıllı özellikler geliştirdik.
 
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+AKILLI ARAMA ve DAHA HIZLI ULAŞIM
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
@@ -60,12 +60,12 @@ Choose the private data you want to remove.
 
 
 ;iOS 9 required for Private Browsing mode
-iOS 9 required for Private Browsing mode
+Gizli Gezinti için iOS 9 gereklidir
 
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+FIREFOX’U CİHAZLARINIZ ARASINDA EŞİTLEYİN
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
@@ -144,17 +144,17 @@ Learn more at {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Gizlilik ilkeleri: {{privacy_link}}
 
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Hızlı, akıllı, sizin
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Hemen Firefox’a geçin, siz de daha kişisel<br> bir gezinti deneyimi için Firefox’a<br> güvenen yüz milyonlarca insana katılın.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
@@ -169,7 +169,7 @@ Upgrade to Firefox and join<br>hundreds of millions of Firefox users
 
 # Adjust line break tag position (<br>) for your language
 ;Announcing<br>Firefox for iOS<br>Download now!
-Announcing<br>Firefox for iOS<br>Download now!
+Karşınızda<br>iOS için Firefox<br>Hemen indirin!
 
 
 # Screenshot text, displayed as a bold title
@@ -184,7 +184,7 @@ Quickly find and manage<br>your open browser tabs
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Intelligent searches
+Akıllı aramalar
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
@@ -204,7 +204,7 @@ Instantly access your bookmarks, <br>history, open tabs and passwords <br>everyw
 
 # Screenshot text, displayed as a bold title
 ;Private Browsing
-Gizli tarama
+Gizli Gezinti
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -214,16 +214,16 @@ Make specific tabs private and browse<br>the Web without your history being save
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
-internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
+internet,safari,chrome,opera,explorer,arama,adblock,flash,browser,tarayıcı,incognito,gizli,internet
 
 
 # Copyright notice on the page
 ;© Mozilla and its contributors {{year}}
-© Mozilla and its contributors {{year}}
+© Mozilla ve gönüllüleri {{year}}
 
 
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
-This update contains stability improvements and bug fixes.
+Bu güncellemede kararlılık geliştirmeleri ve hata düzeltmeleri yaptık.
 
 
