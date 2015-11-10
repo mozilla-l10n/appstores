@@ -7,7 +7,7 @@ Firefox för Android
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Firefox Webbläsare
 
 
 # This is the short tagline for the app on Google Play
@@ -170,7 +170,7 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Lär dig mer på {{mozilla_org_link}}
 
 
 # Title of screenshot
@@ -185,7 +185,7 @@ Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that
 
 # Title of screenshot
 ;Add-ons for everything
-Add-ons for everything
+Tillägg för allt
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -205,7 +205,7 @@ Firefox remembers your recently <br>used apps to help you get the <br>word out t
 
 # Title of screenshot
 ;Send to device
-Send to device
+Skicka till enhet
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
