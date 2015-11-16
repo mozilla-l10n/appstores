@@ -37,7 +37,7 @@ Firefox är byggt med dig i åtanke och ger dig makten att ta tillbaka kontrolle
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
-Det är därför vi designat produkten med smarta funktioner som tar bort gissningsleken i att navigera på Internet.
+Det är därför vi designat produkten med smarta funktioner som tar bort gissningsleken i att navigera på internet.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -94,11 +94,11 @@ Intuitiva visuella och numrerade flikar möjliggör att du lätt kan hitta inneh
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-ENKEL TILLGÅNG TILL DINA MEST BESÖKTA HEMSIDOR
+ENKEL TILLGÅNG TILL DINA MEST BESÖKTA WEBBSIDOR
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Spendera tid på att läsa dina favorit hemsidor istället för att leta efter dem.
+Spendera tid på att läsa dina favoritsidor istället för att leta efter dem.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -107,12 +107,12 @@ TILLÄGG FÖR ALLTING
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
-Ta kontroll över din surfning genom att anpassa Firefox med tillägg som reklamblockerare, lösenord- och filhämtnings-hanterare och mycket mer.
+Ta kontroll över din surfning genom att anpassa Firefox med tillägg som blockerar reklam, lösenord- och filhämtnings-hanterare och mycket mer.
 
 
 # Slogan in uppercase, displayed as a category title
 ;QUICK SHARE
-SNABBDELNING 
+SNABBDELNING
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
@@ -121,7 +121,7 @@ Firefox kommer ihåg dina senaste använda appar för att hjälpa dig enkelt del
 
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
-TA DET TILL DEN STORA SKÄRMEN 
+TA DET TILL DEN STORA SKÄRMEN
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
@@ -162,11 +162,11 @@ OM MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla finns för att bygga Internet som en offentligt resurs tillgänglig för alla, eftersom vi anser att öppet och fritt är bättre än stängt och kontrollerat.
+Mozilla finns för att bygga internet som en offentlig resurs tillgänglig för alla, eftersom vi tror att öppen och fri är bättre än stängd och kontrollerad.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-Vi bygger produkter som Firefox för att främja val och öppenhet och ge människor mera kontroll över sina liv på nätet.
+Vi bygger produkter som Firefox för att främja valfrihet och öppenhet och ge människor mera kontroll över sina liv på nätet.
 
 
 ;Learn more at {{mozilla_org_link}}
@@ -190,7 +190,7 @@ Tillägg för allting
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
-Anpassa din webbläsare <br>med tillägg som reklamblockerare, lösenord- <br>och filhämtnings-hanterare och mycket mer.
+Anpassa din webbläsare <br>med tillägg som blockerar reklam, lösenord- <br>och filhämtnings-hanterare och mycket mer.
 
 
 # Title of screenshot
