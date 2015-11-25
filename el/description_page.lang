@@ -8,7 +8,7 @@ Fast. Free. Uniquely yours. Browse the Web your way with Firefox.
 
 # Key feature title
 ;Sync
-Sync
+Sync {ok}
 
 
 ;Bring your passwords, bookmarks, open tabs and more everywhere you go.
@@ -17,7 +17,7 @@ Bring your passwords, bookmarks, open tabs and more everywhere you go.
 
 # Key feature title
 ;Add-ons
-Add-ons
+Πρόσθετα
 
 
 ;Customize your Home panels with the Web content you want.
@@ -26,20 +26,20 @@ Customize your Home panels with the Web content you want.
 
 # Key feature title
 ;Quick Share
-Quick Share
+Γρήγορος διαμοιρασμός
 
 
 ;The most adaptive way to share anything.
-The most adaptive way to share anything.
+Ο πιο προσαρμόσιμος τρόπος για να μοιραστείτε τα πάντα.
 
 
 # Key feature title
 ;Private Browsing
-Private Browsing
+Ιδιωτική Περιήγηση
 
 
 ;Browse the Web without any of your history being remembered.
-Browse the Web without any of your history being remembered.
+Περιηγηθείτε στο διαδίκτυο χωρίς να καταγράφεται το ιστορικό σας.
 
 
 # Key feature title
@@ -48,7 +48,7 @@ Guest Browsing
 
 
 ;Share your browser with friends and keep your data private.
-Share your browser with friends and keep your data private.
+Μοιραστείτε τον περιηγητή σας με τους φίλους σας και κρατήστε τα δεδομένα σας απόρρητα.
 
 
 # Key feature title
@@ -71,7 +71,7 @@ Display your Home panels in any order you like.
 
 # Key feature title
 ;Custom Search
-Custom Search
+Προσαρμοσμένη αναζήτηση
 
 
 ;Add any search engine and make it your default.
@@ -80,20 +80,20 @@ Add any search engine and make it your default.
 
 # Key feature title
 ;Language Display
-Language Display
+Γλώσσα εμφάνισης
 
 
 ;Change your browser language quickly and easily.
-Change your browser language quickly and easily.
+Αλλάξτε τη γλώσσα του περιηγητή σας εύκολα και γρήγορα.
 
 
 # Key feature title
 ;Send to Device
-Send to Device
+Αποστολή σε συσκευή
 
 
 ;Stream video content from your device to your TV.
-Stream video content from your device to your TV.
+Αναμετάδοση βίντεο από τη συσκευή σας στην τηλεόρασή σας.
 
 
 # Slogan
@@ -106,21 +106,21 @@ Meet our most customizable Android browser yet.
 
 
 ;Fast, smart and safe, the official Firefox for Android browser from Mozilla offers more ways than ever to make your mobile browsing experience uniquely yours.
-Fast, smart and safe, the official Firefox for Android browser from Mozilla offers more ways than ever to make your mobile browsing experience uniquely yours.
+Γρήγορος, έξυπνος και ασφαλής, ο επίσημος περιηγητής Firefox για Android από τον Mozilla σας προσφέρει περισσότερους τρόπους από ποτέ για μια μοναδική εμπειρία περιήγησης από τη συσκευή σας.
 
 
 # Title
 ;FAST.
-FAST.
+ΓΡΗΓΟΡΟΣ.
 
 
 ;Access, browse and search the Web at blazing speeds.
-Access, browse and search the Web at blazing speeds.
+Πρόσβαση, περιήγηση και αναζήτηση στο διαδίκτυο με αστραπιαίες ταχύτητες.
 
 
 # Title
 ;SMART.
-SMART.
+ΕΞΥΠΝΟΣ.
 
 
 ;Share and search just how you like, and keep your favorite Web content a tap away with our most customizable and intuitive features yet.
@@ -129,7 +129,7 @@ Share and search just how you like, and keep your favorite Web content a tap awa
 
 # Title
 ;SAFE.
-SAFE.
+ΑΣΦΑΛΗΣ.
 
 
 ;Make sure your browsing stays safe and private with extensive security settings, add-ons and features like Do Not Track.
@@ -137,7 +137,7 @@ Make sure your browsing stays safe and private with extensive security settings,
 
 
 ;Key Features:
-Key Features:
+Βασικά χαρακτηριστικά:
 
 
 ;Customizable Home Panels:
@@ -149,7 +149,7 @@ Customize and display your Home panels however you like. Add new Web content any
 
 
 ;Sync:
-Sync:
+Sync: {ok}
 
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
@@ -157,15 +157,15 @@ Sync your Firefox desktop tabs, history, bookmarks and passwords to all your dev
 
 
 ;Add-ons:
-Add-ons:
+Πρόσθετα:
 
 
 ;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
-Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
+Προσαρμόστε τον περιηγητή σας ακριβώς όπως σας αρέσει με πρόσθετα όπως τα Ad-Blocker, Password Manager και άλλα.
 
 
 ;Speed:
-Speed:
+Ταχύτητα:
 
 
 ;Get to the Internet faster, with quick startup and page load times.
@@ -173,15 +173,15 @@ Get to the Internet faster, with quick startup and page load times.
 
 
 ;Accessibility:
-Accessibility:
+Προσβασιμότητα:
 
 
 ;Over 59 supported languages can be easily selected through the browser settings.
-Over 59 supported languages can be easily selected through the browser settings.
+Πάνω από 59 υποστηριζόμενες γλώσσες μπορούν να επιλεχτούν εύκολα μέσω των ρυθμίσεων του προγράμματος περιήγησης.
 
 
 ;HTML5:
-HTML5:
+HTML5: {ok}
 
 
 ;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
@@ -201,25 +201,25 @@ Keep your browsing safe and private. Control your privacy, security and how much
 
 
 ;For a complete list of features, check out {{features_link}}
-For a complete list of features, check out {{features_link}}
+Για την πλήρη λίστα των χαρακτηριστικών, ρίξτε μια ματιά στο {{features_link}}
 
 
 ;Learn more about Firefox for Android:
-Learn more about Firefox for Android:
+Μάθετε περισσότερα σχετικά με τον Firefox για Android:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+Έχετε απορίες ή χρειάζεστε βοήθεια; Επισκεφθείτε το {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+Διαβάστε σχετικά με τα δικαιώματα του Firefox: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+Μάθετε περισσότερα για το τι συμβαίνει στον Mozilla: {{blog_link}}
 
 
 # Bulleted list item
@@ -229,35 +229,35 @@ Like Firefox on Facebook: {{facebook_link}}
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Ακολουθήστε τον Firefox στο Twitter: {{twitter_link}}
 
 
 ;Curious about add-ons? Check them out on {{amo_link}} :
-Curious about add-ons? Check them out on {{amo_link}} :
+Είστε περίεργοι σχετικά με τα πρόσθετα; Ρίξτε τα μια ματιά στο {{amo_link}} :
 
 
 ;Browsing:
-Browsing:
+Περιήγηση:
 
 
 ;Adblock Plus, AutoPager, Full Screen mobile and more
-Adblock Plus, AutoPager, Full Screen mobile and more
+Adblock Plus, AutoPager, Full Screen mobile και άλλα
 
 
 ;Security:
-Security:
+Ασφάλεια:
 
 
 ;LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
-LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
+LastPass Password Manager, NoScript, Dr. Web LinkChecker και άλλα
 
 
 ;Reading:
-Reading:
+Ανάγνωση:
 
 
 ;AutoPager, X-Notifier lite and more
-AutoPager, X-Notifier lite and more
+AutoPager, X-Notifier lite και άλλα
 
 
 ;Watching:
@@ -265,19 +265,19 @@ Watching:
 
 
 ;Low Quality Flash, ProxTube and more
-Low Quality Flash, ProxTube and more
+Low Quality Flash, ProxTube και άλλα
 
 
 ;Social Networks:
-Social Networks:
+Κοινωνικά δίκτυα:
 
 
 ;Shareaholic, Foursquare and more
-Shareaholic, Foursquare and more
+Shareaholic, Foursquare και άλλα
 
 
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+ΣΧΕΤΙΚΑ ΜΕ ΤΟΝ MOZILLA
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
@@ -289,10 +289,10 @@ We're a global community of users, contributors and developers working to innova
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+Όταν χρησιμοποιείτε τον Firefox, γίνεστε κομμάτι αυτής της κοινότητας, βοηθώντας μας να οικοδομήσουμε ένα λαμπρότερο μέλλον για το διαδίκτυο.
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+Μάθετε περισσότερα στο {{mozilla_org_link}}.
 
 
