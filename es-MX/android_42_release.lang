@@ -52,6 +52,7 @@ Firefox anticipa tus necesidades y provee de forma intuitiva varios resultados d
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
 Accede fácilmente con accesos directos a proveedores de búsqueda como Wikipedia, Twitter y Amazon.
 
+
 # Slogan in uppercase, displayed as a category title
 ;NEXT LEVEL PRIVACY
 SIGUIENTE NIVEL DE PRIVACIDAD
@@ -72,6 +73,7 @@ SINCRONIZA FIREFOX ENTRE TUS DISPOSITIVOS
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
 Con una cuenta de Firefox, accede tu historial, marcadores y pestañas abiertas de tu escritorio, en tu teléfono inteligente y tu tableta.
+
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
 Firefox también recuerda tus contraseñas entre dispositivos para que tú no tengas que hacerlo.
@@ -116,13 +118,14 @@ COMPARTE RÁPIDO
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
 Firefox recuerda tus aplicaciones utilizadas recientemente para ayudarte a compartir contenido fácilmente en Facebook, Twitter, WhatsApp, Skype y más.
 
+
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
 LLÉVALO A LA PANTALLA GRANDE
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
-Envía video y contenido web de tu teléfono inteligente o tableta a cualquier televisión equipada con capacidad de transmisión. 
+Envía video y contenido web de tu teléfono inteligente o tableta a cualquier televisión equipada con capacidad de transmisión.
 
 
 ;Learn more about Firefox for Android:
@@ -161,8 +164,10 @@ ACERCA DE MOZILLA
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
 Mozilla existe para desarrollar el Internet como un recurso público accesible a todos porque creemos que abierto y gratis es mejor que cerrado y controlado.
 
+
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-Creamos productos como Firefox para promover elección y transparencia y dar a las personas más control de sus vidas en línea. 
+Creamos productos como Firefox para promover elección y transparencia y dar a las personas más control de sus vidas en línea.
+
 
 ;Learn more at {{mozilla_org_link}}
 Aprende más en {{mozilla_org_link}}
@@ -206,3 +211,5 @@ Enviar a dispositivo
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
 Manda video y contenido web de <br>tu teléfono inteligente o tableta <br>a cualquier dispositivo compatible.
+
+

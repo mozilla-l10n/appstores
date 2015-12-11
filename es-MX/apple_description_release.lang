@@ -50,11 +50,14 @@ NAVEGA EN FORMA PRIVADA
 ;Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
 Tu información personal te pertenece. En el modo de Navegación Privado, Firefox no recordará nada de tu historial o cookies, pero marcadores nuevos se guardarán.
 
+
 ;Delete your browsing history, passwords and more in a single tap.
 Borra tu historial de navegación, contraseñas y más en un solo clic.
 
+
 ;Choose the private data you want to remove.
 Elige los datos privados que quieres eliminar.
+
 
 ;iOS 9 required for Private Browsing mode
 Se requiere iOS 9 para el modo de navegación privada.
@@ -131,8 +134,10 @@ ACERCA DE MOZILLA
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
 Mozilla existe para desarrollar el Internet como un recurso público accesible a todos porque creemos que abierto y gratis es mejor que cerrado y controlado.
 
+
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
 Creamos productos como Firefox para promover elección y transparencia y dar a las personas más control de sus vidas en línea.
+
 
 ;Learn more at {{mozilla_org_link}}
 Aprende más en {{mozilla_org_link}}

@@ -1,4 +1,4 @@
-## NOTE: this is the text used on Apple AppStore to download Firefox for iOS, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/da/apple/release/
+## NOTE: this is the text used on Apple AppStore to download Firefox for iOS, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/en-US/apple/release/
 
 
 ;Firefox Web Browser
@@ -88,6 +88,7 @@ Intuitive synlige og nummererede faneblade lader dig finde indhold til fremtidig
 ;Open as many tabs as you like without losing track of your open Web pages.
 Åbn så mange faneblade, som du har lyst til, uden at miste overblikket over dine åbne websider.
 
+
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
 NEM ADGANG TIL DINE MEST BESØGTE WEBSTEDER
@@ -95,6 +96,7 @@ NEM ADGANG TIL DINE MEST BESØGTE WEBSTEDER
 
 ;Spend your time reading your favorites sites instead of looking for them.
 Brug din tid på at læse dine foretrukne websider i stedet for at lede efter dem.
+
 
 ;Learn more about Firefox for iOS:
 Læs mere om Firefox til iOS:
