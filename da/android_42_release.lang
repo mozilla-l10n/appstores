@@ -1,4 +1,4 @@
-## NOTE: this is the text used on Android #42, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/google/next/
+## NOTE: this is the text used on Android #42, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/google/release/
 
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
@@ -171,6 +171,60 @@ Vi laver produkter som Firefox for at fremme valgfrihed og gennemsigtighed, og f
 
 ;Learn more at {{mozilla_org_link}}
 Læs mere på {{mozilla_org_link}}
+
+
+;Privacy Policy: {{privacy_link}}
+Privatlivspolitik: {{privacy_link}}
+
+
+# Title of screenshot
+;Fast. Smart. Yours
+Hurtig. Smart. Din
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Opgradér til Firefox' styrke og slut <br>dig til hundredvis af millioner, som <br>bruger Firefox til computer og mobil.
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Opgradér til Firefox' styrke og slut dig<br>til hundredvis af millioner, som bruger Firefox
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Opgradér til Firefox og slut dig til<br>hundredvis af millioner, som bruger Firefox
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+Intuitivt visuelt faneblads-design
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+Find og håndtér hurtigt<br>dine faneblade
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+Intelligente søgninger
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+Få nøjagtige, forudsigende resultater <br>inden du er færdig med at taste
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+Gnidningsløs browsing <br>med Sync
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Øjeblikkelig adgang til dine bogmærker, <br>historik, åbne faneblade og adgangskoder <br>overalt, hvor du bruger Firefox
 
 
 # Title of screenshot

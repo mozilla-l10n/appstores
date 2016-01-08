@@ -1,4 +1,4 @@
-## NOTE: this is the text used on Android #42, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/google/next/
+## NOTE: this is the text used on Android #42, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/google/release/
 
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
@@ -171,6 +171,60 @@ Mozilla は、開かれた自由な世界が閉鎖的で管理された世界よ
 
 ;Learn more at {{mozilla_org_link}}
 詳しくは {{mozilla_org_link}} をご覧ください。
+
+
+;Privacy Policy: {{privacy_link}}
+プライバシーポリシー: {{privacy_link}}
+
+
+# Title of screenshot
+;Fast. Smart. Yours
+高速。スマート。パーソナル。
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+あなたも Firefox の力を手に入れて、<br>デスクトップとモバイルをまたいだ<br>何億人もの Firefox ユーザの仲間入りを
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+あなたも Firefox の力を手に入れて、<br>何億人もの Firefox ユーザの仲間入りを
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+あなたも Firefox を手に入れて、<br>何億人もの Firefox ユーザの仲間入りを
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+直感的なデザインのタブ
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+開いているブラウザのタブを<br>素早く見つけて管理
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+知的な検索
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+検索語を入力し終える前に<br>的確な予測結果を表示
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+Sync を使って<br>シームレスなブラウジング
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Firefox を使っているすべての場所から<br>ブックマーク、履歴、開いているタブ、<br>パスワードへ即座にアクセス
 
 
 # Title of screenshot
