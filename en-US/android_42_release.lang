@@ -173,6 +173,60 @@ We build products like Firefox to promote choice and transparency and give peopl
 Learn more at {{mozilla_org_link}}
 
 
+;Privacy Policy: {{privacy_link}}
+Privacy Policy: {{privacy_link}}
+
+
+# Title of screenshot
+;Fast. Smart. Yours
+Fast. Smart. Yours
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+Intuitive visual tab design
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+Quickly find and manage<br>your open browser tabs
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+Intelligent searches
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+Get accurate, predictive results <br>before you finish typing
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+Seamless browsing <br>with Sync
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+
+
 # Title of screenshot
 ;Next level privacy
 Next level privacy
