@@ -173,6 +173,60 @@ Mozilla 的存在，是為了要將網際網路打造為任何人都可以使用
 到 {{mozilla_org_link}} 了解更多資訊
 
 
+;Privacy Policy: {{privacy_link}}
+隱私權保護政策: {{privacy_link}}
+
+
+# Title of screenshot
+;Fast. Smart. Yours
+快速、聰明、以您為本。
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+與數以億計的 Firefox 桌面版與行動版使用者<br>一起升級，體驗 Firefox 的威力
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+與數以億計的 Firefox 使用者<br>一起升級，體驗 Firefox 的威力
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+與數以億計的 Firefox 使用者<br>一起升級至 Firefox
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+視覺化直覺分頁設計
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+快速尋找與管理<br>您開啟的瀏覽器分頁
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+智慧搜尋
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+在您輸入完成之前<br>就搶先準確預測搜尋結果
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+使用 Sync 無縫瀏覽
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+隨處使用 Firefox<br>即時存取您的書籤、瀏覽紀錄、開啟分頁與密碼
+
+
 # Title of screenshot
 ;Next level privacy
 更進一步的隱私保護

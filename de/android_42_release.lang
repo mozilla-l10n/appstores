@@ -173,6 +173,60 @@ Wir entwickeln Produkte wie Firefox, um Wahlfreiheit und Transparenz zu fördern
 Erfahren Sie mehr auf {{mozilla_org_link}}
 
 
+;Privacy Policy: {{privacy_link}}
+Datenschutzerklärung: {{privacy_link}}
+
+
+# Title of screenshot
+;Fast. Smart. Yours
+Schnell. Intelligent. Ihrer.
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Holen Sie sich die Macht von Firefox und<br>werden Sie einer von Hunderten Millionen von<br>Firefox-Nutzern auf Desktop- und Mobilgeräten.
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Holen Sie sich die Macht von Firefox und<br>werden Sie einer von<br>Hunderten Millionen von Firefox-Nutzern.
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Holen Sie sich Firefox und werden Sie einer von<br>Hunderten Millionen von Firefox-Nutzern.
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+Intuitives, visuelles Tab-Design
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+Finden und verwalten Sie schnell<br>Ihre offenen Browser-Tabs.
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+Intelligentes Suchen
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+Erhalten Sie passende, vorausschauende Ergebnisse, <br>noch während Sie tippen.
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+Nahtloses Surfen <br>mit Sync
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Sofortiger Zugriff auf Ihre Lesezeichen, <br>Chronik, offenen Tabs und Passwörter, <br>egal, wo Sie Firefox nutzen.
+
+
 # Title of screenshot
 ;Next level privacy
 Der nächste Schritt in Sachen Datenschutz
