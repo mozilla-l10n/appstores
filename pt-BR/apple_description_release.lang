@@ -44,11 +44,11 @@ Atalhos fáceis de acesso rápido para fornecedores de pesquisa tais como a Wiki
 
 
 ;BROWSE PRIVATELY
-NAVEGAR PRIVATIVAMENTE
+NAVEGAR PRIVADAMENTE
 
 
 ;Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
-Suas informações pessoais pertencem a você. No modo de navegação privativa, o Firefox não irá guardar seu histórico ou cookies, porém novos favoritos serão salvos.
+Suas informações pessoais pertencem a você. No modo de navegação privada, o Firefox não salvará seu histórico ou cookies, porém novos favoritos serão salvos.
 
 
 ;Delete your browsing history, passwords and more in a single tap.
@@ -56,11 +56,11 @@ Exclua seu histórico, senhas e outros dados com um simples toque.
 
 
 ;Choose the private data you want to remove.
-Escolha os dados privativos que deseja remover.
+Escolha os dados privados que deseja remover.
 
 
 ;iOS 9 required for Private Browsing mode
-É necessário o iOS 9 para o modo de navegação privativa
+É necessário o iOS 9 para o modo de navegação privada
 
 
 # Slogan in uppercase, displayed as a category title
@@ -204,17 +204,17 @@ Acesse instantaneamente seus favoritos, <br>histórico, abas abertas e senhas <b
 
 # Screenshot text, displayed as a bold title
 ;Private Browsing
-Navegação privativa
+Navegação privada
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Make specific tabs private and browse<br>the Web without your history being saved
-Torne abas privativas e navegue<br>na web sem seu histórico ser salvo
+Torne abas privadas e navegue<br>na web sem salvar seu histórico
 
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
-internet,safari,chrome,opera,explorer,pesquisa,adblock,flash,navegador,incógnito,privativo,navegar
+internet,safari,chrome,opera,explorer,pesquisa,adblock,flash,navegador,incógnito,privado,navegar
 
 
 # Copyright notice on the page
