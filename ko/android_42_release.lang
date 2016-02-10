@@ -173,6 +173,60 @@ Mozilla는 열려 있는 자유로운 세상이 폐쇄적인 것 보다 낫다�
 자세히 보기: {{mozilla_org_link}}
 
 
+;Privacy Policy: {{privacy_link}}
+개인 정보 보호 정책: {{privacy_link}}
+
+
+# Title of screenshot
+;Fast. Smart. Yours
+빠름. 스마트. 맞춤형.
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+지금 업그레이드를 통해 개인 브라우징 경험을<br>즐기고있는 수억 명의 <br>Firefox 사용자 중 한명이 되세요.
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+업그레이드를 통해 수억 명의 <br>Firefox 사용자 중 한명이 되세요.
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+업그레이드를 통해 수억 명의 Firefox 사용자 중 한명이 되세요.
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+직관적인 비주얼 탭
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+빠르게 탭을 열고<br> 관리하기
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+똑똑한 검색 기능
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+타이핑을 하기도 전에 <br>검색 예측 가능
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+동기화를 통해 <br>어디서나 웹 브라우징
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+어디서나 손쉽게 북마크, 방문기록<br>탭 정보 및 저장된 암호를 <br>동기화를 통해 접근 가능
+
+
 # Title of screenshot
 ;Next level privacy
 최고의 개인 정보 보호
