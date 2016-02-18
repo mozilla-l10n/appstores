@@ -154,15 +154,15 @@ Sesuaikan dan tampilkan panel Beranda sesuka anda. Tambahkan konten Web baru kap
 
 
 ;Sync:
-Sync:
+Sinkronkan:
 
 
 ;Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
-Sync your Firefox desktop tabs, history, bookmarks and passwords to all your devices and streamline your browsing.
+Sinkronkan tab desktop Firefox, riwayat, markah dan kata kunci ke setiap gawai dan lancarkan penjelajahan anda.
 
 
 ;Add-ons:
-Add-ons:
+Pengaya:
 
 
 ;Customize your Web browser just the way you like it with add-ons including Ad-Blocker, Password Manager and more.
@@ -170,7 +170,7 @@ Customize your Web browser just the way you like it with add-ons including Ad-Bl
 
 
 ;Speed:
-Speed:
+Kecepatan:
 
 
 ;Get to the Internet faster, with quick startup and page load times.
@@ -178,7 +178,7 @@ Get to the Internet faster, with quick startup and page load times.
 
 
 ;Accessibility:
-Accessibility:
+Aksesibilitas:
 
 
 ;Over 59 supported languages can be easily selected through the browser settings.
@@ -186,7 +186,7 @@ Over 59 supported languages can be easily selected through the browser settings.
 
 
 ;HTML5:
-HTML5:
+HTML5: {ok}
 
 
 ;Experience the unlimited possibilities of the Internet on mobile with support for HTML5 and Web APIs.
@@ -194,7 +194,7 @@ Experience the unlimited possibilities of the Internet on mobile with support fo
 
 
 ;Mobile Video:
-Mobile Video:
+Video Bergerak:
 
 
 ;Firefox for Android has mobile video support for a wide range of video formats, including H.264.
@@ -242,7 +242,7 @@ Curious about add-ons? Check them out on {{amo_link}} :
 
 
 ;Browsing:
-Browsing:
+Penjelajahan:
 
 
 ;Adblock Plus, AutoPager, Full Screen mobile and more
@@ -250,7 +250,7 @@ Adblock Plus, AutoPager, Full Screen mobile and more
 
 
 ;Security:
-Security:
+Keamanan:
 
 
 ;LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
@@ -258,7 +258,7 @@ LastPass Password Manager, NoScript, Dr. Web LinkChecker and more
 
 
 ;Reading:
-Reading:
+Membaca:
 
 
 ;AutoPager, X-Notifier lite and more
@@ -266,7 +266,7 @@ AutoPager, X-Notifier lite and more
 
 
 ;Watching:
-Watching:
+Menonton:
 
 
 ;Low Quality Flash, ProxTube and more
@@ -274,7 +274,7 @@ Low Quality Flash, ProxTube and more
 
 
 ;Social Networks:
-Social Networks:
+Jejaring Sosial:
 
 
 ;Shareaholic, Foursquare and more
@@ -298,6 +298,6 @@ When you use Firefox, you become a part of that community, helping us build a br
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+Pelajari lebih lanjut di {{mozilla_org_link}}.
 
 
