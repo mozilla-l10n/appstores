@@ -2,228 +2,228 @@
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Przeglądarka Firefox
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+Skorzystaj z szybkiej, inteligentnej i osobistej przeglądarki.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox jest niezależną przeglądarką od Mozilli, organizacji wybranej najbardziej zaufaną firmą internetową w dziedzinie ochrony prywatności.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Przejdź na Firefoksa już dzisiaj i dołącz do setek milionów użytkowników korzystających z jego elastyczności.
 
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+Szybka. Inteligentna. Twoja.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox jest tworzony z myślą o użytkownikach, aby mogli używać Internetu tak, jak tylko zechcą.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
-That’s why we design the product with smart features that take the guesswork out of browsing.
+Właśnie dlatego tworzymy przeglądarkę z inteligentnymi funkcjami, dzięki którym nie trzeba działać na ślepo.
 
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+Inteligentne wyszukiwanie i szybkie przeglądanie
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox przewiduje potrzeby użytkownika i intuicyjnie dostarcza wiele sugerowanych oraz poprzednio wyszukiwanych wyników dzięki ulubionym wyszukiwarkom. Za każdym razem.
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
-Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Łatwy dostęp do wyszukiwarek, takich jak Wikipedia, Twitter czy DuckDuckGo.
 
 
 ;BROWSE PRIVATELY
-BROWSE PRIVATELY
+Przeglądanie prywatne
 
 
 ;Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
-Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
+Twoje osobiste dane należą do Ciebie. W trybie przeglądania prywatnego, Firefox nie zachowa historii przeglądania ani ciasteczek (dodane zakładki zostaną zachowane).
 
 
 ;Delete your browsing history, passwords and more in a single tap.
-Delete your browsing history, passwords and more in a single tap.
+Jednym stuknięciem usuwaj historię przeglądania, hasła i inne dane.
 
 
 ;Choose the private data you want to remove.
-Choose the private data you want to remove.
+Wybierz dane, które chcesz usunąć.
 
 
 ;iOS 9 required for Private Browsing mode
-iOS 9 required for Private Browsing mode
+System iOS 9 jest wymagany dla trybu prywatnego
 
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+Synchronizowanie Firefoksa między urządzeniami
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+Z kontem Firefoksa na telefonie i tablecie można korzystać z historii, zakładek i kart otwartych na komputerze.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox także bezpiecznie zachowuje hasła, dzięki czemu nie trzeba ich pamiętać.
 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE VISUAL TABS
-INTUITIVE VISUAL TABS
+Łatwe w użyciu karty
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Intuitive visual and numbered tabs easily let you find content for future reference.
+Intuicyjne w użyciu, ponumerowane karty umożliwiają łatwe odnajdywanie wyszukiwanych treści.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Open as many tabs as you like without losing track of your open Web pages.
+Otwieraj tyle kart, ile potrzebujesz, nie gubiąc się w ich gąszczu.
 
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+Łatwy dostęp do często używanych stron
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Spend your time reading your favorites sites instead of looking for them.
+Spędzaj czas przeglądając swoje ulubione strony, zamiast ich szukać.
 
 
 ;Learn more about Firefox for iOS:
-Learn more about Firefox for iOS:
+Więcej informacji o Firefoksie na iOSa:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+Odpowiedzi na pytania i pomoc: {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+Informacje o uprawnieniach dla Firefoksa: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+Co słychać w Mozilli: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+Polub Firefoksa na Facebooku: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Obserwuj Firefoksa na Twitterze: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+O Mozilli
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla istnieje po to, aby tworzyć Internet jako zasób publiczny dostępny dla wszystkich, ponieważ wierzymy, że otwartość i wolność są lepsze niż ścisła kontrola.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Tworzymy Firefoksa, aby promować możliwość wyboru i przejrzystość oraz dać każdemu więcej kontroli nad jego życiem w sieci.
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Więcej informacji: {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+O polityce prywatności: {{privacy_link}}
 
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Szybka. Inteligentna. Twoja.
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Przejdź na Firefoksa i dołącz<br>do setek milionów użytkowników<br>na komputerach i telefonach.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Przejdź na Firefoksa i dołącz<br>do setek milionów użytkowników
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Przejdź na Firefoksa i dołącz<br>do setek milionów użytkowników
 
 
 # Adjust line break tag position (<br>) for your language
 ;Announcing<br>Firefox for iOS<br>Download now!
-Announcing<br>Firefox for iOS<br>Download now!
+Firefox dla iOSa<br>Pobierz teraz!
 
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Intuitive visual tab design
+Łatwe w użyciu karty
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-Quickly find and manage<br>your open browser tabs
+Szybkie odnajdywanie i zarządzanie<br>otwartymi kartami
 
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Intelligent searches
+Inteligentne wyszukiwanie
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-Get accurate, predictive results <br>before you finish typing
+Celne podpowiedzi pojawiają się<br>jeszcze przed ukończeniem pisania
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-Seamless browsing <br>with Sync
+Przeglądanie na wielu urządzeniach<br>dzięki synchronizacji
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Błyskawiczny dostęp do zakładek,<br>historii, otwartych kart i haseł<br>na każdym urządzeniu z Firefoksem
 
 
 # Screenshot text, displayed as a bold title
 ;Private Browsing
-Private Browsing
+Przeglądanie prywatne
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Make specific tabs private and browse<br>the Web without your history being saved
-Make specific tabs private and browse<br>the Web without your history being saved
+Zmieniaj wybrane karty w prywatne<br>i przeglądaj sieć bez zachowywania historii
 
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
-internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
+internet,safari,chrome,opera,adblock,flash,browser,incognito,przeglądarka,www,przeglądanie,prywatne
 
 
 # Copyright notice on the page
 ;© Mozilla and its contributors {{year}}
-© Mozilla and its contributors {{year}}
+© Mozilla i współtwórcy, {{year}}
 
 
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
-This update contains stability improvements and bug fixes.
+Aktualizacja zwiększa stabilność i zawiera poprawki innych błędów.
 
 
