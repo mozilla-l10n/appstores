@@ -2,45 +2,45 @@
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Prohlížeč Firefox
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+Poznejte rychlý, chytrý a osobní web.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox je nezávislý prohlížeč vyvinutý s lidmi na prvním místě, Mozillou, která byla zvolena Nejdůvěryhodnější internetovou společností s ohledem na soukromí.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Aktualizujte ještě dnes a připojte se k milionům lidí, kteří se spoléhají na Firefox a jeho osobní přístup k prohlížení.
 
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+RYCHLÝ. CHYTRÝ. VÁŠ.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox pamatuje na vás a dává vám možnost získat zpět kontrolu na svým prožitkem z webu.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
-That’s why we design the product with smart features that take the guesswork out of browsing.
+Proto jsme navrhli produkt s chytřejšími funkcemi, které vás při prohlížení zbaví jakýchkoliv pochybností.
 
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+INTELIGENTNÍ VYHLEDÁVÁNÍ a RYCHLEJŠÍ NAVIGACE
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox se snaží předvídat vaše potřeby a nabízí intuitivní našeptávání z předchozích vyhledávání ve vašich oblíbených vyhledávačích. Vždy a všude.
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
-Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Snadný přístup k rychlému vyhledávání na Google, Seznamu nebo Wikipedii.
 
 
 ;BROWSE PRIVATELY
@@ -52,7 +52,7 @@ Your personal information belongs to you. In Private Browsing mode, Firefox won�
 
 
 ;Delete your browsing history, passwords and more in a single tap.
-Delete your browsing history, passwords and more in a single tap.
+Smaže vaši historii prohlížení, hesla a další data jediným klepnutím.
 
 
 ;Choose the private data you want to remove.
@@ -65,82 +65,82 @@ iOS 9 required for Private Browsing mode
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+SYNCHRONIZUJTE FIREFOX NAPŘÍČ VŠEMI ZAŘÍZENÍMI
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+S účtem Firefox Account můžete přistupovat ke své historii prohlížení, záložkám nebo otevřeným panelům z vašeho počítače, chytrého telefonu nebo i tabletu.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox si může také bezpečně zapamatovat vaše hesla na různých zařízeních místo vás.
 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE VISUAL TABS
-INTUITIVE VISUAL TABS
+INTUITIVNÍ PANELY S NÁHLEDY
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Intuitive visual and numbered tabs easily let you find content for future reference.
+Intuitivní zobrazení panelů s náhledy a pořadím vám snadno umožní najít otevřený obsah.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Open as many tabs as you like without losing track of your open Web pages.
+Otevřete si kolik panelů jen chcete, aniž byste ztratili přehled o otevřených stránkách.
 
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+SNADNÝ PŘÍSTUP K VAŠIM TOP STRÁNKÁM
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Spend your time reading your favorites sites instead of looking for them.
+Využijte svůj čas raději čtením svých oblíbených stránek než jejich hledání.
 
 
 ;Learn more about Firefox for iOS:
-Learn more about Firefox for iOS:
+Dozvědět se více o Firefoxu pro iOS:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+Máte otázku nebo potřebujete pomoci? Navštivte {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+Přečtěte si o právech prohlížeče Firefox: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+Zjistěte co je nového v Mozille: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+Olajkujte Firefox na Facebooku: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Sledujte Firefox na Twitteru: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+O MOZILLE
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla je zde, aby udržela internet jako veřejný zdroj informací přístupný pro všechny, protože věříme, že otevřený a svobodný je lepší než uzavřený a omezený.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Vytváříme produkty jako je Firefox, abychom propagovali možnost výběru a transparence a dali lidem větší kontrolu nad jejich vlastním online světem.
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Zjistěte více na {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
@@ -149,7 +149,7 @@ Privacy Policy: {{privacy_link}}
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Rychlý. Chytrý. Váš
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
@@ -184,7 +184,7 @@ Quickly find and manage<br>your open browser tabs
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Intelligent searches
+Inteligentní vyhledávání
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
@@ -204,7 +204,7 @@ Instantly access your bookmarks, <br>history, open tabs and passwords <br>everyw
 
 # Screenshot text, displayed as a bold title
 ;Private Browsing
-Private Browsing
+Anonymní prohlížení
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
