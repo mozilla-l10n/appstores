@@ -174,7 +174,7 @@ Zjistěte více na {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Ochrana soukromí: {{privacy_link}}
 
 
 # Title of screenshot
@@ -184,27 +184,27 @@ Rychlý. Chytrý. Váš
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Aktualizujte svůj Firefox<br>a připojte se k milionům<br>jeho uživatelů na počítačích i telefonech.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Aktualizujte svůj Firefox<br>a připojte se k milionům jeho uživatelů
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Aktualizujte svůj Firefox<br>a připojte se k milionům jeho uživatelů
 
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Intuitive visual tab design
+Intuitivní vzhled panelů
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-Quickly find and manage<br>your open browser tabs
+Rychle najděte a spravujte<br>své otevřené panely
 
 
 # Screenshot text, displayed as a bold title
@@ -214,17 +214,17 @@ Inteligentní vyhledávání
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-Get accurate, predictive results <br>before you finish typing
+Získejte přesné výsledky <br>ještě než dopíšete
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-Seamless browsing <br>with Sync
+Bezproblémové prohlížení <br>se službou Sync
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Mějte rychle po ruce své záložky, <br>historii, otevřené panely i hesla, <br>a to všude ve svém Firefoxu
 
 
 # Title of screenshot
