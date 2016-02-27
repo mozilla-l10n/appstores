@@ -16,7 +16,7 @@ Rýchly. Voľne dostupný. Jedinečný. Váš. Prehliadajte web s Firefoxom.
 
 
 ;Experience a fast, smart and personal Web.
-Spoznajte rýchly, šikovný a osobný web.
+Spoznajte rýchly, chytrý a osobný web.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
@@ -29,7 +29,7 @@ Upgrade today and join hundreds of millions who depend on Firefox for a more per
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-RÝCHLY. ŠIKOVNÝ. VÁŠ .
+RÝCHLY. CHYTRÝ. VÁŠ.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
@@ -174,12 +174,12 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Zásady ochrany súkromia: {{privacy_link}}
 
 
 # Title of screenshot
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Rýchly. Chytrý. Váš
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
