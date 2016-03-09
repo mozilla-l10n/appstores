@@ -2,14 +2,14 @@
 
 
 ;Notifications about tabs opened in the background now list the URLs
-Notifications about tabs opened in the background now list the URLs
+Upozornenia na karty otvorené na pozadí zobrazujú tiež URL adresy
 
 
 ;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
-Firefox will request permissions at runtime instead of installation time (Android 6.0+)
+Firefox bude žiadať o oprávnenia až za behu, nie pri inštalácii (Android 6.0+)
 
 
 ;Previously cached pages will be displayed when offline
-Previously cached pages will be displayed when offline
+Stránky uložené vo vyrovnávacej pamäti bude možné zobraziť aj offline
 
 
