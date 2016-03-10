@@ -6,7 +6,7 @@ Ahora las notificaciones sobre pestañas abiertas en segundo plano incluyen las 
 
 
 ;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
-Firefox solicitará permisos en la ejecución en lugar de en la instalación (Android 6.0+)
+Firefox solicitará permisos en el momento de la ejecución en lugar de en el momento de instalación (Android 6.0+)
 
 
 ;Previously cached pages will be displayed when offline
