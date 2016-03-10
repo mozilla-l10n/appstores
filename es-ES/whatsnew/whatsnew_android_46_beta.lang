@@ -2,14 +2,14 @@
 
 
 ;Notifications about tabs opened in the background now list the URLs
-Notifications about tabs opened in the background now list the URLs
+Ahora las notificaciones sobre pestañas abiertas en segundo plano incluyen las URL
 
 
 ;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
-Firefox will request permissions at runtime instead of installation time (Android 6.0+)
+Firefox solicitará permisos en la ejecución en lugar de en la instalación (Android 6.0+)
 
 
 ;Previously cached pages will be displayed when offline
-Previously cached pages will be displayed when offline
+Cuando no haya conexión, se mostrarán las páginas guardadas en la caché
 
 
