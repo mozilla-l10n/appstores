@@ -60,20 +60,20 @@ Pilih data pribadi yang ingin Anda hapus.
 
 
 ;iOS 9 required for Private Browsing mode
-Mode Penjelajahan Pribadi diharuskan pada iOS 9
+Mode Penjelajahan Pribadi membutuhkan iOS 9
 
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SINKRONISASIKAN FIREFOX DI ANTARA SEMUA PERANGKATMU
+SINKRONISASIKAN FIREFOX DI SEMUA PERANGKATMU
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-Dengan Akun Firefox, akseslah riwayat, markah, dan tab terbuka dari desktop, ponsel pintar, maupun tablet Anda.
+Dengan Akun Firefox, akses riwayat, markah, dan tab terbuka dari desktop, ponsel pintar, maupun tablet Anda.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox juga mengingat dengan aman kata sandi Anda di berbagai perangkat agar Anda tidak perlu mengingatnya.
+Firefox juga mengingat dengan aman sandi Anda di berbagai perangkat agar Anda tidak perlu mengingatnya.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -82,7 +82,7 @@ TAB VISUAL INTUITIF
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Visual yang intuitif dan tab bernomor yang memudahkan Anda mencari konten untuk referensi di masa depan.
+Tab yang visual intuitif dan bernomor yang memudahkan Anda mencari konten untuk referensi di masa depan.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
@@ -91,11 +91,11 @@ Bukalah tab sebanyak yang Anda suka tanpa harus kehilangan jejak dari halaman ya
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-AKSES MUDAH KE SITUS KESUKAANMU
+AKSES MUDAH KE SITUS KESUKAAN ANDA
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Habiskan waktu untuk membaca situs kesukaanmu daripada mencarinya.
+Habiskan waktu untuk membaca situs kesukaan alih-alih mencarinya.
 
 
 ;Learn more about Firefox for iOS:
@@ -199,7 +199,7 @@ Penjelajahan tanpa gangguan <br>dengan Sync
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-Dapatkan akses cepat ke markah, <br>riwayat, tab terbuka, dan kata sandi <br>di mana saja Anda menggunakan Firefox
+Dapatkan akses cepat ke markah, <br>riwayat, tab terbuka, dan sandi <br>di mana saja Anda menggunakan Firefox
 
 
 # Screenshot text, displayed as a bold title
