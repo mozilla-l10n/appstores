@@ -2,14 +2,14 @@
 
 
 ;Notifications about tabs opened in the background now list the URLs
-Notifications about tabs opened in the background now list the URLs
+Meddelelser om faneblade åbnet i baggrunden viser nu adresserne
 
 
 ;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
-Firefox will request permissions at runtime instead of installation time (Android 6.0+)
+Firefox vil bede om tilladelser, når den kører, i stedet for når den installeres (Android 6.0+)
 
 
 ;Previously cached pages will be displayed when offline
-Previously cached pages will be displayed when offline
+Tidligere cachede sider vil blive vist i offline-tilstand
 
 
