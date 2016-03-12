@@ -2,14 +2,14 @@
 
 
 ;Notifications about tabs opened in the background now list the URLs
-Notifications about tabs opened in the background now list the URLs
+В уведомлениях о вкладках, открытых в фоновом режиме, теперь указываются их URL-адреса
 
 
 ;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
-Firefox will request permissions at runtime instead of installation time (Android 6.0+)
+Firefox будет запрашивать разрешения при запуске, а не во время установки (Android 6.0 +)
 
 
 ;Previously cached pages will be displayed when offline
-Previously cached pages will be displayed when offline
+Ранее закэшированные страницы будет отображаться в автономном режиме
 
 
