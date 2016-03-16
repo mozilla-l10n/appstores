@@ -2,14 +2,14 @@
 
 
 ;Support for third-party keyboards has been enabled (note that some keyboards have trouble with the Firefox location bar)
-Support for third-party keyboards has been enabled (note that some keyboards have trouble with the Firefox location bar)
+Support för tredjeparts tangentbord har aktiverats (notera att vissa tangentbord har problem med Firefox adressfält)
 
 
 ;Fix for a bug where it was not always possible to edit passwords in the login manager
-Fix for a bug where it was not always possible to edit passwords in the login manager
+Fix för en bugg där det inte alltid var möjligt att redigera lösenord i inloggningshanteraren
 
 
 ;Fix for a possible crash on page load
-Fix for a possible crash on page load
+Fix för en potentiell krasch vid laddning av sida
 
 
