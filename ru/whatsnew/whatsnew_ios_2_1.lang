@@ -1,0 +1,15 @@
+## NOTE: Those strings are displayed on the App Store in the what’s new section for Firefox for iOS 2.1 release. See https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/apple/release/
+
+
+;Support for third-party keyboards has been enabled (note that some keyboards have trouble with the Firefox location bar)
+Support for third-party keyboards has been enabled (note that some keyboards have trouble with the Firefox location bar)
+
+
+;Fix for a bug where it was not always possible to edit passwords in the login manager
+Fix for a bug where it was not always possible to edit passwords in the login manager
+
+
+;Fix for a possible crash on page load
+Fix for a possible crash on page load
+
+
