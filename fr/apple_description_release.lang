@@ -212,6 +212,36 @@ Navigation privée
 Créez des onglets privés et naviguez<br>sur le Web sans que votre historique ne soit conservé.
 
 
+# LIMIT: 60 characters with small font, 40 with regular font size. Adjust line break tag (<br>) position for your language.
+# Link: https://docs.google.com/document/d/1L4ftejEhXmlMZWSfS8_4OKPCtv-dPPRlyAjSUflULzk/edit?ts=56e2fbe4
+;Join hundreds<br>of millions of<br>Firefox users
+Join hundreds<br>of millions of<br>Firefox users
+
+
+# LIMIT: 60 characters with small font, 40 with regular font size. Adjust line break tag (<br>) position for your language.
+# Link: https://docs.google.com/document/d/1L4ftejEhXmlMZWSfS8_4OKPCtv-dPPRlyAjSUflULzk/edit?ts=56e2fbe4
+;Fast and<br>intelligent search
+Fast and<br>intelligent search
+
+
+# LIMIT: 60 characters with small font, 40 with regular font size. Adjust line break tag (<br>) position for your language.
+# Link: https://docs.google.com/document/d/1L4ftejEhXmlMZWSfS8_4OKPCtv-dPPRlyAjSUflULzk/edit?ts=56e2fbe4
+;Access tabs,<br>bookmarks and history<br>from other devices
+Access tabs,<br>bookmarks and history<br>from other devices
+
+
+# LIMIT: 60 characters with small font, 40 with regular font size. Adjust line break tag (<br>) position for your language.
+# Link: https://docs.google.com/document/d/1L4ftejEhXmlMZWSfS8_4OKPCtv-dPPRlyAjSUflULzk/edit?ts=56e2fbe4
+;Simple<br>browser tabs
+Simple<br>browser tabs
+
+
+# LIMIT: 60 characters with small font, 40 with regular font size. Adjust line break tag (<br>) position for your language.
+# Link: https://docs.google.com/document/d/1L4ftejEhXmlMZWSfS8_4OKPCtv-dPPRlyAjSUflULzk/edit?ts=56e2fbe4
+;Private<br>browsing
+Private<br>browsing
+
+
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
 Safari,Chrome,Opera,Internet Explorer,Recherche,Adblock,Flash,Navigateur,Navigation privée,Privé
@@ -225,5 +255,3 @@ Safari,Chrome,Opera,Internet Explorer,Recherche,Adblock,Flash,Navigateur,Navigat
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
 Cette mise à jour contient des correctifs et améliorations concernant la stabilité.
-
-

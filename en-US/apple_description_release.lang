@@ -212,6 +212,41 @@ Private Browsing
 Make specific tabs private and browse<br>the Web without your history being saved
 
 
+## MAX_LENGTH: 60
+# LIMIT: 60 characters with small font, 40 with regular font size. Adjust line break tag (<br>) position for your language.
+# Link: https://docs.google.com/document/d/1L4ftejEhXmlMZWSfS8_4OKPCtv-dPPRlyAjSUflULzk/edit?ts=56e2fbe4
+;Join hundreds<br>of millions of<br>Firefox users
+Join hundreds<br>of millions of<br>Firefox users
+
+
+## MAX_LENGTH: 60
+# LIMIT: 60 characters with small font, 40 with regular font size. Adjust line break tag (<br>) position for your language.
+# Link: https://docs.google.com/document/d/1L4ftejEhXmlMZWSfS8_4OKPCtv-dPPRlyAjSUflULzk/edit?ts=56e2fbe4
+;Fast and<br>intelligent search
+Fast and<br>intelligent search
+
+
+## MAX_LENGTH: 60
+# LIMIT: 60 characters with small font, 40 with regular font size. Adjust line break tag (<br>) position for your language.
+# Link: https://docs.google.com/document/d/1L4ftejEhXmlMZWSfS8_4OKPCtv-dPPRlyAjSUflULzk/edit?ts=56e2fbe4
+;Access tabs,<br>bookmarks and history<br>from other devices
+Access tabs,<br>bookmarks and history<br>from other devices
+
+
+## MAX_LENGTH: 60
+# LIMIT: 60 characters with small font, 40 with regular font size. Adjust line break tag (<br>) position for your language.
+# Link: https://docs.google.com/document/d/1L4ftejEhXmlMZWSfS8_4OKPCtv-dPPRlyAjSUflULzk/edit?ts=56e2fbe4
+;Simple<br>browser tabs
+Simple<br>browser tabs
+
+
+## MAX_LENGTH: 60
+# LIMIT: 60 characters with small font, 40 with regular font size. Adjust line break tag (<br>) position for your language.
+# Link: https://docs.google.com/document/d/1L4ftejEhXmlMZWSfS8_4OKPCtv-dPPRlyAjSUflULzk/edit?ts=56e2fbe4
+;Private<br>browsing
+Private<br>browsing
+
+
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
 internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
@@ -225,5 +260,3 @@ internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,inco
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
 This update contains stability improvements and bug fixes.
-
-
