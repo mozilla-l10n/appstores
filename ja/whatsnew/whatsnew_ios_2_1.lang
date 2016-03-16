@@ -2,14 +2,14 @@
 
 
 ;Support for third-party keyboards has been enabled (note that some keyboards have trouble with the Firefox location bar)
-Support for third-party keyboards has been enabled (note that some keyboards have trouble with the Firefox location bar)
+サードパーティ製キーボード対応を有効化しました (一部のキーボードは Firefox のロケーションバーと相性が悪い場合があります)
 
 
 ;Fix for a bug where it was not always possible to edit passwords in the login manager
-Fix for a bug where it was not always possible to edit passwords in the login manager
+ログインマネージャでパスワードを編集できない場合がある問題を修正しました
 
 
 ;Fix for a possible crash on page load
-Fix for a possible crash on page load
+ページ読み込み時に起こり得るクラッシュを修正しました
 
 
