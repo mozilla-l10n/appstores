@@ -10,6 +10,6 @@ Risolto un problema che impediva in taluni casi la modifica delle password nel g
 
 
 ;Fix for a possible crash on page load
-Risolto un problema che poteva essere fonte di crash durante il caricamento delle pagine.
+Risolto un problema che poteva causare arresti anomali durante il caricamento delle pagine.
 
 
