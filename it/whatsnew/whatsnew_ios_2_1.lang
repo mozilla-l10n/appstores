@@ -2,11 +2,11 @@
 
 
 ;Support for third-party keyboards has been enabled (note that some keyboards have trouble with the Firefox location bar)
-Attivato il supporto per tastiere di terze parti. Alcune di queste tastiere presentano dei problemi di incompatibilità con la barra degli indirizzi di Firefox.
+Attivato il supporto per tastiere di terze parti. Attenzione: alcune tastiere non funzionano correttamente nella barra degli indirizzi di Firefox.
 
 
 ;Fix for a bug where it was not always possible to edit passwords in the login manager
-Risolto un problema che impediva in taluni casi la modifica delle password nel gestore password.
+Risolto un problema che impediva in alcuni casi la modifica delle password nel gestore password.
 
 
 ;Fix for a possible crash on page load
