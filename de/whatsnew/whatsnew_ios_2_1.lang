@@ -6,7 +6,7 @@ Unterstützung für Tastaturen von Drittanbietern wurde aktiviert (einige Tastat
 
 
 ;Fix for a bug where it was not always possible to edit passwords in the login manager
-Ein Problem durch das Passwörter in der Passwortverwaltung nicht bearbeitet werden konnten wurde behoben.
+Ein Problem, durch das Passwörter in der Passwortverwaltung nicht bearbeitet werden konnten, wurde behoben.
 
 
 ;Fix for a possible crash on page load
