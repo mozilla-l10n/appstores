@@ -2,7 +2,7 @@
 
 
 ;Support for third-party keyboards has been enabled (note that some keyboards have trouble with the Firefox location bar)
-Firefox understøtter nu tredjeparts-tastature (bemærk at adresselinjen ikke fungerer optimalt med visse tastaturer)
+Firefox understøtter nu tredjeparts-tastaturer (bemærk at adresselinjen ikke fungerer optimalt med visse tastaturer)
 
 
 ;Fix for a bug where it was not always possible to edit passwords in the login manager
