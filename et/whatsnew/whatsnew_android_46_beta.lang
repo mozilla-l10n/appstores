@@ -2,14 +2,14 @@
 
 
 ;Notifications about tabs opened in the background now list the URLs
-Notifications about tabs opened in the background now list the URLs
+Teavitustes taustal avatud kaartide kohta kuvatakse nüüd aadresse
 
 
 ;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
-Firefox will request permissions at runtime instead of installation time (Android 6.0+)
+Firefox küsib lube töötamise ajal, mitte paigalduse ajal (Android 6.0+)
 
 
 ;Previously cached pages will be displayed when offline
-Previously cached pages will be displayed when offline
+Eelnevalt puhverdatud lehti kuvatakse ka ühenduseta
 
 
