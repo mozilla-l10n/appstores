@@ -1,0 +1,269 @@
+## NOTE: this is the text used on Android #42, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/google/release/
+
+
+# Title of the  App on Google Play. There is a 30 characters max length! If you have to leave a concept out to keep your translation short, privilege the word 'browser' over 'fast' and 'private'
+;Firefox Browser fast & private
+Firefox Browser fast & private
+
+
+;Firefox Web Browser
+Firefox 网络浏览器
+
+
+# This is the short tagline for the app on Google Play
+;Get the customizable, private & free mobile browser that syncs across devices.
+Get the customizable, private & free mobile browser that syncs across devices.
+
+
+;Experience a fast, smart and personal Web.
+体验快速、智能、个性化的网络。
+
+
+;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox 是由独立、以人为本的 Mozilla 打造的浏览器，Mozilla 曾获选隐私方面最值得信赖的互联网公司。
+
+
+;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+今天就升级，加入数以亿计的 Firefox 用户队伍，获得更加个性化的浏览体验吧。
+
+
+# Slogan in uppercase, displayed as a category title
+;FAST. SMART. YOURS.
+快速、智能、个性。
+
+
+;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox 为您而生，使您再次能掌控自己的网络体验。
+
+
+;That’s why we design the product with smart features that take the guesswork out of browsing.
+这也是为什么我们设计了智能化的产品，预测您将要浏览的内容。
+
+
+# Slogan in uppercase, displayed as a category title
+;SEARCH INTELLIGENTLY & GET THERE FASTER
+智能搜索，更快到达
+
+
+;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox 能预测你的需求，每次都直观的在你喜欢的搜索引擎上提供多项建议及以前搜索过的结果。
+
+
+;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+轻松访问各类搜索服务，包括维基百科、Twitter、亚马逊等。
+
+
+# Slogan in uppercase, displayed as a category title
+;NEXT LEVEL PRIVACY
+新一代隐私权保护
+
+
+;Your privacy has been upgraded.
+您的隐私保护级别已得到升级。
+
+
+;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+带有跟踪保护功能的隐私浏览模式，将阻止可能跟踪您浏览活动的网页部分。
+
+
+# Slogan in uppercase, displayed as a category title
+;SYNC FIREFOX ACROSS YOUR DEVICES
+在您的设备间同步 Firefox
+
+
+;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+使用 Firefox 账号，在您的智能手机和平板电脑上访问来自您的桌面电脑的历史记录、书签及已打开的标签页。
+
+
+;Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox 也可以安全的记住您的密码，跨越各个设备，省去输入时间。
+
+
+# Slogan in uppercase, displayed as a category title
+;INTUITIVE VISUAL TABS
+直观的可视化标签页
+
+
+;Intuitive visual and numbered tabs easily let you find content for future reference.
+直观的可视化且数字编号的标签页，让您可以轻松在未来找到想要的内容。
+
+
+;Open as many tabs as you like without losing track of your open Web pages.
+随你喜欢打开许多标签页，无需担心丢失已打开的网页。
+
+
+# Slogan in uppercase, displayed as a category title
+;EASY ACCESS TO YOUR TOP SITES
+轻松访问常用网站
+
+
+;Spend your time reading your favorites sites instead of looking for them.
+将时间花在阅读你喜欢的网站，而不是你找它们。
+
+
+# Slogan in uppercase, displayed as a category title
+;ADD-ONS FOR EVERYTHING
+适合各处的附加组件
+
+
+;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+定制你的 Firefox，个性化并掌控 Web 体验。带来包括广告拦截，密码管理，下载管理等等功能。
+
+
+# Slogan in uppercase, displayed as a category title
+;QUICK SHARE
+快捷分享
+
+
+;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox 会记住你最近使用的应用，以帮助你便捷的分享内容到 Facebook、Twitter、WhatsApp 和 Skype 等服务。
+
+
+# Slogan in uppercase, displayed as a category title
+;TAKE IT TO THE BIG SCREEN
+带到大屏幕
+
+
+;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+从你的智能手机或者平板电脑将视频或者 Web 内容发送到任何配备了流媒体功能的电视设备上。
+
+
+;Learn more about Firefox for Android:
+了解更多有关 Firefox Android 版：
+
+
+;Have questions or need help? Visit {{support_link}}
+有疑问或者需要帮助？访问 {{support_link}}
+
+
+# Bulleted list item
+;Read about Firefox permissions: {{permission_link}}
+阅读有关 Firefox 权限：{{permission_link}}
+
+
+# Bulleted list item
+;Learn more about what’s up at Mozilla: {{blog_link}}
+了解有关 Mozilla 的新鲜事：{{blog_link}}
+
+
+# Bulleted list item
+;Like Firefox on Facebook: {{facebook_link}}
+在 Facebook 上赞 Firefox：{{facebook_link}}
+
+
+# Bulleted list item
+;Follow Firefox on Twitter: {{twitter_link}}
+在 Twitter 上关注 Firefox：{{twitter_link}}
+
+
+# Slogan in uppercase, displayed as a category title
+;ABOUT MOZILLA
+关于 Mozilla
+
+
+;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla 的存在是为了将互联网建设为面向所有人可用的公共资源，因为我们相信，开放和免费优于封闭和管控。
+
+
+;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+我们打造了 Firefox 等产品，以促进可选性和透明度，为人们的网上生活提供更多掌控。
+
+
+;Learn more at {{mozilla_org_link}}
+访问 {{mozilla_org_link}} 了解更多信息
+
+
+;Privacy Policy: {{privacy_link}}
+隐私政策：{{privacy_link}}
+
+
+# Title of screenshot
+;Fast. Smart. Yours
+快速 · 智能 · 个性
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+升级到强有力的 Firefox<br>并加入数以亿计的 Firefox<br>桌面版和移动版用户的行列。
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+升级到强有力的 Firefox<br>并加入数以亿计的 Firefox 用户行列
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+升级到 Firefox 并加入<br>数以亿计的 Firefox 用户行列
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+直观的可视化标签页设计
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+快捷查找和管理<br>已打开的标签页
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+智能搜索
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+在输入完成之前<br>就获得精准的预测结果
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+使用同步功能<br>无缝浏览
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+即时访问您的书签、历史记录<br>以及已打开的标签页，还有密码<br>无论您是在哪里使用 Firefox
+
+
+# Title of screenshot
+;Next level privacy
+新一代隐私权保护
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
+隐私浏览模式<br>附有跟踪保护功能<br>将屏蔽网页上可能跟踪您行为的部分
+
+
+# Title of screenshot
+;Add-ons for everything
+带来无限可能的附加组件
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
+让附加组件功能<br>个性化你的网页浏览器<br>包括广告过滤、密码、下载管理等功能
+
+
+# Title of screenshot
+;Quick Share
+快捷分享
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+Firefox 会记住<br>您最近使用的应用<br>以助您达成所想
+
+
+# Title of screenshot
+;Send to device
+发送到设备
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+发送视频和网络内容<br>从你的智能手机或平板电脑<br>到达任何支持的设备
+
+
