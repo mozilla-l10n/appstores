@@ -3,7 +3,7 @@
 
 # Title of the App on Google Play. There is a 30 characters max length! If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
-Firefox Browser fast & private
+Peramban Firefox
 
 
 ;Firefox Web Browser
@@ -12,11 +12,11 @@ Peramban Web Firefox
 
 # This is the short tagline for the app on Google Play. Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the customizable, private & free mobile browser that syncs across devices.
-Get the customizable, private & free mobile browser that syncs across devices.
+Dapatkan peramban seluler gratis yang dapat disinkronkan antarperangkat.
 
 
 ;Experience a fast, smart and personal Web.
-Rasakan web yang cepat, pintar, dan pribadi.
+Rasakan web cepat, pintar, dan pribadi.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
@@ -68,11 +68,11 @@ Penjelajahan Pribadi dengan Perlindungan Pelacakan mencegah bagian dari halaman 
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SINKRONISASIKAN FIREFOX DI ANTARA SEMUA PERANGKATMU
+SINKRONISASIKAN FIREFOX DI SEMUA PERANGKATMU
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-Dengan Akun Firefox, akseslah riwayat, markah, dan tab terbuka dari desktop, ponsel pintar, maupun tablet Anda.
+Dengan Akun Firefox, akses riwayat, markah, dan tab terbuka dari desktop, ponsel cerdas, maupun tablet Anda.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
@@ -94,11 +94,11 @@ Bukalah tab sebanyak yang Anda suka tanpa harus kehilangan jejak dari halaman ya
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-AKSES MUDAH KE SITUS KESUKAANMU
+AKSES MUDAH KE SITUS KESUKAAN ANDA
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Habiskan waktu untuk membaca situs kesukaanmu daripada mencarinya.
+Habiskan waktu untuk membaca situs kesukaan alih-alih mencarinya.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -107,7 +107,7 @@ PENGAYA UNTUK SEGALANYA
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
-Kendalikan pengalaman Web Anda dengan mempersonalisasikan Firefox dengan pengaya seperti pencegat iklan, pengelola kata sandi dan unduhan, dan lainnya.
+Kendalikan pengalaman Web Anda dengan mempersonalisasikan Firefox dengan pengaya seperti pemblokir iklan, pengelola kata sandi dan unduhan, dan lainnya.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -244,7 +244,7 @@ Pengaya untuk segalanya
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
-Personalisasikan peramban Web Anda dengan <br>pengaya seperti pencegat iklan, <br>pengelola kata sandi dan unduhan, serta lainnya.
+Personalisasikan peramban Web Anda dengan <br>pengaya seperti pemblokir iklan, <br>pengelola kata sandi dan unduhan, serta lainnya.
 
 
 # Title of screenshot

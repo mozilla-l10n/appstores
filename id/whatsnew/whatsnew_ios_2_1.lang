@@ -2,11 +2,11 @@
 
 
 ;Support for third-party keyboards has been enabled (note that some keyboards have trouble with the Firefox location bar)
-Dukungan papan tuts pihak ketiga telah diaktifkan (dicatat bahwa beberapa papan tuts akan bermasalah dengan bilah lokasi Firefox)
+Dukungan papan ketik pihak ketiga telah diaktifkan (perhatikan bahwa beberapa papan ketik memiliki masalah dengan bilah lokasi Firefox)
 
 
 ;Fix for a bug where it was not always possible to edit passwords in the login manager
-Perbaikan pada kutu di mana sebelumnya tidak dapat mungkin mengubah kata kunci di pengelola log masuk
+Perbaikan bug di mana sebelumnya tidak dapat mungkin mengubah kata kunci di pengelola info masuk
 
 
 ;Fix for a possible crash on page load
