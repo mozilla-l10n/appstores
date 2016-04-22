@@ -1,0 +1,19 @@
+## NOTE: Those strings are displayed on Google Play in the what’s new section for Firefox 46 release. See https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/google/release/
+
+
+;Notifications about tabs opened in the background now list the URLs
+現在開始，在背景開啟分頁的通知內容中會包含網址
+
+
+;Top Sites panel now lists popular sites by default
+Top Sites panel now lists popular sites by default
+
+
+;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
+Firefox 將在執行時請求權限，而不再於安裝時請求（Android 6.0 以上）
+
+
+;Previously cached pages will be displayed when offline
+將在離線時顯示頁面先前的快取內容
+
+
