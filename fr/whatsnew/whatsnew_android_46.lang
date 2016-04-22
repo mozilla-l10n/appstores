@@ -6,7 +6,7 @@ Les notifications concernant les onglets ouverts en arrière-plan mentionnent d�
 
 
 ;Top Sites panel now lists popular sites by default
-Top Sites panel now lists popular sites by default
+Le panneau « Les plus visités » affiche maintenant par défaut les sites les plus populaires.
 
 
 ;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
@@ -15,5 +15,3 @@ Firefox demandera à présent les permissions lors de son exécution et non plus
 
 ;Previously cached pages will be displayed when offline
 Les pages précédemment mises en cache seront affichées en mode hors connexion.
-
-
