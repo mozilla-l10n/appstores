@@ -2,11 +2,11 @@
 
 
 ;Notifications about tabs opened in the background now list the URLs
-当若干标签页已在后台打开时，通知并列出网址
+若干标签页已在后台打开时，通知并列出网址
 
 
 ;Top Sites panel now lists popular sites by default
-Top Sites panel now lists popular sites by default
+常用网站面板现在会默认列出热门网站
 
 
 ;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
@@ -14,6 +14,6 @@ Firefox 将在运行时而非安装时请求权限 (Android 6.0+)
 
 
 ;Previously cached pages will be displayed when offline
-离线时以前缓存的页面将显示
+离线时将显示以前缓存的页面
 
 
