@@ -6,7 +6,7 @@ Meddelelser om faneblade åbnet i baggrunden viser nu adresserne
 
 
 ;Top Sites panel now lists popular sites by default
-Top Sites panel now lists popular sites by default
+Siden dine mest besøgte websider viser nu også populære websider
 
 
 ;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
@@ -15,5 +15,3 @@ Firefox vil bede om tilladelser, når den kører, i stedet for når den installe
 
 ;Previously cached pages will be displayed when offline
 Tidligere cachede sider vil blive vist i offline-tilstand
-
-
