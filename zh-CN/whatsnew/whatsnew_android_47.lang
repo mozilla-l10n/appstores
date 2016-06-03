@@ -1,0 +1,16 @@
+## NOTE: Those strings are displayed on Google Play in the What’s new section for Firefox 47.
+## NOTE: See https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/google/release/
+
+
+;Add “Show/Hide web fonts” in advanced settings to reduce bandwidth and data
+增加“显示/隐藏网络字体”到高级设置，用它可以节约带宽和流量费用
+
+
+;Add system notification to highlight features on browser update
+浏览器更新时，用系统通知提醒新功能
+
+
+;This is the last release to support Android Gingerbread
+这是最后一个支持 Android Gingerbread (2.3) 的版本
+
+
