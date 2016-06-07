@@ -2,6 +2,8 @@
 ## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fr/google/beta/
 
 
+# This feature has been disabled last minute, that's why it doesn't appear on the stores_l10n website
+# We're keeping the string in the file, since we already have several translations at this point, and it might be reused in the next cycle.
 ;Content Notifications for infrequent websites
 非频繁网站内容通知
 
