@@ -1,8 +1,12 @@
 ## NOTE: Those strings are displayed on the App Store in the what’s new section for Firefox for iOS 5.0 release. See https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/apple/release/
 
 
-;Add any search provider to Firefox
-Adicione qualquer provedor de pesquisa no Firefox
+;Under the hood optimizations. Users can now get to Web pages faster while seeing battery life savings. Of course, all devices and humans are different so results may vary.
+Under the hood optimizations. Users can now get to Web pages faster while seeing battery life savings. Of course, all devices and humans are different so results may vary.
+
+
+;Add any website specific search provider to Firefox
+Add any website specific search provider to Firefox
 
 
 ;New menu in the toolbar for quick access to popular features
