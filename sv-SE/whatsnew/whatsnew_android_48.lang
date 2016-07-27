@@ -1,0 +1,23 @@
+## NOTE: Those strings are displayed on Google Play in the What’s new section for Firefox 48.
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fr/google/
+
+
+# This feature has been disabled last minute, that's why it doesn't appear on the stores_l10n website
+# We're keeping the string in the file, since we already have several translations at this point, and it might be reused in the next cycle.
+;Content Notifications for infrequent websites
+Innehållsaviseringar för sällan besökta webbplatser
+
+
+;Suggest “Add to home screen” for frequently used websites
+Föreslå “Lägg till på startsidan” för ofta besökta webbplatser
+
+
+;Migrate reading list to bookmarks
+Migrera läslista till bokmärken
+
+
+# "Snazzy" is an informal English word that signifies "stylish", "attractive".
+;Video controls get a new look! Snazzy
+Video controls get a new look! Snazzy
+
+
