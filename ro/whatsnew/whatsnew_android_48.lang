@@ -5,7 +5,7 @@
 # This feature has been disabled last minute, that's why it doesn't appear on the stores_l10n website
 # We're keeping the string in the file, since we already have several translations at this point, and it might be reused in the next cycle.
 ;Content Notifications for infrequent websites
-Notificări de conținut pentru site-urile web cu o frecvență redusă
+Notificări de conținut pentru site-urile web cu frecvență redusă
 
 
 ;Suggest “Add to home screen” for frequently used websites
@@ -18,6 +18,6 @@ Migrează lista de citire în semne de carte
 
 # "Snazzy" is an informal English word that signifies "stylish", "attractive".
 ;Video controls get a new look! Snazzy
-Video controls get a new look! Snazzy
+Comenzile video primesc un aspect nou! Cochet
 
 
