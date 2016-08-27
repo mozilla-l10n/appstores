@@ -46,7 +46,7 @@ INTELIGENTNÉ VYHĽADÁVANIE & RÝCHLEJŠIA NAVIGÁCIA
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox predvída vaše potreby a ponúka intuitívne návrhy z predchádzajúcich vyhľadávaní vo všetkých vašich obľúbených vyhľadávacích moduloch. Vždy.
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
@@ -76,12 +76,12 @@ S účtom Firefox Account máte prístup ku svojej histórii, záložkám a otvo
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox si takisto pamätá vaše heslá na rôznych zariadeniach namiesto vás.
 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE VISUAL TABS
-INTUITIVE VISUAL TABS
+INTUITÍVNE KARTY S NÁHĽADOM
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
@@ -148,7 +148,7 @@ Zistite, čo je nového v Mozille: {{blog_link}}
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Pridajte like pre Firefox na Facebooku: {{facebook_link}}
+Dajte like Firefoxu na Facebooku: {{facebook_link}}
 
 
 # Bulleted list item
@@ -244,7 +244,7 @@ Doplnky na každú príležitosť
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
-Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
+Prispôsobte si svoj webový prehliadač <br>s doplnkami na blokovanie reklamy, <br>správu hesiel, preberania a ďalšími.
 
 
 # Title of screenshot
@@ -254,7 +254,7 @@ Rýchle zdieľanie
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
-Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+Firefox si pamätá vaše nedávno použité <br>aplikácie a pomôže vám jednoducho zdieľať obsah <br>tak, ako to chcete vy
 
 
 # Title of screenshot
