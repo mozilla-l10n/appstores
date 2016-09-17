@@ -1,0 +1,16 @@
+## NOTE: Those strings are displayed on Google Play in the What’s new section for Firefox 49release.
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fr/google/release/
+
+
+;Remember scroll position and zoom level for open tabs
+開かれているタブのスクロール位置とズームレベルを記憶するようにしました
+
+
+;Updated First Run to showcase several exciting features
+いくつかのエキサイティングな機能を紹介するよう、初回起動画面を刷新しました
+
+
+;Outdated tabs are now hidden when restore tabs setting is set to "Always restore"
+タブの復元設定が「常に復元する」になっている場合に、古いタブを隠すようにしました
+
+
