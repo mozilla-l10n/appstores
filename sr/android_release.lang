@@ -1,0 +1,269 @@
+## NOTE: this is the text used on Android, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/google/release/
+
+
+# Title of the App on Google Play. There is a 30 characters max length! If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
+;Firefox Browser fast & private
+Firefox Browser fast & private
+
+
+;Firefox Web Browser
+Firefox Web Browser
+
+
+# This is the short tagline for the app on Google Play. Max length is 80 characters, so you might have to rephrase in order to fit.
+;Get the customizable, private & free mobile browser that syncs across devices.
+Get the customizable, private & free mobile browser that syncs across devices.
+
+
+;Experience a fast, smart and personal Web.
+Experience a fast, smart and personal Web.
+
+
+;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+
+
+;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+
+
+# Slogan in uppercase, displayed as a category title
+;FAST. SMART. YOURS.
+FAST. SMART. YOURS.
+
+
+;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+
+
+;That’s why we design the product with smart features that take the guesswork out of browsing.
+That’s why we design the product with smart features that take the guesswork out of browsing.
+
+
+# Slogan in uppercase, displayed as a category title
+;SEARCH INTELLIGENTLY & GET THERE FASTER
+SEARCH INTELLIGENTLY & GET THERE FASTER
+
+
+;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+
+
+;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+
+
+# Slogan in uppercase, displayed as a category title
+;NEXT LEVEL PRIVACY
+NEXT LEVEL PRIVACY
+
+
+;Your privacy has been upgraded.
+Your privacy has been upgraded.
+
+
+;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+
+
+# Slogan in uppercase, displayed as a category title
+;SYNC FIREFOX ACROSS YOUR DEVICES
+SYNC FIREFOX ACROSS YOUR DEVICES
+
+
+;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+
+
+;Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox also safely remembers your passwords across devices so you don’t have to.
+
+
+# Slogan in uppercase, displayed as a category title
+;INTUITIVE VISUAL TABS
+INTUITIVE VISUAL TABS
+
+
+;Intuitive visual and numbered tabs easily let you find content for future reference.
+Intuitive visual and numbered tabs easily let you find content for future reference.
+
+
+;Open as many tabs as you like without losing track of your open Web pages.
+Open as many tabs as you like without losing track of your open Web pages.
+
+
+# Slogan in uppercase, displayed as a category title
+;EASY ACCESS TO YOUR TOP SITES
+EASY ACCESS TO YOUR TOP SITES
+
+
+;Spend your time reading your favorites sites instead of looking for them.
+Spend your time reading your favorites sites instead of looking for them.
+
+
+# Slogan in uppercase, displayed as a category title
+;ADD-ONS FOR EVERYTHING
+ADD-ONS FOR EVERYTHING
+
+
+;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+
+
+# Slogan in uppercase, displayed as a category title
+;QUICK SHARE
+QUICK SHARE
+
+
+;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+
+
+# Slogan in uppercase, displayed as a category title
+;TAKE IT TO THE BIG SCREEN
+TAKE IT TO THE BIG SCREEN
+
+
+;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+
+
+;Learn more about Firefox for Android:
+Learn more about Firefox for Android:
+
+
+;Have questions or need help? Visit {{support_link}}
+Have questions or need help? Visit {{support_link}}
+
+
+# Bulleted list item
+;Read about Firefox permissions: {{permission_link}}
+Read about Firefox permissions: {{permission_link}}
+
+
+# Bulleted list item
+;Learn more about what’s up at Mozilla: {{blog_link}}
+Learn more about what’s up at Mozilla: {{blog_link}}
+
+
+# Bulleted list item
+;Like Firefox on Facebook: {{facebook_link}}
+Like Firefox on Facebook: {{facebook_link}}
+
+
+# Bulleted list item
+;Follow Firefox on Twitter: {{twitter_link}}
+Follow Firefox on Twitter: {{twitter_link}}
+
+
+# Slogan in uppercase, displayed as a category title
+;ABOUT MOZILLA
+ABOUT MOZILLA
+
+
+;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+
+
+;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+
+
+;Learn more at {{mozilla_org_link}}
+Learn more at {{mozilla_org_link}}
+
+
+;Privacy Policy: {{privacy_link}}
+Privacy Policy: {{privacy_link}}
+
+
+# Title of screenshot
+;Fast. Smart. Yours
+Fast. Smart. Yours
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+Intuitive visual tab design
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+Quickly find and manage<br>your open browser tabs
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+Intelligent searches
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+Get accurate, predictive results <br>before you finish typing
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+Seamless browsing <br>with Sync
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+
+
+# Title of screenshot
+;Next level privacy
+Next level privacy
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
+Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
+
+
+# Title of screenshot
+;Add-ons for everything
+Add-ons for everything
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
+Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
+
+
+# Title of screenshot
+;Quick Share
+Quick Share
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+
+
+# Title of screenshot
+;Send to device
+Send to device
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+
+
