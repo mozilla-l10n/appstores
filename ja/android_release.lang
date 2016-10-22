@@ -3,16 +3,16 @@
 
 # Title of the App on Google Play. There is a 30 characters max length! If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
-Firefox ブラウザ 高速 & プライベート
+Firefox ブラウザー 高速 & プライベート
 
 
 ;Firefox Web Browser
-Firefox Web ブラウザ
+Firefox Web ブラウザー
 
 
 # This is the short tagline for the app on Google Play. Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the customizable, private & free mobile browser that syncs across devices.
-カスタマイズ自在で、プライバシーを守り、端末間の設定同期も可能な無料のモバイルブラウザを今すぐダウンロードしましょう。
+カスタマイズ自在で、プライバシーを守り、端末間の設定同期も可能な無料のモバイルブラウザーを今すぐダウンロードしましょう。
 
 
 ;Experience a fast, smart and personal Web.
@@ -20,7 +20,7 @@ Firefox Web ブラウザ
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox は、プライバシーに関して最も信頼されるインターネット企業に選ばれた Mozilla が開発している、独立を貫きユーザ第一を掲げたブラウザです。
+Firefox は、プライバシーに関して最も信頼されるインターネット企業に選ばれた Mozilla が開発している、独立を貫きユーザ第一を掲げたブラウザーです。
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
@@ -204,7 +204,7 @@ Mozilla は、開かれた自由な世界が閉鎖的で管理された世界よ
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-開いているブラウザのタブを<br>素早く見つけて管理
+開いているブラウザーのタブを<br>素早く見つけて管理
 
 
 # Screenshot text, displayed as a bold title
@@ -244,7 +244,7 @@ Firefox を使っているすべての場所から<br>ブックマーク、履�
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
-広告ブロッカー、パスワードマネージャ、<br>ダウンロードマネージャなど、様々なアドオンで<br>Web ブラウザをカスタマイズしましょう
+広告ブロッカー、パスワードマネージャ、<br>ダウンロードマネージャなど、様々なアドオンで<br>Web ブラウザーをカスタマイズしましょう
 
 
 # Title of screenshot
