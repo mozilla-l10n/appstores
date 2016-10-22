@@ -7,7 +7,7 @@ Firefox ブラウザー 高速 & プライベート
 
 
 ;Firefox Web Browser
-Firefox Web ブラウザー
+Firefox ウェブブラウザー
 
 
 # This is the short tagline for the app on Google Play. Max length is 80 characters, so you might have to rephrase in order to fit.
@@ -16,7 +16,7 @@ Firefox Web ブラウザー
 
 
 ;Experience a fast, smart and personal Web.
-高速、スマート、パーソナルな Web を体験。
+高速、スマート、パーソナルなウェブを体験。
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
@@ -33,7 +33,7 @@ Firefox は、プライバシーに関して最も信頼されるインターネ
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox はユーザーを第一に考えて作られ、あなたが Web 体験を思いのままに楽しめるようにします。
+Firefox はユーザーを第一に考えて作られ、あなたがウェブ体験を思いのままに楽しめるようにします。
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
@@ -63,7 +63,7 @@ Wikipedia や Twitter、Amazon。利用する検索エンジンの指定も、�
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
-トラッキング保護機能のついたプライベートブラウジングを使えば、あなたをトラッキングしている Web ページの中のコンテンツをブロックできます。
+トラッキング保護機能のついたプライベートブラウジングを使えば、あなたをトラッキングしているウェブページの中のコンテンツをブロックできます。
 
 
 # Slogan in uppercase, displayed as a category title
@@ -89,7 +89,7 @@ Firefox は記憶されたパスワードも安全に同期してくれるので
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-開いている Web ページを見失うことなく、いくつでも好きなだけタブを開けます。
+開いているウェブページを見失うことなく、いくつでも好きなだけタブを開けます。
 
 
 # Slogan in uppercase, displayed as a category title
@@ -125,7 +125,7 @@ Facebook や Twitter、Line、Skype。最後に呼び出したアプリを覚え
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
-ストリーミング機能に対応しているテレビになら、スマホやタブレットで表示している動画や Web サイトを送って、大画面で表示させられます。
+ストリーミング機能に対応しているテレビになら、スマホやタブレットで表示している動画やウェブサイトを送って、大画面で表示させられます。
 
 
 ;Learn more about Firefox for Android:
@@ -244,7 +244,7 @@ Firefox を使っているすべての場所から<br>ブックマーク、履�
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
-広告ブロッカー、パスワードマネージャ、<br>ダウンロードマネージャなど、様々なアドオンで<br>Web ブラウザーをカスタマイズしましょう
+広告ブロッカー、パスワードマネージャ、<br>ダウンロードマネージャなど、様々なアドオンで<br>ウェブブラウザーをカスタマイズしましょう
 
 
 # Title of screenshot
@@ -264,6 +264,6 @@ Firefox はあなたが最近使ったアプリを<br>記憶してくれるの�
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
-お使いのスマートフォンやタブレットから<br>各種対応端末へ、動画や Web コンテンツを<br>送信して楽しめます
+お使いのスマートフォンやタブレットから<br>各種対応端末へ、動画やウェブコンテンツを<br>送信して楽しめます
 
 
