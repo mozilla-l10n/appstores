@@ -6,7 +6,7 @@
 
 
 ;Fix for a bug where it was not always possible to edit passwords in the login manager
-ログインマネージャでパスワードを編集できない場合がある問題を修正しました
+ログインマネージャーでパスワードを編集できない場合がある問題を修正しました
 
 
 ;Fix for a possible crash on page load
