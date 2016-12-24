@@ -1,4 +1,6 @@
-## NOTE: Those strings are displayed on Google Play in the what’s new section for Firefox 46 beta release. See https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/google/beta/
+## NOTE: Those strings are displayed on Google Play in the what’s new section for Firefox 46 beta
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/google/beta/
+
 
 ;Notifications about tabs opened in the background now list the URLs
 Notifications about tabs opened in the background now list the URLs

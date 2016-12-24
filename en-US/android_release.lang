@@ -1,4 +1,5 @@
-## NOTE: this is the text used on Android, see https://l10n.mozilla-community.org/~pascalc/stores_l10n/locale/fr/google/release/
+## NOTE: This is the text used on Google Play to download Firefox for Android
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/google/release/
 
 
 # Title of the App on Google Play. There is a 30 characters max length! If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
