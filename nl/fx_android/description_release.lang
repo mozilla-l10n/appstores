@@ -1,0 +1,270 @@
+## NOTE: This is the text used on Google Play for Firefox for Android
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/release/
+
+
+# Title of the App on Google Play. There is a 30 characters max length! If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
+;Firefox Browser fast & private
+Firefox-browser, snel en privé
+
+
+;Firefox Web Browser
+Firefox-webbrowser
+
+
+# This is the short tagline for the app on Google Play. Max length is 80 characters, so you might have to rephrase in order to fit.
+;Get the customizable, private & free mobile browser that syncs across devices.
+De aanpasbare en vrije mobiele privébrowser die tussen apparaten synchroniseert.
+
+
+;Experience a fast, smart and personal Web.
+Ervaar een snel, slim en persoonlijk web.
+
+
+;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox is de onafhankelijke browser die mensen vooropstelt, gemaakt door Mozilla, verkozen tot Meest vertrouwde internetonderneming voor privacy.
+
+
+;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Voer meteen een upgrade uit en sluit u aan bij honderden miljoenen anderen die voor een meer persoonlijke surfervaring op Firefox vertrouwen.
+
+
+# Slogan in uppercase, displayed as a category title
+;FAST. SMART. YOURS.
+SNEL. SLIM. EIGEN.
+
+
+;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox is met u in gedachten gemaakt en biedt u de kracht om de controle over uw webervaring weer in eigen hand te nemen.
+
+
+;That’s why we design the product with smart features that take the guesswork out of browsing.
+Daarom ontwerpen we het product met slimme functies die gissing uit het browsen halen.
+
+
+# Slogan in uppercase, displayed as a category title
+;SEARCH INTELLIGENTLY & GET THERE FASTER
+INTELLIGENT ZOEKEN & SNELLER RESULTAAT
+
+
+;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox anticipeert op uw behoeften en levert op een intuïtieve manier meerdere voorgestelde en eerder doorzochte resultaten van uw favoriete zoekmachines. Telkens weer.
+
+
+;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Benader eenvoudig snelkoppelingen naar zoekproviders, waaronder Google en Wikipedia.
+
+
+# Slogan in uppercase, displayed as a category title
+;NEXT LEVEL PRIVACY
+PRIVACY VAN HOGER NIVEAU
+
+
+;Your privacy has been upgraded.
+Uw privacy heeft een upgrade ondergaan.
+
+
+;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+Privénavigatie met Bescherming tegen volgen blokkeert onderdelen van webpagina’s die uw surfactiviteit kunnen volgen.
+
+
+# Slogan in uppercase, displayed as a category title
+;SYNC FIREFOX ACROSS YOUR DEVICES
+SYNCHRONISEER FIREFOX OP UW APPARATEN
+
+
+;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+Benader uw geschiedenis, bladwijzers en open tabbladen van uw desktop op uw smartphone en tablet met een Firefox-account.
+
+
+;Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox onthoudt ook op een veilige manier uw wachtwoorden op apparaten, zodat u dat niet hoeft te doen.
+
+
+# Slogan in uppercase, displayed as a category title
+;INTUITIVE VISUAL TABS
+INTUÏTIEVE VISUELE TABBLADEN
+
+
+;Intuitive visual and numbered tabs easily let you find content for future reference.
+Met intuïtieve visuele en genummerde tabbladen kunt u eenvoudig inhoud vinden voor latere referentie.
+
+
+;Open as many tabs as you like without losing track of your open Web pages.
+Open zo veel tabbladen als u wilt zonder uw open webpagina’s uit het oog te verliezen.
+
+
+# Slogan in uppercase, displayed as a category title
+;EASY ACCESS TO YOUR TOP SITES
+MAKKELIJKE TOEGANG TOT UW TOPWEBSITES
+
+
+;Spend your time reading your favorites sites instead of looking for them.
+Gebruik uw tijd voor het lezen van favoriete websites in plaats van ernaar te zoeken.
+
+
+# Slogan in uppercase, displayed as a category title
+;ADD-ONS FOR EVERYTHING
+ADD-ONS VOOR ALLES
+
+
+;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+Houd controle over uw webervaring door Firefox aan te passen met add-ons zoals advertentieblokkeerders, wachtwoord- en downloadbeheerders en meer.
+
+
+# Slogan in uppercase, displayed as a category title
+;QUICK SHARE
+QUICK SHARE {ok}
+
+
+;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox onthoudt uw meest recent gebruikte apps om u eenvoudig inhoud met Facebook, Twitter, WhatsApp, Skype en meer te helpen delen.
+
+
+# Slogan in uppercase, displayed as a category title
+;TAKE IT TO THE BIG SCREEN
+STUUR HET NAAR HET GROTE SCHERM
+
+
+;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Verzend video’s en webinhoud van uw smartphone of tablet naar tv’s met ondersteunde streamingmogelijkheden.
+
+
+;Learn more about Firefox for Android:
+Meer info over Firefox voor Android:
+
+
+;Have questions or need help? Visit {{support_link}}
+Hebt u vragen of hulp nodig? Bezoek {{support_link}}
+
+
+# Bulleted list item
+;Read about Firefox permissions: {{permission_link}}
+Lees meer over Firefox-machtigingen: {{permission_link}}
+
+
+# Bulleted list item
+;Learn more about what’s up at Mozilla: {{blog_link}}
+Lees meer over wat er gaande is bij Mozilla: {{blog_link}}
+
+
+# Bulleted list item
+;Like Firefox on Facebook: {{facebook_link}}
+Vind Firefox leuk op Facebook: {{facebook_link}}
+
+
+# Bulleted list item
+;Follow Firefox on Twitter: {{twitter_link}}
+Volg Firefox op Twitter: {{twitter_link}}
+
+
+# Slogan in uppercase, displayed as a category title
+;ABOUT MOZILLA
+OVER MOZILLA
+
+
+;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla bestaat om het internet als publieke hulpbron voor iedereen toegankelijk te maken, omdat we vinden dat open en vrij beter is dan gesloten en beheerd.
+
+
+;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+We bouwen producten als Firefox om keuze en transparantie te bevorderen en mensen meer controle over hun onlinelevens te geven.
+
+
+;Learn more at {{mozilla_org_link}}
+Lees meer op {{mozilla_org_link}}
+
+
+;Privacy Policy: {{privacy_link}}
+Privacybeleid: {{privacy_link}}
+
+
+# Title of screenshot
+;Fast. Smart. Yours
+Snel. Slim. Eigen.
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Upgrade naar de kracht van Firefox en<br>sluit u aan bij honderden miljoenen<br>Firefox-gebruikers op desktop en mobiel.
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Upgrade naar de kracht van Firefox en<br>sluit u aan bij honderden miljoenen<br>Firefox-gebruikers
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Upgrade naar Firefox en sluit u<br>aan bij honderden miljoenen<br>Firefox-gebruikers
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+Intuïtieve visuele tabbladen
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+Snel uw open browsertabbladen<br>vinden en beheren
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+Intelligente zoekopdrachten
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+Accurate, voorspellende resultaten <br>zien voordat alles is getypt
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+Vloeiend browsen <br>met Sync
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Directe toegang tot uw bladwijzers, <br>geschiedenis, open tabbladen en <br>wachtwoorden, overal waar u Firefox gebruikt
+
+
+# Title of screenshot
+;Next level privacy
+Privacy van hoger niveau
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
+Privénavigatie met Bescherming <br>tegen volgen blokkeert onderdelen <br>van webpagina’s die uw surfactiviteit kunnen volgen
+
+
+# Title of screenshot
+;Add-ons for everything
+Add-ons voor alles
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
+Personaliseer uw webbrowser met <br>add-ons zoals advertentieblokkeerders, <br>wachtwoord- en downloadbeheerders en meer.
+
+
+# Title of screenshot
+;Quick Share
+Quick Share {ok}
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+Firefox onthoudt uw onlangs <br>gebruikte apps om u te helpen anderen <br>naar wens te informeren
+
+
+# Title of screenshot
+;Send to device
+Verzenden naar apparaat
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+Verzend video’s en webinhoud van <br>uw smartphone of tablet <br>naar ondersteunde apparaten
+
+

@@ -1,0 +1,20 @@
+## NOTE: These strings are displayed on Google Play in the What’s new section for Firefox 46
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fx_android/release/
+
+
+;Notifications about tabs opened in the background now list the URLs
+As notificações acerca de separadores abertos em segundo plano agora listam os URLs
+
+
+;Top Sites panel now lists popular sites by default
+O painel dos sites mais visitados agora lista sites populares por predefinição
+
+
+;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
+O Firefox irá solicitar permissões no tempo de execução em vez do tempo de instalação (Android 6.0+)
+
+
+;Previously cached pages will be displayed when offline
+Páginas previamente em cache serão exibidas quando offline
+
+

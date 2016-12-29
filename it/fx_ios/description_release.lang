@@ -1,0 +1,230 @@
+## NOTE: This is the text used on Apple App Store for Firefox for iOS
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_ios/release/
+
+
+;Firefox Web Browser
+Browser web Firefox
+
+
+;Experience a fast, smart and personal Web.
+Scopri un Web veloce, intelligente e personalizzato.
+
+
+;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Realizzato da Mozilla, votata come società Internet più attenta alla privacy, Firefox è il browser independente che mette le persone al primo posto.
+
+
+;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Aggiorna oggi stesso e unisciti a centinaia di milioni di persone che si affidano a Firefox per un’esperienza web più personalizzata.
+
+
+# Slogan in uppercase, displayed as a category title
+;FAST. SMART. YOURS.
+VELOCE. INTELLIGENTE. PERSONALIZZATO.
+
+
+;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox è realizzato pensando a te, per darti il pieno controllo sulla tua esperienza di navigazione.
+
+
+;That’s why we design the product with smart features that take the guesswork out of browsing.
+È per questo motivo che sviluppiamo Firefox con funzioni intelligenti per navigare senza doversi porre troppe domande.
+
+
+# Slogan in uppercase, displayed as a category title
+;SEARCH INTELLIGENTLY & GET THERE FASTER
+CERCA IN MODO INTELLIGENTE E PIÙ VELOCE
+
+
+;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox è in grado di anticipare le tue necessità, proponendoti in modo intuitivo suggerimenti e risultati di ricerche precedenti su tutti i tuoi motori di ricerca preferiti.
+
+
+;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Accedi facilmente alle scorciatoie per utilizzare i motori di ricerca, inclusi Wikipedia, Twitter e Amazon.
+
+
+;BROWSE PRIVATELY
+NAVIGAZIONE ANONIMA
+
+
+;Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
+I tuoi dati personali ti appartengono. In modalità Navigazione anonima Firefox non memorizza né cronologia di navigazione né cookie, mentre vengono mantenuti i nuovi segnalibri creati.
+
+
+;Delete your browsing history, passwords and more in a single tap.
+Cancella la cronologia di navigazione, le password e molto altro ancora con un solo tocco.
+
+
+;Choose the private data you want to remove.
+Scegli quali dati personali vuoi eliminare.
+
+
+;iOS 9 required for Private Browsing mode
+Per utilizzare la navigazione anonima è richiesto iOS 9
+
+
+# Slogan in uppercase, displayed as a category title
+;SYNC FIREFOX ACROSS YOUR DEVICES
+SINCRONIZZA FIREFOX SU TUTTI I TUOI DISPOSITIVI
+
+
+;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+Con l’account Firefox puoi accedere alla cronologia, ai segnalibri e alle schede aperte sul computer direttamente dal tuo smartphone o tablet.
+
+
+;Firefox also safely remembers your passwords across devices so you don’t have to.
+Non c’è bisogno di memorizzare le password: Firefox lo farà al tuo posto, conservandole in modo sicuro su tutti i tuoi dispositivi.
+
+
+# Slogan in uppercase, displayed as a category title
+;INTUITIVE VISUAL TABS
+DESIGN DELLE SCHEDE INTUITIVO
+
+
+;Intuitive visual and numbered tabs easily let you find content for future reference.
+Un design intuitivo con schede numerate ti permette di ritrovare facilmente i contenuti che ti interessano.
+
+
+;Open as many tabs as you like without losing track of your open Web pages.
+Apri tutte le schede di cui hai bisogno senza perdere di vista le pagine web che stai visitando
+
+
+# Slogan in uppercase, displayed as a category title
+;EASY ACCESS TO YOUR TOP SITES
+ACCESSO RAPIDO AI SITI PIÙ VISITATI
+
+
+;Spend your time reading your favorites sites instead of looking for them.
+Perché sprecare tempo a cercare i tuoi siti preferiti, quando puoi accedervi in un attimo?
+
+
+;Learn more about Firefox for iOS:
+Ulteriori informazioni su Firefox per iOS:
+
+
+;Have questions or need help? Visit {{support_link}}
+Hai bisogno d’aiuto? Visita {{support_link}}
+
+
+# Bulleted list item
+;Read about Firefox permissions: {{permission_link}}
+Informazioni sui permessi di Firefox: {{permission_link}}
+
+
+# Bulleted list item
+;Learn more about what’s up at Mozilla: {{blog_link}}
+Scopri le ultime novità dal mondo Mozilla: {{blog_link}}
+
+
+# Bulleted list item
+;Like Firefox on Facebook: {{facebook_link}}
+Dai un “Mi piace” alla pagina Facebook di Firefox: {{facebook_link}}
+
+
+# Bulleted list item
+;Follow Firefox on Twitter: {{twitter_link}}
+Segui @Firefox su Twitter: {{twitter_link}}
+
+
+# Slogan in uppercase, displayed as a category title
+;ABOUT MOZILLA
+INFORMAZIONI SU MOZILLA
+
+
+;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla esiste per garantire che Internet rimanga una risorsa pubblica e accessibile a tutti. Crediamo che una realtà aperta, gratuita e libera sia preferibile a una chiusa e costantemente sotto controllo.
+
+
+;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Realizziamo prodotti come Firefox per promuovere la libertà di scelta e la trasparenza, per garantire alle persone il pieno controllo della propria vita online.
+
+
+;Learn more at {{mozilla_org_link}}
+Per ulteriori informazioni visita {{mozilla_org_link}}
+
+
+;Privacy Policy: {{privacy_link}}
+Informativa sulla privacy: {{privacy_link}}
+
+
+# Screenshot text, displayed as a bold title
+;Fast. Smart. Yours
+Veloce. Intelligente. Personalizzato.
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Scopri le potenzialità di Firefox e<br>unisciti a centinaia di milioni di<br>utenti Firefox su computer e cellulari.
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Scopri le potenzialità di Firefox e<br>unisciti a centinaia di milioni di utenti Firefox
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Passa a Firefox e<br>unisciti a centinaia di milioni di utenti Firefox
+
+
+# Adjust line break tag position (<br>) for your language
+;Announcing<br>Firefox for iOS<br>Download now!
+È disponibile<br>Firefox per iOS<br>Installalo subito!
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+Gestione intuitiva delle schede
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+Trova e gestisci in modo veloce<br>le schede aperte nel browser
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+Ricerche intelligenti
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+Ottieni risultati sempre accurati <br>ancora prima di aver finito di digitare
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+Navigazione perfettamente integrata<br>tra tutti i tuoi dispositivi grazie a Sync
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Accedi rapidamente a segnalibri, <br>cronologia, schede aperte e password <br>ovunque utilizzi Firefox
+
+
+# Screenshot text, displayed as a bold title
+;Private Browsing
+Navigazione anonima
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Make specific tabs private and browse<br>the Web without your history being saved
+Crea apposite schede anonime e naviga<br>sul Web senza salvare alcuna cronologia
+
+
+# metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
+;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
+internet,safari,chrome,opera,explorer,ricerca,adblock,flash,browser,navigazione,incognito,anonimo
+
+
+# Copyright notice on the page
+;© Mozilla and its contributors {{year}}
+© Mozilla e i suoi collaboratori {{year}}
+
+
+# String displayed for minor updates of Firefox
+;This update contains stability improvements and bug fixes.
+Questo aggiornamento comprende miglioramenti relativi alla stabilità e correzioni di problemi.
+
+

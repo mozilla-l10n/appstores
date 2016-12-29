@@ -1,0 +1,59 @@
+## NOTE: This is the text used on Google Play for Firefox for Android Beta
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/beta/
+
+
+# Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
+;Firefox for Android Beta
+Firefox Beta pre Android
+
+
+# This is the short tagline for the app on Google Play
+;Get the official free Firefox Beta browser and give your feedback!
+Získajte zadarmo oficiálnu betaverziu prehliadača Firefox a pošlite nám spätnú vazbu!
+
+
+;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Pomôžte nám vylepšovať najnovšie funkcie, ktoré sú takmer pripravené na vydanie. S Firefox Beta máte možnosť otestovať posledné vylepšenia rýchlosti, prispôsobenia a bezpečnosti pred ich vydaním v novej verzii.
+
+
+;Have an impact by helping to put the finishing touches on features and functionality.
+Priložte ruku k dielu a pomáhajte dokončiť posledné úpravy nových funkcií a vlastností.
+
+
+;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Potrebujeme vašu pomoc s testovaním na zariadeniach s procesormi Intel x86 Atom! Ak máte také zariadenie, prevezmite si prosím Firefox Beta a napíšte nám, ako funguje.
+
+
+;Find a bug? Report it at {{android_bugs}}.
+Našli ste chybu? Nahláste ju na {{android_bugs}}.
+
+
+;Want to know more about the permissions Firefox requests? {{permission_link}}
+Chcete sa dozvedieť viac o oprávneniach potrebných pre aplikáciu Firefox? {{permission_link}}
+
+
+;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Pozrite si zoznam podporovaných zariadení a minimálne systémové požiadavky na adrese https://www.mozilla.org/firefox/mobile/platforms/.
+
+
+# TITLE
+;ABOUT MOZILLA
+O MOZILLE
+
+
+;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla je nezisková organizácia zameraná na udržanie sily internetu v rukách bežných ľudí.
+
+
+;We're a global community of users, contributors and developers working to innovate on your behalf.
+Sme celosvetová komunita používateľov, prispievateľov a vývojárov pracujúcich na inováciách práve pre vás.
+
+
+;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+Používaním Firefoxu sa stanete členom našej komunity a pomôžete nám zaistiť svetlejšiu budúcnosť pre web.
+
+
+;Learn more at {{mozilla_org_link}}.
+Ďalšie informácie na stránke {{mozilla_org_link}}.
+
+

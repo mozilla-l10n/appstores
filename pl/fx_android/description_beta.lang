@@ -1,0 +1,59 @@
+## NOTE: This is the text used on Google Play for Firefox for Android Beta
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/beta/
+
+
+# Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
+;Firefox for Android Beta
+Firefox na Androida (Beta)
+
+
+# This is the short tagline for the app on Google Play
+;Get the official free Firefox Beta browser and give your feedback!
+Pobierz oficjalną, darmową przeglądarkę Firefox w wersji beta!
+
+
+;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Pomóż udoskonalić najnowsze funkcje, zanim trafią do wszystkich użytkowników. Firefox w wersji beta umożliwia testowanie świeżo wprowadzonych ulepszeń wydajności, interfejsu i zabezpieczeń.
+
+
+;Have an impact by helping to put the finishing touches on features and functionality.
+Miej bezpośredni wpływ na ostateczny kształt nowych funkcji.
+
+
+;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Potrzebujemy pomocy w testowaniu urządzeń z procesorami Atom (x86) firmy Intel! Jeśli masz takie urządzenie, pobierz Firefoksa w wersji beta i powiedz nam, co sądzisz.
+
+
+;Find a bug? Report it at {{android_bugs}}.
+Wystąpił błąd? Zgłoś go pod adresem {{android_bugs}} (w języku angielskim).
+
+
+;Want to know more about the permissions Firefox requests? {{permission_link}}
+Więcej informacji o uprawnieniach wymaganych przez Firefoksa: {{permission_link}}
+
+
+;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Lista obsługiwanych urządzeń i aktualne minimalne wymagania systemowe: https://www.mozilla.org/en-US/firefox/mobile/platforms/
+
+
+# TITLE
+;ABOUT MOZILLA
+O Mozilli
+
+
+;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla to organizacja non-profit, której misją jest zachowanie kontroli nad Internetem w rękach użytkowników.
+
+
+;We're a global community of users, contributors and developers working to innovate on your behalf.
+Jesteśmy globalną społecznością użytkowników, współtwórców i programistów pracujących nad innowacjami w Twoim imieniu.
+
+
+;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+Stajesz się częścią tej społeczności, kiedy używasz Firefoksa, pomagając nam zbudować lepszą przyszłość dla Internetu.
+
+
+;Learn more at {{mozilla_org_link}}.
+Więcej informacji: {{mozilla_org_link}}.
+
+

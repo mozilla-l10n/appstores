@@ -1,0 +1,59 @@
+## NOTE: This is the text used on Google Play for Firefox for Android Beta
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/beta/
+
+
+# Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
+;Firefox for Android Beta
+Firefox pour Android Beta
+
+
+# This is the short tagline for the app on Google Play
+;Get the official free Firefox Beta browser and give your feedback!
+Installez le navigateur officiel Firefox Beta et donnez-nous votre avis !
+
+
+;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Aidez-nous à apporter la touche finale aux nouvelles fonctionnalités. Avec Firefox Beta, vous pouvez tester les dernières améliorations concernant les performances, la personnalisation et la sécurité avant qu’elles ne soient disponibles dans la version stable suivante.
+
+
+;Have an impact by helping to put the finishing touches on features and functionality.
+Jouez un rôle dans la mise à disposition de la prochaine version en nous aidant à peaufiner les prochaines fonctionnalités.
+
+
+;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Nous avons besoin de votre aide pour tester les appareils disposant de micro-processeurs Intel Atom x86. Si vous possédez un appareil équipé d’un tel micro-processeur, téléchargez Firefox Beta et faites-nous savoir ce que vous en pensez.
+
+
+;Find a bug? Report it at {{android_bugs}}.
+Vous avez découvert un problème ? Signalez-le sur {{android_bugs}}.
+
+
+;Want to know more about the permissions Firefox requests? {{permission_link}}
+Vous souhaitez en apprendre davantage sur les permissions que Firefox demande ? {{permission_link}}
+
+
+;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Consultez la liste des appareils pris en charge ainsi que la configuration système minimale requise sur https://www.mozilla.org/firefox/mobile/platforms/.
+
+
+# TITLE
+;ABOUT MOZILLA
+À PROPOS DE MOZILLA
+
+
+;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla est une organisation à but non lucratif qui contribue à maintenir la puissance du Web entre les mains de tous.
+
+
+;We're a global community of users, contributors and developers working to innovate on your behalf.
+Nous formons une communauté mondiale d’utilisateurs, de contributeurs et de développeurs qui travaillent ensemble pour innover en votre nom.
+
+
+;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+Lorsque vous utilisez Firefox, vous devenez membre de cette communauté et vous nous aidez à bâtir un meilleur avenir pour le Web.
+
+
+;Learn more at {{mozilla_org_link}}.
+Apprenez-en davantage sur {{mozilla_org_link}}.
+
+

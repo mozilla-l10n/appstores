@@ -1,0 +1,20 @@
+## NOTE: These strings are displayed on Google Play in the What’s new section for Firefox 46
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fx_android/release/
+
+
+;Notifications about tabs opened in the background now list the URLs
+Obvestila o zavihkih, odprtih v ozadju, zdaj vsebujejo URL-je
+
+
+;Top Sites panel now lists popular sites by default
+Glavne strani odslej privzeto vključujejo tudi priljubljene strani
+
+
+;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
+Firefox bo zahteval dovoljenja ob zagonu, namesto ob namestitvi (Android 6.0+)
+
+
+;Previously cached pages will be displayed when offline
+Ko boste brez povezave, bodo prikazane strani v predpomnilniku
+
+

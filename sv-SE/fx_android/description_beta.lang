@@ -1,0 +1,59 @@
+## NOTE: This is the text used on Google Play for Firefox for Android Beta
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/beta/
+
+
+# Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
+;Firefox for Android Beta
+Firefox för Android Beta
+
+
+# This is the short tagline for the app on Google Play
+;Get the official free Firefox Beta browser and give your feedback!
+Skaffa den officiella versionen av Firefox Beta och ge återkoppling!
+
+
+;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Hjälp oss att finslipa och putsa nya funktioner, som nästan är redo för lansering. Med Firefox Beta får du prova på de senaste förbättningarna rörande prestanda, anpassingsbarhet och säkerhet innan de införlivas i nästa version av Firefox.
+
+
+;Have an impact by helping to put the finishing touches on features and functionality.
+Påverka genom att hjälpa till att finjustera funktioner och egenskaper.
+
+
+;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Vi behöver din hjälp att testa Intel x86 Atom-baserade enheter! Om du har en Intel x86 Atom baserad enhet, hämta Firefox Beta och berätta för oss vad du tycker.
+
+
+;Find a bug? Report it at {{android_bugs}}.
+Hittat en bugg? Rapportera den på {{android_bugs}}.
+
+
+;Want to know more about the permissions Firefox requests? {{permission_link}}
+Vill du veta mer om vilka behörigheter Firefox begär? {{permission_link}}
+
+
+;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Se vår lista över enheter som stöds och de senaste minimisystemkraven på https://www.mozilla.org/sv-SE/firefox/mobile/platforms/.
+
+
+# TITLE
+;ABOUT MOZILLA
+OM MOZILLA
+
+
+;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla är en ideell organisation med uppdraget att lägga makten över internet i användarnas händer.
+
+
+;We're a global community of users, contributors and developers working to innovate on your behalf.
+Vi är en global gemenskap av användare, medarbetare och utvecklare, som är nyskapande å dina vägnar.
+
+
+;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+När du använder Firefox blir du en del av den gemenskapen och hjälper oss att bygga en bättre framtid för internet.
+
+
+;Learn more at {{mozilla_org_link}}.
+Läs mer på {{mozilla_org_link}}.
+
+

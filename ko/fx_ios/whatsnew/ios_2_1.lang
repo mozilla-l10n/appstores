@@ -1,0 +1,16 @@
+## NOTE: These strings are displayed on Google Play in the What’s new section for Firefox for iOS 2.1
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fx_ios/release/
+
+
+;Support for third-party keyboards has been enabled (note that some keyboards have trouble with the Firefox location bar)
+제 3자 제공 키보드 지원이 활성화됨(몇몇 키보드는 Firefox 주소창과 호환되지 않을 수 있음)
+
+
+;Fix for a bug where it was not always possible to edit passwords in the login manager
+로그인 관리자에서 때때로 비밀번호를 수정할 수 없었던 버그 수정
+
+
+;Fix for a possible crash on page load
+페이지를 로딩할 때 발생할 수 있는 오류 해결
+
+

@@ -1,0 +1,16 @@
+## NOTE: These strings are displayed on Google Play in the What’s new section for Firefox 46 beta
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fx_android/beta/
+
+
+;Notifications about tabs opened in the background now list the URLs
+Upozornění na panely otevřené na pozadí zobrazují také URL adresy
+
+
+;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
+Firefox bude žádat o oprávnění až za běhu místo při instalaci (Android 6.0+)
+
+
+;Previously cached pages will be displayed when offline
+Stránky uložené v mezipaměti bude možné zobrazit i offline
+
+

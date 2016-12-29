@@ -1,0 +1,16 @@
+## NOTE: These strings are displayed on Google Play in the What’s new section for Firefox 46 beta
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fx_android/beta/
+
+
+;Notifications about tabs opened in the background now list the URLs
+Ahora las notificaciones sobre pestañas abiertas en segundo plano incluyen las URL
+
+
+;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
+Firefox solicitará permisos en el momento de la ejecución en lugar de en el momento de instalación (Android 6.0+)
+
+
+;Previously cached pages will be displayed when offline
+Cuando no haya conexión, se mostrarán las páginas guardadas en la caché
+
+

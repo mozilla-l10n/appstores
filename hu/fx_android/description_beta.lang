@@ -1,0 +1,59 @@
+## NOTE: This is the text used on Google Play for Firefox for Android Beta
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/beta/
+
+
+# Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
+;Firefox for Android Beta
+Firefox for Android Beta  {ok}
+
+
+# This is the short tagline for the app on Google Play
+;Get the official free Firefox Beta browser and give your feedback!
+Telepítse az ingyenes Firefox Beta böngészőt és ossza meg velünk véleményét!
+
+
+;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Segítsen – még a premier előtt – a legújabb funkciók tökéletesítésében. A Firefox Beta használatvával kipróbálhatja a legújabb teljesítmény, testreszabási, biztonsági fejlesztéseket, mielőtt az új végleges verzióban megjelenne.
+
+
+;Have an impact by helping to put the finishing touches on features and functionality.
+Legyen hatással a szolgáltatásokon és funkciókon végzett utolsó simításokra.
+
+
+;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Segítse teszteléssel az Intel x86 Atom alapú eszközöknél! Ha rendelkezik Intel x86 Atom alapú rendszerrel, töltse le a Firefox Beta és mondja el véleményét.
+
+
+;Find a bug? Report it at {{android_bugs}}.
+Hibát talál? Jelentse be itt: {{android_bugs}}.
+
+
+;Want to know more about the permissions Firefox requests? {{permission_link}}
+Szeretne többet megtudni a Firefox engedélykéréseiről? {{permission_link}}
+
+
+;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Tekintse meg a támogatott eszközök listáját és a minimális rendszerkövetelményeket: https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+
+
+# TITLE
+;ABOUT MOZILLA
+A MOZILLÁRÓL
+
+
+;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+A Firefox büszke arra, hogy nem kereskedelmi termékként célja, hogy a felhasználók kezei közt tartsa az internet erejét.
+
+
+;We're a global community of users, contributors and developers working to innovate on your behalf.
+Felhasználók, hozzájárulók és fejlesztők világméretű közössége vagyunk, akik a felhasználók érdekeit szem előtt tartva fejlesztenek.
+
+
+;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+A Firefox használatával a közösségünk tagjává válik és segíti, hogy egy szebb jövőt építsünk a Webnek.
+
+
+;Learn more at {{mozilla_org_link}}.
+Tudjon meg többet: {{mozilla_org_link}}.
+
+

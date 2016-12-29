@@ -1,0 +1,12 @@
+## NOTE: These strings are displayed on Google Play in the What’s new section for Firefox 50
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fx_android/release/
+
+
+;Simplified panels by combining “Recent Tabs” into “History” panel
+“최근 탭”을 “방문 기록” 패널로 통합함으로서 단순한 패널 제공
+
+
+;Support of HLS videos via player overlay
+플레이어 오버레이를 통해 HLS 동영상 지원
+
+

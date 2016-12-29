@@ -1,0 +1,16 @@
+## NOTE: These strings are displayed on Google Play in the What’s new section for Firefox 49
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fx_android/release/
+
+
+;Remember scroll position and zoom level for open tabs
+Açık sekmelerde kaydırma konumunu ve yakınlaştırma düzeyini unutmayacağız
+
+
+;Updated First Run to showcase several exciting features
+Yeni birkaç özelliği tanıtmak için İlk Açılış ekranını güncelledik
+
+
+;Outdated tabs are now hidden when restore tabs setting is set to "Always restore"
+"Sekmeleri geri yükle" ayarı "Her zaman geri yükle" ise eskimiş sekmeler artık gizlenecek
+
+

@@ -1,0 +1,270 @@
+## NOTE: This is the text used on Google Play for Firefox for Android
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/release/
+
+
+# Title of the App on Google Play. There is a 30 characters max length! If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
+;Firefox Browser fast & private
+Przeglądarka Firefox
+
+
+;Firefox Web Browser
+Przeglądarka Firefox
+
+
+# This is the short tagline for the app on Google Play. Max length is 80 characters, so you might have to rephrase in order to fit.
+;Get the customizable, private & free mobile browser that syncs across devices.
+Pobierz darmową, wysoce konfigurowalną i szanującą prywatność przeglądarkę.
+
+
+;Experience a fast, smart and personal Web.
+Skorzystaj z szybkiej, inteligentnej i osobistej przeglądarki.
+
+
+;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox jest niezależną przeglądarką od Mozilli, organizacji wybranej najbardziej zaufaną firmą internetową w dziedzinie ochrony prywatności.
+
+
+;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Przejdź na Firefoksa już dzisiaj i dołącz do setek milionów użytkowników korzystających z jego elastyczności.
+
+
+# Slogan in uppercase, displayed as a category title
+;FAST. SMART. YOURS.
+SZYBKA. INTELIGENTNA. TWOJA.
+
+
+;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox jest tworzony z myślą o użytkownikach, aby mogli używać Internetu tak, jak tylko zechcą.
+
+
+;That’s why we design the product with smart features that take the guesswork out of browsing.
+Właśnie dlatego tworzymy przeglądarkę z inteligentnymi funkcjami, dzięki którym nie trzeba działać na ślepo.
+
+
+# Slogan in uppercase, displayed as a category title
+;SEARCH INTELLIGENTLY & GET THERE FASTER
+INTELIGENTNE WYSZUKIWANIE I SZYBKIE PRZEGLĄDANIE
+
+
+;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox przewiduje potrzeby użytkownika i intuicyjnie dostarcza wiele sugerowanych oraz poprzednio wyszukiwanych wyników dzięki ulubionym wyszukiwarkom. Za każdym razem.
+
+
+;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Łatwy dostęp do wyszukiwarek, takich jak Wikipedia, Twitter czy DuckDuckGo.
+
+
+# Slogan in uppercase, displayed as a category title
+;NEXT LEVEL PRIVACY
+NOWY STANDARD OCHRONY PRYWATNOŚCI
+
+
+;Your privacy has been upgraded.
+Ochrona prywatności została ulepszona.
+
+
+;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+Przeglądanie prywatne z ochroną przed śledzeniem blokuje te części stron internetowych, które mogą śledzić aktywność użytkownika.
+
+
+# Slogan in uppercase, displayed as a category title
+;SYNC FIREFOX ACROSS YOUR DEVICES
+SYNCHRONIZOWANIE FIREFOKSA MIĘDZY URZĄDZENIAMI
+
+
+;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+Z kontem Firefoksa na telefonie i tablecie można korzystać z historii, zakładek i kart otwartych na komputerze.
+
+
+;Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox także bezpiecznie zachowuje hasła, dzięki czemu nie trzeba ich pamiętać.
+
+
+# Slogan in uppercase, displayed as a category title
+;INTUITIVE VISUAL TABS
+ŁATWE W UŻYCIU KARTY
+
+
+;Intuitive visual and numbered tabs easily let you find content for future reference.
+Intuicyjne w użyciu, ponumerowane karty umożliwiają łatwe odnajdywanie wyszukiwanych treści.
+
+
+;Open as many tabs as you like without losing track of your open Web pages.
+Otwieraj tyle kart, ile potrzebujesz, nie gubiąc się w ich gąszczu.
+
+
+# Slogan in uppercase, displayed as a category title
+;EASY ACCESS TO YOUR TOP SITES
+ŁATWY DOSTĘP DO CZĘSTO UŻYWANYCH STRON
+
+
+;Spend your time reading your favorites sites instead of looking for them.
+Spędzaj czas przeglądając swoje ulubione strony, zamiast ich szukać.
+
+
+# Slogan in uppercase, displayed as a category title
+;ADD-ONS FOR EVERYTHING
+DODATKI DO KAŻDYCH ZASTOSOWAŃ
+
+
+;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+Przejmij kontrolę nad interfejsem przeglądarki, dostosowując Firefoksa za pomocą dodatków, takich jak blokady reklam, menedżery haseł i pobierania oraz wiele więcej.
+
+
+# Slogan in uppercase, displayed as a category title
+;QUICK SHARE
+SZYBKIE UDOSTĘPNIANIE
+
+
+;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox zachowuje ostatnio używane aplikacje, aby ułatwić udostępnianie stron w serwisach Facebook, Twitter, WhatsApp, Skype i innych.
+
+
+# Slogan in uppercase, displayed as a category title
+;TAKE IT TO THE BIG SCREEN
+OGLĄDAJ NA DUŻYM EKRANIE
+
+
+;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Wysyłaj filmy i strony internetowe z telefonu lub tabletu na dowolny telewizor wyposażony w możliwość oglądania strumieniowego.
+
+
+;Learn more about Firefox for Android:
+Więcej informacji o Firefoksie na Androida:
+
+
+;Have questions or need help? Visit {{support_link}}
+Odpowiedzi na pytania i pomoc: {{support_link}}
+
+
+# Bulleted list item
+;Read about Firefox permissions: {{permission_link}}
+Informacje o uprawnieniach dla Firefoksa: {{permission_link}}
+
+
+# Bulleted list item
+;Learn more about what’s up at Mozilla: {{blog_link}}
+Co słychać w Mozilli: {{blog_link}}
+
+
+# Bulleted list item
+;Like Firefox on Facebook: {{facebook_link}}
+Polub Firefoksa na Facebooku: {{facebook_link}}
+
+
+# Bulleted list item
+;Follow Firefox on Twitter: {{twitter_link}}
+Obserwuj Firefoksa na Twitterze: {{twitter_link}}
+
+
+# Slogan in uppercase, displayed as a category title
+;ABOUT MOZILLA
+O Mozilli
+
+
+;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla istnieje po to, aby tworzyć Internet jako zasób publiczny dostępny dla wszystkich, ponieważ wierzymy, że otwartość i wolność są lepsze niż ścisła kontrola.
+
+
+;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Tworzymy Firefoksa, aby promować możliwość wyboru i przejrzystość oraz dać każdemu więcej kontroli nad jego życiem w sieci.
+
+
+;Learn more at {{mozilla_org_link}}
+Więcej informacji: {{mozilla_org_link}}
+
+
+;Privacy Policy: {{privacy_link}}
+O polityce prywatności: {{privacy_link}}
+
+
+# Title of screenshot
+;Fast. Smart. Yours
+Szybka. Inteligentna. Twoja.
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Przejdź na Firefoksa i dołącz<br>do setek milionów użytkowników<br>na komputerach i telefonach.
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Przejdź na Firefoksa i dołącz<br>do setek milionów użytkowników
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Przejdź na Firefoksa i dołącz<br>do setek milionów użytkowników
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+Łatwe w użyciu karty
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+Szybkie odnajdywanie i zarządzanie<br>otwartymi kartami
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+Inteligentne wyszukiwanie
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+Celne podpowiedzi pojawiają się<br>jeszcze przed ukończeniem pisania
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+Przeglądanie na wielu urządzeniach<br>dzięki synchronizacji
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Błyskawiczny dostęp do zakładek,<br>historii, otwartych kart i haseł<br>na każdym urządzeniu z Firefoksem
+
+
+# Title of screenshot
+;Next level privacy
+Nowy standard ochrony prywatności
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
+Przeglądanie prywatne z ochroną przed śledzeniem <br>blokuje te części stron, które mogą <br>śledzić aktywność użytkownika
+
+
+# Title of screenshot
+;Add-ons for everything
+Dodatki do każdych zastosowań
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
+Dostosuj Firefoksa do swoich potrzeb <br>za pomocą dodatków, takich jak blokady reklam, <br>menedżery haseł i pobierania oraz wiele więcej
+
+
+# Title of screenshot
+;Quick Share
+Szybkie udostępnianie
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+Firefox zachowuje ostatnio używane <br>aplikacje, aby ułatwić udostępnianie
+
+
+# Title of screenshot
+;Send to device
+Wysyłanie na inne urządzenia
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+Wysyłaj filmy i strony internetowe <br>z telefonu lub tabletu na dowolne <br>obsługiwane urządzenie
+
+

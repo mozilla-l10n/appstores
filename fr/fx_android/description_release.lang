@@ -1,0 +1,270 @@
+## NOTE: This is the text used on Google Play for Firefox for Android
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/release/
+
+
+# Title of the App on Google Play. There is a 30 characters max length! If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
+;Firefox Browser fast & private
+Firefox. Naviguez librement
+
+
+;Firefox Web Browser
+Navigateur web Firefox
+
+
+# This is the short tagline for the app on Google Play. Max length is 80 characters, so you might have to rephrase in order to fit.
+;Get the customizable, private & free mobile browser that syncs across devices.
+Installez le navigateur gratuit, privé, personnalisable et synchronisable.
+
+
+;Experience a fast, smart and personal Web.
+Profitez d’un Web rapide, intelligent et personnel.
+
+
+;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Indépendant et fièrement au service de ses utilisateurs, Firefox est le navigateur créé par Mozilla, Entreprise Internet élue la plus fiable en matière de respect de la vie privée.
+
+
+;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Passez à la vitesse supérieure et rejoignez des centaines de millions de personnes qui utilisent Firefox pour une navigation qui soit plus personnalisée.
+
+
+# Slogan in uppercase, displayed as a category title
+;FAST. SMART. YOURS.
+VIF. FUTÉ. PRIVÉ.
+
+
+;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Dès sa conception, Firefox est construit pour les utilisateurs, il vous permet de reprendre le contrôle sur le Web.
+
+
+;That’s why we design the product with smart features that take the guesswork out of browsing.
+C’est pourquoi nous concevons le produit avec des fonctionnalités intelligentes qui vous permettent de profiter pleinement de la navigation.
+
+
+# Slogan in uppercase, displayed as a category title
+;SEARCH INTELLIGENTLY & GET THERE FASTER
+RECHERCHEZ INTELLIGEMMENT ET GAGNEZ DU TEMPS
+
+
+;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox anticipe toujours vos besoins et vous fournit intuitivement des suggestions et résultats liés à vos recherches précédentes sur vos moteurs de recherche préférés.
+
+
+;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Accédez facilement à des raccourcis vers des moteurs de recherche comme Wikipédia, Twitter et Amazon.
+
+
+# Slogan in uppercase, displayed as a category title
+;NEXT LEVEL PRIVACY
+UNE MEILLEURE VIE PRIVÉE
+
+
+;Your privacy has been upgraded.
+Votre vie privée vient d’être surclassée.
+
+
+;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+La navigation privée avec la protection contre le pistage permet de bloquer les éléments des pages web qui peuvent pister votre navigation.
+
+
+# Slogan in uppercase, displayed as a category title
+;SYNC FIREFOX ACROSS YOUR DEVICES
+SYNCHRONISEZ FIREFOX SUR TOUS VOS APPAREILS
+
+
+;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+Avec un compte Firefox, vous pouvez accéder à votre historique, à vos marque-pages et à vos onglets ouverts depuis votre ordinateur, votre smartphone ou votre tablette.
+
+
+;Firefox also safely remembers your passwords across devices so you don’t have to.
+D’un appareil à l’autre, Firefox se souviendra pour vous de vos mots de passe, de façon sécurisée.
+
+
+# Slogan in uppercase, displayed as a category title
+;INTUITIVE VISUAL TABS
+DES ONGLETS VISUELLEMENT INTUITIFS
+
+
+;Intuitive visual and numbered tabs easily let you find content for future reference.
+Pour consulter plus tard les pages qui vous intéressent, vous avez au bout des doigts des onglets numérotés et faciles à repérer.
+
+
+;Open as many tabs as you like without losing track of your open Web pages.
+Ouvrez-en autant que vous le désirez sans perdre le fil de votre navigation.
+
+
+# Slogan in uppercase, displayed as a category title
+;EASY ACCESS TO YOUR TOP SITES
+ACCÉDEZ FACILEMENT À TOUS VOS SITES PRÉFÉRÉS
+
+
+;Spend your time reading your favorites sites instead of looking for them.
+Passez moins de temps à chercher vos sites préférés et plus de temps à les consulter.
+
+
+# Slogan in uppercase, displayed as a category title
+;ADD-ONS FOR EVERYTHING
+DES MODULES POUR TOUT
+
+
+;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+Contrôlez la façon dont vous naviguez sur le Web en personnalisant Firefox grâce à des modules complémentaires tels que des bloqueurs de publicité, des gestionnaires de mots de passe, des gestionnaires de téléchargement et plus encore.
+
+
+# Slogan in uppercase, displayed as a category title
+;QUICK SHARE
+PARTAGEZ RAPIDEMENT
+
+
+;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox garde en mémoire les applications que vous utilisez fréquemment afin que vous puissiez simplement partager du contenu sur Facebook, Twitter, WhatsApp, Skype et plus encore.
+
+
+# Slogan in uppercase, displayed as a category title
+;TAKE IT TO THE BIG SCREEN
+PASSEZ SUR LE GRAND ÉCRAN
+
+
+;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Envoyez des vidéos et du contenu web depuis votre smartphone ou votre tablette vers n’importe quelle télévision capable de recevoir des flux numériques.
+
+
+;Learn more about Firefox for Android:
+Apprenez-en davantage sur Firefox pour Android :
+
+
+;Have questions or need help? Visit {{support_link}}
+Vous avez des questions ou avez besoin d’aide ? Visitez {{support_link}}
+
+
+# Bulleted list item
+;Read about Firefox permissions: {{permission_link}}
+À propos des permissions de Firefox : {{permission_link}}
+
+
+# Bulleted list item
+;Learn more about what’s up at Mozilla: {{blog_link}}
+Apprenez-en davantage sur ce qu’il se passe chez Mozilla : {{blog_link}}
+
+
+# Bulleted list item
+;Like Firefox on Facebook: {{facebook_link}}
+Aimez la page Facebook de Firefox : {{facebook_link}}
+
+
+# Bulleted list item
+;Follow Firefox on Twitter: {{twitter_link}}
+Suivez-nous sur Twitter : {{twitter_link}}
+
+
+# Slogan in uppercase, displayed as a category title
+;ABOUT MOZILLA
+À PROPOS DE MOZILLA
+
+
+;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Parce que nous pensons que l’ouverture et la liberté sont des valeurs fondamentales, Mozilla s’est donné pour mission de transformer Internet en une ressource publique accessible à tous et pour tous.
+
+
+;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Le respect du choix et la transparence sont au cœur de tous nos développements. C’est pour cela que nous créons des logiciels tels que Firefox, afin de permettre aux utilisateurs de mieux contrôler leur vie numérique.
+
+
+;Learn more at {{mozilla_org_link}}
+Apprenez-en davantage sur {{mozilla_org_link}}
+
+
+;Privacy Policy: {{privacy_link}}
+Politique de confidentialité : {{privacy_link}}
+
+
+# Title of screenshot
+;Fast. Smart. Yours
+Vif. Futé. Privé.
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Profitez de tout le potentiel de Firefox et<br>rejoignez des centaines de millions<br> d’utilisateurs de Firefox sur mobiles et ordinateurs.
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Profitez de tout le potentiel de Firefox et<br>rejoignez des centaines de millions d’utilisateurs de Firefox.
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Installez Firefox et rejoignez<br>des centaines de millions d’utilisateurs de Firefox.
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+Onglets visuels et intuitifs
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+Retrouvez rapidement vos pages<br>ouvertes grâce aux onglets.
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+Recherche intelligente
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+Des résultats précis et intuitifs avant même d’avoir terminé d’écrire.
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+Une navigation fluide et<br>globale grâce à Sync
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Accédez instantanément et de partout <br>à votre historique de navigation <br>et à vos mots de passe depuis Firefox.
+
+
+# Title of screenshot
+;Next level privacy
+La vie privée, en mieux
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
+La navigation privée avec protection <br>contre le pistage bloque les éléments web <br>susceptibles de pister votre navigation.
+
+
+# Title of screenshot
+;Add-ons for everything
+Des modules pour tout faire
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
+Personnalisez votre navigateur avec des <br>modules tels que des bloqueurs de publicité, <br>des gestionnaires de mots de passe ou de téléchargements et bien plus.
+
+
+# Title of screenshot
+;Quick Share
+Partage rapide
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+Firefox mémorise les applications <br>utilisées récemment pour vous permettre <br>de communiquer comme vous l’entendez.
+
+
+# Title of screenshot
+;Send to device
+Envoyer à l’appareil
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+Envoyez des vidéos et du contenu web <br>depuis votre smartphone ou tablette <br>vers tout appareil pris en charge.
+
+

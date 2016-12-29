@@ -1,0 +1,59 @@
+## NOTE: This is the text used on Google Play for Firefox for Android Beta
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/beta/
+
+
+# Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
+;Firefox for Android Beta
+Firefox for Android Beta 測試版
+
+
+# This is the short tagline for the app on Google Play
+;Get the official free Firefox Beta browser and give your feedback!
+下載免費的 Firefox 官方 Beta 測試版瀏覽器，並提供您的意見回饋！
+
+
+;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+請幫助我們琢磨準備正式推出的最新功能。透過 Firefox Beta 測試版，您將可以在最新版推出前測試最新版本的效能、自訂性、安全性改進。
+
+
+;Have an impact by helping to put the finishing touches on features and functionality.
+透過幫忙修正功能來改善我們的產品。
+
+
+;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+我們需要您來幫忙在 Intel x86 Atom 裝置上測試！若您有 Intel x86 Atom 裝置，請下載 Firefox Beta 測試版，並告訴我們您的想法。
+
+
+;Find a bug? Report it at {{android_bugs}}.
+遇到 bug 了嗎？請到 {{android_bugs}} 回報給我們知道。
+
+
+;Want to know more about the permissions Firefox requests? {{permission_link}}
+想知道 Firefox 要這麼多權限都在幹嘛嗎？請參考 {{permission_link}}。
+
+
+;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+請到 https://www.mozilla.org/en-US/firefox/mobile/platforms/ 了解支援裝置清單與最低系統需求。
+
+
+# TITLE
+;ABOUT MOZILLA
+關於 MOZILLA
+
+
+;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla 是一個以非營利為榮的組織，致力於將 Web 的威力保存於你我的手中。
+
+
+;We're a global community of users, contributors and developers working to innovate on your behalf.
+我們是一個由使用者、貢獻者、開發者所組成的全球社群，以您的立場進行創新。
+
+
+;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+當您使用 Firefox，您就成為了社群中的一份子，幫助我們為 Web 打造更光明的未來。
+
+
+;Learn more at {{mozilla_org_link}}.
+到 {{mozilla_org_link}} 了解更多資訊。
+
+

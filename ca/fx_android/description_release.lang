@@ -1,0 +1,270 @@
+## NOTE: This is the text used on Google Play for Firefox for Android
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/release/
+
+
+# Title of the App on Google Play. There is a 30 characters max length! If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
+;Firefox Browser fast & private
+Firefox Browser fast & private
+
+
+;Firefox Web Browser
+El navegador web Firefox
+
+
+# This is the short tagline for the app on Google Play. Max length is 80 characters, so you might have to rephrase in order to fit.
+;Get the customizable, private & free mobile browser that syncs across devices.
+Get the customizable, private & free mobile browser that syncs across devices.
+
+
+;Experience a fast, smart and personal Web.
+Tingueu una navegació ràpida, intel·ligent i personal.
+
+
+;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox és el navegador independent que posa les persones al davant, fet per Mozilla, votada com l'empresa amb millor reputació d'internet per la privadesa.
+
+
+;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Actualitzeu-vos avui i uniu-vos a centenars de milions de persones que l'utilitzen per a una experiència de navegació més personal.
+
+
+# Slogan in uppercase, displayed as a category title
+;FAST. SMART. YOURS.
+RÀPID. INTEL·LIGENT. VOSTRE.
+
+
+;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+El Firefox es fa pensant en les persones i us dóna el poder de recuperar el control de la vostra navegació web.
+
+
+;That’s why we design the product with smart features that take the guesswork out of browsing.
+Per això dissenyem el producte amb característiques avançades que simplifiquen la navegació.
+
+
+# Slogan in uppercase, displayed as a category title
+;SEARCH INTELLIGENTLY & GET THERE FASTER
+CERQUEU DE FORMA INTEL·LIGENT I ARRIBEU-HI RÀPID
+
+
+;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+El Firefox s'avança a les vostres necessitats i us proporciona resultats basats en cerques i suggeriments anteriors dels vostres motors de cerca. Cada cop.
+
+
+;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Accediu de forma senzilla a les dreceres per fer cerques a proveïdors com Wikipedia, Twitter o Amazon.
+
+
+# Slogan in uppercase, displayed as a category title
+;NEXT LEVEL PRIVACY
+EL SEGÜENT NIVELL DE PRIVADESA
+
+
+;Your privacy has been upgraded.
+Hem actualitzat la vostra privadesa.
+
+
+;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+La navegació privada amb protecció contra el seguiment bloca les parts de les pàgines web que puguin estar seguint la vostra navegació.
+
+
+# Slogan in uppercase, displayed as a category title
+;SYNC FIREFOX ACROSS YOUR DEVICES
+SINCRONITZEU EL FIREFOX ENTRE DISPOSITIUS
+
+
+;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+Amb un compte de Firefox, accediu al vostre historial, preferits i pestanyes obertes des de l'escriptori, telèfon o tauleta.
+
+
+;Firefox also safely remembers your passwords across devices so you don’t have to.
+El Firefox també recorda de forma segura les vostres contrasenyes per estalviar-vos-ho.
+
+
+# Slogan in uppercase, displayed as a category title
+;INTUITIVE VISUAL TABS
+PESTANYES VISUALS INTUÏTIVES
+
+
+;Intuitive visual and numbered tabs easily let you find content for future reference.
+Les pestanyes visuals intuïtives i numerades us permeten trobar contingut per a referències posteriors..
+
+
+;Open as many tabs as you like without losing track of your open Web pages.
+Obriu tantes pestanyes com vulgueu sense perdre la pista de les pàgines obertes.
+
+
+# Slogan in uppercase, displayed as a category title
+;EASY ACCESS TO YOUR TOP SITES
+ACCÉS SENZILL ALS VOSTRES LLOCS PREFERITS
+
+
+;Spend your time reading your favorites sites instead of looking for them.
+Llegiu les vostres pàgines preferides en comptes d'estar-es cercant.
+
+
+# Slogan in uppercase, displayed as a category title
+;ADD-ONS FOR EVERYTHING
+COMPLEMENTS PER A TOT
+
+
+;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+Agafeu el control de la vostra navegació personalitzant el Firefox amb complements com blocadors de publicitat, gestors de contrasenyes i d'altres.
+
+
+# Slogan in uppercase, displayed as a category title
+;QUICK SHARE
+COMPARTIU RÀPID
+
+
+;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+El Firefox recorda les aplicacions que utilitzeu sovint per ajudar-vos a compartir contingut al Facebook, Twitter, WhatsApp, Skype i d'altres.
+
+
+# Slogan in uppercase, displayed as a category title
+;TAKE IT TO THE BIG SCREEN
+PORTEU-HO A LA PANTALLA GRAN
+
+
+;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Envieu vídeo i contingut web del vostre telèfon o tauleta a qualsevol televisió amb capacitat d'streaming.
+
+
+;Learn more about Firefox for Android:
+Per a més informació sobre el Firefox per a Android:
+
+
+;Have questions or need help? Visit {{support_link}}
+Teniu alguna pregunta o necessiteu ajuda? Aneu a {{support_link}}
+
+
+# Bulleted list item
+;Read about Firefox permissions: {{permission_link}}
+Informació sobre els permisos del Firefox: {{permission_link}}
+
+
+# Bulleted list item
+;Learn more about what’s up at Mozilla: {{blog_link}}
+Més informació sobre el què passa a Mozilla: {{blog_link}}
+
+
+# Bulleted list item
+;Like Firefox on Facebook: {{facebook_link}}
+Feu un «Like» a Firefox al Facebook: {{facebook_link}}
+
+
+# Bulleted list item
+;Follow Firefox on Twitter: {{twitter_link}}
+Seguiu a Firefox al Twitter: {{twitter_link}}
+
+
+# Slogan in uppercase, displayed as a category title
+;ABOUT MOZILLA
+QUANT A MOZILLA
+
+
+;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla existeix per a fer un internet públic i accessible a tothom per què creiem que obert i lliure és millor que tancat i controlat.
+
+
+;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Creem productes com el Firefox per promocionar la tria i la transparència i donar a les persones més control sobre la seva vida digital.
+
+
+;Learn more at {{mozilla_org_link}}
+Més informació a {{mozilla_org_link}}
+
+
+;Privacy Policy: {{privacy_link}}
+Política de privadesa: {{privacy_link}}
+
+
+# Title of screenshot
+;Fast. Smart. Yours
+Ràpid. Intel·ligent. Vostre
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Actualitzeu-vos al poder del Firefox i<br>uniu-vos a centenars de milions<br>d'usuaris del Firefox de sobretaula i mòbil.
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Actualitzeu-vos al poder del Firefox i<br>uniu-vos a centenars de milions d'usuaris del Firefox
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Actualitzeuvos al Firefox i uniu-vos<br>a centenars de milions d'usuaris del Firefox
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+Diseny visual intuïtiu de pestanyes
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+Trobeu i gestioneu ràpidament<br>les pestanyes obertes
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+Cerques intel·ligents
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+Obtingueu resultats predictius i acurats <br>abans d'acabar de teclejar
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+Navegueu sense interrupcions <br>amb Sync
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Accediu instantàniament als preferits, <br>historial, pestanyes obertes i contrasenyes <br>arreu on utilitzeu el Firefox
+
+
+# Title of screenshot
+;Next level privacy
+El següent nivell de privadesa
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
+La navegació privada amb protecció<br>de seguiment bloca parts de <br>pàgines que us puguin estar fent seguiment
+
+
+# Title of screenshot
+;Add-ons for everything
+Complements per a tot
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
+Personalitzeu el vostre navegador <br>amb complements com blocadors de <br>publicitat, gestors de contrasenyes i d'altres..
+
+
+# Title of screenshot
+;Quick Share
+Compartició ràpida
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+El Firefox recorda les aplicacions<br>que utilitzau sovint per <br> ajudar-vos a compartir
+
+
+# Title of screenshot
+;Send to device
+Envia al dispositiu
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+Envieu vídeo i contingut web del <br>telèfon o tauleta a <br> qualsevol dispositiu compatible
+
+

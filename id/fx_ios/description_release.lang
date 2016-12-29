@@ -1,0 +1,230 @@
+## NOTE: This is the text used on Apple App Store for Firefox for iOS
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_ios/release/
+
+
+;Firefox Web Browser
+Peramban Web Firefox
+
+
+;Experience a fast, smart and personal Web.
+Rasakan web yang cepat, pintar, dan pribadi.
+
+
+;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox adalah peramban pilihan pertama yang dibuat Mozilla yang independen, dipilih sebagai Perusahaan Internet Paling Terpercaya di bidang Privasi.
+
+
+;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Tingkatkan sekarang juga dan bergabunglah dengan ratusan juta orang yang mengandalkan Firefox untuk mendapatkan pengalaman menjelajah yang lebih pribadi.
+
+
+# Slogan in uppercase, displayed as a category title
+;FAST. SMART. YOURS.
+CEPAT. PINTAR. MILIK ANDA.
+
+
+;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox dibuat dengan memikirkan kebutuhan Anda dan untuk memberikan Anda kekuatan untuk mengambil alih kontrol pengalaman Web Anda sendiri.
+
+
+;That’s why we design the product with smart features that take the guesswork out of browsing.
+Itulah mengapa kami merancang produk dengan fitur pintar yang mempermudah penjelajahan.
+
+
+# Slogan in uppercase, displayed as a category title
+;SEARCH INTELLIGENTLY & GET THERE FASTER
+CARILAH DENGAN CERDAS & TEMUKAN LEBIH CEPAT
+
+
+;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox mengantisipasi kebutuhan Anda dan menyuguhkan saran yang intuitif serta mencari hasilnya di berbagai mesin pencari kesukaan Anda. Selalu.
+
+
+;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Akses tombol pintas dengan mudah untuk mencari penyedia termasuk Wikipedia, Twitter, dan Amazon.
+
+
+;BROWSE PRIVATELY
+JELAJAHI SECARA PRIBADI
+
+
+;Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
+Informasi pribadi Anda adalah milik Anda. Dalam mode Penjelajahan Pribadi, Firefox tidak akan mengingat riwayat atau kuki Anda, namun markah baru akan tetap tersimpan.
+
+
+;Delete your browsing history, passwords and more in a single tap.
+Hapus riwayat penjelajahan, kata sandi dan lainnya dalam sekali ketuk.
+
+
+;Choose the private data you want to remove.
+Pilih data pribadi yang ingin Anda hapus.
+
+
+;iOS 9 required for Private Browsing mode
+Mode Penjelajahan Pribadi membutuhkan iOS 9
+
+
+# Slogan in uppercase, displayed as a category title
+;SYNC FIREFOX ACROSS YOUR DEVICES
+SINKRONISASIKAN FIREFOX DI SEMUA PERANGKATMU
+
+
+;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+Dengan Akun Firefox, akses riwayat, markah, dan tab terbuka dari desktop, ponsel pintar, maupun tablet Anda.
+
+
+;Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox juga mengingat dengan aman sandi Anda di berbagai perangkat agar Anda tidak perlu mengingatnya.
+
+
+# Slogan in uppercase, displayed as a category title
+;INTUITIVE VISUAL TABS
+TAB VISUAL INTUITIF
+
+
+;Intuitive visual and numbered tabs easily let you find content for future reference.
+Tab yang visual intuitif dan bernomor yang memudahkan Anda mencari konten untuk referensi di masa depan.
+
+
+;Open as many tabs as you like without losing track of your open Web pages.
+Bukalah tab sebanyak yang Anda suka tanpa harus kehilangan jejak dari halaman yang sudah terbuka.
+
+
+# Slogan in uppercase, displayed as a category title
+;EASY ACCESS TO YOUR TOP SITES
+AKSES MUDAH KE SITUS KESUKAAN ANDA
+
+
+;Spend your time reading your favorites sites instead of looking for them.
+Habiskan waktu untuk membaca situs kesukaan alih-alih mencarinya.
+
+
+;Learn more about Firefox for iOS:
+Pelajari lebih lanjut tentang Firefox untuk iOS:
+
+
+;Have questions or need help? Visit {{support_link}}
+Punya pertanyaan atau butuh bantuan? Kunjungi {{support_link}}
+
+
+# Bulleted list item
+;Read about Firefox permissions: {{permission_link}}
+Bacalah perizinan Firefox: {{permission_link}}
+
+
+# Bulleted list item
+;Learn more about what’s up at Mozilla: {{blog_link}}
+Pelajari lebih lanjut tentang kabar Mozilla: {{blog_link}}
+
+
+# Bulleted list item
+;Like Firefox on Facebook: {{facebook_link}}
+Sukai kami di Facebook: {{facebook_link}}
+
+
+# Bulleted list item
+;Follow Firefox on Twitter: {{twitter_link}}
+Ikuti kami di Twitter: {{twitter_link}}
+
+
+# Slogan in uppercase, displayed as a category title
+;ABOUT MOZILLA
+TENTANG MOZILLA
+
+
+;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla ada untuk membangun Internet sebagai sumber daya umum yang bisa diakses siapa saja karena kami percaya bahwa menjadi terbuka dan bebas lebih baik daripada tertutup dan dikontrol.
+
+
+;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Kami membuat produk seperti Firefox untuk mendukung pilihan dan transparansi, serta untuk memberi pengguna lebih banyak kontrol tentang kehidupan daringnya.
+
+
+;Learn more at {{mozilla_org_link}}
+Pelajari lebih lanjut di {{mozilla_org_link}}
+
+
+;Privacy Policy: {{privacy_link}}
+Kebijakan Privasi: {{privacy_link}}
+
+
+# Screenshot text, displayed as a bold title
+;Fast. Smart. Yours
+Cepat. Pintar. Milik Anda
+
+
+# Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Beralihlah ke Firefox dan bergabunglah bersama kekuatan<br>ratusan juta pengguna Firefox pada desktop dan perangkat seluler.
+
+
+# Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
+;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Beralihlah ke Firefox dan bergabunglah bersama kekuatan<br>ratusan juta pengguna Firefox
+
+
+# Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
+;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Beralihlah ke Firefox dan bergabunglah bersama<br>ratusan juta pengguna Firefox
+
+
+# Adjust line break tag position (<br>) for your language
+;Announcing<br>Firefox for iOS<br>Download now!
+Memperkenalkan<br>Firefox untuk iOS<br>Unduh sekarang juga!
+
+
+# Screenshot text, displayed as a bold title
+;Intuitive visual tab design
+Desain tab visual yang intuitif
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Quickly find and manage<br>your open browser tabs
+Cari dengan cepat dan kelola<br>tab peramban Anda yang terbuka
+
+
+# Screenshot text, displayed as a bold title
+;Intelligent searches
+Pencarian Cerdas
+
+
+# Screenshot description below the title, adjust line break tag (<br>) position for your language
+;Get accurate, predictive results <br>before you finish typing
+Dapatkan hasil yang akurat, prediktif, <br>sebelum Anda selesai mengetik
+
+
+# Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
+;Seamless browsing <br>with Sync
+Penjelajahan tanpa gangguan <br>dengan Sync
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Dapatkan akses cepat ke markah, <br>riwayat, tab terbuka, dan sandi <br>di mana saja Anda menggunakan Firefox
+
+
+# Screenshot text, displayed as a bold title
+;Private Browsing
+Penjelajahan Pribadi
+
+
+# Screenshot description below the title, adjust line break tag position (<br>) for your language
+;Make specific tabs private and browse<br>the Web without your history being saved
+Buatlah tab tertentu menjadi pribadi dan jelajahi<br>Web tanpa menyimpan riwayat
+
+
+# metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
+;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
+internet,safari,chrome,opera,explorer,pencarian,adblock,flash,browser,browsing,incognito,pribadi
+
+
+# Copyright notice on the page
+;© Mozilla and its contributors {{year}}
+© Mozilla dan para kontributor {{year}}
+
+
+# String displayed for minor updates of Firefox
+;This update contains stability improvements and bug fixes.
+Pembaruan ini berisi peningkatan stabilitas dan perbaikan kerusakan.
+
+
