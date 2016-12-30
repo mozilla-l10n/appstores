@@ -3,14 +3,14 @@
 
 
 ;Support for third-party keyboards has been enabled (note that some keyboards have trouble with the Firefox location bar)
-Support for third-party keyboards has been enabled (note that some keyboards have trouble with the Firefox location bar)
+Support for third-party keyboards has been enabled (note that some keyboards have trouble with the Firefox location bar) {ok}
 
 
 ;Fix for a bug where it was not always possible to edit passwords in the login manager
-Fix for a bug where it was not always possible to edit passwords in the login manager
+Fix for a bug where it was not always possible to edit passwords in the login manager {ok}
 
 
 ;Fix for a possible crash on page load
-Fix for a possible crash on page load
+Fix for a possible crash on page load {ok}
 
 
