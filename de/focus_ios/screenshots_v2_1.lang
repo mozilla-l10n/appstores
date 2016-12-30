@@ -3,12 +3,12 @@
 ## NOTE: en-US screenshots for reference https://bug1326395.bmoattachments.org/attachment.cgi?id=8822646
 
 
-;<b>Automatically block ads</b><br> & other Web trackers
+;Automatically block ads<br>& other Web trackers
 <b>Blockiert automatisch Werbung</b><br> & sonstige Aktivitätenverfolgung
 
 
-;<b>Browse Faster</b><br> Web pages may load faster<br> by removing trackers
-<b>Schneller surfen</b><br> Internetseiten laden ohne<br> Aktivitätenverfolgung mitunter schneller
+;Browse Faster<br>Web pages may load faster<br>by removing trackers
+Schneller surfen<br>Internetseiten laden ohne<br>Aktivitätenverfolgung mitunter schneller
 
 
 ;Before
@@ -23,5 +23,5 @@ Nachher
 Verfolgung
 
 
-;<b>From Mozilla</b><br> A brand you trust
-<b>Von Mozilla</b><br> Einer vertrauenswürdigen Marke
+;From Mozilla<br>A brand you trust
+Von Mozilla<br>Einer vertrauenswürdigen Marke
