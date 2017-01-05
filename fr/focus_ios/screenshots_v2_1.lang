@@ -5,12 +5,12 @@
 
 # Adjust line break tag (<br>) position for your language.
 ;Automatically block ads<br>& other Web trackers
-Bloquez automatiquement les publicités<br> et des traqueurs web
+Bloquez automatiquement <br>les publicités et d’autres traqueurs web
 
 
 # Adjust line break tag (<br>) position for your language.
 ;Browse Faster<br>Web pages may load faster<br>by removing trackers
-Naviguez plus rapidement<br>Les pages web peuvent s’ouvrir plus rapidement<br> en supprimant les traqueurs
+Naviguez plus rapidement<br>Les pages web peuvent s’ouvrir plus vite<br> en supprimant les traqueurs
 
 
 ;Before
@@ -27,6 +27,6 @@ Traqueur
 
 # Adjust line break tag (<br>) position for your language.
 ;From Mozilla<br>A brand you trust
-Par Mozilla<br>une marque en laquelle vous pouvez avoir confiance
+Par Mozilla<br>Une marque en laquelle vous pouvez avoir confiance
 
 
