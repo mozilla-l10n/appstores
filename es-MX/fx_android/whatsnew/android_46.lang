@@ -3,18 +3,18 @@
 
 
 ;Notifications about tabs opened in the background now list the URLs
-Notifications about tabs opened in the background now list the URLs
+Ahora las notificaciones sobre pestañas abiertas en segundo plano incluyen las URL
 
 
 ;Top Sites panel now lists popular sites by default
-Top Sites panel now lists popular sites by default
+El panel de sitios preferidos ahora muestra, de manera predeterminada, los sitios populares
 
 
 ;Firefox will request permissions at runtime instead of installation time (Android 6.0+)
-Firefox will request permissions at runtime instead of installation time (Android 6.0+)
+Firefox solicitará permisos en el momento de la ejecución en lugar de en el momento de la instalación (Android 6.0+)
 
 
 ;Previously cached pages will be displayed when offline
-Previously cached pages will be displayed when offline
+Cuando no haya conexión, se mostrarán las páginas guardadas en caché
 
 
