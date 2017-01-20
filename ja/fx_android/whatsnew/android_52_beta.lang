@@ -3,14 +3,14 @@
 
 
 ;Improved media controls
-Improved media controls
+メディアコントロールの改善
 
 
 ;Improved security with the “secure” cookie keyword (Strict Secure Cookies specification)
-Improved security with the “secure” cookie keyword (Strict Secure Cookies specification)
+「secure」Cookie キーワード (Strict Secure Cookies 仕様) によるセキュリティの改善
 
 
 ;Removed Battery Status API to reduce fingerprinting of users by trackers
-Removed Battery Status API to reduce fingerprinting of users by trackers
+追跡者によるユーザーフィンガープリンティングの要素を減らすため Battery Status API を削除
 
 
