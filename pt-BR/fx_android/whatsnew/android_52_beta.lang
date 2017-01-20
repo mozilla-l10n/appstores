@@ -11,6 +11,6 @@ Melhoria na segurança com o atributo “secure” ao cookie (especificação de
 
 
 ;Removed Battery Status API to reduce fingerprinting of users by trackers
-Removed Battery Status API to reduce fingerprinting of users by trackers
+Remoção da API de status da bateria para reduzir a identificação de usuários por rastreadores
 
 
