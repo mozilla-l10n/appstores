@@ -7,7 +7,7 @@ Paremad meedia juhtelemendid
 
 
 ;Improved security with the “secure” cookie keyword (Strict Secure Cookies specification)
-Parem turvalisus küpsistele võtmesõnaga "secure" (Strict Secure Cookies spetsifikatsioon)
+Parem turvalisus "secure" võtmesõnaga küpsistele (Strict Secure Cookies spetsifikatsioon)
 
 
 ;Removed Battery Status API to reduce fingerprinting of users by trackers
