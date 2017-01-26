@@ -11,6 +11,6 @@ A fost îmbunătățită securitatea prin cuvântul cheie „secure” în cazul
 
 
 ;Removed Battery Status API to reduce fingerprinting of users by trackers
-Removed Battery Status API to reduce fingerprinting of users by trackers
+A fost eliminat API-ul Battery Satus pentru a reduce monitorizarea prelevării de amprente digitale ale utilizatorilor
 
 
