@@ -83,7 +83,7 @@ Firefox 也可以安全的记住您的密码，跨越各个设备，省去输入
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-直观的可视化且数字编号的标签页，让您可以轻松在未来找到想要的内容。
+直观展现的且数字编号的标签页，让您可以轻松找到想找的内容。
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
@@ -96,11 +96,11 @@ Firefox 也可以安全的记住您的密码，跨越各个设备，省去输入
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-将时间花在阅读你喜欢的网站，而不是你找它们。
+少花点时间找网站，多花些时间阅读您喜爱的内容。
 
 
 ;Learn more about Firefox for iOS:
-了解更多有关 Firefox for iOS：
+了解有关 Firefox for iOS 的更多信息：
 
 
 ;Have questions or need help? Visit {{support_link}}
@@ -109,12 +109,12 @@ Firefox 也可以安全的记住您的密码，跨越各个设备，省去输入
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-了解有关 Firefox 权限：{{permission_link}}
+了解 Firefox 需要的权限：{{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-了解有关 Mozilla 的新鲜事：{{blog_link}}
+了解 Mozilla 的新鲜事：{{blog_link}}
 
 
 # Bulleted list item
@@ -133,11 +133,11 @@ Firefox 也可以安全的记住您的密码，跨越各个设备，省去输入
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla 的存在是为了将互联网建设为面向所有人可用的公共资源，因为我们相信，开放和免费优于封闭和管控。
+Mozilla 是为了将互联网建设为面向所有人可用的公共资源而生，因为我们相信，开放和自由优于封闭和管控。
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-我们打造了 Firefox 等产品，以促进可选性和透明度，为人们的网上生活提供更多掌控。
+我们打造了 Firefox 等产品，来推广多元选择、促进开放透明，让人们对自身的网上生活拥有更多掌控。
 
 
 ;Learn more at {{mozilla_org_link}}
@@ -150,7 +150,7 @@ Mozilla 的存在是为了将互联网建设为面向所有人可用的公共资
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-快速 · 智能 · 个性
+快速 · 智能 · 以您为本
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
