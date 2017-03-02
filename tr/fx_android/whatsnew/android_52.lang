@@ -1,0 +1,16 @@
+## NOTE: These strings are displayed on Google Play in the What’s new section for Firefox 52 release.
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fx_android/release/
+
+
+;Improved media controls
+Medya kontrol düğmeleri geliştirildi
+
+
+;Improved security with the “secure” cookie keyword (Strict Secure Cookies specification)
+“Güvenli” çerez anahtar kelimesi ile güvenlik artırıldı (Strict Secure Cookies)
+
+
+;Removed Battery Status API to reduce fingerprinting of users by trackers
+Fişlenerek takip edilme ihtimalinizi azaltmak için Pil Durumu API'ı kaldırıldı
+
+
