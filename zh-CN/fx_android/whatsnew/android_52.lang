@@ -3,14 +3,14 @@
 
 
 ;Improved media controls
-Improved media controls
+改进媒体控件
 
 
 ;Improved security with the “secure” cookie keyword (Strict Secure Cookies specification)
-Improved security with the “secure” cookie keyword (Strict Secure Cookies specification)
+改进有“secure”关键词的 Cookie 安全性（强制安全 Cookie 规范）
 
 
 ;Removed Battery Status API to reduce fingerprinting of users by trackers
-Removed Battery Status API to reduce fingerprinting of users by trackers
+移除电池状态 API 以减少跟踪器取得的用户指纹
 
 
