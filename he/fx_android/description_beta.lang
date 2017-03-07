@@ -4,12 +4,12 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox for Android Beta
+Fireofox Beta עבור Android
 
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+קבלו את דפדפן Firefox Beta הרשמי בחינם וספרו לנו מה דעתכם!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
@@ -17,43 +17,43 @@ Help refine and polish the newest features almost ready for prime time. With Fir
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+השפיעו על המוצר עם עזרה בגימורים לתכונות ולפונקציונליות.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+אנו זקוקים לעזרתכם בבדיקה של התקנים מבוססי Intel x86. אם ברשותכם התקן מבוסס על Intel x86, בבקשה הורידו את Firefox Beta וספרו לנו מה דעתכם.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+מצאתם באג? בבקשה דווחו עליו בכתובת {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+מעוניינים לקבל מידע נוסף על ההרשאות ש־Firefox מבקש? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+עיינו ברשימה של ההתקנים הנתמכים ודרישות המערכת המינימליות בכתובת https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+על אודות Mozilla
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla הוא ארגון ללא כוונת רווח המוקדש כדי לשמר את כוחה של המרשתת בידיהם של אלו המשתמשים בה.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-We're a global community of users, contributors and developers working to innovate on your behalf.
+אנחנו קהילה חובקת עולם של משתמשים, תורמים ומפתחים שעובדים יחדים כדי להציע חדשנות בשמך.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+כשאתם משתמשים ב־Firefox, אתם הופכים לחלק מהקהילה, ועוזרים לנו לבנות עתיד בהיר יותר למרשתת.
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+מידע נוסף בכתובת {{mozilla_org_link}}.
 
 
