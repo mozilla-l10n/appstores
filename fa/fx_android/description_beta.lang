@@ -9,7 +9,7 @@
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+نسخه رسمی فایرفاکس بتا برای اندروید را دریافت کنید و بازخورد خود را ارسال کنید!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
@@ -25,11 +25,11 @@ We need your help testing Intel x86 Atom based devices! If you have an Intel x86
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+باگ پیدا کردید؟ گزارش کنید {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+می‌خواهید در مورد دسترسی‌هایی که فایرفاکس درخواست می‌کند بیشتر بدانید؟ {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
@@ -38,22 +38,22 @@ See our list of supported devices and latest minimum system requirements at http
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+درباره موزیلا
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+موزیلا با افتخار یک سازمان غیرانتفاعی است که برای حفظ قدرت وب در دستان مردم اختصاص داده شده.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-We're a global community of users, contributors and developers working to innovate on your behalf.
+ما یک جامعه جهانی از کاربران، مشارکت کنندگان و توسعه دهندگانیم که کار میکنیم تا از طرف شما نوآوری‌هایی عرضه کنیم.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+هنگامی که شما از فایرفاکس استفاده می‌کنید، شما جزئی از این جامعه خواهید شد، که به ما کمک می‌کند تا آینده‌ای روشن‌تر برای وب بسازیم.
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+اطلاعات بیشتر در {{mozilla_org_link}}.
 
 
