@@ -8,7 +8,7 @@ Firefox Browser fast & private
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Firefox веб прегледач
 
 
 # This is the short tagline for the app on Google Play. Max length is 80 characters, so you might have to rephrase in order to fit.
@@ -104,7 +104,7 @@ Spend your time reading your favorites sites instead of looking for them.
 
 # Slogan in uppercase, displayed as a category title
 ;ADD-ONS FOR EVERYTHING
-ADD-ONS FOR EVERYTHING
+ДОДАЦИ ЗА СВЕ
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
@@ -130,7 +130,7 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 
 ;Learn more about Firefox for Android:
-Learn more about Firefox for Android:
+Сазнајте више о Firefox-у за Android:
 
 
 ;Have questions or need help? Visit {{support_link}}
@@ -154,7 +154,7 @@ Like Firefox on Facebook: {{facebook_link}}
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Пратите Firefox на Twitter-у: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
@@ -171,11 +171,11 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Сазнајте више на {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Полиса приватности: {{privacy_link}}
 
 
 # Title of screenshot
@@ -240,7 +240,7 @@ Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that
 
 # Title of screenshot
 ;Add-ons for everything
-Add-ons for everything
+Додаци за све
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -260,7 +260,7 @@ Firefox remembers your recently <br>used apps to help you get the <br>word out t
 
 # Title of screenshot
 ;Send to device
-Send to device
+Пошаљи на уређај
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
