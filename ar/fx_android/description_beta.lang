@@ -13,23 +13,23 @@
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+ساعد في تحسين الميزات الجديدة التي على وشك أن تكون جاهزة للاستخدام. مع فَيرفُكس بيتا تستطيع اختبار آخر تحسينات الأداء، و التخصيص، و الأمن، قبل أن تتوفر في إصدارتنا التالية.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+كن ذا دور مؤثر بمساعدتنا في وضع اللمسات الأخيرة على الميزات و الخصائص.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+نحتاج مساعدتك في اختبار الأجهزة التي تعمل بمعالجات أتوم x86 من إنتل. إذا كان لدي أحد هذه الأجهزة فجرب فَيرفُكس بيتا عليه و أطلعنا على رأيك فيه.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+هل وجدت مشكلة؟ أبلغ عنها في {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+أتريد الاطلاع على معلومات أكثر عن الصلاحيات التي يطلبها فَيرفُكس؟ {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
@@ -38,7 +38,7 @@ See our list of supported devices and latest minimum system requirements at http
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+عن موزيلا
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
@@ -54,6 +54,6 @@ When you use Firefox, you become a part of that community, helping us build a br
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+اطّلع على المزيد في {{mozilla_org_link}}.
 
 
