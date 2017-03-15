@@ -3,11 +3,11 @@
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+เว็บเบราว์เซอร์ Firefox
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+สัมผัสเว็บที่เร็ว ฉลาด และเป็นส่วนบุคคล
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
@@ -20,7 +20,7 @@ Upgrade today and join hundreds of millions who depend on Firefox for a more per
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+เร็ว ฉลาด เป็นคุณ
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
@@ -45,7 +45,7 @@ Easily access shortcuts to search providers including Wikipedia, Twitter and Ama
 
 
 ;BROWSE PRIVATELY
-BROWSE PRIVATELY
+ท่องเว็บอย่างเป็นส่วนตัว
 
 
 ;Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
@@ -61,7 +61,7 @@ Choose the private data you want to remove.
 
 
 ;iOS 9 required for Private Browsing mode
-iOS 9 required for Private Browsing mode
+ต้องการ iOS 9 สำหรับโหมดการท่องเว็บแบบส่วนตัว
 
 
 # Slogan in uppercase, displayed as a category title
@@ -129,7 +129,7 @@ Follow Firefox on Twitter: {{twitter_link}}
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+เกี่ยวกับ MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
@@ -141,16 +141,16 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+เรียนรู้เพิ่มเติมที่ {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+นโยบายความเป็นส่วนตัว: {{privacy_link}}
 
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+เร็ว ฉลาด เป็นคุณ
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
@@ -205,7 +205,7 @@ Instantly access your bookmarks, <br>history, open tabs and passwords <br>everyw
 
 # Screenshot text, displayed as a bold title
 ;Private Browsing
-Private Browsing
+การท่องเว็บแบบส่วนตัว
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
