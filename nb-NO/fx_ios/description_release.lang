@@ -41,7 +41,7 @@ Firefox anticipates your needs and intuitively provides multiple suggested and p
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
-Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Enkel tilgang til søking på for eksempel Wikipedia, Twitter og Amazon.
 
 
 ;BROWSE PRIVATELY
@@ -49,7 +49,7 @@ SURF PRIVAT
 
 
 ;Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
-Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
+Dine personlige data tilhører deg. I Privat nettlesingsmodus vil Firefox ikke huske din historikk eller dine infokapsler, men dine nye bokmerker vil bli lagret.
 
 
 ;Delete your browsing history, passwords and more in a single tap.
@@ -74,16 +74,16 @@ Med en Firefox-konto får du tilgang til din historikk, bokmerker og åpne faner
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox lagrer også dine passord på en sikker måte på tvers av enheter, slik at du slipper å huske de.
 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE VISUAL TABS
-INTUITIVE VISUAL TABS
+INTUITIVE VISUELLE FANER
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Intuitive visual and numbered tabs easily let you find content for future reference.
+Intuitive visuelle og nummererte faner lar deg lett finne innhold for fremtidig bruk.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
@@ -155,17 +155,17 @@ Rask. Smart. Din
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Oppgrader til kraften i Firefox og bli med<br> hundretalls millioner av<br>Firefox-brukere på datamaskin og mobil.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Oppgrader til kraften i Firefox og bli med<br> hundretalls millioner av Firefox-brukere
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Oppgrader til Firefox og bli med<br> hundretalls millioner av Firefox-brukere
 
 
 # Adjust line break tag position (<br>) for your language
@@ -175,7 +175,7 @@ Presenterer<br>Firefox for iOS<br>Last ned nå!
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Intuitive visual tab design
+Intuitivt visuelt fanedesign
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
