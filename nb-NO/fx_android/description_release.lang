@@ -17,15 +17,15 @@ Get the customizable, private & free mobile browser that syncs across devices.
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+Opplev et rask, smart og personlig internett.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox er den uavhengige nettleser, som setter mennesket i første rekke. Den er laget av Mozilla, som er kåret til det mest pålitelige internettselskapet for personvern.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Oppgrader i dag og bli med hundrevis av millioner, som stoler på Firefox for en mer personlig opplevelse på nettet.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -34,7 +34,7 @@ HURTIG. SMART. DIN.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox er laget med deg i tankene, og gir deg styrken til å ta tilbake kontroll over din internettopplevelse.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
@@ -56,11 +56,11 @@ Easily access shortcuts to search providers including Wikipedia, Twitter and Ama
 
 # Slogan in uppercase, displayed as a category title
 ;NEXT LEVEL PRIVACY
-NEXT LEVEL PRIVACY
+PERSONVERN PÅ NESTE NIVÅ
 
 
 ;Your privacy has been upgraded.
-Your privacy has been upgraded.
+Ditt personvern er oppgradert.
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
@@ -171,16 +171,16 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Les mer på {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Personvernbestemmelser: {{privacy_link}}
 
 
 # Title of screenshot
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Rask. Smart. Din
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
@@ -260,7 +260,7 @@ Firefox remembers your recently <br>used apps to help you get the <br>word out t
 
 # Title of screenshot
 ;Send to device
-Send to device
+Send til enhet
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
