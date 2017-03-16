@@ -45,7 +45,7 @@ Easily access shortcuts to search providers including Wikipedia, Twitter and Ama
 
 
 ;BROWSE PRIVATELY
-BROWSE PRIVATELY
+SURF PRIVAT
 
 
 ;Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
@@ -70,7 +70,7 @@ SYNKRONISER FIREFOX MELLOM DINE ENHETER
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+Med en Firefox-konto får du tilgang til din historikk, bokmerker og åpne faner fra din datamaskin, direkte på din telefon og ditt nettbrett.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
@@ -87,16 +87,16 @@ Intuitive visual and numbered tabs easily let you find content for future refere
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Open as many tabs as you like without losing track of your open Web pages.
+Åpne så mange faner som du har lyst til, uten å miste oversikten over dine åpne nettsider.
 
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+ENKEL ADGANG TIL DINE MEST BESØKTE NETTSIDER
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Spend your time reading your favorites sites instead of looking for them.
+Bruk din tid på å anvende dine favorittnettsider istedenfor å lete etter de.
 
 
 ;Learn more about Firefox for iOS:
@@ -195,7 +195,7 @@ Get accurate, predictive results <br>before you finish typing
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-Seamless browsing <br>with Sync
+Problemfri surfing<br>med Sync
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -215,7 +215,7 @@ Make specific tabs private and browse<br>the Web without your history being save
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
-internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
+internett,safari,chrome,opera,explorer,søk,adblock,flash,nettleser,inkognito,privat,surf,surfing
 
 
 # Copyright notice on the page
