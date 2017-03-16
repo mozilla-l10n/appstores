@@ -3,28 +3,28 @@
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Firefox nettleser
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+Opplev et raskt, smart og personlig internett.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox er den uavhengige nettleser, som setter mennesket i første rekke. Den er laget av Mozilla, som er kåret til det mest pålitelige internettselskapet for personvern.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Oppgrader i dag og bli med hundrevis av millioner, som stoler på Firefox for en mer personlig opplevelse på nettet.
 
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+HURTIG. SMART. DIN.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox er laget med deg i tankene, og gir deg styrken til å ta tilbake kontroll over din internettopplevelse.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
@@ -53,7 +53,7 @@ Your personal information belongs to you. In Private Browsing mode, Firefox won�
 
 
 ;Delete your browsing history, passwords and more in a single tap.
-Delete your browsing history, passwords and more in a single tap.
+Slett nettleserhistorikk, passord, og annet med et enkelt trykk.
 
 
 ;Choose the private data you want to remove.
@@ -100,7 +100,7 @@ Spend your time reading your favorites sites instead of looking for them.
 
 
 ;Learn more about Firefox for iOS:
-Learn more about Firefox for iOS:
+Les mer om Firefox for iOS:
 
 
 ;Have questions or need help? Visit {{support_link}}
@@ -150,7 +150,7 @@ Privacy Policy: {{privacy_link}}
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Rask. Smart. Din
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
@@ -220,11 +220,11 @@ internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,inco
 
 # Copyright notice on the page
 ;© Mozilla and its contributors {{year}}
-© Mozilla and its contributors {{year}}
+© Mozilla og deres bidragsytere {{year}}
 
 
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
-This update contains stability improvements and bug fixes.
+Denne oppdatering inneholder stabilitetsforbedringer og feilrettelser.
 
 
