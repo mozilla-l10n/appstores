@@ -13,7 +13,7 @@ Firefox nettleser
 
 # This is the short tagline for the app on Google Play. Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the customizable, private & free mobile browser that syncs across devices.
-Get the customizable, private & free mobile browser that syncs across devices.
+Få den fleksible, private nettleseren som kan synkroniseres på tvers av enheter.
 
 
 ;Experience a fast, smart and personal Web.
@@ -108,7 +108,7 @@ UTVIDELSER FOR ALT
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
-Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+Ta kontroll over nettopplevelsen ved å tilpasse Firefox med utvidelser som blokkerer reklame, håndterer passord og nedlastinger, og mye mer.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -117,16 +117,16 @@ HURTIGDELING
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
-Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox husker de sist brukte appene for å hjelpe deg med å enkelt dele innhold på Facebook, Twitter, WhatsApp, Skype med mer.
 
 
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
-TAKE IT TO THE BIG SCREEN
+VIS DET PÅ EN STOR SKJERM
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
-Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Send video- og nettinnhold fra smarttelefonen eller nettbrettet til en TV utstyrt med støttede strømme-funksjoner.
 
 
 ;Learn more about Firefox for Android:
@@ -245,7 +245,7 @@ Utvidelser for alt
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
-Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
+Tilpass nettleseren med<br>utvidelser som blokkerer reklame, håndterer<br>passord og nedlastinger, og mye mer.
 
 
 # Title of screenshot
@@ -255,7 +255,7 @@ Rask deling
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
-Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+Firefox husker de siste <br>brukte appene for å hjelpe deg med å <br>spre dine budskaper
 
 
 # Title of screenshot
@@ -265,6 +265,6 @@ Send til enhet
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
-Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+Send video- og nettinnhold fra<br>smarttelefonen eller nettbrettet<br>til enhver støttet enhet
 
 
