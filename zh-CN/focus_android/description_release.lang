@@ -2,9 +2,17 @@
 ## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/focus_android/release/
 
 
-# Application title
+# Application title. Maximum length is 30 characters.
 ;Firefox Focus: The privacy browser
 Firefox Focus：隐私保护浏览器
+
+
+# Short description. Maximum length is 80 characters.
+# Possible shorter alternatives to translate are:
+# a) Get The Privacy Browser. Fast & always private, from a brand you trust
+# b) Get The Privacy Browser. Fast & always private, from Firefox
+;Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
 
 
 ;Browse like no one’s watching.
@@ -53,10 +61,5 @@ Focus 是新一代隐私保护利器，免费、随时可用，而且永远站�
 
 ;We believe everyone should have control over their lives online. That’s what we’ve been fighting for since 1998.
 我们相信每个人都有权掌控自己的在线生活。这也是我们自1998年以来一直在争取的事情。
-
-
-# Metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
-;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
-internet,safari,chrome,opera,adblock,flash,互联网,浏览器,火狐,浏览,搜索,上网,广告屏蔽,隐私,隐身,无痕,保护,网络
 
 
