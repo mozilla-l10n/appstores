@@ -4,56 +4,56 @@
 
 # Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox za Android Beta
 
 
 # This is the short tagline for the app on Google Play
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Preuzmite službeni besplatni Firefox Beta preglednik i pošaljite nam povratnu informaciju!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Pomozite nam pročistiti i ispolirati najnovije mogućnosti koje su skoro spremne za objavljivanje. S Firefox Beta dobijate mogućnost testirati najnovije preformanse, prilagodbe i sigurnosna poboljšanja prije nego li ista budu dostupna u standardnom Firefoxu.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+Iskoristite svoj utjecaj kako biste nam pomogli ispolirati nove mogućnosti i funkcionalnosti.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Trebamo vašu pomoć u testiranju Intel x86 Atom uređaja! Ukoliko imate uređaj baziran na Intel x86 Atomu, preuzmite Firefox Beta i recite nam šta mislite.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Pronašli ste grešku? Prijavite ju na {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Želite li znati više o dozvolama koje Firefox traži? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Pregledajte naš popis podržanih uređaja i zadnje minimalne zahtjeve sustava na https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+O MOZILLI
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla je ponosno neprofitna organizacija posvećena zadržavanju moći Weba u rukama ljudi.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-We're a global community of users, contributors and developers working to innovate on your behalf.
+Mi smo globalna zajednica korisnika, suradnika i razvijatelja koji rade na inovacijama u vaše ime.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+Kada koristite Firefox, postajete dio te zajednice i pomažete nam u izgradnji svijetlije budućnosti za Web.
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+Saznajte više na {{mozilla_org_link}}.
 
 
