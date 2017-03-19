@@ -7,7 +7,7 @@ Forbedret mediekontroller
 
 
 ;Improved security with the “secure” cookie keyword (Strict Secure Cookies specification)
-Forbedret sikkerhet med "secure"-cookie-nøkkelordet (spesifikasjonen Strict Sikre Cookies)
+Forbedret sikkerhet med «secure»-cookie-nøkkelordet (spesifikasjonen Strict Sikre Cookies)
 
 
 ;Removed Battery Status API to reduce fingerprinting of users by trackers
