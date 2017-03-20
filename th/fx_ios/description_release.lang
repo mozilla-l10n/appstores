@@ -11,11 +11,11 @@
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox เป็นเบราว์เซอร์อิสระที่ให้ความสำคัญกับผู้คนก่อนที่สร้างขึ้นโดย Mozilla ซึ่งได้รับการลงคะแนนให้เป็นบริษัทอินเทอร์เน็ตที่น่าเชื่อถือที่สุดในด้านความเป็นส่วนตัว
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+อัปเกรดวันนี้และเข้าร่วมผู้คนนับร้อยล้านที่พึ่งพา Firefox เพื่อประสบการณ์การท่องเว็บที่เป็นส่วนบุคคลมากกว่า
 
 
 # Slogan in uppercase, displayed as a category title
@@ -119,12 +119,12 @@ Learn more about what’s up at Mozilla: {{blog_link}}
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+ถูกใจ Firefox บน Facebook: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+ติดตาม Firefox บน Twitter: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
