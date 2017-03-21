@@ -1,0 +1,70 @@
+## NOTE: This is the text used on Play Store for Focus for Android
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/focus_android/release/
+
+
+# Application title. Maximum length is 30 characters.
+# Given that English is already at the limit, these are possible shorter alternatives:
+# a) Firefox Focus: Private & Fast
+# b) Firefox Focus: Private. Fast
+# c) Firefox Focus: Private
+# Worst case, you can leave only "Firefox Focus" without punctuation.
+;Firefox Focus: Private Browser
+Firefox Focus: Private Browser
+
+
+# Short description. Maximum length is 80 characters.
+# Given that English is already close to the limit, these are possible shorter alternatives:
+# a) Get The Privacy Browser. Fast & always private, from a brand you trust
+# b) Get The Privacy Browser. Fast & always private, from Firefox
+;Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+
+
+;Browse like no one’s watching.
+Surfen Sie, als würde niemand zusehen.
+
+
+;The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
+Der neue Firefox Klar blockiert automatisch zahlreiche Elemente zur Aktivitätenverfolgung im Internet – während der ganzen Browsersitzung.
+
+
+;Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
+Löschen Sie einfach Ihre Chronik, Passwörter und Cookies, damit ungewollte Werbung und anderes Sie nicht verfolgen kann.
+
+
+;“Private browsing” on most browsers isn’t comprehensive or easy to use.
+Der „Private Modus“ in den meisten Browsern ist unvollständig oder schwer einsetzbar.
+
+
+;Focus is next-level privacy that’s free, always on and always on your side — because it’s backed by Mozilla, the non-profit that fights for your rights on the Web.
+Klar bietet eine höhere Form von Datenschutz, die immer verfügbar und immer für Sie da ist – weil Mozilla sie unterstützt, die gemeinnützige Organisation, die sich für Ihre Rechte im Internet einsetzt.
+
+
+;AUTOMATIC PRIVACY
+AUTOMATISCHER DATENSCHUTZ
+
+
+;Blocks a wide range of common Web trackers without any settings to set
+Blockiert zahlreiche typische Elemente zur Aktivitätenverfolgung im Internet – Automatisch, sofort und immer aktiviert
+
+
+;Easily erases your history — no passwords, no cookies, no trackers
+Ihre Chronik wird einfach gelöscht – keine Passwörter, keine Cookies, keine Aktivitätenverfolgung
+
+
+;BROWSE FASTER
+SCHNELLER SURFEN
+
+
+;By removing trackers and ads, Web pages may require less data and load faster
+Internetseiten benötigen dank entfernter Elemente zur Aktivitätenverfolgung weniger Datenvolumen und werden schneller geladen.
+
+
+;MADE BY MOZILLA
+ENTWICKELT VON MOZILLA
+
+
+;We believe everyone should have control over their lives online. That’s what we’ve been fighting for since 1998.
+Wir glauben, dass jeder die Kontrolle über sein Online-Leben haben sollte. Dafür kämpfen wir seit 1998.
+
+

@@ -1,0 +1,70 @@
+## NOTE: This is the text used on Play Store for Focus for Android
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/focus_android/release/
+
+
+# Application title. Maximum length is 30 characters.
+# Given that English is already at the limit, these are possible shorter alternatives:
+# a) Firefox Focus: Private & Fast
+# b) Firefox Focus: Private. Fast
+# c) Firefox Focus: Private
+# Worst case, you can leave only "Firefox Focus" without punctuation.
+;Firefox Focus: Private Browser
+Firefox Focus: Private Browser
+
+
+# Short description. Maximum length is 80 characters.
+# Given that English is already close to the limit, these are possible shorter alternatives:
+# a) Get The Privacy Browser. Fast & always private, from a brand you trust
+# b) Get The Privacy Browser. Fast & always private, from Firefox
+;Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+
+
+;Browse like no one’s watching.
+誰にも見られていないようにブラウジング。
+
+
+;The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
+新しい Firefox Focus は、起動から終了の瞬間まで、様々なオンライントラッキングを自動的にブロックします。
+
+
+;Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
+履歴、パスワード、Cookie を簡単に消去できるので、不要な広告などから追い回されることはありません。
+
+
+;“Private browsing” on most browsers isn’t comprehensive or easy to use.
+多くのブラウザの「プライベートブラウジング」は、包括的でなかったり使いづらかったりします。
+
+
+;Focus is next-level privacy that’s free, always on and always on your side — because it’s backed by Mozilla, the non-profit that fights for your rights on the Web.
+Focus は、ウェブ上の皆さんの権利のために闘っている非営利法人の Mozilla が開発しており、無料で、常に有効で、常にあなたを見守る、次のレベルのプライバシーを提供します。
+
+
+;AUTOMATIC PRIVACY
+自動プライバシー保護
+
+
+;Blocks a wide range of common Web trackers without any settings to set
+何の設定をしなくても、ウェブ上の様々な一般的トラッキングをブロックします
+
+
+;Easily erases your history — no passwords, no cookies, no trackers
+パスワードや Cookie を含む履歴を簡単に消去でき、トラッキングとは無縁です
+
+
+;BROWSE FASTER
+より高速にブラウジング
+
+
+;By removing trackers and ads, Web pages may require less data and load faster
+トラッキングや広告を削除することで、ウェブページが必要とするデータが減り、読み込みが速くなるでしょう
+
+
+;MADE BY MOZILLA
+開発元は Mozilla
+
+
+;We believe everyone should have control over their lives online. That’s what we’ve been fighting for since 1998.
+私達は誰もがオンライン生活を自分自身でコントロールできるべきだと考えています。それこそ 1998 年から私達が闘っていることなのです。
+
+

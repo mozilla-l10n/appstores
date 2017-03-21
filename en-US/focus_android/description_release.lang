@@ -1,0 +1,70 @@
+## NOTE: This is the text used on Play Store for Focus for Android
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/focus_android/release/
+
+
+## MAX_LENGTH: 30
+# Application title. Maximum length is 30 characters.
+# Given that English is already at the limit, these are possible shorter alternatives:
+# a) Firefox Focus: Private & Fast
+# b) Firefox Focus: Private. Fast
+# c) Firefox Focus: Private
+# Worst case, you can leave only "Firefox Focus" without punctuation.
+;Firefox Focus: Private Browser
+Firefox Focus: Private Browser
+
+
+## MAX_LENGTH: 80
+# Short description. Maximum length is 80 characters.
+# Given that English is already close to the limit, these are possible shorter alternatives:
+# a) Get The Privacy Browser. Fast & always private, from a brand you trust
+# b) Get The Privacy Browser. Fast & always private, from Firefox
+;Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+
+
+;Browse like no one’s watching.
+Browse like no one’s watching.
+
+
+;The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
+The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
+
+
+;Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
+Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
+
+
+;“Private browsing” on most browsers isn’t comprehensive or easy to use.
+“Private browsing” on most browsers isn’t comprehensive or easy to use.
+
+
+;Focus is next-level privacy that’s free, always on and always on your side — because it’s backed by Mozilla, the non-profit that fights for your rights on the Web.
+Focus is next-level privacy that’s free, always on and always on your side — because it’s backed by Mozilla, the non-profit that fights for your rights on the Web.
+
+
+;AUTOMATIC PRIVACY
+AUTOMATIC PRIVACY
+
+
+;Blocks a wide range of common Web trackers without any settings to set
+Blocks a wide range of common Web trackers without any settings to set
+
+
+;Easily erases your history — no passwords, no cookies, no trackers
+Easily erases your history — no passwords, no cookies, no trackers
+
+
+;BROWSE FASTER
+BROWSE FASTER
+
+
+;By removing trackers and ads, Web pages may require less data and load faster
+By removing trackers and ads, Web pages may require less data and load faster
+
+
+;MADE BY MOZILLA
+MADE BY MOZILLA
+
+
+;We believe everyone should have control over their lives online. That’s what we’ve been fighting for since 1998.
+We believe everyone should have control over their lives online. That’s what we’ve been fighting for since 1998.

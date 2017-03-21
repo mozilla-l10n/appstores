@@ -1,0 +1,70 @@
+## NOTE: This is the text used on Play Store for Focus for Android
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/focus_android/release/
+
+
+# Application title. Maximum length is 30 characters.
+# Given that English is already at the limit, these are possible shorter alternatives:
+# a) Firefox Focus: Private & Fast
+# b) Firefox Focus: Private. Fast
+# c) Firefox Focus: Private
+# Worst case, you can leave only "Firefox Focus" without punctuation.
+;Firefox Focus: Private Browser
+Firefox Focus: Private Browser
+
+
+# Short description. Maximum length is 80 characters.
+# Given that English is already close to the limit, these are possible shorter alternatives:
+# a) Get The Privacy Browser. Fast & always private, from a brand you trust
+# b) Get The Privacy Browser. Fast & always private, from Firefox
+;Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+
+
+;Browse like no one’s watching.
+上網時，彷彿沒有人看著你。
+
+
+;The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
+從您啟動全新的 Firefox Focus 開始，就會自動封鎖不同的線上追蹤器，直到結束為止，給您全程保護。
+
+
+;Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
+很簡單就能清除您的上網紀錄、輸入過的密碼、Cookie 等，這樣就不會被討厭的廣告追蹤。
+
+
+;“Private browsing” on most browsers isn’t comprehensive or easy to use.
+大部分瀏覽器的「隱私瀏覽」功能都不方便使用。
+
+
+;Focus is next-level privacy that’s free, always on and always on your side — because it’s backed by Mozilla, the non-profit that fights for your rights on the Web.
+Focus 免費、隨時可用，能提供您更強的隱私保護，而且永遠站在你這邊 — 因為這是由為您的網路人權出聲的 Mozilla 所打造的。
+
+
+;AUTOMATIC PRIVACY
+自動進入隱私模式
+
+
+;Blocks a wide range of common Web trackers without any settings to set
+不用設定，就能封鎖常見的不同種類網路追蹤器
+
+
+;Easily erases your history — no passwords, no cookies, no trackers
+簡單就能清除上網記錄 — 不留密碼、Cookie、追蹤器
+
+
+;BROWSE FASTER
+上網變得更快
+
+
+;By removing trackers and ads, Web pages may require less data and load faster
+移除追蹤器跟廣告後，就可以少花一點流量、更快載入網頁
+
+
+;MADE BY MOZILLA
+由 MOZILLA 打造
+
+
+;We believe everyone should have control over their lives online. That’s what we’ve been fighting for since 1998.
+我們相信，每個人皆應有權力自行控制自己的線上生活，這就是我們從 1998 年起開始奮鬥的原因。
+
+
