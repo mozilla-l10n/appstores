@@ -1,32 +1,10 @@
 ## NOTE: This is the text used in screenshots for Focus for Android 1.0
 ## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/focus_android/release/
-## NOTE: en-US screenshots for reference https://bug1326395.bmoattachments.org/attachment.cgi?id=8822646
+## NOTE: en-US screenshots for reference https://bug1349052.bmoattachments.org/attachment.cgi?id=8849351
 
 
 # Adjust line break tag (<br>) position for your language.
-;Automatically block ads<br>& other Web trackers
-自動的に広告をブロック<br>その他の追跡もブロック
-
-
-# Adjust line break tag (<br>) position for your language.
-;Browse Faster<br>Web pages may load faster<br>by removing trackers
-より高速にブラウジング<br>トラッキングを削除して<br>ページの読み込みを快適に
-
-
-;Before
-使用前
-
-
-;After
-使用後
-
-
-;Tracker
-トラッキング
-
-
-# Adjust line break tag (<br>) position for your language.
-;From Mozilla<br>A brand you trust
-Mozilla<br>信頼できるブランド
+;Small download<br>Only 3MB
+Small download<br>Only 3MB
 
 
