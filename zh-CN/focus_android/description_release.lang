@@ -3,12 +3,17 @@
 
 
 # Application title. Maximum length is 30 characters.
-;Firefox Focus: The privacy browser
-Firefox Focus：隐私保护浏览器
+# Given that English is already at the limit, these are possible shorter alternatives:
+# a) Firefox Focus: Private & Fast
+# b) Firefox Focus: Private. Fast
+# c) Firefox Focus: Private
+# Worst case, you can leave only "Firefox Focus"
+;Firefox Focus: Private Browser
+Firefox Focus: Private Browser
 
 
 # Short description. Maximum length is 80 characters.
-# Possible shorter alternatives to translate are:
+# Given that English is already close to the limit, these are possible shorter alternatives:
 # a) Get The Privacy Browser. Fast & always private, from a brand you trust
 # b) Get The Privacy Browser. Fast & always private, from Firefox
 ;Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
