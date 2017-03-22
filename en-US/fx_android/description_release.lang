@@ -1,8 +1,9 @@
 ## NOTE: This is the text used on Google Play for Firefox for Android
 ## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/release/
 
-# Title of the App on Google Play. There is a 30 characters max length! If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ## MAX_LENGTH: 30
+# Title of the App on Google Play. There is a 30 characters max length.
+# If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
 Firefox Browser fast & private
 
@@ -11,8 +12,9 @@ Firefox Browser fast & private
 Firefox Web Browser
 
 
-# This is the short tagline for the app on Google Play. Max length is 80 characters, so you might have to rephrase in order to fit.
 ## MAX_LENGTH: 80
+# This is the short tagline for the app on Google Play.
+# Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the customizable, private & free mobile browser that syncs across devices.
 Get the customizable, private & free mobile browser that syncs across devices.
 

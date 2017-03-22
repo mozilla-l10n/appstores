@@ -2,12 +2,13 @@
 ## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/beta/
 
 
-# Title of the  App on Google Play, beware, there is a hard max limit of 30 characters!
+# Title of the App on Google Play. There is a 30 characters max length.
 ;Firefox for Android Beta
 Firefox Beta para o Android
 
 
-# This is the short tagline for the app on Google Play
+# This is the short tagline for the app on Google Play.
+# Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the official free Firefox Beta browser and give your feedback!
 Obtenha a versão beta do Firefox gratuitamente e dê a sua opinião!
 
