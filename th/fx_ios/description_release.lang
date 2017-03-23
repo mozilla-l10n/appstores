@@ -109,7 +109,7 @@ Firefox ยังจดจำรหัสผ่านของคุณระห
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+อ่านเกี่ยวกับสิทธิอนุญาต Firefox: {{permission_link}}
 
 
 # Bulleted list item
@@ -133,7 +133,7 @@ Read about Firefox permissions: {{permission_link}}
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla ดำรงอยู่เพื่อสร้างอินเทอร์เน็ตให้เป็นทรัพยากรสาธารณะที่เข้าถึงได้ทุกคนเพราะเราเชื่อว่าระบบเปิดและฟรีดีกว่าระบบปิดและถูกควบคุม
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
