@@ -45,7 +45,7 @@ That’s why we design the product with smart features that take the guesswork o
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+חיפוש חכם והגעה מהירה יותר ליעד
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
@@ -58,7 +58,7 @@ Easily access shortcuts to search providers including Wikipedia, Twitter and Ama
 
 # Slogan in uppercase, displayed as a category title
 ;NEXT LEVEL PRIVACY
-NEXT LEVEL PRIVACY
+פרטיות השלב הבא
 
 
 ;Your privacy has been upgraded.
@@ -71,7 +71,7 @@ Private Browsing with Tracking Protection blocks parts of Web pages that may tra
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+סנכרון של Firefox בין התקנים
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
@@ -97,7 +97,7 @@ Open as many tabs as you like without losing track of your open Web pages.
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+גישה קלה לאתרים חשובים
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
@@ -106,7 +106,7 @@ Spend your time reading your favorites sites instead of looking for them.
 
 # Slogan in uppercase, displayed as a category title
 ;ADD-ONS FOR EVERYTHING
-ADD-ONS FOR EVERYTHING
+תוספות לכול
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
@@ -132,7 +132,7 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 
 ;Learn more about Firefox for Android:
-Learn more about Firefox for Android:
+מידע נוסף על Firefox עבור Android:
 
 
 ;Have questions or need help? Visit {{support_link}}
@@ -141,7 +141,7 @@ Learn more about Firefox for Android:
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+מידע נוסף על ההרשאות הנחוצות ל־Firefox:‏ {{permission_link}}
 
 
 # Bulleted list item
@@ -151,7 +151,7 @@ Learn more about what’s up at Mozilla: {{blog_link}}
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+הוסיפו אותנו ב־Facebook:‏ {{facebook_link}}
 
 
 # Bulleted list item
@@ -242,7 +242,7 @@ Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that
 
 # Title of screenshot
 ;Add-ons for everything
-Add-ons for everything
+תוספות לכל
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
