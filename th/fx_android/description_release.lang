@@ -9,7 +9,7 @@ Firefox Browser fast & private
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+เว็บเบราว์เซอร์ Firefox
 
 
 # This is the short tagline for the app on Google Play.
@@ -19,20 +19,20 @@ Get the customizable, private & free mobile browser that syncs across devices.
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+สัมผัสเว็บที่เร็ว ฉลาด และเป็นส่วนบุคคล
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox เป็นเบราว์เซอร์อิสระที่ให้ความสำคัญกับผู้คนก่อนที่สร้างขึ้นโดย Mozilla ซึ่งได้รับการลงคะแนนให้เป็นบริษัทอินเทอร์เน็ตที่น่าเชื่อถือที่สุดในด้านความเป็นส่วนตัว
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+อัปเกรดวันนี้และเข้าร่วมผู้คนนับร้อยล้านที่พึ่งพา Firefox เพื่อประสบการณ์การท่องเว็บที่เป็นส่วนบุคคลมากกว่า
 
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+เร็ว ฉลาด เป็นคุณ
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
@@ -45,7 +45,7 @@ That’s why we design the product with smart features that take the guesswork o
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+ค้นหาอย่างชาญฉลาดและไปถึงได้เร็วขึ้น
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
@@ -53,16 +53,16 @@ Firefox anticipates your needs and intuitively provides multiple suggested and p
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
-Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+เข้าถึงทางลัดไปยังผู้ให้บริการค้นหาได้อย่างง่ายดายทั้ง Wikipedia, Twitter และ Amazon
 
 
 # Slogan in uppercase, displayed as a category title
 ;NEXT LEVEL PRIVACY
-NEXT LEVEL PRIVACY
+ความเป็นส่วนตัวระดับถัดไป
 
 
 ;Your privacy has been upgraded.
-Your privacy has been upgraded.
+ความเป็นส่วนตัวของคุณได้รับการอัปเกรด
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
@@ -71,7 +71,7 @@ Private Browsing with Tracking Protection blocks parts of Web pages that may tra
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+ซิงค์ FIREFOX ระหว่างอุปกรณ์ของคุณ
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
@@ -84,7 +84,7 @@ Firefox also safely remembers your passwords across devices so you don’t have 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE VISUAL TABS
-INTUITIVE VISUAL TABS
+แท็บแบบมีภาพที่ใช้งานง่าย
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
@@ -132,36 +132,36 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 
 ;Learn more about Firefox for Android:
-Learn more about Firefox for Android:
+เรียนรู้เพิ่มเติมเกี่ยวกับ Firefox สำหรับ Android:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+มีคำถามหรือต้องการความช่วยเหลือ? เยี่ยมชม {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+อ่านเกี่ยวกับสิทธิอนุญาต Firefox: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+เรียนรู้เพิ่มเติมเกี่ยวกับสิ่งที่เกิดขึ้นที่ Mozilla: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+ถูกใจ Firefox บน Facebook: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+ติดตาม Firefox บน Twitter: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+เกี่ยวกับ MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
@@ -173,66 +173,66 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+เรียนรู้เพิ่มเติมที่ {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+นโยบายความเป็นส่วนตัว: {{privacy_link}}
 
 
 # Title of screenshot
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+เร็ว ฉลาด เป็นคุณ
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+อัปเกรดเป็นขุมพลัง Firefox และ<br>เข้าร่วมผู้ใช้ Firefox บนเดสก์ท็อป<br>และมือถือนับร้อยล้านคน
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+อัปเกรดเป็นขุมพลัง Firefox และ<br>เข้าร่วมผู้ใช้ Firefox นับร้อยล้านคน
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+อัปเกรดเป็น Firefox และเข้าร่วม<br>ผู้ใช้ Firefox นับร้อยล้านคน
 
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Intuitive visual tab design
+การออกแบบแท็บแบบมีภาพที่ใช้งานง่าย
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-Quickly find and manage<br>your open browser tabs
+ค้นหาและจัดการแท็บเบราว์เซอร์<br>ที่เปิดอยู่ของคุณ
 
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Intelligent searches
+การค้นหาอัจฉริยะ
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-Get accurate, predictive results <br>before you finish typing
+รับผลลัพธ์ที่แม่นยำล่วงหน้า<br>ก่อนที่คุณจะพิมพ์เสร็จ
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-Seamless browsing <br>with Sync
+การท่องเว็บแบบไร้รอยต่อ<br>ด้วย Sync
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+เข้าถึงที่คั่นหน้า, ประวัติ, แท็บที่เปิด <br>และรหัสผ่านของคุณในทันที<br>ในทุกที่ที่คุณใช้ Firefox
 
 
 # Title of screenshot
 ;Next level privacy
-Next level privacy
+ความเป็นส่วนตัวระดับถัดไป
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -262,7 +262,7 @@ Firefox remembers your recently <br>used apps to help you get the <br>word out t
 
 # Title of screenshot
 ;Send to device
-Send to device
+ส่งไปยังอุปกรณ์
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
