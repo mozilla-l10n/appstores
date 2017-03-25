@@ -128,7 +128,7 @@ Firefox памти ваше скоро коришћене апликације �
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
-Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Шаљите видео и веб садржај са вашег паметног телефона или таблета на било који ТВ који је опремљен подржаним способностима стримовања.
 
 
 ;Learn more about Firefox for Android:
@@ -136,22 +136,22 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+Имате питање или вам је потребна помоћ? Погледајте {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+Прочитајте више о Firefox дозволама: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+Сазнајте шта има ново у Mozilla-и: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+Лајкујте Firefox на Facebook-у: {{facebook_link}}
 
 
 # Bulleted list item
@@ -161,15 +161,15 @@ Like Firefox on Facebook: {{facebook_link}}
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+О MOZILLA-И
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla постоји да би изградила Интернет који ће бити опште јавно добро доступно свима јер верујемо да су отвореност и слобода бољи од затворености и контроле.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Стварамо производе као што је Firefox да бисмо промовисали слободу избора и транспарентност, и да бисмо дали људима већу контролу над њиховим животима на мрежи.
 
 
 ;Learn more at {{mozilla_org_link}}
@@ -182,42 +182,42 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 # Title of screenshot
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Брз. Паметан. Ваш
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Стекните моћ Firefox-а и<br>постаните део групе милиона<br>Firefox корисника на стоним рачунарима и мобилним уређајима.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Стекните моћ Firefox-а и<br>постаните део групе милиона Firefox корисника
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Надоградите се на Firefox и постаните<br>део групе милиона Firefox корисника
 
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Intuitive visual tab design
+Интуитиван дизајн визуелних језичака
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-Quickly find and manage<br>your open browser tabs
+Брзо нађите и управљајте<br>вашим отвореним језичцима
 
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Intelligent searches
+Паметне претраге
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-Get accurate, predictive results <br>before you finish typing
+Добијте тачне и предвидљиве резултате<br>пре него што завршите са куцањем
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
