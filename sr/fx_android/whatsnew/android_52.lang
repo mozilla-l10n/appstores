@@ -3,14 +3,14 @@
 
 
 ;Improved media controls
-Improved media controls
+Побољшане контроле за мултимедијалне садржаје
 
 
 ;Improved security with the “secure” cookie keyword (Strict Secure Cookies specification)
-Improved security with the “secure” cookie keyword (Strict Secure Cookies specification)
+Побољшана безбедност коришћењем кључне речи “secure” у колачићима (спецификација строгих, безбедних колачића)
 
 
 ;Removed Battery Status API to reduce fingerprinting of users by trackers
-Removed Battery Status API to reduce fingerprinting of users by trackers
+Уклоњен API за стање батерије због могућности праћења
 
 

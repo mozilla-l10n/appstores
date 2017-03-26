@@ -11,6 +11,6 @@
 
 
 ;Removed Battery Status API to reduce fingerprinting of users by trackers
-Removed Battery Status API to reduce fingerprinting of users by trackers
+Уклоњен API за стање батерије због могућности праћења
 
 
