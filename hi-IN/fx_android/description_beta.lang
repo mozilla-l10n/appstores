@@ -26,15 +26,15 @@ We need your help testing Intel x86 Atom based devices! If you have an Intel x86
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+एक बग  मिला? {{android_bugs}} पे इसे रिपोर्ट करें.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+अनुमति Firefox अनुरोध के बारे में और अधिक जानना चाहते हैं? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+समर्थित युक्ति और नवीनतम न्यूनतम सिस्टम आवश्यकताओं की हमारी सूची https://www.mozilla.org/en-US/firefox/mobile/platforms/. पर देखें.
 
 
 # TITLE
@@ -55,6 +55,6 @@ When you use Firefox, you become a part of that community, helping us build a br
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+{{mozilla_org_link}} पर और अधिक सीखे.
 
 

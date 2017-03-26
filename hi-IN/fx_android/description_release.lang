@@ -5,11 +5,11 @@
 # Title of the App on Google Play. There is a 30 characters max length.
 # If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
-Firefox Browser fast & private
+Firefox ब्राउज़र तेज और निजी
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Firefox वेब ब्राउज़र
 
 
 # This is the short tagline for the app on Google Play.
@@ -19,7 +19,7 @@ Get the customizable, private & free mobile browser that syncs across devices.
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+एक तेज, स्मार्ट और व्यक्तिगत वेब का अनुभव करें.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
@@ -32,7 +32,7 @@ Upgrade today and join hundreds of millions who depend on Firefox for a more per
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+तेज. स्मार्ट. आपका.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
@@ -232,7 +232,7 @@ Instantly access your bookmarks, <br>history, open tabs and passwords <br>everyw
 
 # Title of screenshot
 ;Next level privacy
-Next level privacy
+अगले दर्जे की गोपनीयता
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
