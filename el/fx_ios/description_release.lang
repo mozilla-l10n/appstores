@@ -3,7 +3,7 @@
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Πρόγραμμα Περιήγησης Ιστού Firefox
 
 
 ;Experience a fast, smart and personal Web.
@@ -20,7 +20,7 @@ Upgrade today and join hundreds of millions who depend on Firefox for a more per
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+ΓΡΗΓΟΡΟ. ΕΞΥΠΝΟ. ΔΙΚΟ ΣΑΣ.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
@@ -33,7 +33,7 @@ That’s why we design the product with smart features that take the guesswork o
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+ΕΥΦΥΗΣ ΑΝΑΖΗΤΗΣΗ & ΤΑΧΥΤΕΡΗ ΠΡΟΣΒΑΣΗ
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
@@ -45,7 +45,7 @@ Easily access shortcuts to search providers including Wikipedia, Twitter and Ama
 
 
 ;BROWSE PRIVATELY
-BROWSE PRIVATELY
+ΙΔΙΩΤΙΚΗ ΠΕΡΙΗΓΗΣΗ
 
 
 ;Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
@@ -61,7 +61,7 @@ Choose the private data you want to remove.
 
 
 ;iOS 9 required for Private Browsing mode
-iOS 9 required for Private Browsing mode
+Απαιτείται το iOS 9 για τη λειτουργία Ιδιωτικής Περιήγησης
 
 
 # Slogan in uppercase, displayed as a category title
@@ -92,7 +92,7 @@ Open as many tabs as you like without losing track of your open Web pages.
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+ΕΥΚΟΛΗ ΠΡΟΣΒΑΣΗ ΣΤΙΣ ΚΟΡΥΦΑΙΕΣ ΣΑΣ ΙΣΤΟΣΕΛΙΔΕΣ
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
@@ -100,7 +100,7 @@ Spend your time reading your favorites sites instead of looking for them.
 
 
 ;Learn more about Firefox for iOS:
-Learn more about Firefox for iOS:
+Μάθετε περισσότερα σχετικά με το Firefox για iOS:
 
 
 ;Have questions or need help? Visit {{support_link}}
@@ -119,17 +119,17 @@ Learn more about what’s up at Mozilla: {{blog_link}}
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+Κάντε like στο Firefox στο Facebook: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Ακολουθήστε το Firefox στο Twitter: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+ΣΧΕΤΙΚΑ ΜΕ ΤΗ MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
@@ -141,16 +141,16 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Μάθετε περισσότερα στο {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Πολιτική απορρήτου: {{privacy_link}}
 
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Γρήγορο. Έξυπνο. Δικό σας
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
@@ -175,7 +175,7 @@ Announcing<br>Firefox for iOS<br>Download now!
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Intuitive visual tab design
+Διαισθητικός οπτικός σχεδιασμός καρτελών
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -185,7 +185,7 @@ Quickly find and manage<br>your open browser tabs
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Intelligent searches
+Ευφυείς αναζητήσεις
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
@@ -195,7 +195,7 @@ Get accurate, predictive results <br>before you finish typing
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-Seamless browsing <br>with Sync
+Απρόσκοπτη περιήγηση <br>με το Sync
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -205,7 +205,7 @@ Instantly access your bookmarks, <br>history, open tabs and passwords <br>everyw
 
 # Screenshot text, displayed as a bold title
 ;Private Browsing
-Private Browsing
+Ιδιωτική περιήγηση
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -225,6 +225,6 @@ internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,inco
 
 # String displayed for minor updates of Firefox
 ;This update contains stability improvements and bug fixes.
-This update contains stability improvements and bug fixes.
+Αυτή η ενημέρωση περιέχει βελτιώσεις σταθερότητας και διορθώσεις σφαλμάτων.
 
 
