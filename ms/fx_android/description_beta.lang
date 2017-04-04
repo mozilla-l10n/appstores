@@ -4,13 +4,13 @@
 
 # Title of the App on Google Play. There is a 30 characters max length.
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox untuk Android Beta
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Dapatkan pelayar Firefox Beta rasmi percuma dan berikan maklum balas!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
@@ -26,11 +26,11 @@ We need your help testing Intel x86 Atom based devices! If you have an Intel x86
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Jumpa pepijat? Laporkan di {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Mahu ketahui lebih lanjut mengenai izin permintaan Firefox? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
@@ -39,7 +39,7 @@ See our list of supported devices and latest minimum system requirements at http
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+ABOUT MOZILLA {ok}
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
@@ -51,10 +51,10 @@ We're a global community of users, contributors and developers working to innova
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+Bila anda guna Firefox, anda menjadi sebahagian komuniti itu, membantu kami membina masa depan yang cerah untuk Web.
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+Ketahui lanjut di {{mozilla_org_link}}.
 
 
