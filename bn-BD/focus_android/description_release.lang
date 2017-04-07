@@ -17,7 +17,7 @@ Firefox Focus: ব্যক্তিগত ব্রাউজার
 # a) Get The Privacy Browser. Fast & always private, from a brand you trust
 # b) Get The Privacy Browser. Fast & always private, from Firefox
 ;Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
-Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+গোপনীয় ব্রাউজার পান। দ্রুত এবং সবসময় Firefox থেকে গোপনীয়, ব্রাউজার যাতে আপনি আস্থা রাখতে পারেন
 
 
 ;Browse like no one’s watching.
@@ -25,11 +25,11 @@ Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
 
 
 ;The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
-The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
+নতুন Firefox Focus যা স্বয়ংক্রিয়ভাবে বেশ কিছু অনলাইন ট্র্যাকারকে ব্লক করে — এটা চালু থেকে বন্ধ করা পর্যন্ত।
 
 
 ;Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
-Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
+সহজেই আপনার ইতিহাস, পাসওয়ার্ড এবং কুকিগুলো মুছে ফেলে, তাই অবাঞ্ছিত বিজ্ঞাপনের মত কিছু আপনাকে অনুসরণ করবে না।
 
 
 ;“Private browsing” on most browsers isn’t comprehensive or easy to use.
@@ -37,7 +37,7 @@ Easily erase your history, passwords and cookies, so you won’t get followed by
 
 
 ;Focus is next-level privacy that’s free, always on and always on your side — because it’s backed by Mozilla, the non-profit that fights for your rights on the Web.
-Focus is next-level privacy that’s free, always on and always on your side — because it’s backed by Mozilla, the non-profit that fights for your rights on the Web.
+Focus হল পরবর্তি পর্যায়ের গোপনীয়তা যা ফ্রি, যা সব সময় চালুঅ থাকবে এবং যা সব সময় আপনার পক্ষে থাকবে — কারণ এটি Mozilla দ্বারা পরিচালিত, যারা অলাভজনক প্রতিষ্ঠান এবং ওয়েবে আপনার অধিকার রক্ষায় লড়াই করে।
 
 
 ;AUTOMATIC PRIVACY
@@ -45,7 +45,7 @@ AUTOMATIC PRIVACY {ok}
 
 
 ;Blocks a wide range of common Web trackers without any settings to set
-Blocks a wide range of common Web trackers without any settings to set
+কোন সেটিং সেট করা ছাড়াই বেশ কিছু সাধারণ ওয়েব ট্র্যাকারদের ব্লক করুন
 
 
 ;Easily erases your history — no passwords, no cookies, no trackers
@@ -57,7 +57,7 @@ BROWSE FASTER {ok}
 
 
 ;By removing trackers and ads, Web pages may require less data and load faster
-By removing trackers and ads, Web pages may require less data and load faster
+ট্র্যাকার এবং বিজ্ঞাপণ অপসারণের ফলে, হয়তো ওয়েব পেজ দ্রুত লোড হবে এবং কম ডাটার প্রয়োজন হবে
 
 
 ;MADE BY MOZILLA
