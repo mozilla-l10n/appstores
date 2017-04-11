@@ -5,7 +5,7 @@
 # Title of the App on Google Play. There is a 30 characters max length.
 # If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
-Firefox դիտարկիչ՝ արագ և գաղտնի
+Firefox դիտարկիչ արագ և գաղտնի
 
 
 ;Firefox Web Browser
@@ -151,7 +151,7 @@ Firefox-ը հիշում է ձեր օգտագործած վերջին հավելվ
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+Հավանեք Firefox-ը Facebook-ում. {{facebook_link}}
 
 
 # Bulleted list item
