@@ -11,7 +11,7 @@
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Το Firefox είναι το ανεξάρτητο, αφοσιωμένο στους χρήστες πρόγραμμα περιήγησης που αναπτύσσεται από τη Mozilla, που ψηφίστηκε ως η Πιο Αξιόπιστη Εταιρεία Διαδικτύου για το Απόρρητο.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
@@ -24,11 +24,11 @@ Firefox is the independent, people-first browser made by Mozilla, voted the Most
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Το Firefox αναπτύσσεται με γνώμονα εσάς και σάς δίνει τη δύναμη να ανακτήσετε τον έλεγχο της διαδικτυακής σας εμπειρίας.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
-That’s why we design the product with smart features that take the guesswork out of browsing.
+Γι’ αυτό σχεδιάζουμε το προϊόν με έξυπνες λειτουργίες που σάς επιτρέπουν να απολαύσετε την περιήγησή σας στο έπακρο.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -70,11 +70,11 @@ Firefox anticipates your needs and intuitively provides multiple suggested and p
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+Με ένα Λογαριασμό Firefox, έχετε πρόσβαση στο ιστορικό, τους σελιδοδείκτες και τις ανοικτές σας καρτέλες από τον υπολογιστή σας στο smartphone και το tablet σας.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
+Το Firefox θυμάται, επίσης, με ασφάλεια τους κωδικούς πρόσβασής σας σε όλες τις συσκευές σας, ώστε να μην χρειάζεται να το κάνετε εσείς.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -87,7 +87,7 @@ Intuitive visual and numbered tabs easily let you find content for future refere
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Open as many tabs as you like without losing track of your open Web pages.
+Ανοίξτε όσες καρτέλες θέλετε χωρίς να χάσετε τον έλεγχο των ανοικτών ιστοσελίδων σας.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -96,7 +96,7 @@ Open as many tabs as you like without losing track of your open Web pages.
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Spend your time reading your favorites sites instead of looking for them.
+Αφιερώστε χρόνο στην ανάγνωση των αγαπημένων σας ιστοσελίδων και όχι στην αναζήτηση για αυτές.
 
 
 ;Learn more about Firefox for iOS:
@@ -104,17 +104,17 @@ Spend your time reading your favorites sites instead of looking for them.
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+Έχετε απορίες ή χρειάζεστε βοήθεια; Επισκεφθείτε το {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+Διαβάστε για τα δικαιώματα του Firefox: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+Μάθετε περισσότερα σχετικά με το τι γίνεται στη Mozilla: {{blog_link}}
 
 
 # Bulleted list item
@@ -165,7 +165,7 @@ Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox user
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Αναβαθμίστε στο Firefox και γίνετε μέλος<br>μιας ομάδας εκατοντάδων εκατομμυρίων χρηστών
 
 
 # Adjust line break tag position (<br>) for your language
