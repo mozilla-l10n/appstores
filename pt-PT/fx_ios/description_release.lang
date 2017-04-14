@@ -220,7 +220,7 @@ internet,safari,chrome,opera,explorer,pesquisar,adblock,flash,navegador,navegaç
 
 # Copyright notice on the page
 ;© Mozilla and its contributors {{year}}
-©{{year}} Mozilla e seus colaboradores
+© Mozilla e os seus contribuidores {{year}}
 
 
 # String displayed for minor updates of Firefox
