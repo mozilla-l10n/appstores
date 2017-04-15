@@ -11,6 +11,6 @@ Segurança melhorada com a palavra-chave de cookie “secure” (especificação
 
 
 ;Removed Battery Status API to reduce fingerprinting of users by trackers
-API do estado da nateria removida para reduzir a impressão digital dos utilizadores pelos trackers
+API do estado da bateria removida para reduzir a impressão digital dos utilizadores pelos trackers
 
 
