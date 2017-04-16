@@ -5,7 +5,7 @@
 # Title of the App on Google Play. There is a 30 characters max length.
 # If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
-Firefox Browser fast & private
+Pelayar Firefox pantas & peribadi
 
 
 ;Firefox Web Browser
@@ -32,7 +32,7 @@ Upgrade today and join hundreds of millions who depend on Firefox for a more per
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+FAST. SMART. YOURS. {ok}
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
@@ -45,7 +45,7 @@ That’s why we design the product with smart features that take the guesswork o
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+SEARCH INTELLIGENTLY & GET THERE FASTER {ok}
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
@@ -71,7 +71,7 @@ Private Browsing with Tracking Protection blocks parts of Web pages that may tra
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+SYNC FIREFOX ACROSS YOUR DEVICES {ok}
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
@@ -84,7 +84,7 @@ Firefox also safely remembers your passwords across devices so you don’t have 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE VISUAL TABS
-INTUITIVE VISUAL TABS
+INTUITIVE VISUAL TABS {ok}
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
@@ -97,7 +97,7 @@ Open as many tabs as you like without losing track of your open Web pages.
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+EASY ACCESS TO YOUR TOP SITES {ok}
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
@@ -115,7 +115,7 @@ Take control of your Web experience by personalizing Firefox with add-ons like a
 
 # Slogan in uppercase, displayed as a category title
 ;QUICK SHARE
-QUICK SHARE
+QUICK SHARE {ok}
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
@@ -124,7 +124,7 @@ Firefox remembers your most recently used apps to help you easily share content 
 
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
-TAKE IT TO THE BIG SCREEN
+TAKE IT TO THE BIG SCREEN {ok}
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
@@ -156,7 +156,7 @@ Like Firefox di Facebook: {{facebook_link}}
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Ikuti Firefox di Twitter: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
@@ -182,7 +182,7 @@ Polisi Privasi: {{privacy_link}}
 
 # Title of screenshot
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Pantas. Pintar. Milik Anda
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
@@ -212,7 +212,7 @@ Quickly find and manage<br>your open browser tabs
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Intelligent searches
+Carian pintar
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
@@ -262,7 +262,7 @@ Firefox remembers your recently <br>used apps to help you get the <br>word out t
 
 # Title of screenshot
 ;Send to device
-Send to device
+Hantar ke peranti
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
