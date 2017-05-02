@@ -5,7 +5,7 @@
 # Title of the App on Google Play. There is a 30 characters max length.
 # If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
-Firefox դիտարկիչ արագ և գաղտնի
+Firefox դիտարկիչ՝ արագ և գաղտնի
 
 
 ;Firefox Web Browser
@@ -15,24 +15,24 @@ Firefox վեբ դիտարկիչ
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the customizable, private & free mobile browser that syncs across devices.
-Ստացեք կազմաձևելի, անձնական և անվճար բջջային դիտարկիչ, որը ունի սինք:
+Ստացեք կազմաձևելի, անձնական և անվճար բջջային դիտարկիչ, որը ունի համաժամեցում՝ ձեր բոլոր սարքերի միջև:
 
 
 ;Experience a fast, smart and personal Web.
-Փորձեք արագ, խելացի և անձնական վեբ:
+Փորձարկեք արագ, խելացի և անձնական վեբը:
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox-ը անկախ, դեպի մարդը ուղղված դիտարկիչ է Mozilla-ի կողմից՝ քվեարկված Most Trusted Internet Company-ի կողմից գաղտնիության համար:
+Firefox-ը անկախ, դեպի մարդը ուղղված դիտարկիչ է Mozilla-ի կողմից՝ քվեարկված Most Trusted Internet Company-ի կողմից որպես գաղտնի:
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-UpgradeԱրդիացրեք հիմա և միացեք հարյուրավոր միլիոն մարդկանց, ովքեր վստահում են Firefox-ին՝ որպես առավել անձնական դիտարկիչի:
+Արդիացրեք հիմա և միացեք միլիոնավոր մարդկանց, ովքեր վստահում են Firefox-ին՝ որպես առավել անձնական դիտարկիչի:
 
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-ԱՐԱԳ: ԽԵԼԱՑԻ: ՁԵՐՆ Է:
+ԱՐԱԳ: ԽԵԼԱՑԻ: ՁԵՐԸ:
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
@@ -71,7 +71,7 @@ Firefox-ը կանխագուշակում է ձեր կարիքները և ինտո
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-ՍԻՆՔ՝ FIREFOX-Ի ԲՈԼՈՐ ՍԱՐՔԵՐԻ ՄԻՋԵՎ
+ՀԱՄԱԺԱՄԵՑՈՒՄ՝ FIREFOX-Ի ԲՈԼՈՐ ՍԱՐՔԵՐԻ ՄԻՋԵՎ
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
@@ -165,7 +165,7 @@ MOZILLA-Ի ՄԱՍԻՆ
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla-ի նպատակն է կառուցել համացանց՝ հասանելի բոլորի համար, քանի որ մենք հավատում ենք բաց և անվճար վեբը ավելի լավ է, քան փակ և կառավարվող:
+Mozilla-ի նպատակն է կառուցել համացանց՝ հասանելի բոլորի համար, քանի որ մենք հավատում ենք՝ բաց և անվճար վեբը ավելի լավ է, քան փակ և կառավարվող:
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
