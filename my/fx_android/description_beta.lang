@@ -26,7 +26,7 @@ We need your help testing Intel x86 Atom based devices! If you have an Intel x86
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+အမှားတွေ့မိပါသလား။ {{android_bugs}} တွင် အသိပေးနိုင်ပါသည်။
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
@@ -39,7 +39,7 @@ See our list of supported devices and latest minimum system requirements at http
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+MOZILLA အကြောင်း
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
@@ -55,6 +55,6 @@ When you use Firefox, you become a part of that community, helping us build a br
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+{{mozilla_org_link}} တွင် ပိုမိုလေ့လာနိုင်ပါသည်။
 
 
