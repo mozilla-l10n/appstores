@@ -45,7 +45,7 @@ That’s why we design the product with smart features that take the guesswork o
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+အလိုအလျောက်နားလည်နိုင်စွမ်းရှိပြီး မြန်ဆန်သော ရှာဖွေမှု
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
@@ -58,11 +58,11 @@ Easily access shortcuts to search providers including Wikipedia, Twitter and Ama
 
 # Slogan in uppercase, displayed as a category title
 ;NEXT LEVEL PRIVACY
-NEXT LEVEL PRIVACY
+ကိုယ်ရေးကာကွယ်မှုနောက်တစ်ဆင့်
 
 
 ;Your privacy has been upgraded.
-Your privacy has been upgraded.
+ကိုယ်ရေးကာကွယ်မှုကို အဆင့်မြှင့်တင်ထားသည်။
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
@@ -84,7 +84,7 @@ Firefox also safely remembers your passwords across devices so you don’t have 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE VISUAL TABS
-INTUITIVE VISUAL TABS
+ဆန်းသစ်သော အသွင်အပြင်များနှင့် တပ်ဗ်များ
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
@@ -97,7 +97,7 @@ Open as many tabs as you like without losing track of your open Web pages.
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+အသုံးပြုနေကျ ဝဘ်ဆိုက်များအတွက် လွယ်ကူအသုံးချနိုင်မှု
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
@@ -106,7 +106,7 @@ Spend your time reading your favorites sites instead of looking for them.
 
 # Slogan in uppercase, displayed as a category title
 ;ADD-ONS FOR EVERYTHING
-ADD-ONS FOR EVERYTHING
+အရာအားလုံးအတွက် အတ်အွန်
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
@@ -115,7 +115,7 @@ Take control of your Web experience by personalizing Firefox with add-ons like a
 
 # Slogan in uppercase, displayed as a category title
 ;QUICK SHARE
-QUICK SHARE
+ပိုမိုမြန်ဆန်သော မျှဝေမှု
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
@@ -161,7 +161,7 @@ Follow Firefox on Twitter: {{twitter_link}}
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+MOZILLA အကြောင်း
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
@@ -173,16 +173,16 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+{{mozilla_org_link}} တွင် ပိုမိုလေ့လာနိုင်ပါသည်
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+ကိုယ်ရေးကာကွယ်မှု မူဝါဒ {{privacy_link}}
 
 
 # Title of screenshot
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+လျင်မြန်၊ ထက်မြက်၊ သင့်အတွက်။
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
@@ -252,7 +252,7 @@ Personalize your Web browser with <br>add-ons like ad blockers, password <br>and
 
 # Title of screenshot
 ;Quick Share
-Quick Share
+မြန်ဆန်သော မျှဝေမှု
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -262,7 +262,7 @@ Firefox remembers your recently <br>used apps to help you get the <br>word out t
 
 # Title of screenshot
 ;Send to device
-Send to device
+ကိရိယာသို့ ပို့ရန်
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
