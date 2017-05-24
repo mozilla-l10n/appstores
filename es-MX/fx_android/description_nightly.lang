@@ -32,7 +32,7 @@ Descarga aquí la versión de lanzamiento de Firefox: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly está diseñado para mostrar los versiones más experimentales de Firefox. El canal Nightly les permite a los usuarios experimentar con las últimas innovaciones de Firefox en un entorno inestable y enviar retroalimentación sobre las funciones y el rendimiento para ayudarnos a determinar cuáles de estas se incluirán en la versión final.
+Firefox Nightly está diseñado para mostrar las versiones más experimentales de Firefox. El canal Nightly les permite a los usuarios experimentar con las últimas innovaciones de Firefox en un entorno inestable, y enviar retroalimentación sobre las funciones y el rendimiento para ayudarnos a determinar cuáles de estas se incluirán en la versión final.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
