@@ -32,17 +32,17 @@ Baixeu la versió del Firefox per al públic general aquí: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+El Firefox Nightly està dissenyat per mostrar les versions més experimentals del Firefox. El canal Nightly permet als usuaris experimentar les darreres innovacions del Firefox en un entorn inestable i enviar comentaris sobre les característiques i el rendiment per ajudar a determinar quines s'inclouran en la versió final.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Heu trobat un error? Notifiqueu-lo a {{bug_link}}
+Heu trobat un error? Feu-nos-ho saber a {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+El Firefox Nightly envia informació de forma automàtica a Mozilla: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
@@ -57,6 +57,6 @@ Vegeu la llista de dispositius compatibles i els requisits mínims del sistema a
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Màrqueting de Mozilla: Per entendre el rendiment d'algunes campanyes de màrqueting, el Firefox envia dades a un proveïdor nostre (un tercer). Aquestes dades inclouen un ID de publicitat de Google, adreça IP, marca horària, país, llengua/configuració regional, sistema operatiu, versió de l'aplicació. Per obtenir més informació, vegeu el nostre Avís de privadesa aquí: {{privacy_link}}
 
 
