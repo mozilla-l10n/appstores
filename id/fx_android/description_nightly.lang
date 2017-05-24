@@ -8,13 +8,13 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+Firefox Nightly (Pengembang)
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+Untuk Pengembang - Jadilah yang pertama menguji rilis masa depan Firefox
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
@@ -23,12 +23,12 @@ Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Perlu diketahui bahwa Firefox Aurora tidak lagi tersedia dan telah dialihkan ke Firefox Nightly. Detailnya di sini: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Unduh versi rilis Firefox di sini: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
@@ -42,7 +42,7 @@ Found a bug? Report it at {{bug_link}}
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly secara otomatis mengirimkan umpan balik ke Mozilla: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
