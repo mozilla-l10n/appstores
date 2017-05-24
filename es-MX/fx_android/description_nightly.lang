@@ -47,12 +47,12 @@ Firefox Nightly envía retroalimentación de manera automática a Mozilla: {{tel
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+¿Quieres más información sobre el tipo de permisos que Firefox pide? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Échale un ojo a la lista de dispositivos compatibles y los últimos requisitos mínimo del sistema en {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
