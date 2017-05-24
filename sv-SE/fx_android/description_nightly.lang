@@ -18,45 +18,45 @@ För utvecklare - bli först med att testa nya versioner av Firefox
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox Nightly är en utvecklingskanal för nya versioner av Mozilla Firefox.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Observera att Firefox Aurora inte längre är tillgänglig och har övergått till Firefox Nightly. Mer detaljer här: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Ladda ner versionen av Firefox här: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly är utformad för att visa upp de mer experimentella byggena av Firefox. Kanalen Nightly tillåter användare att uppleva de nyaste Firefox-innovationerna i en instabil miljö och ger återkoppling om funktioner och prestanda för att bestämma vad som kommer med i den slutliga versionen.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+Hittat en bugg? Rapportera den på {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly skickar automatiskt återkoppling till Mozilla: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Vill du veta mer om vilka behörigheter Firefox begär? {{permission_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Se vår lista över enheter som stöds och de senaste lägsta systemkraven på {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Mozilla marknadsföring: För att förstå prestanda för vissa Mozilla marknadsföringskampanjer, skickar Firefox data, inklusive ett Google reklam-ID, IP-adress, tidsstämpel, land, språk, operativsystem, appversion, till vår tredjepartsleverantör. Läs mer genom att läsa vår sekretesspolicy här: {{privacy_link}}
 
 
