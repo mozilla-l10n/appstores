@@ -8,36 +8,36 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+Firefox Nightly
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+Para desenvolvedores - Seja o primeiro a testar futuras versões do Firefox
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+O Firefox Nightly é um canal de desenvolvimento para novas versões do Mozilla Firefox.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Observe que o Firefox Aurora não está mais disponível e fez a transição para o Firefox Nightly. Mais detalhes aqui: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Baixe a versão de lançamento do Firefox aqui: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+O Firefox Nightly é projetado para mostrar as compilações mais experimentais do Firefox. O canal Nightly permite aos usuários experimentar as inovações mais recentes do Firefox em um ambiente instável e fornecer feedback sobre funcionalidades e desempenho para ajudar a determinar o que chega a versão final.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+Encontrou um bug? Reporte-o em {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
