@@ -146,7 +146,7 @@ Informació sobre els permisos del Firefox: {{permission_link}}
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Més informació sobre el què passa a Mozilla: {{blog_link}}
+Més informació sobre què passa a Mozilla: {{blog_link}}
 
 
 # Bulleted list item
@@ -202,7 +202,7 @@ Actualitzeuvos al Firefox i uniu-vos<br>a centenars de milions d'usuaris del Fir
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Diseny visual intuïtiu de pestanyes
+Disseny visual i intuïtiu de pestanyes
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -257,7 +257,7 @@ Compartició ràpida
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
-El Firefox recorda les aplicacions<br>que utilitzau sovint per <br> ajudar-vos a compartir
+El Firefox recorda les aplicacions<br>que utilitzeu sovint per <br> ajudar-vos a compartir
 
 
 # Title of screenshot
