@@ -18,17 +18,17 @@ Pre vývojárov - testujte budúce verzie Firefoxu
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox Nightly je vývojový kanál pre nové vydania Firefoxu.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Firefox Aurora už naďalej nie je dostupný a jeho používatelia boli presunutý na Firefox Nightly. Viac informácií nájdete tu: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Prevezmite si stabilnú verziu Firefoxu tu: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
@@ -37,12 +37,12 @@ Firefox Nightly is designed to showcase the more experimental builds of Firefox.
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+Našli ste chybu? Nahláste ju na {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly automaticky odosiela spätnú väzbu Mozille: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
@@ -52,11 +52,11 @@ Want to know more about the permissions Firefox requests? {{permissions_link}}
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Pozrite si zoznam podporovaných zariadení a najnovšie minimálne systémové požiadavky na {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Mozilla marketing: Firefox odosiela údaje tretím stranám za účelom pochopenia konkrétnych marketingových kampaní Mozilly. Tieto údaje zahŕňajú reklamný identifikátor Googlu, IP adresu, časovú známku, krajinu, jazyk, operačný systém a verziu aplikácie. Viac informácií sa dozviete v našich zásadách ochrany osobných údajov tu: {{privacy_link}}
 
 
