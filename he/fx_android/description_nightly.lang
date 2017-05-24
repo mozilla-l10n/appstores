@@ -8,55 +8,55 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+Firefox Nightly for Developers {ok}
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+מיועד למפתחים – היו הראשונים לבחון את הגרסאות העתידיות של Firefox
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+‏Firefox Nightly הוא ערוץ הפיתוח לגרסאות חדשות של Firefox.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+‏Firefox Aurora לא זמין עוד והוחלף עם Firefox Nightly. מידע נוסף כאן: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+הורידו את הגרסאות הסופיות של Firefox כאן: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+‏Firefox Nightly נוצר כדי להציג את התכונות הניסיוניות של Firefox. ערוץ Nightly מאפשר למשתמשים לחוות את החידושים האחרונים ב‏־Firefox בסביבה לא יציבה ולספק משוב על תכונות וביצועים כדי לעזור לקבוע כיצד תראה המהדורה הסופית.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+מצאתם באג? בבקשה דווחו עליו בכתובת {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+‏Firefox Nightly שולח אל Mozilla משוב באופן אוטומטי: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+מעוניינים לדעת עוד על ההרשאות הנדרשות ל־Firefox?‏ {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+רשימת ההתקנים הנתמכים ודרישות המינימום זמינים בכתובת {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+כדי להבין טוב יותר את הביצועים של קמפיינים שיווקיים, Firefox שולח נתונים, לרבות מזהה הפרסום של Google, כתובת ה־IP, חותמת זמן, מדינה, שפה/אזור, מערככת ההפעלה וגרסת היישום אל ספק צד שלישי שלנו. מידע נוסף זמין בהצהרת הפרטיות שלנו בכתובת {{privacy_link}}
 
 
