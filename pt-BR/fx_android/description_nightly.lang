@@ -42,21 +42,21 @@ Encontrou um bug? Reporte-o em {{bug_link}}
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+O Firefox Nightly envia automaticamente feedback para a Mozilla: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Quer saber mais sobre as permissões que o Firefox solicita? {{Permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Consulte nossa lista de dispositivos compatíveis e os requisitos mínimos de sistema mais recentes em {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Marketing Mozilla: para entender o desempenho de certas campanhas de marketing da Mozilla, o Firefox envia dados, incluindo um ID de publicidade do Google, endereço IP, marcas temporais, país, idioma/localidade, sistema operacional e versão do aplicativo para os nossos parceiros. Saiba mais lendo nossa nota de privacidade aqui: {{privacy_link}}
 
 
