@@ -28,7 +28,7 @@ Firefox Nightly for Developers {ok}
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-הורידו את הגרסאות הסופיות של Firefox כאן: {{download_link}}
+הורידו את הגרסאות הרשמיות של Firefox כאן: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
@@ -57,6 +57,6 @@ Firefox Nightly for Developers {ok}
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-כדי להבין טוב יותר את הביצועים של קמפיינים שיווקיים, Firefox שולח נתונים, לרבות מזהה הפרסום של Google, כתובת ה־IP, חותמת זמן, מדינה, שפה/אזור, מערככת ההפעלה וגרסת היישום אל ספק צד שלישי שלנו. מידע נוסף זמין בהצהרת הפרטיות שלנו בכתובת {{privacy_link}}
+מחלקת השיווק של Mozilla: כדי להבין טוב יותר את הביצועים של קמפיינים שיווקיים, Firefox שולח נתונים, לרבות מזהה הפרסום של Google, כתובת ה־IP, חותמת זמן, מדינה, שפה/אזור, מערכת ההפעלה וגרסת היישום אל ספק צד שלישי שלנו. מידע נוסף זמין בהצהרת הפרטיות שלנו בכתובת {{privacy_link}}
 
 
