@@ -8,22 +8,22 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+Firefox Nightly para Devs
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+Para Desarrolladores - Se el primero en probar futuras versiones de Firefox
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox Nightly es un canal de desarrollo de nuevas versiones de Mozilla Firefox.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Ten en cuenta que Firefox Aurora ya no está disponible y ha transicionado a Firefox Nightly. Más detalles aquí: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
