@@ -32,7 +32,7 @@ Prevezmite si stabilnú verziu Firefoxu tu: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly je navrhnutý tak, aby vám predviedol experimentálne zostavenia Firefoxu. Kanál Nightly umožňuje používateľom vyskúšať si najnovšie inovácie vo Firefoxe v nestabilnom prostredí a poskytnúť spätnú väzbu na funkcie a výkon. Na základe spätnej väzby sa rozhodujeme, ktoré funkcie budú dostupné vo finálnej verzii prehliadača.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -47,7 +47,7 @@ Firefox Nightly automaticky odosiela spätnú väzbu Mozille: {{telemetry_link}}
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Chcete sa dozvedieť viac o povoleniach, ktoré Firefox požaduje? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
