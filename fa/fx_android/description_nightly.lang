@@ -8,7 +8,7 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+فایرفاکس نایتلیِ توسعه‌دهندگان
 
 
 # This is the short tagline for the app on Google Play.
@@ -32,7 +32,7 @@ Firefox Nightly for Developers
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+فایرفاکس Nightly برای بیشتر به نمایش گذاشتن خروجی‌های آزمایشی طراحی شد. کانال Nightly امکان می‌دهد کاربران، تازه‌ترین نوآوری‌های فایرفاکس را در یک محیط ناپایدار تجربه کنند و همین‌طور در مورد ویژگی‌ها و کارایی بازخورد ارائه می‌دهد تا به تصمیم گیری برای این‌که چه چیزی انتشار نهایی را بسازد کمک کند.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
