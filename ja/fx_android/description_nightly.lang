@@ -23,40 +23,40 @@ Firefox Nightly は Mozilla Firefox の新バージョンのための開発用�
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+なお、Firefox Aurora は公開中止となり Firefox Nightly へ移行しました。詳細はこちら: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+通常版 Firefox のダウンロードはこちらから: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly は Firefox のより実験的なビルドを紹介することを目的としたものです。Nightly チャンネルでは、ユーザーが不安定な環境で Firefox の最新の革新を体験し、機能やパフォーマンスに関するフィードバックを提供することで、最終版をどのような形で送り出すかの決定に協力できます。
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+バグを見つけましたか？ {{bug_link}} に報告してください
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly は Mozilla へ自動的にフィードバックを送信します: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Firefox が要求する許可設定についてより詳しく知りたいですか？ {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+対応端末一覧や最新の最低システム要件は {{requirements_link}} をご覧ください
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Mozilla マーケティング: Mozilla が実施する特定のマーケティングキャンペーンの成果を把握するため、Firefox は Google 広告 ID、IP アドレス、タイムスタンプ、国、言語・ロケール、OS、アプリのバージョンを含むデータをサードパーティーベンダーへ送信します。詳しくはプライバシー告知をご覧ください: {{privacy_link}}
 
 
