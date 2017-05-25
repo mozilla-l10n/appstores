@@ -32,7 +32,7 @@ Prenesite končno različico Firefoxa tukaj: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly je poskusna različica Firefoxa. Kanal Nightly uporabnikom omogoča, da preizkusijo najnovejše Firefoxove inovacije v nezanesljivem okolju, nam posredujejo povratne informacije o funkcijah in delovanju ter tako pomagajo odločiti, kaj naj napreduje v končno različico.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -57,6 +57,6 @@ Preverite seznam podprtih naprav in najnovejših minimalnih sistemskih zahtev na
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Mozillino trženje: da bi razumeli učinkovitost posameznih Mozillinih trženjskih kampanj, Firefox pošilja podatke, vključno z Googlovim oglaševalskim ID-jem, IP-naslovom, časom, državo, jezikom, operacijskim sistemom in različico aplikacije našemu ponudniku. Več o tem izveste v našem obvestilu o zasebnosti: {{privacy_link}}
 
 
