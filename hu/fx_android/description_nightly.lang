@@ -8,55 +8,55 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+Firefox Nightly, fejlesztőknek
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+Fejlesztőknek – Legyen az elsők közt, akik a Firefox jövőbeli kiadását tesztelik
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+A Firefox Nightly az új Mozilla Firefox kiadások fejlesztői csatornája.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Vegye figyelembe, hogy a Firefox Aurora már nem érhető el, beleolvadt a Firefox Nightlyba. További részletek itt: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Töltse le a Firefox legfrissebb kiadását, itt: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+A Firefox Nightlyt arra tervezték, hogy a Firefox kísérletibb összeállításait mutassa be. A Nightly csatorna lehetővé teszi a felhasználóknak, hogy megtapasztalják a legújabb Firefox innovációkat, nem stabil környezetben, és visszajelzést adjanak a funkciókról és a teljesítményről, és így segítsenek eldönteni, hogy mi kerül bele a végleges kiadásba.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+Hibát talált? Jelentse be itt: {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+A Firefox Nightly automatikus visszajelzést küld a Mozillának: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Szeretne többet megtudni a Firefox engedélykéréseiről? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Nézze meg a támogatott eszközöket, és a minimális rendszerkövetelményeket, itt: {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Mozilla marketing: Hogy megértsük az egyes Mozilla marketingkampányok teljesítményét, a Firefox adatokat küld a harmadik felű partnerünknek. Ezek: Google hirdetésazonosító, IP-cím, időbélyeg, ország, nyelv/területi beállítás, operációs rendszer és alkalmazásverzió. Tudjon meg többet az Adatvédelmi nyilatkozatból: {{privacy_link}}
 
 
