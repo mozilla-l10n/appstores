@@ -37,26 +37,26 @@ Firefox Nightly is designed to showcase the more experimental builds of Firefox.
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+باگی پیدا کرده‌اید؟ در {{bug_link}} گزارش کنید
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+فایرفاکس نایتلی به طور خودکار برای موزیلا بازخورد ارسال می‌کند: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+می‌خواهید در مورد دسترسی‌هایی که فایرفاکس درخواست می‌کند بیشتر بدانید؟ {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+لیست دستگاه‌هایی که توسط ما پشتیبانی می‌شوند و آخرین حداقل نیاز‌های سیستم را در {{requirements_link}} ببینید
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+بازاریابی موزیلا: برای درک عملکرد برخی از کمپین‌های بازاریابی موزیلا، فایرفاکس اطلاعاتی شامل یک شناسه تبلیغاتی گوگل، نشانی IP، برچسب زمان، کشور، زبان/locale، سیستم عامل و نسخه برنامه را برای فروشنده شخص ثالث ما ارسال می‌کند. با مطالعه اعلامیه حقوق خصوصی ما در اینجا: {{privacy_link}} بیشتر بدانید
 
 
