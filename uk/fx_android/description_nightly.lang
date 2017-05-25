@@ -37,7 +37,7 @@ Firefox Nightly створено для демонстрації більш ек
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Знаходьте помилки? Повідомляйте про них {{bug_link}}
+Знайшли помилку? Повідомте про це {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
