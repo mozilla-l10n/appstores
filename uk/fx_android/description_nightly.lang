@@ -23,40 +23,40 @@ Firefox Nightly - це канал розробки для нових випус�
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Зверніть увагу, що випуски Firefox Aurora більше недоступні. Тепер це Firefox Nightly. Докладніше про це тут: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Завантажте фінальну версію Firefox тут: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly створено для демонстрації більш експериментальних версій Firefox. Канал Nightly дозволяє користувачам випробовувати найновіші можливості Firefox в нестабільному середовищі, а також надавати відгуки й пропозиції щодо роботи й швидкодії, щоб допомогти приймати рішення, які інновації та вдосконалення будуть впроваджені в майбутні фінальні випуски.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+Знаходьте помилки? Повідомляйте про них {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly автоматично надсилає дані в Mozilla: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Хочете дізнатися більше про запити дозволів Firefox? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Перегляньте наш список підтримуваних пристроїв та мінімальні вимоги до системи {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Mozilla маркетинг: З метою розуміння впливу певних маркетингових кампаній Mozilla, Firefox надсилає сторонній організації такі дані, як рекламний ідентифікатор Google, IP-адреса, відбиток часу, країна, мова/локаль, операційна система, версія програми. Дізнайтеся більше, ознайомившись з нашим повідомленням про приватність: {{privacy_link}}
 
 
