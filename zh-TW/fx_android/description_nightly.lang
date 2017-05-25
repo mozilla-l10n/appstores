@@ -23,7 +23,7 @@ Firefox Nightly 是新版 Mozilla Firefox 仍在開發時所使用的開發版�
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+請注意 Firefox Aurora 已停止更新，並將轉型為 Firefox Nightly。若需更多資訊請參考: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
@@ -32,7 +32,7 @@ Please note that Firefox Aurora is no longer available and has transitioned to F
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly 是設計來展示仍在實驗開發中的功能的 Firefox 版本。使用者將可在 Nightly 頻道的不穩定環境中，搶先體驗最新的創新功能，並提供關於功能內容與效能資訊的意見回饋，幫助我們決定要把那些東西放到正式發行版中。
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -52,11 +52,11 @@ Firefox Nightly 會自動傳送某些資料回 Mozilla: {{telemetry_link}}
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+請到 {{requirements_link}} 了解支援的裝置清單，以及最低系統需求。
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Mozilla 行銷資訊: 為了瞭解某些 Mozilla 行銷活動的成效，Firefox 會將使用者的 Google 廣告 ID、IP 地址、時間戳記、國家、語言/語系、作業系統、應用程式版本發送給我們的第三方服務供應商。您可在下列網址閱讀我們的隱私權公告，以瞭解更多資訊: {{privacy_link}}
 
 
