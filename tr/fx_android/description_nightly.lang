@@ -8,55 +8,55 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+Firefox Nightly (Geliştirici)
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+Geliştiriciler için: Firefox’un gelecek sürümlerini ilk deneyen siz olun
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox Nightly, yeni Mozilla Firefox sürümlerinin yayımlandığı bir geliştirici kanalıdır.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Hatırlatma: Firefox Aurora artık mevcut değildir ve onun yerini Firefox Nightly almıştır. Ayrıntılı bilgi için: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Firefox’un normal sürümünü buradan indirebilirsiniz: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly, Firefox’un daha deneysel sürümlerini sergilemek amacıyla tasarlandı. Nightly kanalı, en yeni Firefox özelliklerini stabil olmayan bir ortamda denemenize, özellikler ve performansla ilgili geri bildirimlerde bulunmanıza olanak tanıyor. Böylece neleri final sürüme aktaracağımızı belirlememize yardımcı oluyorsunuz.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+Hata mı buldunuz? {{bug_link}} adresinden rapor edin
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly otomatik olarak Mozilla’ya geri bildirim gönderir: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Firefox’un istediği izinler hakkında daha fazla bilgi almak mı istiyorsunuz? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Desteklenen cihazları ve en düşük sistem gereksinimlerini {{requirements_link}} adresinde görebilirsiniz
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Pazarlama bilgileri: Bazı Mozilla pazarlama kampanyalarının performansını ölçmek amacıyla Firefox; işbirliği yaptığımız bir sağlayıcıya Google reklam kimliği, IP adresi, saat, ülke, dil, işletim sistemi, uygulama sürümü gibi verileri gönderir. Daha fazla bilgi için Gizlilik Bildirimimizi okuyabilirsiniz: {{privacy_link}}
 
 
