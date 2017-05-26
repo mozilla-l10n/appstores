@@ -57,6 +57,6 @@ Lista obsługiwanych urządzeń i aktualne minimalne wymagania systemowe: {{req
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Marketing Mozilli: Firefox wysyła dane do firmy trzeciej, takie jak identyfikator reklamowy Google, adres IP, czas, kraj, język/lokalizacja, system operacyjny i wersja aplikacji, w celu lepszego określenia wyników kampanii marketingowych Mozilli. Więcej informacji znajduje się w zasadach ochrony prywatności: {{privacy_link}}
 
 
