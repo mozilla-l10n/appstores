@@ -8,7 +8,7 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-فایرفاکس نایتلیِ توسعه‌دهندگان
+فایرفاکس Nightly توسعه‌دهندگان
 
 
 # This is the short tagline for the app on Google Play.
@@ -42,7 +42,7 @@
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-فایرفاکس نایتلی به طور خودکار برای موزیلا بازخورد ارسال می‌کند: {{telemetry_link}}
+فایرفاکس Nightly به طور خودکار برای موزیلا بازخورد ارسال می‌کند: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
