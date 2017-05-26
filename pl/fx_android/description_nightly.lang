@@ -42,17 +42,17 @@ Wystąpił błąd? Zgłoś go pod adresem {{bug_link}} (w języku angielskim)
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly automatycznie wysyła pewne dane do Mozilli: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Więcej informacji o uprawnieniach wymaganych przez Firefoksa: {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Lista obsługiwanych urządzeń i aktualne minimalne wymagania systemowe: {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
