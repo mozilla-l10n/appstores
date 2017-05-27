@@ -32,7 +32,7 @@
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-فایرفاکس Nightly برای بیشتر به نمایش گذاشتن خروجی‌های آزمایشی طراحی شد. کانال Nightly امکان می‌دهد کاربران، تازه‌ترین نوآوری‌های فایرفاکس را در یک محیط ناپایدار تجربه کنند و همین‌طور در مورد ویژگی‌ها و کارایی بازخورد ارائه می‌دهد تا به تصمیم گیری برای این‌که چه چیزی انتشار نهایی را بسازد کمک کند.
+فایرفاکس Nightly برای نمایشِ خروجی‌هایِ آزمایشی فایرفاکس طراحی شده. کانال Nightly به کاربران امکان می‌دهد تا تازه‌ترین نوآوری‌های فایرفاکس را در یک محیط ناپایدار تجربه کنند و در خصوص امکانات و کاراییِ برنامه بازخورد ارسال کنند تا در تصمیم‌گیری برای اینکه چه چیزی به انتشار نهایی اضافه خواهد شد کمک کنند.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -52,11 +52,11 @@
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-لیست دستگاه‌هایی که توسط ما پشتیبانی می‌شوند و آخرین حداقل نیاز‌های سیستم را در {{requirements_link}} ببینید
+فهرست دستگاه‌هایی که توسط ما پشتیبانی می‌شوند و حداقل نیازهای سیستم را در {{requirements_link}} ببینید
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-بازاریابی موزیلا: برای درک عملکرد برخی از کمپین‌های بازاریابی موزیلا، فایرفاکس اطلاعاتی شامل یک شناسه تبلیغاتی گوگل، نشانی IP، برچسب زمان، کشور، زبان/locale، سیستم عامل و نسخه برنامه را برای فروشنده شخص ثالث ما ارسال می‌کند. با مطالعه اعلامیه حقوق خصوصی ما در اینجا: {{privacy_link}} بیشتر بدانید
+بازاریابی موزیلا: برای درکِ بهترِ عملکردِ برخی از کمپین‌های بازاریابی موزیلا، فایرفاکس اطلاعاتی شامل یک شناسه تبلیغاتی گوگل، نشانی IP، برچسب زمان، کشور، زبان/محل، سیستم عامل و نسخهٔ برنامه را برای فروشنده شخص ثالث ما ارسال می‌کند. اطلاعات بیشتر در نکات حریم‌خصوصی: {{privacy_link}}
 
 
