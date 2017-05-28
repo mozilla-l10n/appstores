@@ -8,31 +8,31 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+Firefox Nightly (sviluppatori)
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+Dedicato agli sviluppatori - Prova in anteprima le prossime versioni di Firefox
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox Nightly è il canale di sviluppo per le nuove versioni di Mozilla Firefox.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Firefox Aurora non è più disponibile ed è stato sostituito da Firefox Nightly. Per ulteriori informazioni: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Scarica la versione ufficiale (release) di Firefox: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly è realizzato per consentire agli utenti di sperimentare tutte le novità di Firefox in un ambiente meno stabile, fornire la propria opinione sulle funzionalità e prestazioni per aiutarci a stabilire che cosa includere nella versione finale.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -47,16 +47,16 @@ Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Vuoi saperne di più sui permessi richiesti da Firefox? Visita {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Consulta la lista dei dispositivi compatibili e i requisiti minimi di sistema: {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Per valutare l'efficacia di alcune campagne di marketing realizzate da Mozilla, Firefox invia a un fornitore di terze parti alcuni dati, inclusi un ID per la pubblicità Google, indirizzo IP, data e ora, nazione, lingua/locale, sistema operativo, versione dell’app. Ulteriori informazioni sono disponibili nell’informativa sulla privacy: {{privacy_link}}
 
 
