@@ -32,7 +32,7 @@ Last ned utgivelsesversjonen av Firefox her: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly er utformet for å vise frem de mer eksperimentelle byggene av Firefox. Kanalen Nightly tillater brukere å oppleve de nyeste Firefox-innovasjonene i et ustabilt miljø og gi tilbakemelding på funksjoner og ytelse for å avgjøre hva som kommer med i den endelige versjonen.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -42,21 +42,21 @@ Funnet en feil? Rapporter den på {{bug_link}}
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly sender automatisk tilbakemelding til Mozilla: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Vil du vite mer om tillatelsene Firefox spør om? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Se listen over støttede enheter og de seneste minimums systemkrav på {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Mozilla-markedsføring: For å forstå prestasjonen til visse Mozilla-markedsføringskampanjer, sender Firefox data, inkludert en Google-annonserings-ID, IP-adresse, tidsstempel, land, språk, operativsystem og appversjon til vår tredjepartsleverandør. Lær mer ved å lese vår personvernerklæring her: {{privacy_link}}
 
 
