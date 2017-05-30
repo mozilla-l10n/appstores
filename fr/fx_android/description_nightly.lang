@@ -32,7 +32,7 @@ Téléchargez la dernière version de Firefox ici : {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly est conçu pour mettre en valeur les versions les plus expérimentales de Firefox. Le canal Nightly permet aux utilisateurs de découvrir les dernières innovations de Firefox dans un environnement instable et de faire part de leur avis sur les fonctionnalités et les performances pour aider à déterminer ce qui figurera dans la version finale.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -57,6 +57,6 @@ Consultez la liste d’appareils pris en charge et la configuration minimale req
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Marketing Mozilla : afin d’évaluer la performance de certaines campagnes marketing de Mozilla, Firefox envoie des données, comprenant un identifiant publicitaire Google, l’adresse IP, l’horodatage, le pays, la langue, le système d’exploitation et la version de l’application à des fournisseurs tiers. Apprenez-en davantage en consultant notre politique de confidentialité : {{privacy_link}}
 
 
