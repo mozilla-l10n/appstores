@@ -15,7 +15,7 @@
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the customizable, private & free mobile browser that syncs across devices.
-Get the customizable, private & free mobile browser that syncs across devices.
+அந்தரங்கமாக, கருவிகளில் ஒத்திசைக்க, விருப்பமைக்க இலவச கைப்பேசி உலாவியைப் பெறுக.
 
 
 ;Experience a fast, smart and personal Web.
@@ -71,7 +71,7 @@ Private Browsing with Tracking Protection blocks parts of Web pages that may tra
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+உங்கள் கருவிகளுக்கிடையே பயர்பாசை ஒத்திசை
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
@@ -115,7 +115,7 @@ Take control of your Web experience by personalizing Firefox with add-ons like a
 
 # Slogan in uppercase, displayed as a category title
 ;QUICK SHARE
-QUICK SHARE
+விரைவாக பகிர
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
@@ -161,7 +161,7 @@ Follow Firefox on Twitter: {{twitter_link}}
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+மொசில்லா பற்றி
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
@@ -177,12 +177,12 @@ Learn more at {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+தனியுரிமை கொள்கை: {{privacy_link}}
 
 
 # Title of screenshot
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+வேகமானது. திறன்மிக்கது. உங்களுடையது.
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
