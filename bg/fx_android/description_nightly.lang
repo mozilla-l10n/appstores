@@ -14,7 +14,7 @@ Firefox Nightly (разработчици)
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+За разработчици. Бъдете първите изпитали бъдещите издания на Firefox
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
@@ -23,12 +23,12 @@ Firefox Nightly е развоен канал за нови издания на M
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Моля, отбележете че Firefox Aurora вече е не е достъпен, а негов наследник е Firefox Nightly. Повече подробности тук: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Изтеглете стабилното издание на Firefox тук: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
@@ -57,6 +57,6 @@ Firefox Nightly автоматично изпраща обратна връзк�
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Маркетинг на Mozilla: За да оценим влиянието на определени маркетингови кампании на Mozilla, Firefox изпраща данни, включително Google advertising ID, адрес на IP, времеви маркер, държава, език, опорационна система, версия на приложението към наш доставчик - трета страна. Научете повече като прочетете нашата Политика за лични данни тук: {{privacy_link}}
 
 
