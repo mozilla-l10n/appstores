@@ -156,7 +156,7 @@ Like Firefox on Facebook: {{facebook_link}}
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+பயர்பாக்சை {{twitter_link}}: கீச்சில் பின்தொடரவும்
 
 
 # Slogan in uppercase, displayed as a category title
@@ -173,7 +173,7 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+கூடுதலாக அறிய {{mozilla_org_link}} தளத்தைப் பார்க்கவும்
 
 
 ;Privacy Policy: {{privacy_link}}
