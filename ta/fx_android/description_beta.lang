@@ -26,7 +26,7 @@ We need your help testing Intel x86 Atom based devices! If you have an Intel x86
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+வழு உள்ளதா? அதை இங்கு {{android_bugs}} பதியவும்.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
@@ -55,6 +55,6 @@ When you use Firefox, you become a part of that community, helping us build a br
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+{{mozilla_org_link}} தளத்தில் கூடுதலாக அறியவும்.
 
 
