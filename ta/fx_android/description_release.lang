@@ -132,16 +132,16 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 
 ;Learn more about Firefox for Android:
-Learn more about Firefox for Android:
+ஆண்ட்ராய்டிற்கான பயர்பாக்சைப் பற்றி மேலும் அறிக:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+கேள்விகள் இருப்பின் (அ) உதவி வேண்டுமாயின்? {{support_link}} பக்கத்தைப் பார்க்கவும்
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+பயர்பாஃசு செயலிக்கான அனுமதிகள்: {{permission_link}}
 
 
 # Bulleted list item
@@ -217,7 +217,7 @@ Quickly find and manage<br>your open browser tabs
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-Get accurate, predictive results <br>before you finish typing
+நீங்கள் தட்டும் முன்பே சரியாக <br>கணிக்கக்கூடிய முடிவுகளைப் பெறுங்கள்
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
@@ -232,7 +232,7 @@ Instantly access your bookmarks, <br>history, open tabs and passwords <br>everyw
 
 # Title of screenshot
 ;Next level privacy
-Next level privacy
+அடுத்து மட்ட தனியுரிமை
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -242,7 +242,7 @@ Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that
 
 # Title of screenshot
 ;Add-ons for everything
-Add-ons for everything
+அனைத்திற்குமான துணை நிரல்கள்
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -257,7 +257,7 @@ Personalize your Web browser with <br>add-ons like ad blockers, password <br>and
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
-Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+பயர்பாக்ஸ் நினைவிலிருந்து அண்மையில் <br>பயன்படுத்திய செயல்களின் மூலம் <br>உங்களுக்கு வேண்டிய வார்த்தையை காண வழியமைக்கிறது
 
 
 # Title of screenshot
