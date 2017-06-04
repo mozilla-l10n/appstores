@@ -8,13 +8,13 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly (разработчици)
+Firefox Nightly за програмисти
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-За разработчици. Бъдете първите изпитали бъдещите издания на Firefox
+За разработчици. Бъдете първите, изпитали бъдещите издания на Firefox
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
@@ -23,7 +23,7 @@ Firefox Nightly е развоен канал за нови издания на M
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Моля, отбележете че Firefox Aurora вече е не е достъпен, а негов наследник е Firefox Nightly. Повече подробности тук: {{dawn_post}}
+Моля, отбележете, че Firefox Aurora вече е не е достъпен, а негов наследник е Firefox Nightly. Повече подробности тук: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
@@ -32,7 +32,7 @@ Firefox Nightly е развоен канал за нови издания на M
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly е проектиран да демонстрира експериментални издания на Firefox. Каналът Nightly позволява на потребителите да опитат най-новите изобретения на Firefox в нестабилна среда и да предоставят обратна връзка за възможности и производителност, участвайки в процеса на формиране на окончателното издание.
+Firefox Nightly е проектиран да демонстрира експериментални издания на Firefox. Каналът Nightly позволява на потребителите да опитат най-новите изобретения на Firefox в нестабилна среда и да предоставят обратна връзка за новите възможности и производителността, участвайки в процеса на формиране на стабилните издания.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
