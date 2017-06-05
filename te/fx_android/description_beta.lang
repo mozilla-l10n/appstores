@@ -4,13 +4,13 @@
 
 # Title of the App on Google Play. There is a 30 characters max length.
 ;Firefox for Android Beta
-Firefox for Android Beta
+Android Beta కోసం Firefox
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Firefox Beta బ్రౌజర్ ఉచితంగా పొందండి మరియు మీ ఆభిప్రాయం తెలపండి!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
@@ -39,7 +39,7 @@ See our list of supported devices and latest minimum system requirements at http
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+ABOUT MOZILLA {ok}
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
@@ -55,6 +55,6 @@ When you use Firefox, you become a part of that community, helping us build a br
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+ఇంక ఎక్కువ నెర్చుకోండి {{mozilla_org_link}}.
 
 
