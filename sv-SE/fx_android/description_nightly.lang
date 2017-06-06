@@ -47,7 +47,7 @@ Firefox Nightly skickar automatiskt återkoppling till Mozilla: {{telemetry_link
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Vill du veta mer om vilka behörigheter Firefox begär? {{permission_link}}
+Vill du veta mer om vilka behörigheter Firefox begär? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
