@@ -47,12 +47,12 @@
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+பயர்பாஃசு கோரும் அனுமதிகள் பற்றி கூடுதலாக அறிய விருப்பமா? {{permission_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+ஆதரிக்கப்படும் சாதனங்களின் பட்டியலையும் குறைந்தபட்ச கட்டக தேவையையும் இங்கே காணுங்கள் {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
