@@ -23,16 +23,16 @@
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+இனிமேல் பயர்பாஃசு அரோரா பதிப்பு கிடைக்காது அது இராக்கால பயர்பாஃசு திட்டமாக மாற்றமடைந்து தொடர்ந்து வெளிவரும். கூடுதல் தகவலுக்கு: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+பயர்பாஃசின் வெளியிட்ட பதிப்பைப் பதிவிறக்கவும்: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+பயர்பாஃசின் சோதனைப் உருவாக்கங்களை அதிகமாக வெளிக்கொண்டுவருவதற்காக இராக்கால பயர்பாஃசு வடிவமைக்கப்பட்டுள்ளது. பயனர்கள் இந்தப் புத்தாக்க பயர்பாஃசை இராக்கால தடத்திலிருந்து பதிவிக்கி அவர்களின் நிலையற்ற தளங்களில் நிறுவி அவர்களுக்கு ஏற்படும் அனபவ சிக்கல்களையும் செயல்திறனையும் அனுப்பி வைத்துப் புதிய நிலையான பதிப்பு உருவாக உதவிபுரிகிறார்கள்.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
