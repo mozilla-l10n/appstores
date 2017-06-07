@@ -14,11 +14,11 @@
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+개발자용 - 미래에 나올 Firefox를 처음으로 테스트하는 사람이 되어보십시오
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox Nightly는 다음 Mozilla Firefox 버전을 만들어가는 채널입니다.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
