@@ -8,17 +8,17 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+فَيَرفُكس الليلي للمطورين
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+للمطورين - كن أول من يختبر إصدارات فَيَرفُكس القادمة
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+فَيَرفُكس الليلي هي قناة تطويرية لإصدارات موزيلا فَيَرفُكس الجديدة.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
