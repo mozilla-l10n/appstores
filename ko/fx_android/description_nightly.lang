@@ -8,7 +8,7 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+개발자를 위한 Firefox Nightly
 
 
 # This is the short tagline for the app on Google Play.
@@ -23,12 +23,12 @@ Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+참고로 Firefox Aurora는 없어지고 Firefox Nightly로 이어집니다. 더 자세한 정보: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Firefox 정식 버전 내려받기: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
@@ -37,17 +37,17 @@ Firefox Nightly is designed to showcase the more experimental builds of Firefox.
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+버그를 찾으셨습니까? {{bug_link}} 에서 알려주십시오.
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly는 자동으로 Mozilla에 피드백을 보내게 되어 있습니다: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Firefox가 요청하는 권한에 대해 더 알고 싶으십니까? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
