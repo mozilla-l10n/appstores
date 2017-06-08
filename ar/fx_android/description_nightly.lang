@@ -57,6 +57,6 @@
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+تسويق موزيلا: لدراسة أداء موزيلا بعض حملات موزيلا التسويقية، يرسل فَيَرفُكس بيانات تشمل على معرف إعلان جوجل، و عنوان IP، و الختم الزمني، و البلد، و اللغة، و نظام التشغيل، و إصدارة التطبيق إلى منتِجِنا الخارجي. اطّلع على المزيد بقراءة تنوية الخصوصية هنا: {{privacy_link}}
 
 
