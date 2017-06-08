@@ -28,31 +28,31 @@
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+نزّل نسخة الإصدار من فَيَرفُكس هنا: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+النسخة الليلية من فَيَرفُكس مصممة لعرض الخصائص التي ما زالت قيد التجريب. تتيح القناة الليلية للمستخدمين التعامل مع أحدث ابتكارات فَيَرفُكس في بيئة غير مستقرة و إعطاء الانطباعات عن الخصائص و الأداء للمساعدة في تحديد ما الذي سيُشمل في الإصدارة النهائية.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+هل وجدت علّة؟ أبلغ عنها في {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+تُرسل النًسخة الليلية من فيَرفُكس التغذية الراجعة تلقائيًا إلى موزيلا: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+أتريد الاطلاع على معلومات أكثر عن الصلاحيات التي يطلبها فَيرفُكس؟ {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+راجع قائمة الأجهزة المدعومة و الحد الأدنى من متطلبات النظام في {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
