@@ -32,7 +32,7 @@ Descarcă versiunea oficială Firefox de aici: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly este conceput pentru a prezenta cele mai experimentale versiuni de Firefox. Canalul Nightly permite utilizatorilor să experimenteze cele mai noi inovații Firefox într-un mediu instabil și să furnizeze feedback privind funcționalitățile și performanța cu scopul de a ajuta la determinarea a ceea ce se va regăsi în versiunea finală.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -42,17 +42,17 @@ Ai găsit un defect? Raportează-l la {{bug_link}}
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly trimite automat feedback către Mozilla: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Dorești să știi mai multe despre permisiunile pe care le solicită Firefox? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Vezi lista noastră de dispozitive suportate și cerințele minime de sistem la {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
