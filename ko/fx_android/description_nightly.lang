@@ -57,6 +57,6 @@ Firefox가 요청하는 권한에 대해 더 알고 싶으십니까? {{permissio
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Mozilla 마케팅: Mozilla 마케팅 캠페인에 대한 성과 측정을 위해서 Firefox가 Google 광고 ID와 IP address, 시간, 국가, 언어/지역, 운영체제, 앱 버전이 포함된 데이터를 마케팅 벤더에 보낼 수 있습니다. 개인정보 정책에 대해 더 자세히 알아보세요: {{privacy_link}}
 
 
