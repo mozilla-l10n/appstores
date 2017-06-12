@@ -32,7 +32,7 @@ Firefox 정식 버전 내려받기: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly는 Firefox의 더 실험적인 모습을 보여주기 위한 빌드입니다. Nightly 채널에서 사용자는 불안정한 환경에서 새로운 Firefox 혁신을 경험해볼 수 있고 기능과 성능에 대한 피드백을 줄 수있으며 마지막 출시 결정을 도울 수 있습니다.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -52,7 +52,7 @@ Firefox가 요청하는 권한에 대해 더 알고 싶으십니까? {{permissio
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+{{requirements_link}}에서 지원 기기 목록과 최소 시스템 요구 사항 확인
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
