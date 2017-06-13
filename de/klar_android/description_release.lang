@@ -1,15 +1,15 @@
-## NOTE: This is the text used on Play Store for Focus for Android
-## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/focus_android/release/
+## NOTE: This is the text used on Play Store for Klar for Android
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/klar_android/release/
 
 
 # Application title. Maximum length is 30 characters.
 # Given that English is already at the limit, these are possible shorter alternatives:
-# a) Firefox Focus: Private & Fast
-# b) Firefox Focus: Private. Fast
-# c) Firefox Focus: Private
-# Worst case, you can leave only "Firefox Focus" without punctuation.
-;Firefox Focus: Private Browser
-Firefox Focus: Privater Browser
+# a) Firefox Klar: Private & Fast
+# b) Firefox Klar: Private. Fast
+# c) Firefox Klar: Private
+# Worst case, you can leave only "Firefox Klar" without punctuation.
+;Firefox Klar: Private Browser
+Firefox Klar: Privater Browser
 
 
 # Short description. Maximum length is 80 characters.
@@ -24,8 +24,8 @@ Holen Sie sich den privaten Browser. Firefox: Schnell, privat, vertrauenswürdig
 Surfen Sie, als würde niemand zusehen.
 
 
-;The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
-Der neue Firefox Focus blockiert automatisch zahlreiche Elemente zur Aktivitätenverfolgung im Internet – während der ganzen Browsersitzung.
+;The new Firefox Klar automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
+Der neue Firefox Klar blockiert automatisch zahlreiche Elemente zur Aktivitätenverfolgung im Internet – während der ganzen Browsersitzung.
 
 
 ;Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
@@ -36,8 +36,8 @@ Löschen Sie einfach Ihre Chronik, Passwörter und Cookies, damit ungewollte Wer
 Der „Private Modus“ in den meisten Browsern ist unvollständig oder schwer einsetzbar.
 
 
-;Focus is next-level privacy that’s free, always on and always on your side — because it’s backed by Mozilla, the non-profit that fights for your rights on the Web.
-Focus bietet eine höhere Form von Datenschutz, die immer verfügbar und immer für Sie da ist – weil Mozilla sie unterstützt, die gemeinnützige Organisation, die sich für Ihre Rechte im Internet einsetzt.
+;Klar is next-level privacy that’s free, always on and always on your side — because it’s backed by Mozilla, the non-profit that fights for your rights on the Web.
+Klar bietet eine höhere Form von Datenschutz, die immer verfügbar und immer für Sie da ist – weil Mozilla sie unterstützt, die gemeinnützige Organisation, die sich für Ihre Rechte im Internet einsetzt.
 
 
 ;AUTOMATIC PRIVACY
