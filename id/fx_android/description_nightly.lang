@@ -18,7 +18,7 @@ Untuk Pengembang - Jadilah yang pertama menguji rilis masa depan Firefox
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox Nightly adalah kanal pengembangan untuk rilis baru Mozilla Firefox.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
@@ -37,7 +37,7 @@ Firefox Nightly dirancang untuk menampilkan pengembangan eksperimental lebih ban
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+Menemukan masalah? Laporkan di {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
@@ -47,16 +47,16 @@ Firefox Nightly secara otomatis mengirimkan umpan balik ke Mozilla: {{telemetry_
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Ingin tahu lebih banyak tentang permintaan izin yang Firefox minta? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Lihat daftar peranti yang didukung dan persyaratan sistem minimum terbaru di {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Pemasaran Mozilla: Untuk memahami kinerja dari kampanye pemasaran Mozilla tertentu, Firefox akan mengirimkan data, termasuk ID iklan Google, alamat IP, waktu, negara, bahasa/locale, sistem operasi, versi aplikasi, ke penjaja pihak ketiga kami. Pelajari lebih lanjut dengan membaca Pemberitahuan Privasi kami di sini: {{privacy_link}}
 
 
