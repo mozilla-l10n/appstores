@@ -4,46 +4,46 @@
 
 # Title of the App on Google Play. There is a 30 characters max length.
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox Android Beta
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+ისარგებლეთ Firefox-ის ოფიციალური უფასო ბრაუზერის Beta ვერსიით და გამოგვეხმაურეთ!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+დაგვეხმარეთ უახლესი ფუნქციების სათანადო დროისთვის დახვეწასა და გამართვაში. Firefox Beta საშუალებას გაძლევთ გამოსცადოთ სიახლეები წარმადობაში, მორგებასა და გაუმჯობესებულ უსაფრთხოებაში, სანამ ახალ ვერსიაში დაემატება.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+შეიტანეთ წვლილი შესაძლებლობების და ფუნქციების სრულყოფაში.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+გვესაჭიროება დახმარება x86 Atom-ზე დაფუძნებული მოწყობილობების შემოწმებაში. თუ გაქვთ x86 Atom-ის მქონე მოწყობილობა, ჩამოტვირთეთ Firefox Beta და გვითხარით, რას ფიქრობთ.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+იპოვეთ ხარვეზი? მოგვახსენეთ {{android_bugs}}-ზე.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+გსურთ მეტის გაგება, Firefox-ის მიერ მოთხოვნილი ნებართვების შესახებ? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+იხილეთ მხარდაჭერილი მოწყობილობების სია და სისტემის უახლესი მინიმალური მოთხოვნები ბმულზე https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+MOZILLA-ს შესახებ
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla ამაყობს რომ არამომგებიანი ორგანიზაციაა და ცდილობს ინტერნეტზე ძალაუფლება შენარჩუნებული იყოს ხალხის ხელში.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
