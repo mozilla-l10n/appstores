@@ -119,7 +119,7 @@ Firefox ასევე უსაფრთხოდ დაიმახსოვ�
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
-Firefox იმახსოვრებს თქვენს მიერ ხშირად გამოყენებულ პროგრამებს და გეხმარებათ მარტივად გააზიაროთ სასურველი ინფორმაცია Facebook-ით, Twitter-ით, WhatsApp-ით, Skype-ით და ა.შ.
+Firefox იმახსოვრებს თქვენ მიერ ხშირად გამოყენებულ პროგრამებს და გეხმარებათ მარტივად გააზიაროთ სასურველი ინფორმაცია Facebook-ით, Twitter-ით, WhatsApp-ით, Skype-ით და ა.შ.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -257,16 +257,16 @@ Mozilla არსებობს იმისთვის, რომ გახ�
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
-Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+Firefox იმახსოვრებს თქვენ მიერ ბოლოს <br>გამოყენებულ პროგრამებს და გეხმარებათ <br>ისე გამოიყენოთ მიღებული ინფორმაცია, როგორც გსურთ.
 
 
 # Title of screenshot
 ;Send to device
-Send to device
+მოწყობილობაზე გაგზავნა
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
-Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+გაუშვით ვიდეოები და ვებ-საიტები <br>ტელეფონიდან ან პლანშეტიდან <br>ნებისმიერ მხარდაჭერილ მოწყობილობაზე.
 
 
