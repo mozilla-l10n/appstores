@@ -119,70 +119,70 @@ Firefox ასევე უსაფრთხოდ დაიმახსოვ�
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
-Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox იმახსოვრებს თქვენს მიერ ხშირად გამოყენებულ პროგრამებს და გეხმარებათ მარტივად გააზიაროთ სასურველი ინფორმაცია Facebook-ით, Twitter-ით, WhatsApp-ით, Skype-ით და ა.შ.
 
 
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
-TAKE IT TO THE BIG SCREEN
+გაუშვით დიდ ეკრანზე
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
-Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+გაუშვით ვიდეოები და ვებ-საიტები ტელეფონიდან ან პლანშეტიდან ნებისმიერ ტელევიზორზე, რომელსაც გააჩნია ამის შესაძლებლობა.
 
 
 ;Learn more about Firefox for Android:
-Learn more about Firefox for Android:
+გაიგეთ მეტი Firefox Android-ზე:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+გაქვთ კითხვები და გჭირდებათ დახმარება? ეწვიეთ ბმულს {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+წაიკითხეთ Firefox-ის მოთხოვნილი უფლებების შესახებ: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+შეიტყვეთ მეტი, თუ რა ხდება Mozilla-ში: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+მოიწონდეთ Firefox Facebook-ზე: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+გამოიწერეთ Firefox Twitter-ზე: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+MOZILLA-ს შესახებ
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla არსებობს იმისთვის, რომ გახადოს ინტერნეტი ყველასთვის ხელმისაწვდომი, რადგან ჩვენ გვჯერა, რომ ღია და თავისუფალი უკეთესია, ვიდრე დახურული და კონტროლირებული.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+ჩვენ ვქმნით პროდუტებს, როგორიცაა Firefox და ვთავაზობთ ხალხს მეტ არჩევანს და გამჭვირვალობას, რომ უკეთ აკონტროლონ თავიანთი ცხოვრება ინტერნეტ სამყაროში.
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+შეიტყვეთ მეტი ბმულზე {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+პირადი მონაცემების დაცვის დებულება: {{privacy_link}}
 
 
 # Title of screenshot
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+სწრაფი. გონიერი. თქვენი
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
