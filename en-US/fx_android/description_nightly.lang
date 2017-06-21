@@ -1,8 +1,8 @@
 ## NOTE: This is the text used on Google Play for Firefox for Android Nightly
 ## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/nightly/
 
-## MAX_LENGTH: 30
-# Title of the App on Google Play. There is a 30 characters max length.
+## MAX_LENGTH: 50
+# Title of the App on Google Play. There is a 50 characters max length.
 # These are alternative versions if you need to shorten your translation
 # a) Firefox Nightly (Developers)
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)

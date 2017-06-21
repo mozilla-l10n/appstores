@@ -2,8 +2,8 @@
 ## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/klar_android/release/
 
 
-## MAX_LENGTH: 30
-# Application title. Maximum length is 30 characters.
+## MAX_LENGTH: 50
+# Application title. Maximum length is 50 characters.
 # Given that English is already at the limit, these are possible shorter alternatives:
 # a) Firefox Klar: Private & Fast
 # b) Firefox Klar: Private. Fast
