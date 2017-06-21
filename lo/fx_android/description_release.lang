@@ -106,7 +106,7 @@ Spend your time reading your favorites sites instead of looking for them.
 
 # Slogan in uppercase, displayed as a category title
 ;ADD-ONS FOR EVERYTHING
-ADD-ONS FOR EVERYTHING
+Add-ons ສຳລັບທຸກຢ່າງ
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
@@ -151,12 +151,12 @@ Learn more about what’s up at Mozilla: {{blog_link}}
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+ຖືກໃຈ Firefox ໃນ Facebook: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+ຕິດຕາມ Firefox ໃນ Twitter: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
@@ -177,7 +177,7 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+ນະໂຍບາຍຄວາມເປັນສ່ວນໂຕ: {{privacy_link}}
 
 
 # Title of screenshot
