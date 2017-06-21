@@ -2,12 +2,13 @@
 ## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/klar_android/release/
 
 
+# Application title. Maximum length is 50 characters, rephrase if needed.
+;Firefox Klar: The privacy browser
+Firefox Klar: The privacy browser
+
+
 # Application title. Maximum length is 50 characters.
-# Given that English is already at the limit, these are possible shorter alternatives:
-# a) Firefox Klar: Private & Fast
-# b) Firefox Klar: Private. Fast
-# c) Firefox Klar: Private
-# Worst case, you can leave only "Firefox Klar" without punctuation.
+# Obsolete title: do not remove
 ;Firefox Klar: Private Browser
 Firefox Klar
 

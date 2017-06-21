@@ -2,12 +2,13 @@
 ## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/focus_android/release/
 
 
+# Application title. Maximum length is 50 characters, rephrase if needed.
+;Firefox Focus: The privacy browser
+Firefox Focus: The privacy browser
+
+
 # Application title. Maximum length is 50 characters.
-# Given that English is already at the limit, these are possible shorter alternatives:
-# a) Firefox Focus: Private & Fast
-# b) Firefox Focus: Private. Fast
-# c) Firefox Focus: Private
-# Worst case, you can leave only "Firefox Focus" without punctuation.
+# Obsolete title: do not remove
 ;Firefox Focus: Private Browser
 فَيَرفُكس فوكَس: المتصفح الخاص
 
