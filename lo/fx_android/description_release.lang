@@ -9,7 +9,7 @@ Firefox Browser fast & private
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+ເວັບບຣາວເຊີ Firefox
 
 
 # This is the short tagline for the app on Google Play.
@@ -115,7 +115,7 @@ Take control of your Web experience by personalizing Firefox with add-ons like a
 
 # Slogan in uppercase, displayed as a category title
 ;QUICK SHARE
-QUICK SHARE
+ການແບ່ງປັນດ່່ວນ
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
@@ -161,7 +161,7 @@ Follow Firefox on Twitter: {{twitter_link}}
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+ກ່ຽວກັບ MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
@@ -173,7 +173,7 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+ຮຽນຮູ້ເພີ່ມເຕີມໄດ້ທີ່ {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
@@ -242,7 +242,7 @@ Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that
 
 # Title of screenshot
 ;Add-ons for everything
-Add-ons for everything
+Add-ons ສຳລັບທຸກຢ່າງ
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -252,7 +252,7 @@ Personalize your Web browser with <br>add-ons like ad blockers, password <br>and
 
 # Title of screenshot
 ;Quick Share
-Quick Share
+ການແບ່ງປັນດ່ວນ
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -262,7 +262,7 @@ Firefox remembers your recently <br>used apps to help you get the <br>word out t
 
 # Title of screenshot
 ;Send to device
-Send to device
+ສົ່ງໄປຫາອຸປະກອນ
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
