@@ -2,7 +2,7 @@
 ## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/release/
 
 
-# Title of the App on Google Play. There is a 30 characters max length.
+# Title of the App on Google Play. There is a 50 characters max length.
 # If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
 Firefox-browser, snel en privé
