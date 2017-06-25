@@ -28,35 +28,35 @@ Bemærk: Firefox Aurora er ikke længere tilgængelig og er blevet erstattet af 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Hent udgivelsesversionen af Firefox her: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Formålet med Firefox Nightly er at præsentere mere eksperimentelle udgaver af Firefox. Nightly-kanalen giver brugerne mulighed for at opleve den nyeste udvikling i et ustabilt miljø - samt for at give feedback om funktioner og ydelse for at hjælpe med at bestemme, hvordan den endelige version skal se ud.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+Er du stødt på et problem? Indrapporter det på {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly sender automatisk feedback til Mozilla: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Vil du vide mere om, hvilke tilladelser Firefox anmoder om? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Se listen over understøttede enheder og de seneste systemkrav på {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Markedsføring hos Mozilla: For at kunne forstå virkningen af visse Mozilla-markedsføringskampagner sender Firefox data til vores tredjeparts-leverandør inklusiv et Google reklame-ID, IP-adresse, tidsstempel, land, sprog, operativsystem og app-version. Læs mere om vores privatlivspolitik her: {{privacy_link}}
 
 
