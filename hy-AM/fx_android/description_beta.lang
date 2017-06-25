@@ -1,60 +1,60 @@
-## NOTE: This is the text used on Google Play for Firefox for Android Beta
+﻿## NOTE: This is the text used on Google Play for Firefox for Android Beta
 ## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/beta/
 
 
 # Title of the App on Google Play. There is a 50 characters max length.
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox for Android Beta {ok}
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Օգտագործեք Firefox Beta դիտարկիչը և ուղարկեք ձեր կարծիքը:
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Օգնեք կատարելագործել ու հարթել նոր յուրահատկությունները: Firefox Beta-ով կարող եք փորձարկել նորագույն արտադրողականությունը, հարմարեցումը և անվտանգության ընդլայնումը՝ մինչև դրանք կհայտնվեն նոր թողարկման մեջ:
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+Օգնեք կատարել վերջնական շտկումներ:
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Մենք ձեր օգնության կարիքը ունենք՝ փորձարկելու Intel x86 Atom-ին հիմնված սարքրեը: Եթե ունեք Intel x86 Atom-ին հիմնվա սարք, ներբեռնեք Firefox Beta-ն և հայտնեք մեզ, թե ինչ եք կարծում:
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Խնդրի՞ եք հանդիպել: Զեկույց ուղարկեք մեզ՝ {{android_bugs}}:
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Ցանկանո՞ւմ եք ավելին իմանալ Firefox-ի հարցումների թույլտվությունների մասին: {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Դիտեք աջակցվող սարքերի ցանկը և համակարգի նվազագույն պահանջները https://www.mozilla.org/en-US/firefox/mobile/platforms/ էջում:
 
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+MOZILLA-Ի ՄԱՍԻՆ
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla-ն ոչ առևտրային կազմակերպություն է, որը պահում է համացանցի հզորությունը մարդկանց ձեռքում:
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-We're a global community of users, contributors and developers working to innovate on your behalf.
+Մենք օգտվողների, կամավորների և ծրագրավորողների ընդհանրական համայնք ենք, որը աշխատում է ստեղծել նորարարություններ ձեր անունից:
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+Երբ դուք օգտագործում եք Firefox-ը, դուք դառնում եք մեր համայնքի մի մասնիկը՝ օգնելով կառուցել ավելի գունավոր ապագա համացանցի համար:
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+Իմացեք ավելին {{mozilla_org_link}}-ում:
 
 
