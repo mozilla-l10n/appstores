@@ -5,7 +5,7 @@
 # Title of the App on Google Play. There is a 50 characters max length.
 # If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
-Firefox Browser fast & private
+Firefox బ్రౌజర్ వేగము మరియు ప్రైవేట్
 
 
 ;Firefox Web Browser
@@ -45,7 +45,7 @@ That’s why we design the product with smart features that take the guesswork o
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+SEARCH INTELLIGENTLY మరియు GET THERE FASTER
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
@@ -58,7 +58,7 @@ Easily access shortcuts to search providers including Wikipedia, Twitter and Ama
 
 # Slogan in uppercase, displayed as a category title
 ;NEXT LEVEL PRIVACY
-NEXT LEVEL PRIVACY
+NEXT LEVEL PRIVACY {ok}
 
 
 ;Your privacy has been upgraded.
