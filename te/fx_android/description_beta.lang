@@ -26,15 +26,15 @@ We need your help testing Intel x86 Atom based devices! If you have an Intel x86
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+ఒక దోషాన్ని కనుగొన్నారా? దాన్ని నివేదించండి{{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Firefox అభ్యర్థనల గురించి మరింత తెలుసుకోవాలనుకుంటున్నారా? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+మద్దతు ఉన్న పరికరాల జాబితా మరియు తాజా కనీస సిస్టమ్ అవసరాలు చూడండి https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
@@ -43,11 +43,11 @@ ABOUT MOZILLA {ok}
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla ప్రజల చేతులలో వెబ్ యొక్క అధికారాన్ని ఉంచడానికి ఒక అసంపూర్ణ లాభాపేక్షలేని సంస్థ.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-We're a global community of users, contributors and developers working to innovate on your behalf.
+మేము మీ తరపున నూతనంగా పనిచేసే వినియోగదారులు, సహాయకులు మరియు డెవలపర్ల ప్రపంచ కమ్యూనిటీ.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.

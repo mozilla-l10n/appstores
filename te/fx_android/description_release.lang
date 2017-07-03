@@ -62,7 +62,7 @@ NEXT LEVEL PRIVACY {ok}
 
 
 ;Your privacy has been upgraded.
-Your privacy has been upgraded.
+మీ గోప్యత అప్గ్రేడ్ చేయబడింది.
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
@@ -132,21 +132,21 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 
 ;Learn more about Firefox for Android:
-Learn more about Firefox for Android:
+మొబైల్ Firefox గురించి మరింత తెలుసుకోండి:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+ప్రశ్నలు లేదా సహాయం కావాలా? సందర్శించండి {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+Firefox అనుమతుల గురించి చదవండి: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+మొజిల్లా వద్ద ఏమి జరుగుతుందో మరింత తెలుసుకోండి: {{blog_link}}
 
 
 # Bulleted list item
@@ -156,7 +156,7 @@ Like Firefox on Facebook: {{facebook_link}}
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+ట్విట్టర్ లో Firefox ను అనుసరించండి: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
@@ -242,7 +242,7 @@ Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that
 
 # Title of screenshot
 ;Add-ons for everything
-Add-ons for everything
+అన్నిటి కోసం యాడ్-ఆన్లు
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language

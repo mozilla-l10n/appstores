@@ -18,31 +18,31 @@
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox Nightly కొత్త Mozilla Firefox విడుదలలకు ఒక అభివృద్ధి ఛానల్.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Firefox Aurora ఇకపై అందుబాటులో లేదని అది Firefox Nightlyగా మారిందని దయచేసి గమనించండి. మరిన్ని వివరాలకై: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+ఇక్కడ Firefox విడుదల సంస్కరణను డౌన్లోడ్ చేయండి: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly Firefox యొక్క మరింత ప్రయోగాత్మక బిల్లులను ప్రదర్శించడానికి రూపొందించబడింది. Nightly ఛానెల్ వినియోగదారులను సరికొత్త Firefox ఆవిష్కరణలను ఒక అస్థిర వాతావరణంలో అనుభవించడానికి అనుమతిస్తుంది మరియు అంతిమ విడుదలని ఏది నిర్ణయించడానికి సహాయంగా లక్షణాలు మరియు పనితీరుపై అభిప్రాయాన్ని అందిస్తుంది.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+ఒక బగ్ కనుగొనబడిందా? దీన్ని {{bug_link}} వద్ద నివేదించండి
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly స్వయంచాలకంగా Mozillaకి అభిప్రాయాన్ని పంపుతుంది: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
@@ -52,11 +52,11 @@ FIREFOX అనుమతులు గురించి తెలుసుకో�
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+మా మద్దతు పరికరాల జాబితాను మరియు కనీస సిస్టమ్ అవసరాలను చూడండి {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Mozilla మార్కెటింగ్: కొన్ని Mozilla మార్కెటింగ్ ప్రచారాల పనితీరును అర్థం చేసుకోవడానికి, Firefox Google ప్రకటన ID, IP చిరునామా, సమయ ముద్ర, దేశం, భాష / లొకేల్, ఆపరేటింగ్ సిస్టమ్, అనువర్తనం వెర్షన్తో సహా డేటాను మా మూడవ పక్ష విక్రయదారునికి పంపుతుంది. ఇక్కడ మా గోప్యతా నోటీసుని చదవడం ద్వారా మరింత తెలుసుకోండి:{{privacy_link}}
 
 
