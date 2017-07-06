@@ -8,7 +8,7 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+Firefox Nightly ສຳລັບນັກພັດທະນາ
 
 
 # This is the short tagline for the app on Google Play.
@@ -37,7 +37,7 @@ Firefox Nightly is designed to showcase the more experimental builds of Firefox.
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+ພົບຂໍ້ບົກພອງ? ແຈ້ງຂໍ້ບົກພອງນີ້ໄດ້ທີ່ {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
