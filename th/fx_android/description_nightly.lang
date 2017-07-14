@@ -14,7 +14,7 @@ Firefox Nightly สำหรับนักพัฒนา
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+สำหรับนักพัฒนา - เป็นรายแรกในการทดสอบ Firefox รุ่นในอนาคต
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
@@ -37,17 +37,17 @@ Firefox Nightly is designed to showcase the more experimental builds of Firefox.
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+เจอบั๊ก? รายงานมันได้ที่ {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly จะส่งเสียงตอบรับกลับไปยัง Mozilla โดยอัตโนมัติ: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+ต้องการเรียนรู้เกี่ยวกับสิทธิที่ Firefox ร้องขอ? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
