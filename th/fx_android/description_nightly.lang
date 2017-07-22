@@ -37,7 +37,7 @@ Firefox Nightly is designed to showcase the more experimental builds of Firefox.
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-เจอบั๊ก? รายงานมันได้ที่ {{bug_link}}
+พบข้อบกพร่อง? รายงานได้ที่ {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
@@ -47,7 +47,7 @@ Firefox Nightly จะส่งเสียงตอบรับกลับไ�
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-ต้องการเรียนรู้เกี่ยวกับสิทธิที่ Firefox ร้องขอ? {{permissions_link}}
+ต้องการทราบเพิ่มเติมเกี่ยวกับสิทธิอนุญาตที่ Firefox ขอ? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
