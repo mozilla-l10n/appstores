@@ -7,7 +7,7 @@ Bolo implementované Android WebExtension API
 
 
 ;Utilize hardware encoders & decoders for WebRTC to save power consumption and improve performance
-Utilize hardware encoders & decoders for WebRTC to save power consumption and improve performance
+Za účelom nižšej spotreby batérie a vyššieho výkonu boli implementované hardvérové kodéry a dekodéry pre WebRTC
 
 
 ;Support of Android 4.0 (API 15) ended
