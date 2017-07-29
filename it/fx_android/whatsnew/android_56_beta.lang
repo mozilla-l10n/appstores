@@ -3,14 +3,14 @@
 
 
 ;Android WebExtension API implemented
-Android WebExtension API implemented
+Aggiunto il supporto alle API WebExtension
 
 
 ;Utilize hardware encoders & decoders for WebRTC to save power consumption and improve performance
-Utilize hardware encoders & decoders for WebRTC to save power consumption and improve performance
+WebRTC ora utilizza encoder e decoder hardware, riducendo il consumo di batteria e migliorando le prestazioni
 
 
 ;Support of Android 4.0 (API 15) ended
-Support of Android 4.0 (API 15) ended
+Terminato il supporto per Android 4.0 (API 15)
 
 
