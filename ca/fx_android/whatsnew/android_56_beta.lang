@@ -7,10 +7,10 @@ S'ha implementat l'API WebExtension de l'Android
 
 
 ;Utilize hardware encoders & decoders for WebRTC to save power consumption and improve performance
-Utilize hardware encoders & decoders for WebRTC to save power consumption and improve performance
+S'utilitzen els codificadors i descodificadors de maquinari per a WebRTC per estalviar el consum d'energia i millorar el rendiment
 
 
 ;Support of Android 4.0 (API 15) ended
-Support of Android 4.0 (API 15) ended
+Ja no és compatible amb l'Android 4.0 (API 15)
 
 
