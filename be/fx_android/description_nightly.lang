@@ -14,30 +14,30 @@ Firefox Nightly для распрацоўшчыкаў
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+Для распрацоўшчыкаў - Паспрабуйце будучыя выпускі Firefox першымі
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox Nightly - канал распрацоўкі новых рэлізаў Mozilla Firefox.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Звярніце ўвагу, што выпускі Firefox Aurora больш недаступныя. Зараз гэта Firefox Nightly. Больш падрабязна пра гэта тут: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Сцягніце фінальную версію Firefox тут: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly створаны для дэманстрацыі больш эксперыментальных зборак Firefox. Канал Nightly дазваляе карыстальнікам адчуваць найноўшыя магчымасці Firefox ў нестабільнай асяроддзі, а таксама пакідаць водгукі і прапановы па працы і прадукцыйнасці, каб вырашыць, што ўвойдзе ў наступны рэліз.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+Знайшлі баг? Паведаміце на {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
@@ -47,16 +47,16 @@ Firefox Nightly аўтаматычна ажыццяўляе зваротную �
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Жадаеце даведацца больш аб запытах дазволаў Firefox? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Глядзіце спіс прылад, што падтрымліваюцца, і апошнія мінімальныя сістэмныя патрабаванні на {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Маркетынг Mozilla: З мэтай разумення ўплыву пэўных маркетынгавых кампаній Mozilla, Firefox накіроўвае іншай арганізацыі такія дадзеныя, як рэкламны ID Google, IP-адрас, адбітак часу, краіну, мову/лакаль аперацыйную сістэму, версію праграмы. Даведайцеся больш, азнаёміўшыся з нашым паведамленнем аб прыватнасцi: {{privacy_link}}
 
 
