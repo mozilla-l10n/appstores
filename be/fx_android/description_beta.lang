@@ -10,15 +10,15 @@ Firefox Beta для Android
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Атрымайце афіцыйны, дармовы браўзер Firefox Beta і пакіньце свой водгук!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Дапамажыце палепшыць і ўдасканаліць найноўшыя функцыі, якія амаль гатовыя да выхаду. З Firefox Beta вы атрымліваеце магчымасць тэставаць апошнія ўдасканаленні прадукцыйнасці, уладкавання і бяспекі перад тым, як яны будуць уключаны ў наступную версію.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+Ўплываць на канчатковае вызначэнне функцый і магчымасцяў браўзера.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
@@ -26,7 +26,7 @@ We need your help testing Intel x86 Atom based devices! If you have an Intel x86
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Знайшлі баг? Паведаміце на {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
@@ -55,6 +55,6 @@ When you use Firefox, you become a part of that community, helping us build a br
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+Падрабязней на {{mozilla_org_link}}.
 
 
