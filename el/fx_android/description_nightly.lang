@@ -8,7 +8,7 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly (Προγραμ/στές)
+Firefox Nightly για προγραμματιστές
 
 
 # This is the short tagline for the app on Google Play.
@@ -32,7 +32,7 @@ Firefox Nightly (Προγραμ/στές)
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Το Firefox Nightly έχει σχεδιαστεί για να παρουσιάσει τις πιο πειραματικές δομές του Firefox. Το κανάλι Nightly επιτρέπει στους χρήστες να απολαύσουν τις νεότερες καινοτομίες του Firefox σε ένα ασταθές περιβάλλον και να παρέχουν σχόλια σχετικά με τις λειτουργίες και τις επιδόσεις, ώστε να καθορίσουν τα χαρακτηριστικά της τελικής έκδοσης.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
