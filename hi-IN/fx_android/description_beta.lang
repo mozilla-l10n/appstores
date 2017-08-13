@@ -10,7 +10,7 @@
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+आधिकारिक मुफ़्त Firefox बीटा ब्राउज़र प्राप्त करें और अपनी प्रतिक्रिया दें!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
@@ -39,11 +39,11 @@ We need your help testing Intel x86 Atom based devices! If you have an Intel x86
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA {ok}
+MOZILLA के बारे में
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla गर्व के साथ एक गैर-लाभकारी संगठन है जो वेब के शक्ति को लोगों के हाथों में रखने के लिए समर्पित है.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
@@ -51,7 +51,7 @@ We're a global community of users, contributors and developers working to innova
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+जब आप Firefox का प्रयोग करते हैं, तो आप उस समुदाय का हिस्सा बन जातें हैं, जो वेब के लिए एक उज्जवल भविष्य का निर्माण करने में हमारी मदद कर रहे हैं.
 
 
 ;Learn more at {{mozilla_org_link}}.
