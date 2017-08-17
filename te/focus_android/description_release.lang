@@ -4,13 +4,13 @@
 
 # Application title. Maximum length is 50 characters, rephrase if needed.
 ;Firefox Focus: The privacy browser
-Firefox Focus: The privacy browser
+Firefox Focus: గోప్యతా విహారిణి
 
 
 # Application title. Maximum length is 50 characters.
 # Obsolete title: do not remove
 ;Firefox Focus: Private Browser
-Firefox Focus: Private Browser
+Firefox Focus: వ్యక్తిగత విహారణి
 
 
 # Short description. Maximum length is 80 characters.
@@ -22,7 +22,7 @@ Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
 
 
 ;Browse like no one’s watching.
-Browse like no one’s watching.
+ఎవరూ చూడనట్టుగా విహరణ చెయ్యండి.
 
 
 ;The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
@@ -42,7 +42,7 @@ Focus is next-level privacy that’s free, always on and always on your side —
 
 
 ;AUTOMATIC PRIVACY
-AUTOMATIC PRIVACY
+AUTOMATIC PRIVACY {ok}
 
 
 ;Blocks a wide range of common Web trackers without any settings to set
@@ -54,7 +54,7 @@ Easily erases your history — no passwords, no cookies, no trackers
 
 
 ;BROWSE FASTER
-BROWSE FASTER
+BROWSE FASTER {ok}
 
 
 ;By removing trackers and ads, Web pages may require less data and load faster
