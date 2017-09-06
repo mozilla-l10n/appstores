@@ -2,8 +2,17 @@
 ## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_ios/release/
 
 
+# Application title. Maximum length is 30 characters.
 ;Firefox Web Browser
 Navigateur web Firefox
+
+
+# Application subtitle. Maximum length is 30 characters.
+# These are possible alternatives if your translation doesn't fit in the limits, in order of priority:
+# 1) Fast and private browsing
+# 2) Fast and private
+;Fast and private browsing
+Fast and private browsing
 
 
 ;Experience a fast, smart and personal Web.
