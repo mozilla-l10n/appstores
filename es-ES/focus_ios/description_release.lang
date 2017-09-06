@@ -2,9 +2,25 @@
 ## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/focus_ios/release/
 
 
-# Application title
-;Firefox Focus: The privacy browser
-Firefox Focus: el navegador privado
+# Application title. Maximum length is 30 characters.
+# These are possible alternatives if your translation doesn't fit in the limits, in order of priority:
+# 1) Firefox Focus: The privacy browser
+# 2) Firefox Focus: Privacy Browser
+# 3) Firefox Focus: Private Browser
+# 4) Firefox Focus: Private & Fast
+# 5) Firefox Focus: Private. Fast
+# 6) Firefox Focus
+;Firefox Focus: Privacy Browser
+Firefox Focus: Privacy Browser
+
+
+# Application subtitle. Maximum length is 30 characters.
+# These are possible alternatives if your translation doesn't fit in the limits, in order of priority:
+# 1) Always-on ad blocking
+# 2) Automatically block ads
+# 3) Browse like no one's watching
+;Always-on ad blocking
+Always-on ad blocking
 
 
 ;Browse like no one’s watching.

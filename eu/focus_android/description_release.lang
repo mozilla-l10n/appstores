@@ -1,28 +1,24 @@
-## NOTE: This is the text used on Apple App Store for Focus for iOS
-## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/focus_ios/release/
+## NOTE: This is the text used on Play Store for Focus for Android
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/focus_android/release/
 
 
-## MAX_LENGTH: 30
-# Application title. Maximum length is 30 characters.
-# These are possible alternatives if your translation doesn't fit in the limits, in order of priority:
-# 1) Firefox Focus: The privacy browser
-# 2) Firefox Focus: Privacy Browser
-# 3) Firefox Focus: Private Browser
-# 4) Firefox Focus: Private & Fast
-# 5) Firefox Focus: Private. Fast
-# 6) Firefox Focus
-;Firefox Focus: Privacy Browser
-Firefox Focus: Privacy Browser
+# Application title. Maximum length is 50 characters, rephrase if needed.
+;Firefox Focus: The privacy browser
+Firefox Focus: The privacy browser
 
 
-## MAX_LENGTH: 30
-# Application subtitle. Maximum length is 30 characters.
-# These are possible alternatives if your translation doesn't fit in the limits, in order of priority:
-# 1) Always-on ad blocking
-# 2) Automatically block ads
-# 3) Browse like no one's watching
-;Always-on ad blocking
-Always-on ad blocking
+# Application title. Maximum length is 50 characters.
+# Obsolete title: do not remove
+;Firefox Focus: Private Browser
+Firefox Focus: Private Browser
+
+
+# Short description. Maximum length is 80 characters.
+# Given that English is already close to the limit, these are possible shorter alternatives:
+# a) Get The Privacy Browser. Fast & always private, from a brand you trust
+# b) Get The Privacy Browser. Fast & always private, from Firefox
+;Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
 
 
 ;Browse like no one’s watching.
@@ -73,7 +69,3 @@ MADE BY MOZILLA
 We believe everyone should have control over their lives online. That’s what we’ve been fighting for since 1998.
 
 
-## MAX_LENGTH: 100
-# Metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
-;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
-internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
