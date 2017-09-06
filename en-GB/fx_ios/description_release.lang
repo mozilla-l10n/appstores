@@ -3,6 +3,10 @@
 
 
 # Application title. Maximum length is 30 characters.
+# These are possible alternatives if your translation doesn't fit in the limits, in order of priority:
+# 1) Firefox Web Browser
+# 2) Firefox Browser
+# 3) Firefox
 ;Firefox Web Browser
 Firefox Web Browser {ok}
 
