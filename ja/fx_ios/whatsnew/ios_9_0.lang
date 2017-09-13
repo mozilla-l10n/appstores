@@ -3,14 +3,14 @@
 
 
 ;Tracking protection is now enabled in private browsing mode by default. Firefox will automatically block third party trackers, which limits ads following you around the internet and increases browsing speed.
-Tracking protection is now enabled in private browsing mode by default. Firefox will automatically block third party trackers, which limits ads following you around the internet and increases browsing speed.
+プライベートブラウジングモード内のトラッキング保護を初期設定で有効化しました。Firefox はサードパーティートラッカーを自動的にブロックし、ウェブ上でユーザーに付いて回る広告を制限するとともにブラウジングを高速化します。
 
 
 ;Improved sync functionality between your mobile and desktop versions of Firefox. Update passwords, history and bookmarks on mobile and access them on your desktop browser (and vice versa).
-Improved sync functionality between your mobile and desktop versions of Firefox. Update passwords, history and bookmarks on mobile and access them on your desktop browser (and vice versa).
+モバイル版 Firefox とデスクトップ版 Firefox の間の同期機能を改善しました。モバイル上で更新されたパスワードや履歴、ブックマークがデスクトップブラウザーにも反映されるようになりました (その逆も同様です)。
 
 
 ;Compatibility with iOS 11.
-Compatibility with iOS 11.
+iOS 11 に対応しました。
 
 
