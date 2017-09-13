@@ -3,14 +3,14 @@
 
 
 ;Tracking protection is now enabled in private browsing mode by default. Firefox will automatically block third party trackers, which limits ads following you around the internet and increases browsing speed.
-Tracking protection is now enabled in private browsing mode by default. Firefox will automatically block third party trackers, which limits ads following you around the internet and increases browsing speed.
+Gizli gezinti modunda “izlenme koruması” artık varsayılan olarak açık olacak. Firefox, takipçileri otomatik olarak engelleyerek, internette sizi takip eden reklamların önünü kesecek ve gezinti hızınızı artıracak.
 
 
 ;Improved sync functionality between your mobile and desktop versions of Firefox. Update passwords, history and bookmarks on mobile and access them on your desktop browser (and vice versa).
-Improved sync functionality between your mobile and desktop versions of Firefox. Update passwords, history and bookmarks on mobile and access them on your desktop browser (and vice versa).
+Firefox’un mobil ve masaüstü sürümleri arasında eşitleme işlevini geliştirdik. Artık mobilde güncellediğiniz parola, geçmiş ve yer imlerini masaüstü tarayıcınızda da görebileceksiniz (tabii masaüstünde güncellediklerinizi de mobilde).
 
 
 ;Compatibility with iOS 11.
-Compatibility with iOS 11.
+iOS 11 uyumluluğunu geliştirdik.
 
 
