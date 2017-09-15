@@ -75,11 +75,11 @@ Firefox прадбачыць вашы патрэбы і інтуітыўна п�
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+З дапамогай уліковага запісу Firefox атрымлівайце доступ да гісторыі, закладак і адкрытых картак свайго кампутара на смартфоне і планшэце.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox таксама надзейна запамінае вашы паролі на ўсіх прыладах, такім чынам вам не варта пра гэта хвалявацца.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -88,11 +88,11 @@ Firefox also safely remembers your passwords across devices so you don’t have 
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Intuitive visual and numbered tabs easily let you find content for future reference.
+Інтуітыўныя візуальныя і нумараваныя карткі дазваляюць вам лёгка знаходзіць змесціва для далейшага выкарыстання.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Open as many tabs as you like without losing track of your open Web pages.
+Адкрывайце столькі картак, колькі пажадаеце, не губляючы адчыненых вэб-старонак.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -101,7 +101,7 @@ Open as many tabs as you like without losing track of your open Web pages.
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Spend your time reading your favorites sites instead of looking for them.
+Марнуйце свой час на чытанне любімых сайтаў, а не на іх пошук.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -110,7 +110,7 @@ Spend your time reading your favorites sites instead of looking for them.
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
-Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+Кантралюйце сваю працу ў Інтэрнэце шляхам персаналізацыі Firefox праз дадаткі блакавання рэкламы, менеджары пароляў і загрузак ды іншыя шматлікія магчымасці.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -119,7 +119,7 @@ Take control of your Web experience by personalizing Firefox with add-ons like a
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
-Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox памятае вашы нядаўна выкарыстаныя праграмы, каб дапамагчы вам лёгка дзяліцца змесцівам у Facebook, Twitter, WhatsApp, Skype ды інш.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -128,7 +128,7 @@ Firefox remembers your most recently used apps to help you easily share content 
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
-Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Дасылайце відэа і вэб-змесціва са свайго смартфона або планшэта на любы тэлевізар з падтрымкай струменевага відэа.
 
 
 ;Learn more about Firefox for Android:
@@ -165,11 +165,11 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla існуе каб ствараць Інтэрнэт, як даступны ўсім грамадскі рэсурс, таму што мы верым у тое, што адкрытасць і свабода лепш, чым закрытасць і кантроль.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Мы ствараем прадукты накшталт Firefox каб распаўсюджваць выбар і празрыстасць, а таксама каб даць людзям магчымасць кантраляваць сваё жыццём у Інтэрнэце.
 
 
 ;Learn more at {{mozilla_org_link}}
@@ -187,17 +187,17 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Пераходзьце на магутны Firefox і<br>далучайцеся да сотняў мільёнаў<br>карыстальнікаў Firefox на камп'ютары і мабільных прыладах.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Пераходзьце на магутны Firefox і<br>далучайцеся да сотняў мільёнаў карыстальнікаў Firefox
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Пераходзьце на Firefox і далучайцеся да<br>сотняў мільёнаў карыстальнікаў Firefox
 
 
 # Screenshot text, displayed as a bold title
@@ -217,7 +217,7 @@ Upgrade to Firefox and join<br>hundreds of millions of Firefox users
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-Get accurate, predictive results <br>before you finish typing
+Атрымлівайце дакладныя, спрагназаваныя вынікі <br>перад тым, як вы завершыце ўвод запыту
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
@@ -227,7 +227,7 @@ Get accurate, predictive results <br>before you finish typing
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Атрымлівайце імгненны доступ да сваіх закладак, <br>гісторыі, адкрытых картак і пароляў, <br>дзе б вы ні выкарыстоўвалі Firefox
 
 
 # Title of screenshot
@@ -247,7 +247,7 @@ Instantly access your bookmarks, <br>history, open tabs and passwords <br>everyw
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
-Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
+Персаналізуйце свой браўзер <br>дадаткамі для блакавання рэкламы, менеджарамі <br>пароляў і загрузак і многім іншым.
 
 
 # Title of screenshot
@@ -257,7 +257,7 @@ Personalize your Web browser with <br>add-ons like ad blockers, password <br>and
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
-Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+Firefox памятае вашы нядаўна <br>выкарыстаныя праграмы, каб дапамагчы вам <br>лёгка дзяліцца змесцівам так, як вы жадаеце
 
 
 # Title of screenshot
@@ -267,6 +267,6 @@ Firefox remembers your recently <br>used apps to help you get the <br>word out t
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
-Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+Адпраўляйце відэа і вэб-змесціва са свайго <br>смартфона або планшэта на любую <br>прыладу, якая падтрымліваецца
 
 
