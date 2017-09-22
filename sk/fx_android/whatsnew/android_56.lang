@@ -1,0 +1,16 @@
+## NOTE: These strings are displayed on Google Play in the What’s new section for Firefox 56
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fx_android/release/
+
+
+;Android WebExtension API implemented
+Bolo implementované Android WebExtension API
+
+
+;Utilize hardware encoders & decoders for WebRTC to save power consumption and improve performance
+Za účelom nižšej spotreby batérie a vyššieho výkonu boli implementované hardvérové kodéry a dekodéry pre WebRTC
+
+
+;Support of Android 4.0 (API 15) ended
+Podpora pre Android 4.0 (API 15) sa skončila
+
+

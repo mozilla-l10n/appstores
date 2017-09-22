@@ -1,0 +1,16 @@
+## NOTE: These strings are displayed on Google Play in the What’s new section for Firefox 56
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fx_android/release/
+
+
+;Android WebExtension API implemented
+實做了 Android 的 WebExtension API
+
+
+;Utilize hardware encoders & decoders for WebRTC to save power consumption and improve performance
+針對 WebRTC 使用硬體編解碼器，以節省電力消耗並改善效能
+
+
+;Support of Android 4.0 (API 15) ended
+停止支援 Android 4.0 (API 15)
+
+
