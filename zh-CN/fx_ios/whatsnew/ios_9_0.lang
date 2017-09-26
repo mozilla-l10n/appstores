@@ -3,7 +3,7 @@
 
 
 ;Tracking protection is now enabled in private browsing mode by default. Firefox will automatically block third party trackers, which limits ads following you around the internet and increases browsing speed.
-隐私浏览模式现在默认启用跟踪保护功能。Firefox 将自动拦截第三方的跟踪器，从而限制广告跟踪您的活动，并改善浏览速度。
+隐私浏览模式现在默认启用跟踪保护功能。Firefox 将自动拦截第三方的跟踪器，从而限制对您活动的跟踪，并改善浏览速度。
 
 
 ;Improved sync functionality between your mobile and desktop versions of Firefox. Update passwords, history and bookmarks on mobile and access them on your desktop browser (and vice versa).
