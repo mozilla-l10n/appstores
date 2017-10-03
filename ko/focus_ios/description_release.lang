@@ -11,7 +11,7 @@
 # 5) Firefox Focus: Private. Fast
 # 6) Firefox Focus
 ;Firefox Focus: Privacy Browser
-Firefox Focus: Privacy Browser
+Firefox Focus: 사생활 보호 전용 브라우저
 
 
 # Application subtitle. Maximum length is 30 characters.
@@ -20,7 +20,7 @@ Firefox Focus: Privacy Browser
 # 2) Automatically block ads
 # 3) Browse like no one's watching
 ;Always-on ad blocking
-Always-on ad blocking
+자동 광고 차단 
 
 
 ;Browse like no one’s watching.
