@@ -57,6 +57,6 @@ Pogledajte popis podržanih uređaja i najnovije minimalne zahtjeve sustava na {
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Mozilla marketing: Kako bismo bolje razumjeli performansu pojedinih Mozilla marketing kampanja, Firefox šalje podatke, uključujući Google ID za oglašavanje, IP adresu, vremensku oznaku, državu, jezik, operativni sustav, inačicu aplikacije, našoj trećoj strani. Saznajte više čitanjem naše politike privatnosti ovdje: {{privacy_link}}
 
 
