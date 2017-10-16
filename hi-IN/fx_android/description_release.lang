@@ -23,7 +23,7 @@ Firefox वेब ब्राउज़र
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Firefox स्वतंत्र, जन प्रधान Mozilla द्वारा निर्मित ब्राउज़र है, गोपनीयता के लिए सबसे भरोसेमंद इंटरनेट कंपनी निर्वाचित है.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
@@ -62,7 +62,7 @@ NEXT LEVEL PRIVACY {ok}
 
 
 ;Your privacy has been upgraded.
-Your privacy has been upgraded.
+आपके गोपनीयता को सुधारा गया है.
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
@@ -97,7 +97,7 @@ Open as many tabs as you like without losing track of your open Web pages.
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+आपके शीर्ष साइटों तक आसान पहुँच
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
@@ -242,7 +242,7 @@ Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that
 
 # Title of screenshot
 ;Add-ons for everything
-Add-ons for everything
+सब कुछ के लिए ऐड-ऑन
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
