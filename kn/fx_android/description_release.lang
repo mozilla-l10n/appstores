@@ -32,7 +32,7 @@ Upgrade today and join hundreds of millions who depend on Firefox for a more per
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+FAST. SMART. YOURS. {ok}
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
@@ -45,7 +45,7 @@ That’s why we design the product with smart features that take the guesswork o
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+SEARCH INTELLIGENTLY & GET THERE FASTER {ok}
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
@@ -58,7 +58,7 @@ Easily access shortcuts to search providers including Wikipedia, Twitter and Ama
 
 # Slogan in uppercase, displayed as a category title
 ;NEXT LEVEL PRIVACY
-NEXT LEVEL PRIVACY
+NEXT LEVEL PRIVACY {ok}
 
 
 ;Your privacy has been upgraded.
@@ -66,12 +66,12 @@ Your privacy has been upgraded.
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
-Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+ಜಾಡುಹಿಡಿಯುವ ಸುರಕ್ಷತೆಯೊಂದಿಗೆ ಖಾಸಗಿ ಜಾಲಾಡುವುದರಿಂದ ನಿಮ್ಮ ಜಾಲಾಟದ ಜಾಡನ್ನು ಇರಿಸಿಕೊಳ್ಳುವ ಪುಟದ ಕೆಲವು ಭಾಗಗಳನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತಿದೆ.
 
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+SYNC FIREFOX ACROSS YOUR DEVICES {ok}
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
@@ -84,7 +84,7 @@ Firefox also safely remembers your passwords across devices so you don’t have 
 
 # Slogan in uppercase, displayed as a category title
 ;INTUITIVE VISUAL TABS
-INTUITIVE VISUAL TABS
+INTUITIVE VISUAL TABS {ok}
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
@@ -97,7 +97,7 @@ Open as many tabs as you like without losing track of your open Web pages.
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+YOUR TOP SITES ಗೆ EASY ACCESS
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
@@ -106,7 +106,7 @@ Spend your time reading your favorites sites instead of looking for them.
 
 # Slogan in uppercase, displayed as a category title
 ;ADD-ONS FOR EVERYTHING
-ADD-ONS FOR EVERYTHING
+ADD-ONS FOR EVERYTHING {ok}
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
@@ -115,7 +115,7 @@ Take control of your Web experience by personalizing Firefox with add-ons like a
 
 # Slogan in uppercase, displayed as a category title
 ;QUICK SHARE
-QUICK SHARE
+QUICK SHARE {ok}
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
