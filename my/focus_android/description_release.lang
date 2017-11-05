@@ -4,7 +4,7 @@
 
 # Application title. Maximum length is 50 characters, rephrase if needed.
 ;Firefox Focus: The privacy browser
-Firefox Focus: ကိုယ်ရေးလုံခြုမှုအလေးပေး ဘရောင်ဇာ
+Firefox Focus: ကိုယ်ရေးလုံခြုံမှုအလေးပေး ဘရောင်ဇာ
 
 
 # Application title. Maximum length is 50 characters.
@@ -18,11 +18,11 @@ Firefox Focus: သီးသန့် ဘရောင်ဇာ
 # a) Get The Privacy Browser. Fast & always private, from a brand you trust
 # b) Get The Privacy Browser. Fast & always private, from Firefox
 ;Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
-Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+သင်ယုံကြည်ရသော Firefox ထံမှ မြန်ဆန်လုံခြုံသည့် သီးသန့် ဘရောင်ဇာကို ရယူပါ။
 
 
 ;Browse like no one’s watching.
-Browse like no one’s watching.
+မည်သူမျှ စောင့်ကြည့်ခြင်းမရှိသကဲ့သို့ အင်တာနက်ကို အသုံးပြုပါ
 
 
 ;The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
@@ -42,7 +42,7 @@ Focus is next-level privacy that’s free, always on and always on your side —
 
 
 ;AUTOMATIC PRIVACY
-AUTOMATIC PRIVACY
+AUTOMATIC PRIVACY {ok}
 
 
 ;Blocks a wide range of common Web trackers without any settings to set
@@ -54,7 +54,7 @@ Easily erases your history — no passwords, no cookies, no trackers
 
 
 ;BROWSE FASTER
-BROWSE FASTER
+BROWSE FASTER {ok}
 
 
 ;By removing trackers and ads, Web pages may require less data and load faster
@@ -62,7 +62,7 @@ By removing trackers and ads, Web pages may require less data and load faster
 
 
 ;MADE BY MOZILLA
-MADE BY MOZILLA
+MADE BY MOZILLA {ok}
 
 
 ;We believe everyone should have control over their lives online. That’s what we’ve been fighting for since 1998.
