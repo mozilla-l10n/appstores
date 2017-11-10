@@ -7,7 +7,7 @@ Added the ability for users to add websites to home screen like native applicati
 
 
 ;Added support for FLAC (Free Lossless Audio Codec) playback
-Lagt til støtte for FLAC (Free Lossless Audio Codec) -avspilling
+Lagt til støtte for FLAC-avspilling (Free Lossless Audio Codec)
 
 
 ;Added Bengali from Bangladesh (bn-BD) and Nepali (ne-NP) locales
@@ -15,6 +15,6 @@ Added Bengali from Bangladesh (bn-BD) and Nepali (ne-NP) locales
 
 
 ;Removed the Firefox Search widget from home screen
-Removed the Firefox Search widget from home screen
+Fjernet Firefox søk-widgeten fra startskjermbildet
 
 
