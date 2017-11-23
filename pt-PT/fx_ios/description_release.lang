@@ -50,7 +50,7 @@ PESQUISE DE FORMA INTELIGENTE e CHEGUE LÁ MAIS RÁPIDO
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox antecipa as suas necessidades e fornece, de forma intuitiva, resultados de pesquisas anteriores e resultados de pesquisa através dos seus motores de pesquisa favoritos. Sempre.
+O Firefox antecipa as suas necessidades e fornece, de forma intuitiva, resultados de pesquisas anteriores e resultados de pesquisa através dos seus motores de pesquisa favoritos. Sempre.
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
@@ -66,7 +66,7 @@ A sua informação pessoal é sua. No modo Navegação Privada, o Firefox não i
 
 
 ;Delete your browsing history, passwords and more in a single tap.
-Elimine o seu histórico de navegação, palavras-passe, entre outros, com um simples toque.
+Elimine o seu histórico de navegação, palavras-passe e mais, com um simples toque.
 
 
 ;Choose the private data you want to remove.
@@ -79,11 +79,11 @@ SINCRONIZE O FIREFOX NOS SEUS DISPOSITIVOS
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-Com uma Conta Firefox, aceda no seu smartphone ou tablet ao seu histórico, marcadores e separadores abertos no seu computador.
+Com uma Conta Firefox, aceda ao seu histórico, marcadores e separadores abertos no seu computador, no seu smartphone ou tablet.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox também guarda, de forma segura, as suas palavras-passe dentre os vários dispositivos associados, para que você não tenha de o fazer.
+O Firefox também guarda, de forma segura, as suas palavras-passe através dos vários dispositivos associados, para que não tenha de o fazer.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -92,7 +92,7 @@ SEPARADORES VISUAIS INTUITIVOS
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Os separadores visuais e numerados permitem-lhe encontrar conteúdo para referência futura.
+Separadores visuais e numerados permitem-lhe encontrar conteúdo para referência futura.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
@@ -142,7 +142,7 @@ SOBRE A MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla existe para construir a Internet como um recurso público acessível a todos, porque acreditamos que aberto e livre é melhor do que fechado e controlado.
+A Mozilla existe para construir a Internet como um recurso público acessível a todos, porque acreditamos que aberto e livre é melhor do que fechado e controlado.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
@@ -154,7 +154,7 @@ Saiba mais em {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Política de Privacidade: {{privacy_link}}
+Política de privacidade: {{privacy_link}}
 
 
 # Screenshot text, displayed as a bold title
