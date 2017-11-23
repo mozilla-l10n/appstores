@@ -3,7 +3,7 @@
 
 
 ;Tracking protection is now enabled in private browsing mode by default. Firefox will automatically block third party trackers, which limits ads following you around the internet and increases browsing speed.
-A Proteção Contra Monitorização está agora ativada na navegação privada por predefinição. Firefox irá bloquear automaticamente monitorizadores de terceiros, o que limita os anúncios ao seguir-lhe pela Internet e aumenta a velocidade de navegação.
+A Proteção contra monitorização está agora ativada no modo privado por predefinição. O Firefox irá bloquear automaticamente trackers de terceiros, o que limita os anúncios ao seguir-lhe pela internet e aumenta a velocidade de navegação.
 
 
 ;Improved sync functionality between your mobile and desktop versions of Firefox. Update passwords, history and bookmarks on mobile and access them on your desktop browser (and vice versa).
