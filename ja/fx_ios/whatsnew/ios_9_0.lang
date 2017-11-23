@@ -3,7 +3,7 @@
 
 
 ;Tracking protection is now enabled in private browsing mode by default. Firefox will automatically block third party trackers, which limits ads following you around the internet and increases browsing speed.
-プライベートブラウジングモード内のトラッキング保護を初期設定で有効化しました。Firefox はサードパーティートラッカーを自動的にブロックし、ウェブ上でユーザーに付いて回る広告を制限するとともにブラウジングを高速化します。
+プライベートブラウジングモード内のトラッキング防止を初期設定で有効化しました。Firefox はサードパーティートラッカーを自動的にブロックし、ウェブ上でユーザーに付いて回る広告を制限するとともにブラウジングを高速化します。
 
 
 ;Improved sync functionality between your mobile and desktop versions of Firefox. Update passwords, history and bookmarks on mobile and access them on your desktop browser (and vice versa).
