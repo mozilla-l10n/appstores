@@ -18,7 +18,7 @@ Para programadores - Seja o primeiro a testar futuros lançamentos do Firefox
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-O Firefox Nightly é um canal de desenvolvimento para novos lançamentos do Mozilla Firefox.
+Firefox Nightly é um canal de desenvolvimento para novos lançamentos do Mozilla Firefox.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
@@ -32,7 +32,7 @@ Descarregue a versão de lançamento do Firefox aqui: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-O Firefox Nightly é desenhado para demonstrar as compilações mais experimentais do Firefox. O canal Nightly permite que os utilizadores experimentem as inovações mais recentes do Firefox num ambiente instável e providenciem feedback acerca de funcionalidades e desempenho para ajudar a determinar o que chega ao lançamento final.
+Firefox Nightly é desenhado para demonstrar as compilações mais experimentais do Firefox. O canal Nightly permite que os utilizadores experimentem as inovações mais recentes do Firefox num ambiente instável e forneçam comentários acerca de funcionalidades e desempenho para ajudar a determinar o que chega ao lançamento final.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -42,7 +42,7 @@ Encontrou um bug? Reporte-o em {{bug_link}}
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-O Firefox Nightly envia automaticamente feedback para a Mozilla: {{telemetry_link}}
+Firefox Nightly envia automaticamente comentários para a Mozilla: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
