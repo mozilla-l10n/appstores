@@ -4,57 +4,57 @@
 
 # Title of the App on Google Play. There is a 50 characters max length.
 ;Firefox for Android Beta
-Firefox for Android Beta
+ഫയര്‍ഫോക്സ് ബീറ്റ - ആന്‍ഡ്രോയിഡിനുള്ളത്
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+ഔദ്യോഗിക ഫയർഫോക്സ് ബീറ്റ ബ്രൗസർ സ്വന്തമാക്കി നിങ്ങളുടെ ഫീഡ്ബാക്ക് നൽകൂ!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+പ്രൈം ടൈമിനായി ഏതാണ്ട് തയാറാക്കിയിട്ടുള്ള ഏറ്റവും പുതിയ ഫീച്ചറുകൾ പരിഷ്കരിക്കാനും നന്നാക്കിയെടുക്കാനും സഹായിക്കൂ. ഏറ്റവും മികച്ച പ്രകടനവും ഇഷ്ടാനുസൃതം മാറ്റാൻ സാധിക്കുന്നതും മെച്ചപ്പെട്ട സുരക്ഷയുള്ളതുമായ ഫയർഫോക്സ് ബീറ്റ, ഞങ്ങളുടെ അടുത്ത പതിപ്പിലേക്ക് മാറ്റുന്നതിന് മുൻപ് നിങ്ങൾ പരീക്ഷിച്ചു നോക്കാം.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+സവിശേഷതകൾക്കും പ്രവർത്തനരീതികൾക്കും അവസാനമിനുക്കുപണികൾ ചെയ്യാൻ സഹായിക്കുന്നതിലൂടെ ഒരു പ്രഭാവം സൃഷ്ടിക്കൂ.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+ഇന്റൽ x86 ആറ്റം അധിഷ്ഠിത ഉപകരണങ്ങൾ പരീക്ഷിക്കുന്നതിന് ഞങ്ങൾക്ക് നിങ്ങളുടെ സഹായം ആവശ്യമാണ്! നിങ്ങൾക്ക് ഒരു ഇന്റൽ x86 ആറ്റം അധിഷ്ഠിത ഉപകരണം ഉണ്ടെങ്കിൽ, ഫയർഫോക്സ് ബീറ്റ ഡൌൺലോഡ് ചെയ്ത് അതിനെപ്പറ്റി നിങ്ങൾ എന്ത് കരുതുന്നുവെന്ന് ഞങ്ങളോട് പറയൂ.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+ഒരു ബഗ് കണ്ടെത്തിയോ? {{android_bugs}} ൽ റിപ്പോർട്ട് ചെയ്യൂ.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+ഫയർഫോക്സ് അഭ്യർത്ഥിക്കുന്ന അനുമതികളെ സംബന്ധിച്ച് കൂടുതൽ അറിയാൻ ആഗ്രഹിക്കുന്നുണ്ടോ? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+ഞങ്ങൾ പിന്തുണയ്ക്കുന്ന ഉപകരണങ്ങളുടെ പട്ടികയും ഏറ്റവും കുറഞ്ഞ സിസ്റ്റം ആവശ്യകതകളുടെ ഏറ്റവും പുതിയ വിവരങ്ങളും കാണൂ https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+മോസില്ലയെ കുറിച്ച്
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+വെബിന്റെ ശക്തി ജനങ്ങളുടെ കൈകളിൽ നിലനിർത്തുന്നതിന് സമർപ്പിതമായി നിലകൊള്ളുന്ന അഭിമാനകരമാം വിധം ലാഭേച്ഛയില്ലാത്ത ഒരു സ്ഥാപനമാണ് മോസില്ല.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-We're a global community of users, contributors and developers working to innovate on your behalf.
+നിങ്ങളുടെ താൽപ്പര്യാർത്ഥം നവീകരിക്കാൻ പ്രവർത്തിക്കുന്ന ഉപയോക്താക്കളെയും സംഭാവന ചെയ്യുന്നവരുടേയും ഡെവലപ്പർമാരുടേയും ഒരു ആഗോള സമൂഹമാണ്.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+നിങ്ങൾ ഫയർഫോക്സ് ഉപയോഗിക്കുമ്പോൾ, വെബിന് ഒരു തിളക്കമാർന്ന ഭാവി കെട്ടിപ്പടുക്കാൻ ഞങ്ങളെ സഹായിക്കുന്ന ഒരു സമൂഹത്തിന്റെ ഭാഗമായി നിങ്ങൾ മാറുന്നു.
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+{{mozilla_org_link}} ൽ കൂടുതൽ അറിയുക.
 
 
