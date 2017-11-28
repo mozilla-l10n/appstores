@@ -8,51 +8,51 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+ഫയർഫോക്സ് നൈറ്റ്ലി - ഡെവലപ്പർമാർക്കുള്ളത്
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+ഡവലപ്പർമാർക്ക് വേണ്ടി - ഫയർഫോക്സിൻറെ ഭാവിയിലെ റിലീസുകൾ ആദ്യം പരിശോധിക്കുക
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+ഫയർഫോക്സ് നൈറ്റ്ലി പുതിയ മോസില്ല ഫയർഫോക്സ് റിലീസുകൾക്ക് വേണ്ടിയുള്ള ഒരു ഡെവലപ്മെന്റൽ ചാനൽ ആണ്.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+ഫയർഫോക്സ് അറോറ ഇപ്പോൾ ലഭ്യമല്ലെന്നും അത് ഫയർഫോക്സ് നൈറ്റ്ലിയിലേക്ക് മാറ്റിയതായും ശ്രദ്ധിക്കുക. കൂടുതൽ വിശദാംശങ്ങൾ ഇവിടെ: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+ഫയർഫോക്സിന്റെ റിലീസ് പതിപ്പ് ഇവിടെ നിന്നും ഡൌൺലോഡ് ചെയ്യൂ: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+ഫയർഫോക്സ് നൈറ്റ്ലി ഫയർഫോക്സിൻറെ കൂടുതൽ പരീക്ഷണാത്മക ബിൽഡുകൾ പ്രദർശിപ്പിക്കുന്നതിന് വേണ്ടി രൂപകൽപ്പന ചെയ്തതാണ്. ഏറ്റവും പുതിയ ഫയർഫോക്സ് നവീകരണങ്ങൾ ഒരു അസ്ഥിര സാഹചര്യത്തിൽ അനുഭവിക്കാൻ ഉപയോക്താക്കളെ സഹായിക്കുന്നതിനും ഫൈനൽ റിലീസുകൾ എന്തൊക്കെയാണെന്ന് നിർണ്ണയിക്കാൻ സഹായിക്കുന്ന സവിശേഷതകളേയും പ്രകടനങ്ങളേയും പറ്റി പ്രതികരണം നൽകുന്നതിനും ഫയർഫോക്സ് നൈറ്റ്ലി ചാനൽ അനുവദിക്കുന്നു.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+ഒരു ബഗ് കണ്ടെത്തിയോ? {{bug_link}} ൽ റിപ്പോർട്ട് ചെയ്യൂ
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+ഫയർഫോക്സ് നൈറ്റലി മോസില്ലയിലേക്ക് സ്വമേധയാ പ്രതികരണം അയയ്ക്കുന്നു: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+ഫയർഫോക്സ് അഭ്യർത്ഥിക്കുന്ന അനുമതികളെ സംബന്ധിച്ച് കൂടുതൽ അറിയാൻ ആഗ്രഹിക്കുന്നുണ്ടോ? {{permission_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+ഞങ്ങൾ പിന്തുണയ്ക്കുന്ന ഉപകരണങ്ങളുടെ പട്ടികയും ഏറ്റവും കുറഞ്ഞ സിസ്റ്റം ആവശ്യകതകളുടെ ഏറ്റവും പുതിയ വിവരങ്ങളും കാണൂ {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
