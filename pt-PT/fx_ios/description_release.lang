@@ -8,7 +8,7 @@
 # 2) Firefox Browser
 # 3) Firefox
 ;Firefox Web Browser
-Navegador Web Firefox
+Navegador web Firefox
 
 
 # Application subtitle. Maximum length is 30 characters.
@@ -24,7 +24,7 @@ Experimente uma Web rápida, inteligente e pessoal.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-O Firefox é um navegador independente, que coloca as pessoas em primeiro lugar, feito pela Mozilla que foi considerada a empresa de Internet mais confiável no que diz respeito à privacidade.
+O Firefox é um navegador independente e que coloca as pessoas em primeiro lugar. Um navegador criado pela Mozilla, considerada a empresa de Internet mais confiável no que diz respeito à privacidade.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
@@ -142,7 +142,7 @@ SOBRE A MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-A Mozilla existe para construir a Internet como um recurso público acessível a todos, porque acreditamos que aberto e livre é melhor do que fechado e controlado.
+A Mozilla existe para construir a Internet como um recurso público acessível para todos, porque acreditamos que aberto e livre é melhor do que fechado e controlado.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
@@ -219,7 +219,7 @@ Navegação privada
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Make specific tabs private and browse<br>the Web without your history being saved
-Transforme separadores específicos em privados <br>e navegue na Web sem guardar histórico
+Torne separadores específicos em privados <br>e navegue na Web sem guardar histórico
 
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
