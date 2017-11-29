@@ -4,13 +4,13 @@
 
 # Application title. Maximum length is 50 characters, rephrase if needed.
 ;Firefox Focus: The privacy browser
-Firefox Focus: The privacy browser
+Firefox Focus: Yksityisyysselain
 
 
 # Application title. Maximum length is 50 characters.
 # Obsolete title: do not remove
 ;Firefox Focus: Private Browser
-Firefox Focus: Private Browser
+Firefox Focus: Yksityinen selain
 
 
 # Short description. Maximum length is 80 characters.
@@ -18,11 +18,11 @@ Firefox Focus: Private Browser
 # a) Get The Privacy Browser. Fast & always private, from a brand you trust
 # b) Get The Privacy Browser. Fast & always private, from Firefox
 ;Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
-Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
+Hanki yksityinen selain. Nopea ja aina yksityinen, Firefoxilta
 
 
 ;Browse like no one’s watching.
-Browse like no one’s watching.
+Selaa niin kuin kukaan ei katsoisi.
 
 
 ;The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
