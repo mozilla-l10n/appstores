@@ -101,7 +101,7 @@ Open as many tabs as you like without losing track of your open Web pages.
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
-Spend your time reading your favorites sites instead of looking for them.
+अपना समय अपनी पसंदीदा साइटों को पढ़ने में व्यतीत करें, बजाए उनको खोजने में.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -146,12 +146,12 @@ Firefox अनुमतियों के बारे में पढ़े�
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+Mozilla की गतिविधियों के बारे में और जानें: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+Facebook पर Firefox को पसंद करे: {{facebook_link}}
 
 
 # Bulleted list item
