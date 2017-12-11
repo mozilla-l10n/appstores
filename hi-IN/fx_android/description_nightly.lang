@@ -32,7 +32,7 @@ Firefox के रिलीज़ संस्करण यहाँ पे ड�
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly Firefox के अधिक प्रयोगात्मक बनावटों को प्रदर्शित करने के लिए डिज़ाइन किया गया है. Nightly चैनल उपयोगकर्ताओं को Firefox के नवीनतम नवाचारों से अस्थिर वातावरण में काम करने और अंतिम संस्करण में क्या शामिल किया जाएगा यह निर्धारित करने में सुविधाओं और प्रदर्शन पर प्रतिक्रिया प्रदान करने की अनुमति देता है.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -52,7 +52,7 @@ Firefox अनुरोध अनुमति के बारे में औ�
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+हमारे समर्थित उपकरणों की सूची और नवीनतम न्यूनतम सिस्टम आवश्यकताएं यहाँ देखें {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
