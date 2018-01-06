@@ -28,7 +28,7 @@ Firefox Nightly for Developers {ok}
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-הורידו את הגרסאות הרשמיות של Firefox כאן: {{download_link}}
+הורידו את הגרסה הרשמית של Firefox כאן: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
