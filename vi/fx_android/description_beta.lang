@@ -4,57 +4,57 @@
 
 # Title of the App on Google Play. There is a 50 characters max length.
 ;Firefox for Android Beta
-„Firefox Beta“ „Android“ platformai
+Firefox for Android Beta
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the official free Firefox Beta browser and give your feedback!
-Parsisiųskite oficialią „Firefox Beta“ naršyklę ir siųskite mums atsiliepimus!
+Get the official free Firefox Beta browser and give your feedback!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Padėkite poliruoti ir tobulinti naujausias funkcijas, jau beveik paruoštas oficialiam išleidimui. Naudodami „Firefox Betą“, galėsite išbandyti naujausius spartos, saugos ir individualizavimo patobulinimus prieš jiems patenkant į sekančią naršyklės laidą.
+Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Palikite savo indėlį, padėdami galutinai nublizginti naujausias funkcijas.
+Have an impact by helping to put the finishing touches on features and functionality.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-Mums labai reikia jūsų pagalbos testuojant „Intel Atom“ pagrindu veikiančius įrenginius! Jei turite „Intel Atom“ įrenginį, parsisiųskite „Firefox Betą“ ir pasidalinkite su mumis savo nuomone apie ją!
+We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Radote klaidą? Praneškite apie ją adresu {{android_bugs}}.
+Find a bug? Report it at {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Norite sužinoti daugiau apie leidimus (teises), kurių prašo „Firefox“? Apsilankykite adresu {{permission_link}}.
+Want to know more about the permissions Firefox requests? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-Susipažinkite su mūsų palaikomų įrenginių sąrašu ir minimaliais reikalavimais sistemai adresu https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
 ;ABOUT MOZILLA
-APIE „MOZILLĄ“
+ABOUT MOZILLA
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-„Mozilla“ – tai nesiekianti pelno ir tuo besididžuojanti organizacija, kurios tikslas – išsaugoti atvirąjį saityną prieinamą visiems.
+Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-Mes – pasaulinė naudotojų, talkininkų ir programuotojų bendruomenė, drauge dirbanti ir kurianti naujoves jūsų vardu.
+We're a global community of users, contributors and developers working to innovate on your behalf.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-Naudodamiesi „Firefox“, ir jūs tampate šios bendruomenės dalimi, taip padėdami mums kurti geresnę saityno ateitį.
+When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
 
 
 ;Learn more at {{mozilla_org_link}}.
-Sužinokite daugiau: {{mozilla_org_link}}.
+Learn more at {{mozilla_org_link}}.
 
 

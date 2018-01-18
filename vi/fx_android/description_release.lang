@@ -5,38 +5,38 @@
 # Title of the App on Google Play. There is a 50 characters max length.
 # If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
-„Firefox“ naršyklė – sparti ir privati
+Firefox Browser fast & private
 
 
 ;Firefox Web Browser
-„Firefox“ naršyklė
+Firefox Web Browser
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the customizable, private & free mobile browser that syncs across devices.
-Privati ir laisva mobilioji naršyklė su sinchronizavimo galimybe.
+Get the customizable, private & free mobile browser that syncs across devices.
 
 
 ;Experience a fast, smart and personal Web.
-Mėgaukitės sparčiu, patogiu ir suasmenintu naršymu.
+Experience a fast, smart and personal Web.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-„Firefox“ yra nepriklausoma naršyklė, kuriai svarbiausia – jūs. Sukurta „Mozillos“, išrinktos patikimiausia interneto kompanija privatumo srityje.
+Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Atsinaujinkite šiandien ir prisijunkite prie šimtų milijonų „Firefox“ naudotojų, pasirinkusių geresnį naršymo būdą.
+Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
 
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-SPARTI. SUMANI. JŪSŲ.
+FAST. SMART. YOURS.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-„Firefox“ sukurta, galvojant apie jus. Naršykite taip, kaip patogu jums.
+Firefox is made with you in mind and gives you the power to take back control of your Web experience.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
@@ -132,36 +132,36 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 
 ;Learn more about Firefox for Android:
-Sužinokite daugiau apie „Firefox“ „Android“ įrenginiams:
+Learn more about Firefox for Android:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Turite klausimų? Reikia pagalbos? Apsilankykite {{support_link}}
+Have questions or need help? Visit {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Paskaitykite apie „Firefox“ leidimus: {{permission_link}}
+Read about Firefox permissions: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Sužinokite, kas gero vyksta „Mozilloje“: {{blog_link}}
+Learn more about what’s up at Mozilla: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Pažymėkite „Facebook‘e“, kad „Firefox“ jums patinka: {{facebook_link}}
+Like Firefox on Facebook: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Sekite „Firefox“ „Twitter‘yje“: {{twitter_link}}
+Follow Firefox on Twitter: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-APIE „MOZILLĄ“
+ABOUT MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
@@ -252,7 +252,7 @@ Personalize your Web browser with <br>add-ons like ad blockers, password <br>and
 
 # Title of screenshot
 ;Quick Share
-Spartusis dalijimasis
+Quick Share
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
