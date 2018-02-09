@@ -47,7 +47,7 @@ Firefox Nightly trimite automat feedback către Mozilla: {{telemetry_link}}
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Dorești să știi mai multe despre permisiunile pe care le solicită Firefox? {{permissions_link}}
+Vrei să știi mai multe despre permisiunile pe care le solicită Firefox? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
