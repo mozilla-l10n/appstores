@@ -173,16 +173,16 @@ Mozilla इंटरनेट को सभी के पहुँच योग�
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+{{mozilla_org_link}} पर अधिक जानकारी पाएँ
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+गोपनीयता नीति: {{privacy_link}}
 
 
 # Title of screenshot
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+तेज़. चालाक. आपका
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
@@ -202,7 +202,7 @@ Upgrade to Firefox and join<br>hundreds of millions of Firefox users
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Intuitive visual tab design
+सहज दृश्य टैब अभिकल्प
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
