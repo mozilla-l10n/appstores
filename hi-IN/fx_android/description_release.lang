@@ -27,7 +27,7 @@ Firefox स्वतंत्र, जन प्रधान Mozilla द्वा
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+आज ही सुधार करें और उन करोड़ों लोगों के साथ जुड़ें जो कि Firefox पर एक ज़्यादा व्यक्तिगत ब्राउज़िंग अनुभव के लिए निर्भर हैं.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -36,11 +36,11 @@ Upgrade today and join hundreds of millions who depend on Firefox for a more per
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox आपको ध्यान में रख कर बनाया गया है और यह आपको आपके वेब अनुभव का नियंत्रण वापस लेने की शक्ति देता है.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
-That’s why we design the product with smart features that take the guesswork out of browsing.
+इसलिए हम अपने उत्पाद को चतुर विशेषताओं के साथ तैयार करते हैं जो ब्राउज़िंग से अनुमानों को बाहर कर देते हैं.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -49,11 +49,11 @@ SEARCH INTELLIGENTLY & GET THERE FASTER
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox आपकी ज़रूरतों का पूर्वानुमान लगाता है और आपके मनपसंद खोज इंजनों में कई सुझाए गए और पिछले खोजे गए परिणामों को सहजता से उपलब्ध कराता है. हर बार.
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
-Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Wikipedia, Twitter और Amazon सहित खोज प्रदाताओं के शॉर्टकट्स तक आसानी से पहुँचें.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -66,7 +66,7 @@ NEXT LEVEL PRIVACY {ok}
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
-Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+ट्रैकिंग संरक्षण के साथ निज़ी ब्राउज़िंग वेब पृष्ठों के उन हिस्सों को अवरुद्ध करता है जो आपकी ब्राउज़िंग गतिविधि पर निगाह रख सकते हैं.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -75,11 +75,11 @@ SYNC FIREFOX ACROSS YOUR DEVICES
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+एक Firefox खाते के साथ, अपने इतिहास, पृष्ठस्मृतियों और खुले टैबों को आपके डेस्क्टॉप से आपके स्मार्टफ़ोन और टैबलेट में प्राप्त करें.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox आपके कूटशब्दों को सभी उपकरणों में सुरक्षित रूप से याद रखता है ताकि आपको न करना पड़े.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -88,11 +88,11 @@ INTUITIVE VISUAL TABS {ok}
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-Intuitive visual and numbered tabs easily let you find content for future reference.
+सहज दृश्य और क्रमिक टैब आपके वस्तुओं को भविष्य के संदर्भों के लिए आसानी से ढूँढने देते हैं.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
-Open as many tabs as you like without losing track of your open Web pages.
+अपने खुले वेब पृष्ठों के पदचिन्ह खोए बिना जितने चाहे उतने टैब खोलिए.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -110,16 +110,16 @@ ADD-ONS FOR EVERYTHING
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
-Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
+विज्ञापन अवरोधकों, कूटशब्द और डाउनलोड प्रबंधकों इत्यादि जैसे ऐड-ऑन के साथ Firefox का निजीकरण करके अपने वेब अनुभव का नियंत्रण करें.
 
 
 # Slogan in uppercase, displayed as a category title
 ;QUICK SHARE
-QUICK SHARE
+तुरंत साझा करें
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
-Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Facebook, Twitter, WhatsApp, Skype इत्यादि में आसानी से सामग्री साझा करने में आपकी मदद करने के लिए Firefox आपके हाल ही में उपयोग किए गए ऐप्स को याद रखता है.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -156,7 +156,7 @@ Facebook पर Firefox को पसंद करे: {{facebook_link}}
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Twitter पर Firefox को अनुसरण करें: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
@@ -192,7 +192,7 @@ Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox u
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Firefox कि ताक़त को उद्यतन करें और <br>करोड़ों Firefox उपभोक्ताओं से जुड़ें
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
@@ -222,7 +222,7 @@ Get accurate, predictive results <br>before you finish typing
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-Seamless browsing <br>with Sync
+निर्बाध ब्राउज़िंग <br>सिंक के साथ
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -267,6 +267,6 @@ Firefox आपके हाल में <br>उपयोग किए गए �
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
-<br>आपके स्मार्टफ़ोन या टैबलेट से <br>किसी भी समर्थित उपकरण में वीडियो और वेब सामग्री भेजें 
+<br>आपके स्मार्टफ़ोन या टैबलेट से <br>किसी भी समर्थित उपकरण में वीडियो और वेब सामग्री भेजें
 
 
