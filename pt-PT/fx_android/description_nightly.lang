@@ -57,6 +57,6 @@ Veja a nossa lista de dispositivos suportados e os mais recentes requisitos de s
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Marketing da Mozilla: Para entender o desempenho de certas campanhas da Mozilla, o Firefox envia dados, incluindo um ID de publicidade da Google, endereço de IP, marcas temporais, país, língua/idioma, sistema operativo, versão da aplicação, para o nosso fornecedor (terceiro). Saiba mais ao ler a nossa Nota de privacidade aqui: {{privacy_link}}
+Marketing da Mozilla: Para entender o desempenho de certas campanhas da Mozilla, o Firefox envia dados, incluindo um ID de publicidade da Google, endereço de IP, marcas temporais, país, língua/idioma, sistema operativo, versão da aplicação, para o nosso fornecedor (terceiro). Saiba mais ao ler o nosso Aviso de privacidade aqui: {{privacy_link}}
 
 
