@@ -42,7 +42,7 @@ Firefox Nightly is designed to showcase the more experimental builds of Firefox.
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly จะส่งเสียงตอบรับกลับไปยัง Mozilla โดยอัตโนมัติ: {{telemetry_link}}
+Firefox Nightly จะส่งข้อคิดเห็นไปยัง Mozilla โดยอัตโนมัติ: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
