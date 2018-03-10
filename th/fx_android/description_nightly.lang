@@ -18,7 +18,7 @@ Firefox Nightly สำหรับนักพัฒนา
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox Nightly เป็นช่องทางพัฒนาสำหรับ Mozilla Firefox รุ่นใหม่
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
@@ -52,7 +52,7 @@ Firefox Nightly จะส่งข้อคิดเห็นไปยัง Moz
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+ดูรายการอุปกรณ์ที่รองรับและข้อกำหนดระบบขั้นต่ำล่าสุดของเราได้ที่ {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
