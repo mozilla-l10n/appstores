@@ -5,7 +5,7 @@
 # Title of the App on Google Play. There is a 50 characters max length.
 # If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
-Firefox Browser fast & private
+ບຣາວເຊີ Firefox ໄວແລະເປັນສ່ວນໂຕ
 
 
 ;Firefox Web Browser
@@ -124,7 +124,7 @@ Firefox remembers your most recently used apps to help you easily share content 
 
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
-TAKE IT TO THE BIG SCREEN
+ນຳຂື້ນຫນ້າຈໍຂະຫນາດໃຫຍ່
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
@@ -136,17 +136,17 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+ມີຄຳຖາມຫລືຕ້ອງການຄວາມຊ່ວຍເຫລືອ? ຢຽມຢາມ {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+ອ່ານກ່ຽວກັບການອະນຸຍາດຂອງ Firefox: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບສິ່ງທີ່ເກີດຂື້ນໃນ Mozilla: {{blog_link}}
 
 
 # Bulleted list item
