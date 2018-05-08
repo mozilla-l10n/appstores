@@ -3,10 +3,10 @@
 
 
 ;Quantum CSS improvements which improve page rendering times
-Quantum CSS improvements which improve page rendering times
+Quantum CSS 引擎改善了頁面的渲染速度
 
 
 ;Faster scrolling due to treating touch event listeners as passive by default
-Faster scrolling due to treating touch event listeners as passive by default
+預設將觸控事件當成被動事件，讓頁面捲動變得更快
 
 
