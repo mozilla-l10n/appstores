@@ -1,0 +1,62 @@
+## NOTE: This is the text used on Google Play for Firefox for Android Nightly
+## NOTE: See https://l10n.mozilla-community.org//stores_l10n/locale/fx_android/nightly/
+
+
+# Title of the App on Google Play. There is a 50 characters max length.
+# These are alternative versions if you need to shorten your translation
+# a) Firefox Nightly (Developers)
+# b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
+# c) Firefox Nightly
+;Firefox Nightly for Developers
+Firefox Nightly for Developers {ok}
+
+
+# This is the short tagline for the app on Google Play.
+# Max length is 80 characters, so you might have to rephrase in order to fit.
+;For Developers - Be the first to test future releases of Firefox
+For Developers - Be the first to test future releases of Firefox {ok}
+
+
+;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox Nightly is a developmental channel for new Mozilla Firefox releases. {ok}
+
+
+# Do no translate {{dawn_post}}, it will replaced by a link
+;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}} {ok}
+
+
+# Do no translate {{download_link}}, it will replaced by a link
+;Download the release version of Firefox here: {{download_link}}
+Download the release version of Firefox here: {{download_link}} {ok}
+
+
+;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release. {ok}
+
+
+# Do no translate {{bug_link}}, it will replaced by a link
+;Found a bug? Report it at {{bug_link}}
+Found a bug? Report it at {{bug_link}} {ok}
+
+
+# Do no translate {{telemetry_link}}, it will replaced by a link
+;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}} {ok}
+
+
+# Do no translate {{permissions_link}}, it will replaced by a link
+;Want to know more about the permissions Firefox requests? {{permissions_link}}
+Want to know more about the permissions Firefox requests? {{permissions_link}} {ok}
+
+
+# Do no translate {{requirements_link}}, it will replaced by a link
+;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+See our list of supported devices and latest minimum system requirements at {{requirements_link}} {ok}
+
+
+# Do no translate {{privacy_link}}, it will replaced by a link
+;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}} {ok}
+
+
