@@ -7,6 +7,6 @@
 
 
 ;Faster scrolling due to treating touch event listeners as passive by default
-Faster scrolling due to treating touch event listeners as passive by default
+Derulare mai rapidă a paginilor datorită tratării drept pasive a listenerilor de evenimente tactile în mod implicit
 
 
