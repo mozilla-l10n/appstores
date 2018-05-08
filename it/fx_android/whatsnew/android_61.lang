@@ -1,0 +1,12 @@
+## NOTE: These strings are displayed on Google Play in the What’s new section for Firefox 61 beta
+## NOTE: See https://l10n.mozilla-community.org/stores_l10n/locale/fx_android/beta/
+
+
+;Quantum CSS improvements which improve page rendering times
+I miglioramenti legati a Quantum CSS riducono il tempo necessario per visualizzare le pagine
+
+
+;Faster scrolling due to treating touch event listeners as passive by default
+Scorrimento delle pagine più veloce, grazie alla gestione degli eventi touch in modalità passiva per impostazione predefinita
+
+
