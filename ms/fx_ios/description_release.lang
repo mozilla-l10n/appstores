@@ -8,7 +8,7 @@
 # 2) Firefox Browser
 # 3) Firefox
 ;Firefox Web Browser
-Firefox Web Browser
+Pelayar Web Firefox
 
 
 # Application subtitle. Maximum length is 30 characters.
@@ -16,11 +16,11 @@ Firefox Web Browser
 # 1) Fast and private browsing
 # 2) Fast and private
 ;Fast and private browsing
-Fast and private browsing
+Pantas dan berperibadian
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+Alami Web yang pantas, pintar dan berperibadian.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
@@ -109,72 +109,72 @@ Spend your time reading your favorites sites instead of looking for them.
 
 
 ;Learn more about Firefox for iOS:
-Learn more about Firefox for iOS:
+Ketahui lanjut perihal Firefox untuk iOS:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+Anda mempunyai soalan atau memerlukan bantuan? Lawati {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+Baca keizinan Firefox: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+Ketahui lebih lanjut perihal terkini Mozilla: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+Like Firefox di Facebook: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Ikuti Firefox di Twitter: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+ABOUT MOZILLA {ok}
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
-Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
+Mozilla wujud untuk membina Internet sebagai sumber awam boleh diakses untuk semua kerana kami percaya keterbukaan dan kebebasan adalah lebih baik daripada apa yang ditutup dan dikawal.
 
 
 ;We build products like Firefox to promote choice and transparency and give people more control over their lives online.
-We build products like Firefox to promote choice and transparency and give people more control over their lives online.
+Kita membina produk seperti Firefox untuk mempromosi pilihan dan ketelusan dan memberikan pengguna lebih kawalan ke atas aktiviti dalam talian.
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Ketahui lanjut di {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Polisi Privasi: {{privacy_link}}
 
 
 # Screenshot text, displayed as a bold title
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Pantas. Pintar. Milik Anda
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Naik taraf kepada kuasa Firefox dan sertai<br>beratus-ratus juta pengguna<br>Firefox pada desktop dan telefon bimbit.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Naik taraf kepada kuasa Firefox dan sertai<br>beratus-ratus juta pengguna Firefox
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Naik taraf kepada Firefox dan sertai<br>beratus-ratus juta pengguna Firefox
 
 
 # Adjust line break tag position (<br>) for your language
@@ -184,37 +184,37 @@ Announcing<br>Firefox for iOS<br>Download now!
 
 # Screenshot text, displayed as a bold title
 ;Intuitive visual tab design
-Intuitive visual tab design
+Reka bentuk visual tab intuitif
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-Quickly find and manage<br>your open browser tabs
+Carian pantas dan menguruskan<br>tab pelayar yang anda buka
 
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Intelligent searches
+Carian pintar
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-Get accurate, predictive results <br>before you finish typing
+Dapatkan keputusan yang tepat dan dijangkakan<br>sebelum anda selesai menaip
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-Seamless browsing <br>with Sync
+Pelayaran lancar <br>dengan Sync
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Akses tanda buku dengan pantas, <br>sejarah, tab yang dibuka, dan kata laluan anda <br>di mana saja anda guna Firefox
 
 
 # Screenshot text, displayed as a bold title
 ;Private Browsing
-Private Browsing
+Pelayaran Peribadi
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
