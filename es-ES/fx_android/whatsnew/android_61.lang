@@ -7,6 +7,6 @@ El nuevo motor CSS de Quantum mejora los tiempos de renderizado de las páginas
 
 
 ;Faster scrolling due to treating touch event listeners as passive by default
-Faster scrolling due to treating touch event listeners as passive by default
+Desplazamiento más rápido gracias al tratamiento de los eventos táctiles como pasivos de forma predeterminada
 
 
