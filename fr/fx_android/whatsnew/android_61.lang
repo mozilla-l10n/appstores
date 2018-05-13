@@ -7,6 +7,6 @@ Améliorations pour le moteur CSS Quantum, réduisant ainsi le temps d’afficha
 
 
 ;Faster scrolling due to treating touch event listeners as passive by default
-Faster scrolling due to treating touch event listeners as passive by default
+Défilement plus rapide des pages, grâce à la gestion des écouteurs d’évènements tactiles, désormais passive par défaut
 
 
