@@ -7,6 +7,6 @@
 
 
 ;Faster scrolling due to treating touch event listeners as passive by default
-Faster scrolling due to treating touch event listeners as passive by default
+தொடு கேட்பான்களை இயல்பில் எவ்வளவு செயலற்று வைக்க முடியுமோ அவ்வாறு வைத்து வேகமான உருட்டலுக்கு வழிவகுக்கிறது
 
 
