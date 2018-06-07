@@ -79,7 +79,7 @@ With a Firefox Account, access your history, bookmarks and open tabs from your d
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
-Firefox also safely remembers your passwords across devices so you don’t have to.
+Firefox muistaa myös salasanasi puolestasi eri laitteiden välillä.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -115,16 +115,16 @@ Take control of your Web experience by personalizing Firefox with add-ons like a
 
 # Slogan in uppercase, displayed as a category title
 ;QUICK SHARE
-QUICK SHARE
+JAA NOPEASTI
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
-Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
+Firefox muistaa aiemmin käyttämäsi sovellukset, joten sisällön jakaminen Facebookissa, Twitterissä, WhatsAppissa, Skypessa ja muualla on vaivatonta.
 
 
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
-TAKE IT TO THE BIG SCREEN
+KATSO SUURELLA NÄYTÖLLÄ
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
@@ -132,36 +132,36 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 
 ;Learn more about Firefox for Android:
-Learn more about Firefox for Android:
+Lisätietoja Firefoxista Androidille:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+Onko sinulla kysymyksiä tai tarvitsetko apua? Käy sivulla {{support_link}}
 
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-Read about Firefox permissions: {{permission_link}}
+Lue lisää Firefoxin käyttöoikeuksista: {{permission_link}}
 
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+Seuraa mitä Mozillalla tapahtuu: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+Tykkää Firefoxista Facebookissa: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Seuraa Firefoxia Twitterissä: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+TIETOJA MOZILLASTA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
@@ -173,16 +173,16 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Lue lisää osoitteessa {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Yksityisyyskäytäntö: {{privacy_link}}
 
 
 # Title of screenshot
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Nopea. Älykäs. Sinun
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
@@ -197,7 +197,7 @@ Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox user
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Päivitä Firefoxiin ja liity<br>satoihin miljooniin Firefox-käyttäjiin
 
 
 # Screenshot text, displayed as a bold title
@@ -212,7 +212,7 @@ Quickly find and manage<br>your open browser tabs
 
 # Screenshot text, displayed as a bold title
 ;Intelligent searches
-Intelligent searches
+Älykkäät haut
 
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
@@ -232,7 +232,7 @@ Instantly access your bookmarks, <br>history, open tabs and passwords <br>everyw
 
 # Title of screenshot
 ;Next level privacy
-Next level privacy
+Seuraavan tason yksityisyyttä
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -242,7 +242,7 @@ Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that
 
 # Title of screenshot
 ;Add-ons for everything
-Add-ons for everything
+Lisäosia kaikkea varten
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -252,7 +252,7 @@ Personalize your Web browser with <br>add-ons like ad blockers, password <br>and
 
 # Title of screenshot
 ;Quick Share
-Quick Share
+Jaa nopeasti
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -262,7 +262,7 @@ Firefox remembers your recently <br>used apps to help you get the <br>word out t
 
 # Title of screenshot
 ;Send to device
-Send to device
+Lähetä laitteille
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
