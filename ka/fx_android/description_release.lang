@@ -110,7 +110,7 @@ Firefox ასევე უსაფრთხოდ დაიმახსოვ�
 
 
 ;Take control of your Web experience by personalizing Firefox with add-ons like ad blockers, password and download managers and more.
-სრულად მოირგეთ თქვენს მოთხოვნებზე Firefox მისი დამატებების მეშვეობით, როგორიცაა რეკლამის შეზღუდვის, პაროლების შენახვისა და ჩამოტვირთვების მართვის გაფართოებები და ა.შ.
+სრულად მოირგეთ Firefox, მისი დამატებების მეშვეობით, როგორიცაა რეკლამის შეზღუდვის, პაროლების შენახვის, ჩამოტვირთვების მართვის გაფართოებები და ა.შ.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -227,7 +227,7 @@ Mozilla არსებობს იმისთვის, რომ გახ�
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-მყისიერი წვდომა თქვენს სანიშნებთან, <br>ისტორიასთან, გახსნილ ჩანართებსა და პაროლებთან <br>ყველგან სადაც იყენებთ Firefox-ს
+მყისიერი წვდომა თქვენს სანიშნებთან, <br>ისტორიასთან, გახსნილ ჩანართებსა და პაროლებთან <br>ყველგან, სადაც იყენებთ Firefox-ს
 
 
 # Title of screenshot
@@ -257,7 +257,7 @@ Mozilla არსებობს იმისთვის, რომ გახ�
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
-Firefox იმახსოვრებს თქვენ მიერ ბოლოს <br>გამოყენებულ პროგრამებს და გეხმარებათ <br>ისე გამოიყენოთ მიღებული ინფორმაცია, როგორც გსურთ.
+Firefox იმახსოვრებს თქვენ მიერ ბოლოს <br>გამოყენებულ პროგრამებს და გეხმარებათ <br>მონაცემები განკარგოთ სურვილისამებრ
 
 
 # Title of screenshot
