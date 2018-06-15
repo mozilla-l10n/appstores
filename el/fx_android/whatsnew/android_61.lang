@@ -3,7 +3,7 @@
 
 
 ;Quantum CSS improvements which improve page rendering times
-Quantum CSS improvements which improve page rendering times
+Βελτιώσεις στο Quantum CSS για ταχύτερη φόρτωση σελίδων
 
 
 ;Faster scrolling due to treating touch event listeners as passive by default
