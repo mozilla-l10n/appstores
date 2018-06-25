@@ -47,7 +47,7 @@ Firefox Nightly స్వయంచాలకంగా Mozillaకి అభిప�
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-FIREFOX అనుమతులు గురించి తెలుసుకోవాలనుకుంటున్నారా? {{permissions_link}}
+Firefox అడిగే అనుమతుల గురించి మరింత తెలుసుకోవాలనుకుంటున్నారా? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link

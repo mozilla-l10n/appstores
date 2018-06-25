@@ -5,11 +5,11 @@
 # Title of the App on Google Play. There is a 50 characters max length.
 # If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
-Firefox బ్రౌజర్ వేగము మరియు ప్రైవేట్
+Firefox విహారిణి, వేగవంతం & అంతరంగికం
 
 
 ;Firefox Web Browser
-Firefox వెబ్ బ్రౌజర్
+Firefox జాల విహారిణి
 
 
 # This is the short tagline for the app on Google Play.
@@ -151,7 +151,7 @@ Firefox అనుమతుల గురించి చదవండి: {{permis
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+ఫేస్‌బుక్‌లో Firefoxని ఇష్టపడండి: {{facebook_link}}
 
 
 # Bulleted list item
