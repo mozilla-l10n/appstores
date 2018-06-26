@@ -7,6 +7,6 @@ Quantum CSS improvements which improve page rendering times
 
 
 ;Faster scrolling due to treating touch event listeners as passive by default
-Faster scrolling due to treating touch event listeners as passive by default
+Hurtigere scrolling fordi touch event listeners som standard behandles som passive
 
 
