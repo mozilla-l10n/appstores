@@ -3,7 +3,7 @@
 
 
 ;Quantum CSS improvements which improve page rendering times
-Quantum CSS improvements which improve page rendering times
+Sider indlæses hurtigere i kraft af Quantums CSS-forbedringer
 
 
 ;Faster scrolling due to treating touch event listeners as passive by default
