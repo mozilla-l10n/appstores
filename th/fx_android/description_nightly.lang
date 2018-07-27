@@ -28,7 +28,7 @@ Firefox Nightly เป็นช่องทางพัฒนาสำหรั�
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+ดาวน์โหลดรุ่นเผยแพร่ของ Firefox ได้ที่นี่: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
