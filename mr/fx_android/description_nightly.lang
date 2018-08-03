@@ -8,13 +8,13 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+विकसकासाठी Firefox Nightly
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+विकासकांकरीता - Firefox च्या भावी प्रकाशनांचे सर्वप्रथम परीक्षण करणारे व्हा
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
@@ -23,12 +23,12 @@ Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+कृपया लक्षात ठेवा की Firefox Aurora आता उपलब्ध नाही आणि ते Firefox Nightly मध्ये रूपांतरित झाले आहे. अधिक तपशील: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Firefox ची रिलीज आवृत्ती येथे डाउनलोड कराः {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
