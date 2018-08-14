@@ -37,7 +37,7 @@ Firefox Nightly is designed to showcase the more experimental builds of Firefox.
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+Löysitkö vian? Ilmoita siitä osoitteessa {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
