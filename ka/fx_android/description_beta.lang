@@ -30,11 +30,11 @@ Firefox ბეტა Android-ისთვის
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-გსურთ მეტის გაგება, Firefox-ის მიერ მოთხოვნილი ნებართვების შესახებ? {{permission_link}}
+ვრცლად, Firefox-ის მიერ მოთხოვნილი ნებართვების შესახებ იხილეთ {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-იხილეთ მხარდაჭერილი მოწყობილობების სია და სისტემის უახლესი მინიმალური მოთხოვნები ბმულზე https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+იხილეთ მხარდაჭერილი მოწყობილობების სია და სისტემის უახლესი მინიმალური მოთხოვნები ბმულზე https://www.mozilla.org/ka/firefox/mobile/platforms/.
 
 
 # TITLE
@@ -43,11 +43,11 @@ MOZILLA-ს შესახებ
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla ამაყობს რომ არამომგებიანი ორგანიზაციაა და ცდილობს ინტერნეტზე ძალაუფლება შენარჩუნებული იყოს ხალხის ხელში.
+Mozilla ამაყობს რომ არამომგებიანი ორგანიზაციაა, რომლის მიზანიც ინტერნეტზე ძალაუფლების ხალხის ხელში შენარჩუნებაა.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-ჩვენ ვართ გლობალური ერთობა მომხმარებლების, შემომწირველების და შემმუშავებლების, რომლებიც სიახლეებს ნერგავენ თქვენთვის.
+ჩვენ ვართ საერთაშორისო ერთობა მომხმარებლების, შემომწირველების და შემმუშავებლების, რომლებიც სიახლეებს ნერგავენ თქვენთვის.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
