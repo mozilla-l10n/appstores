@@ -4,7 +4,7 @@
 
 # Title of the App on Google Play. There is a 50 characters max length.
 ;Firefox for Android Beta
-Firefox Android Beta
+Firefox ბეტა Android-ისთვის
 
 
 # This is the short tagline for the app on Google Play.
@@ -14,7 +14,7 @@ Firefox Android Beta
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-დაგვეხმარეთ უახლესი ფუნქციების სათანადო დროისთვის დახვეწასა და გამართვაში. Firefox Beta საშუალებას გაძლევთ გამოსცადოთ სიახლეები წარმადობაში, მორგებასა და გაუმჯობესებულ უსაფრთხოებაში, სანამ ახალ ვერსიაში დაემატება.
+დაგვეხმარეთ უახლესი შესაძლებლობების სათანადო დროისთვის დახვეწასა და გამართვაში. Firefox-ის ბეტა ვერსია საშუალებას გაძლევთ გამოსცადოთ სიახლეები წარმადობასა და მორგების საშუალებებში, ასევე უსაფრთხოების გაუმჯობესებული ხარისხი წინასწარ, სანამ ეს ყველაფერი მომდევნო ვერსიაში გამოჩნდება.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
@@ -22,7 +22,7 @@ Firefox Android Beta
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-გვესაჭიროება დახმარება x86 Atom-ზე დაფუძნებული მოწყობილობების შემოწმებაში. თუ გაქვთ x86 Atom-ის მქონე მოწყობილობა, ჩამოტვირთეთ Firefox Beta და გვითხარით, რას ფიქრობთ.
+გვესაჭიროება დახმარება x86 Atom-ზე დაფუძნებული მოწყობილობების გამოცდაში. თუ გაქვთ x86 Atom-ის მქონე მოწყობილობა, ჩამოტვირთეთ Firefox-ის ბეტა ვერსია და გვითხარით, რას ფიქრობთ.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
