@@ -26,11 +26,11 @@ Intel x86 एटम पर आधारित उपकरण के जाँ�
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-एक बग  मिला? {{android_bugs}} पे इसे रिपोर्ट करें.
+एक बग मिला? {{android_bugs}} पर इसे रिपोर्ट करें।
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-अनुमति Firefox अनुरोध के बारे में और अधिक जानना चाहते हैं? {{permission_link}}
+Firefox द्वारा अनुरोध अनुमतियों के बारे में और अधिक जानना चाहते हैं? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
