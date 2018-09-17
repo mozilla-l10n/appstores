@@ -8,13 +8,13 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+ဖန်တီးသူများအတွက် Firefox Nightly
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+ဖန်တီးသူများအတွက် - Firefox ၏ နောင်ထုတ်ကုန်များကို မြည်းစမ်းရန် ပထဦးဆုံးသူဖြစ်ပါ
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
@@ -37,7 +37,7 @@ Firefox Nightly is designed to showcase the more experimental builds of Firefox.
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+အမှားတွေ့ပါသလား။ {{bug_link}} တွင် သတင်းပို့နိုင်သည်
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
