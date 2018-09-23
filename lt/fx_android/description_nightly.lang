@@ -52,11 +52,11 @@ Norite sužinoti daugiau apie „Firefox“ prašomus leidimus? {{permissions_li
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Palaikomų įrenginių sąrašą ir paskiausius reikalavimus sistemai rasite adresu {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+„Mozillos“ rinkodara: siekiant padėti įvertinti kai kurių „Mozillos“ rinkodaros kampanijų naudą, „Firefox“ siunčia duomenis, įskaitant jūsų „Google“ reklamavimo ID, IP adresą, laiko žymą, šalį, kalbą (lokalę), operacinę sistemą ir programos versiją mūsų partneriui (trečiajai šaliai). Plačiau apie tai – mūsų Privatumo pranešime: {{privacy_link}}
 
 

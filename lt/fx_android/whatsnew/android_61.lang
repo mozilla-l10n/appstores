@@ -3,10 +3,10 @@
 
 
 ;Quantum CSS improvements which improve page rendering times
-Quantum CSS improvements which improve page rendering times
+„Quantum CSS“ patobulinimų dėka tinklalapiai atvaizduojami dar greičiau
 
 
 ;Faster scrolling due to treating touch event listeners as passive by default
-Faster scrolling due to treating touch event listeners as passive by default
+Spartesnis slinkimas: lietimo įvykių prenumeratoriai dabar numatytai traktuojami kaip pasyvūs
 
 
