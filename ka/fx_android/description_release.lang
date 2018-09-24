@@ -88,7 +88,7 @@ Firefox-ანგარიში საშუალებას გაძლე�
 
 
 ;Intuitive visual and numbered tabs easily let you find content for future reference.
-ადვილად აღქმადი, გადანომრილი ჩანართები აადვილებს საჭირო მასალების მოძიებას სამომავლო გამოყენებისთვის.
+თვალსაჩინო, გადანომრილი ჩანართები აადვილებს საჭირო მასალების მოძიებას სამომავლო გამოყენებისთვის.
 
 
 ;Open as many tabs as you like without losing track of your open Web pages.
@@ -119,12 +119,12 @@ Firefox-ანგარიში საშუალებას გაძლე�
 
 
 ;Firefox remembers your most recently used apps to help you easily share content to Facebook, Twitter, WhatsApp, Skype and more.
-Firefox იმახსოვრებს თქვენ მიერ ხშირად გამოყენებულ პროგრამებს და გეხმარებათ მარტივად გააზიაროთ სასურველი ინფორმაცია Facebook-ით, Twitter-ით, WhatsApp-ით, Skype-ით და ა.შ.
+Firefox იმახსოვრებს თქვენ მიერ ხშირად გამოყენებულ პროგრამებს და გეხმარებათ მარტივად გააზიაროთ სასურველი ინფორმაცია სოციალურ ქსელებში, როგორიცაა Facebook, Twitter, WhatsApp, Skype და ა.შ.
 
 
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
-გაუშვით დიდ ეკრანზე
+დიდ ეკრანზე გაშვება
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
@@ -141,7 +141,7 @@ Firefox იმახსოვრებს თქვენ მიერ ხში
 
 # Bulleted list item
 ;Read about Firefox permissions: {{permission_link}}
-წაიკითხეთ Firefox-ის მოთხოვნილი უფლებების შესახებ: {{permission_link}}
+წაიკითხეთ Firefox-ის მიერ მოთხოვნილი ნებართვების შესახებ: {{permission_link}}
 
 
 # Bulleted list item
