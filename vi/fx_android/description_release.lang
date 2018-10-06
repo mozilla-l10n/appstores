@@ -5,11 +5,11 @@
 # Title of the App on Google Play. There is a 50 characters max length.
 # If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
-Firefox Browser fast & private
+Trình duyệt Firefox nhanh chóng & riêng tư
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Trình duyệt Firefox
 
 
 # This is the short tagline for the app on Google Play.
@@ -19,7 +19,7 @@ Get the customizable, private & free mobile browser that syncs across devices.
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+Trải nghiệm nhanh chóng, thông minh và cá nhân hóa Web.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
@@ -27,7 +27,7 @@ Firefox is the independent, people-first browser made by Mozilla, voted the Most
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Nâng cấp ngay hôm nay và tham gia hàng trăm triệu người sử dụng Firefox để có trải nghiệm duyệt cá nhân hiệu quả hơn.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -40,7 +40,7 @@ Firefox is made with you in mind and gives you the power to take back control of
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
-That’s why we design the product with smart features that take the guesswork out of browsing.
+Đó là lý do tại sao chúng tôi thiết kế sản phẩm với các tính năng thông minh để có thể đoán được việc duyệt web.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -49,11 +49,11 @@ SEARCH INTELLIGENTLY & GET THERE FASTER
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox dự đoán nhu cầu của bạn và cung cấp nhiều kết quả gợi ý đã tìm kiếm trước đó trên các công cụ tìm kiếm yêu thích của bạn. Bất cứ lúc nào.
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
-Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Dễ dàng truy cập các phím tắt để tìm kiếm các nhà cung cấp bao gồm Wikipedia, Twitter và Amazon.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -66,7 +66,7 @@ Your privacy has been upgraded.
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
-Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+Tính năng Duyệt Web Riêng Tư với Chặn Các Trình Theo Dõi của các trang web có thể theo dõi hoạt động duyệt web của bạn.
 
 
 # Slogan in uppercase, displayed as a category title
@@ -146,17 +146,17 @@ Read about Firefox permissions: {{permission_link}}
 
 # Bulleted list item
 ;Learn more about what’s up at Mozilla: {{blog_link}}
-Learn more about what’s up at Mozilla: {{blog_link}}
+Tìm hiểu thêm về có gì mới tại Mozilla: {{blog_link}}
 
 
 # Bulleted list item
 ;Like Firefox on Facebook: {{facebook_link}}
-Like Firefox on Facebook: {{facebook_link}}
+Thích Firefox trên Facebook: {{facebook_link}}
 
 
 # Bulleted list item
 ;Follow Firefox on Twitter: {{twitter_link}}
-Follow Firefox on Twitter: {{twitter_link}}
+Theo dõi Firefox tại Twitter: {{twitter_link}}
 
 
 # Slogan in uppercase, displayed as a category title
@@ -173,11 +173,11 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Tìm hiểu thêm tại {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Chính sách bảo mật: {{privacy_link}}
 
 
 # Title of screenshot
@@ -252,7 +252,7 @@ Personalize your Web browser with <br>add-ons like ad blockers, password <br>and
 
 # Title of screenshot
 ;Quick Share
-Quick Share
+Chia sẻ nhanh
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -262,7 +262,7 @@ Firefox remembers your recently <br>used apps to help you get the <br>word out t
 
 # Title of screenshot
 ;Send to device
-Send to device
+Gửi đến thiết bị
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language

@@ -8,22 +8,22 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+Firefox Nightly dành cho Nhà phát triển
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+Hãy là người đầu tiên kiểm tra các bản phát hành trong tương lai của Firefox
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox Nightly là một kênh nhà phát triển cho các bản phát hành Mozilla Firefox mới.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Hãy nhớ Firefox Aurora không còn khả dụng và đã chuyển thành Firefox Nightly. Chi tiết tại đây: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
@@ -37,12 +37,12 @@ Firefox Nightly is designed to showcase the more experimental builds of Firefox.
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Found a bug? Report it at {{bug_link}}
+Tìm thấy lỗi? Báo cáo tại {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly tự động gửi phản hồi cho Mozilla: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
@@ -52,7 +52,7 @@ Want to know more about the permissions Firefox requests? {{permissions_link}}
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Xem danh sách các thiết bị được hỗ trợ và yêu cầu hệ thống tối thiểu mới nhất của chúng tôi tại {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link

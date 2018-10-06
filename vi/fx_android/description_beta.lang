@@ -4,17 +4,17 @@
 
 # Title of the App on Google Play. There is a 50 characters max length.
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firerfox Beta dành cho Android
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Nhận trình duyệt Firefox Beta miễn phí và đưa ra phản hồi của bạn!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Giúp tinh chỉnh và trau chuốt các tính năng mới nhất gần như đã sẵn sàng cho thời gian chính thức. Với Firefox Beta, bạn sẽ có thể kiểm tra các tính năng mới nhất, tùy chỉnh và bảo mật trước khi đưa nó lên phiên bản tiếp theo của chúng tôi.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
@@ -22,11 +22,11 @@ Have an impact by helping to put the finishing touches on features and functiona
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Chúng tôi cần bạn trợ giúp để kiểm tra các thiết bị dựa trên nền tảng Intel x86 Atom! Nếu bạn có thiết bị dựa trên nền tảng Intel x86 Atom, hãy tải Firefox Beta và cho chúng tôi biết suy nghĩ của bạn.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Tìm thấy lỗi? Báo cáo tại {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
@@ -34,7 +34,7 @@ Want to know more about the permissions Firefox requests? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Xem danh sách các thiết bị được hỗ trợ và yêu cầu hệ thống tối thiểu mới nhất của chúng tôi tại https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
@@ -43,7 +43,7 @@ ABOUT MOZILLA
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla là một tổ chức phi lợi nhuận tự hào nhằm duy trì sức mạnh của Web trong tay mọi người.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
@@ -51,10 +51,10 @@ We're a global community of users, contributors and developers working to innova
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+Khi bạn sử dụng Firefox, bạn trở thành một phần của cộng đồng đó, giúp chúng tôi xây dựng một tương lai tươi sáng hơn cho Web.
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+Tìm hiểu thêm tại {{mozilla_org_link}}.
 
 
