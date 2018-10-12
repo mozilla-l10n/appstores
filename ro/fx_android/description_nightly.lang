@@ -32,7 +32,7 @@ Descarcă versiunea oficială Firefox de aici: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly este conceput pentru a prezenta cele mai experimentale versiuni de Firefox. Canalul Nightly permite utilizatorilor să experimenteze cele mai noi inovații Firefox într-un mediu instabil și să furnizeze feedback privind funcționalitățile și performanța cu scopul de a ajuta la determinarea a ceea ce se va regăsi în versiunea finală.
+Firefox Nightly este conceput să prezinte cele mai experimentale versiuni de Firefox. Canalul Nightly permite utilizatorilor să experimenteze cele mai recente inovații Firefox într-un mediu instabil și să ofere feedback despre funcționalități și performanță pentru a ne ajuta să determinăm dacă vor ajunge în versiunea finală.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -57,6 +57,6 @@ Vezi lista noastră de dispozitive suportate și cerințele minime de sistem la 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Marketing Mozilla: Pentru a înțelege performanța anumitor campanii de marketing Mozilla, Firefox trimite date, inclusiv un ID publicitar Google, adresa IP, marcajul de timp, țara, limba, sistemul de operare, versiunea aplicației către furnizorul nostru terț. Află mai multe citind politica noastră de confidențialitate aici: {{privacy_link}}
+Marketing Mozilla: Pentru a înțelege performanța anumitor campanii de marketing Mozilla, Firefox trimite date, inclusiv un ID publicitar Google, adresa IP, marcajul de timp, țara, limba, sistemul de operare, versiunea aplicației către distribuitorul nostru terț. Află mai multe din Politica noastră de confidențialitate: {{privacy_link}}
 
 
