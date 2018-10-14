@@ -32,7 +32,7 @@ Tải xuống trình duyệt phiên bản ổn định của Firefox tại đây
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly được thiết kế để giới thiệu các bản dựng thử nghiệm của Firefox. Kênh Nightly cho phép người dùng trải nghiệm những cải tiến mới nhất của Firefox trong một môi trường không ổn định và cung cấp phản hồi về các tính năng và hiệu suất để giúp làm cho bản phát hành ổn định hơn.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -47,7 +47,7 @@ Firefox Nightly tự động gửi phản hồi cho Mozilla: {{telemetry_link}}
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Bạn muốn biết thêm về các điều khoản mà Firefox yêu cầu? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
@@ -57,6 +57,6 @@ Xem danh sách các thiết bị được hỗ trợ và yêu cầu hệ thống
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Tiếp thị Mozilla: Để hiểu hiệu suất của một số chiến dịch tiếp thị Mozilla, Firefox gửi dữ liệu, bao gồm ID quảng cáo, địa chỉ IP, dấu thời gian, quốc gia, ngôn ngữ/locale, hệ điều hành, phiên bản ứng dụng, đến nhà cung cấp bên thứ ba của chúng tôi. Tìm hiểu thêm bằng cách đọc thông báo bảo mật của chúng tôi tại đây: {{privacy_link}}
 
 
