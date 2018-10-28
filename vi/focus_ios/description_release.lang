@@ -11,7 +11,7 @@
 # 5) Firefox Focus: Private. Fast
 # 6) Firefox Focus
 ;Firefox Focus: Privacy Browser
-Firefox Focus: Privacy Browser
+Firefox Focus
 
 
 # Application subtitle. Maximum length is 30 characters.
@@ -20,15 +20,15 @@ Firefox Focus: Privacy Browser
 # 2) Automatically block ads
 # 3) Browse like no one's watching
 ;Always-on ad blocking
-Always-on ad blocking
+Chặn quảng cáo luôn bật
 
 
 ;Browse like no one’s watching.
-Browse like no one’s watching.
+Duyệt web như không có ai theo dõi.
 
 
 ;The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
-The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
+Firefox Focus sẽ tự động chặn một loạt các trình theo dõi trực tuyến - từ thời điểm bạn khởi chạy nó đến lần thứ hai bạn rời khỏi nó.
 
 
 ;Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
@@ -48,31 +48,31 @@ AUTOMATIC PRIVACY
 
 
 ;Blocks a wide range of common Web trackers without any settings to set
-Blocks a wide range of common Web trackers without any settings to set
+Chặn một loạt các trình theo dõi Web phổ biến mà không cần cài đặt
 
 
 ;Easily erases your history — no passwords, no cookies, no trackers
-Easily erases your history — no passwords, no cookies, no trackers
+Dễ dàng xóa lịch sử của bạn — không mật khẩu, không cookie, không trình theo dõi
 
 
 ;BROWSE FASTER
-BROWSE FASTER
+DUYỆT WEB NHANH HƠN
 
 
 ;By removing trackers and ads, Web pages may require less data and load faster
-By removing trackers and ads, Web pages may require less data and load faster
+Bằng cách loại bỏ những trình theo dõi và quảng cáo, trang Web sẽ yêu cầu ít dữ liệu hơn và tải nhanh hơn
 
 
 ;MADE BY MOZILLA
-MADE BY MOZILLA
+ĐƯỢC TẠO BỞI MOZILLA
 
 
 ;We believe everyone should have control over their lives online. That’s what we’ve been fighting for since 1998.
-We believe everyone should have control over their lives online. That’s what we’ve been fighting for since 1998.
+Chúng tôi tin rằng mọi người đều có quyền kiểm soát cuộc sông online của họ. Đó là những điều chúng tôi đấu tranh từ năm 1998.
 
 
 # Metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
-internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
+internet,safari,chrome,opera,focus,search,adblock,flash,browse,browser,browsing,incognito,private
 
 
