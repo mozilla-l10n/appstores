@@ -30,16 +30,16 @@ Intel x86 Atom ভিত্তিক ডিভাইসগুলির জন্
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Firefox এর অনুরোধের অনুমতিগুলো সম্পর্কে আরো জানতে চান? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+সমর্থিত ডিভাইসের সর্বশেষ তালিকা এবং সর্বশেষ ন্যূনতম সিস্টেম প্রয়োজনীয়তা দেখুন এখানে https://www.mozilla.org/en-US/firefox/mobile/platforms/.।
 
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+MOZILLA পরিচিতি
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
