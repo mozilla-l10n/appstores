@@ -4,13 +4,13 @@
 
 # Application title. Maximum length is 50 characters, rephrase if needed.
 ;Firefox Focus: The privacy browser
-Firefox Focus: The privacy browser
+Firefox Focus: Preglednik za privatnost
 
 
 # Application title. Maximum length is 50 characters.
 # Obsolete title: do not remove
 ;Firefox Focus: Private Browser
-Firefox Focus: Private Browser
+Firefox Focus: Privatni preglednik
 
 
 # Short description. Maximum length is 80 characters.
@@ -22,11 +22,11 @@ Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
 
 
 ;Browse like no one’s watching.
-Browse like no one’s watching.
+Pretražujte kao da vas nitko ne gleda.
 
 
 ;The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
-The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
+Novi Firefox Focus automatski blokira pratitelje koji vas prate po internetu — od trenutka kada ga pokrenete pa sve dok ga ne ugasite.
 
 
 ;Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
@@ -54,7 +54,7 @@ Easily erases your history — no passwords, no cookies, no trackers
 
 
 ;BROWSE FASTER
-BROWSE FASTER
+PRETRAŽUJTE BRŽE
 
 
 ;By removing trackers and ads, Web pages may require less data and load faster
