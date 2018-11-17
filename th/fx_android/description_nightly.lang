@@ -32,7 +32,7 @@ Firefox Nightly เป็นช่องทางพัฒนาสำหรั�
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightly ถูกออกแบบมาเพื่อแสดงรุ่นทดลองของ Firefox ช่อง Nightly ให้ผู้ใช้ได้สัมผัสนวัตกรรมใหม่ล่าสุดของ Firefox ในสภาพแวดล้อมที่ไม่เสถียร ซึ่งคุณสามารถช่วยส่งคำติชมเกี่ยวกับคุณลักษณะและประสิทธิภาพเพื่อช่วยปรับปรุงในรุ่นสุดท้ายได้
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
