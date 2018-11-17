@@ -57,6 +57,6 @@ Firefox Nightly จะส่งข้อคิดเห็นไปยัง Moz
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+การตลาด Mozilla: เพื่อให้คุณเข้าใจประสิทธิภาพของแคมเปญการตลาดบาง Mozilla ในบางอย่าง Firefox จะส่งข้อมูล รวมถึง ID โฆษณาของ Google ที่อยู่ไอพี ประทับเวลา ประเทศ ภาษา ระบบปฏิบัติการ และรุ่นแอป ให้กับผู้ขายบุคคลที่สามของเรา เรียนรู้เพิ่มเติมโดยอ่านคำชี้แจงสิทธิส่วนบุคคลของเราได้ที่นี่: {{privacy_link}}
 
 
