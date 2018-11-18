@@ -18,12 +18,12 @@
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+မိုဇီလာနိုက်သည် မိုဇီလာအသစ်ထွက်ရှိမှုတွင် ဖွံ့ဖြိုးမှုဆိုင်ရာလိုင်းတစ်ခုဖြစ်သည်
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+မိုဇီလာအော်ရိုရာ မရရှိနိုင်ပါ မိုဇီလာနိုက်ကို ပြောင်းလဲထားသည်ကို သတိပြုပါ။ အသေးစိတ်လေ့လာလိုလှျင် {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
@@ -32,7 +32,7 @@ Please note that Firefox Aurora is no longer available and has transitioned to F
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+မိုဇီလာစမ်းသပ်ပြသရာတွင် မိုဇီလာနိုက်ကို တည်ဆောက်ပြသထားသည်။ နိုက်သည် မိုဇီလာအသစ်ထွက်ရှိမှုအတွက် သုံးစွဲသူများကို အတွေ့အကြုံပေးထားပြီး သုံးစွဲသူများသည် နောက်ဆုံးထွက်ရှိမှုအတွက်ကူညီရန် လုပ်ဆောင်မှုများနှင့် ဆောင်ရွက်ချက်များတွင် နိုက်ကို တုံ့ပြန်ပြောဆိုနိုင်သည်။
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -47,12 +47,12 @@ Firefox Nightly သည် တုံ့ပြန်ချက်များကိ
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Firefox တောင်းဆိုမှုများကို ခွင့်ပြုချက်များနှင့်ပတ်သက်၍ ပိုမိုသိလိုပါသလား? {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+{{requirements_link}} မှာ ထောက်ပံ့ပေးသောကိရိယာများနှင့် နောက်ဆုံးပေါ် အနည်းဆုံးစနစ်လိုအပ်ချက်များစာရင်းကို ကြည့်ပါ
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
