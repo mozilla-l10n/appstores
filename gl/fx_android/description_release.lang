@@ -5,77 +5,77 @@
 # Title of the App on Google Play. There is a 50 characters max length.
 # If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
-Firefox Browser fast & private
+Firefox: O navegador seguro
 
 
 ;Firefox Web Browser
-Firefox Web Browser
+Navegador web Firefox
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the customizable, private & free mobile browser that syncs across devices.
-Get the customizable, private & free mobile browser that syncs across devices.
+Obteña o navegador móbil de balde, privado, personalizable e sincronizable.
 
 
 ;Experience a fast, smart and personal Web.
-Experience a fast, smart and personal Web.
+Experimente unha Web rápida, intelixente e persoal.
 
 
 ;Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
-Firefox is the independent, people-first browser made by Mozilla, voted the Most Trusted Internet Company for Privacy.
+Creado por Mozilla, votada como a compañía de Internet máis consciente da privacidade, Firefox é o navegador independente que pon ás persoas en primeiro lugar.
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
+Instáleo xa e únase a centos de millóns de usuarios que confían en Firefox para gozar dunha experiencia de navegación máis persoal.
 
 
 # Slogan in uppercase, displayed as a category title
 ;FAST. SMART. YOURS.
-FAST. SMART. YOURS.
+RÁPIDO. INTELIXENTE. SEU.
 
 
 ;Firefox is made with you in mind and gives you the power to take back control of your Web experience.
-Firefox is made with you in mind and gives you the power to take back control of your Web experience.
+Firefox está feito pensando en vostede e dálle todo o poder para que recupere o control da súa experiencia web.
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
-That’s why we design the product with smart features that take the guesswork out of browsing.
+É por iso que deseñamos o produto con características intelixentes que simplifican a navegación.
 
 
 # Slogan in uppercase, displayed as a category title
 ;SEARCH INTELLIGENTLY & GET THERE FASTER
-SEARCH INTELLIGENTLY & GET THERE FASTER
+BUSQUE DE FORMA INTELIXENTE E AFORRE TEMPO
 
 
 ;Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
-Firefox anticipates your needs and intuitively provides multiple suggested and previously searched results across your favorite search engines. Every time.
+Firefox sempre se anticipa as súas necesidades e fornécelle intuitivamente suxestións e resultados relacionados coas súas anteriores buscas a través dos seus buscadores favoritos.
 
 
 ;Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
-Easily access shortcuts to search providers including Wikipedia, Twitter and Amazon.
+Accede facilmente a provedores de busca como Wikipedia, Twitter e Amazon.
 
 
 # Slogan in uppercase, displayed as a category title
 ;NEXT LEVEL PRIVACY
-NEXT LEVEL PRIVACY
+PRIVACIDADE AO MÁXIMO NIVEL
 
 
 ;Your privacy has been upgraded.
-Your privacy has been upgraded.
+Anovouse a súa privacidade.
 
 
 ;Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
-Private Browsing with Tracking Protection blocks parts of Web pages that may track your browsing activity.
+A navegación privada con protección contra o seguimento bloquea partes das páxinas web que poden seguir a súa actividade de navegación.
 
 
 # Slogan in uppercase, displayed as a category title
 ;SYNC FIREFOX ACROSS YOUR DEVICES
-SYNC FIREFOX ACROSS YOUR DEVICES
+SINCRONICE FIREFOX EN TODOS OS SEUS DISPOSITIVOS
 
 
 ;With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
-With a Firefox Account, access your history, bookmarks and open tabs from your desktop on your smartphone and tablet.
+Cunha conta Firefox, acceda ao seu historial, aos marcadores e ás lapelas abertas do seu escritorio no seu móbil ou tableta.
 
 
 ;Firefox also safely remembers your passwords across devices so you don’t have to.
@@ -97,7 +97,7 @@ Open as many tabs as you like without losing track of your open Web pages.
 
 # Slogan in uppercase, displayed as a category title
 ;EASY ACCESS TO YOUR TOP SITES
-EASY ACCESS TO YOUR TOP SITES
+FÁCIL ACCESO AOS SEUS SITIOS FAVORITOS
 
 
 ;Spend your time reading your favorites sites instead of looking for them.
@@ -124,19 +124,19 @@ Firefox remembers your most recently used apps to help you easily share content 
 
 # Slogan in uppercase, displayed as a category title
 ;TAKE IT TO THE BIG SCREEN
-TAKE IT TO THE BIG SCREEN
+O SEU CONTIDO NA PANTALLA GRANDE
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
-Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+Envíe contido web e de vídeo dende o seu móbil ou tableta a calquera televisión de última xeración.
 
 
 ;Learn more about Firefox for Android:
-Learn more about Firefox for Android:
+Obteña máis información sobre o Firefox para Android:
 
 
 ;Have questions or need help? Visit {{support_link}}
-Have questions or need help? Visit {{support_link}}
+Ten algunha pregunta ou precisa axuda? Visite {{support_link}}
 
 
 # Bulleted list item
@@ -161,7 +161,7 @@ Follow Firefox on Twitter: {{twitter_link}}
 
 # Slogan in uppercase, displayed as a category title
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+SOBRE MOZILLA
 
 
 ;Mozilla exists to build the Internet as a public resource accessible to all because we believe open and free is better than closed and controlled.
@@ -173,16 +173,16 @@ We build products like Firefox to promote choice and transparency and give peopl
 
 
 ;Learn more at {{mozilla_org_link}}
-Learn more at {{mozilla_org_link}}
+Obteña máis información en {{mozilla_org_link}}
 
 
 ;Privacy Policy: {{privacy_link}}
-Privacy Policy: {{privacy_link}}
+Política de privacidade: {{privacy_link}}
 
 
 # Title of screenshot
 ;Fast. Smart. Yours
-Fast. Smart. Yours
+Rápido. Intelixente. Seu
 
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
@@ -262,11 +262,11 @@ Firefox remembers your recently <br>used apps to help you get the <br>word out t
 
 # Title of screenshot
 ;Send to device
-Send to device
+Enviar ao dispositivo
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
-Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+Envíe contido web e de vídeo dende <br>o seu móbil ou tableta <br>a calquera dispositivo compatíbel
 
 
