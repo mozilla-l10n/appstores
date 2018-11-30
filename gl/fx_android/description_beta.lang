@@ -4,57 +4,57 @@
 
 # Title of the App on Google Play. There is a 50 characters max length.
 ;Firefox for Android Beta
-Firefox for Android Beta
+Firefox Beta para Android
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the official free Firefox Beta browser and give your feedback!
-Get the official free Firefox Beta browser and give your feedback!
+Obteña o navegador oficial Firefox Beta e déanos a súa opinión!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Axúdenos a refinar e pulir as características máis innovadoras antes de que cheguen a versión final. Con Firefox Beta pode probar as últimas melloras de rendemento, personalización e seguranza antes de que fagan parte da nosa próxima versión.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+Inflúa no desenvolvemento e axude a dar os últimos retoques nas características e funcionalidades.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Necesitamos a súa axuda para probar dispositivos baseados en Intel x86 Atom! Se ten un dispositivo baseado en Intel x86 Atom, descargue Firefox Beta e díganos que lle parece.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Atopou un erro? Informe del en {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Quere saber máis sobre os permisos que solicita Firefox? {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Vexa a nosa lista de dispositivos compatíbeis e os últimos requisitos mínimos do sistema en https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
 ;ABOUT MOZILLA
-ABOUT MOZILLA
+SOBRE MOZILLA
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla é unha organización sen ánimo de lucro que traballa para pór o poder da Web nas mans de todas as persoas.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
-We're a global community of users, contributors and developers working to innovate on your behalf.
+Somos unha comunidade global de usuarios, colaboradores e desenvolvedores que traballan e innovan por vostede.
 
 
 ;When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
-When you use Firefox, you become a part of that community, helping us build a brighter future for the Web.
+Cando usa Firefox, entra a formar parte desta comunidade e axuda a construír un futuro mellor para a Web.
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+Obteña máis información en {{mozilla_org_link}}.
 
 
