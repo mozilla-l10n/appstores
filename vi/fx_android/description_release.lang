@@ -5,7 +5,7 @@
 # Title of the App on Google Play. There is a 50 characters max length.
 # If you have to leave a concept out to keep your translation short, prefer the word 'browser' over 'fast' and 'private'
 ;Firefox Browser fast & private
-Trình duyệt Firefox nhanh chóng & riêng tư
+Trình duyệt Firefox: nhanh chóng & riêng tư
 
 
 ;Firefox Web Browser
@@ -187,17 +187,17 @@ Nhanh. Thông minh. Dành cho bạn
 
 # Screenshot description below the title, version 1, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
-Upgrade to the power of Firefox and<br>join hundreds of millions of<br>Firefox users on desktop and mobile.
+Nâng cấp sức mạnh của Firefox và<br>tham gia với hàng trăm triệu người dùng Firefox<br>trên máy tính để bàn và thiết bị di động.
 
 
 # Screenshot description below the title, version 2, adjust line break tag position (<br>) for your language
 ;Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
-Upgrade to the power of Firefox and<br>join hundreds of millions of Firefox users
+Nâng cấp sức mạnh của Firefox và tham gia<br>với hàng trăm triệu người dùng Firefox
 
 
 # Screenshot description below the title, version 3, adjust line break tag position (<br>) for your language
 ;Upgrade to Firefox and join<br>hundreds of millions of Firefox users
-Upgrade to Firefox and join<br>hundreds of millions of Firefox users
+Nâng cấp lên Firefox và tham gia với<br>hàng trăm triệu người dùng Firefox
 
 
 # Screenshot text, displayed as a bold title
@@ -207,7 +207,7 @@ Thiết kế thẻ trực quan
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Quickly find and manage<br>your open browser tabs
-Quickly find and manage<br>your open browser tabs
+Nhanh chóng tìm và quản lý<br>các thẻ trình duyệt bạn đang mở
 
 
 # Screenshot text, displayed as a bold title
@@ -217,17 +217,17 @@ Tìm kiếm thông minh
 
 # Screenshot description below the title, adjust line break tag (<br>) position for your language
 ;Get accurate, predictive results <br>before you finish typing
-Get accurate, predictive results <br>before you finish typing
+Nhận kết quả chính xác, dự đoán<br>trước khi bạn nhập xong
 
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-Seamless browsing <br>with Sync
+Duyệt web liên tục<br>với Đồng bộ hóa
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
-Instantly access your bookmarks, <br>history, open tabs and passwords <br>everywhere you use Firefox
+Truy cập ngay vào dấu trang, lịch sử, <br>thẻ đang mở và mật khẩu <br>ở mọi nơi bạn sử dụng Firefox
 
 
 # Title of screenshot
@@ -237,7 +237,7 @@ Cấp độ riêng tư tiếp theo
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
-Private Browsing with Tracking <br>Protection blocks parts of Web <br>pages that may track your browsing activity
+Duyệt web riêng tư với Chống Theo dõi<br>chặn các phần của trang Web mà nó<br>có thể theo dõi hoạt động duyệt web của bạn
 
 
 # Title of screenshot
@@ -247,7 +247,7 @@ Tiện ích cho tất cả mọi thứ
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
-Personalize your Web browser with <br>add-ons like ad blockers, password <br>and download managers and more.
+Cá nhân hóa trình duyệt Web của bạn<br>bằng tiện ích bổ sung như trình chặn quảng cáo, <br>mật khẩu, trình quản lý tải xuống và hơn thế nữa.
 
 
 # Title of screenshot
@@ -257,7 +257,7 @@ Chia sẻ nhanh
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
-Firefox remembers your recently <br>used apps to help you get the <br>word out the way you want
+Firefox ghi nhớ các ứng dụng<br>đã sử dụng gần đây của bạn để<br>giúp bạn hiểu từ theo cách bạn muốn
 
 
 # Title of screenshot
@@ -267,6 +267,6 @@ Gửi đến thiết bị
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
 ;Send video and Web content from <br>your smartphone or tablet <br>to any supported device
-Send video and Web content from <br>your smartphone or tablet <br>to any supported device
+Gửi video và nội dung web từ<br>điện thoại thông minh hoặc máy tính bảng<br>của bạn đến bất kỳ thiết bị được hỗ trợ
 
 
