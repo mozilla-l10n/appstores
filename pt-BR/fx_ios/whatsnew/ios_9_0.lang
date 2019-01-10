@@ -3,7 +3,7 @@
 
 
 ;Tracking protection is now enabled in private browsing mode by default. Firefox will automatically block third party trackers, which limits ads following you around the internet and increases browsing speed.
-A proteção contra rastreamento agora é habilitada por padrão no modo Navegação Privativa. O Firefox automaticamente bloqueará rastreadores de terceiros, o que limita os anúncios que seguem você pela Internet e aumenta a velocidade de navegação.
+A proteção contra rastreamento agora é ativada por padrão na navegação privativa. O Firefox automaticamente bloqueará rastreadores de terceiros, o que limita anúncios seguirem você pela internet e aumenta a velocidade de navegação.
 
 
 ;Improved sync functionality between your mobile and desktop versions of Firefox. Update passwords, history and bookmarks on mobile and access them on your desktop browser (and vice versa).
