@@ -10,7 +10,7 @@ Firefox Focus: Trình duyệt web riêng tư
 # Application title. Maximum length is 50 characters.
 # Obsolete title: do not remove
 ;Firefox Focus: Private Browser
-Firefox Focus: Trình duyệt riêng tư
+Firefox Focus: Trình duyệt web riêng tư
 
 
 # Short description. Maximum length is 80 characters.
@@ -18,7 +18,7 @@ Firefox Focus: Trình duyệt riêng tư
 # a) Get The Privacy Browser. Fast & always private, from a brand you trust
 # b) Get The Privacy Browser. Fast & always private, from Firefox
 ;Get The Privacy Browser. Fast & always private from Firefox, a browser you trust
-Lấy Trình Duyệt Ẩn Danh. Nhanh & riêng tư từ Firefox, trình duyệt bạn tin tưởng
+Nhận trình duyệt ẩn danh. Nhanh & riêng tư từ Firefox, trình duyệt bạn tin tưởng
 
 
 ;Browse like no one’s watching.
@@ -30,7 +30,7 @@ Firefox Focus mới tự động chặn một loạt các công cụ theo dõi t
 
 
 ;Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
-Dễ dàng xóa lịch sử,mật khẩu và cookies của bạn, vì vậy bạn sẽ không bị theo dõi bởi những thứ như quảng cáo không mong muốn.
+Dễ dàng xóa lịch sử, mật khẩu và cookie của bạn, vì vậy bạn sẽ không bị theo dõi bởi những thứ như quảng cáo không mong muốn.
 
 
 ;“Private browsing” on most browsers isn’t comprehensive or easy to use.
@@ -50,7 +50,7 @@ Chặn một loạt các trình theo dõi Web phổ biến mà không cần ph�
 
 
 ;Easily erases your history — no passwords, no cookies, no trackers
-Dễ dàng xóa lịch sử của bạn - không mật khẩu, không cookies, không các trình theo dõi
+Dễ dàng xóa lịch sử của bạn - không mật khẩu, không cookie, không trình theo dõi
 
 
 ;BROWSE FASTER
@@ -58,7 +58,7 @@ DUYỆT WEB NHANH HƠN
 
 
 ;By removing trackers and ads, Web pages may require less data and load faster
-Bằng cách loại bỏ trình theo dõi và quảng cáo, các trang Web có thể yêu cầu ít dữ liệu hơn và tải nhanh hơn
+Bằng cách loại bỏ trình theo dõi và quảng cáo, các trang web có thể yêu cầu ít dữ liệu hơn và tải nhanh hơn
 
 
 ;MADE BY MOZILLA
