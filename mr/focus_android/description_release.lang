@@ -4,13 +4,13 @@
 
 # Application title. Maximum length is 50 characters, rephrase if needed.
 ;Firefox Focus: The privacy browser
-Firefox Focus: The privacy browser
+Firefox Focus: गोपनीयता ब्राऊसर
 
 
 # Application title. Maximum length is 50 characters.
 # Obsolete title: do not remove
 ;Firefox Focus: Private Browser
-Firefox Focus: Private Browser
+Firefox Focus: खाजगी ब्राऊसर
 
 
 # Short description. Maximum length is 80 characters.
@@ -62,7 +62,7 @@ By removing trackers and ads, Web pages may require less data and load faster
 
 
 ;MADE BY MOZILLA
-MADE BY MOZILLA
+Mozilla द्वारे बनवलेले
 
 
 ;We believe everyone should have control over their lives online. That’s what we’ve been fighting for since 1998.
