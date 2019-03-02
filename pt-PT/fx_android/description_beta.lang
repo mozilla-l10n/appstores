@@ -4,13 +4,13 @@
 
 # Title of the App on Google Play. There is a 50 characters max length.
 ;Firefox for Android Beta
-Firefox Beta para o Android
+Firefox para Android Beta
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;Get the official free Firefox Beta browser and give your feedback!
-Obtenha a versão beta do Firefox gratuitamente e dê a sua opinião!
+Obtenha a versão oficial do Firefox Beta gratuitamente e dê o seu feedback!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
@@ -26,7 +26,7 @@ Precisamos da sua ajuda para testes em dispositivos baseados no Intel x86 Atom! 
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Encontrou um problema? Reporte o mesmo para {{android_bugs}}.
+Encontrou um bug? Reporte-o em {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
