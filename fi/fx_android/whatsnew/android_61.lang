@@ -3,10 +3,10 @@
 
 
 ;Quantum CSS improvements which improve page rendering times
-Quantum CSS improvements which improve page rendering times
+Sisältää Quantum CSS -parannuksia, jotka parantavat sivujen latautumisaikoja
 
 
 ;Faster scrolling due to treating touch event listeners as passive by default
-Faster scrolling due to treating touch event listeners as passive by default
+Vieritys toimii nopeammin, koska kosketustapahtumien kuuntelijat ovat oletuksena passiivisia
 
 
