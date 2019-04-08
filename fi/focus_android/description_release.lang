@@ -26,11 +26,11 @@ Selaa niin kuin kukaan ei katsoisi.
 
 
 ;The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it.
-Uusi Firefox Focus estää automaattisesti useita verkkokäyttäytymisen seuraajia — aina siitä asti kun käynnistät sen, siihen asti kun suljet sen.
+Uusi Firefox Focus estää automaattisesti useita verkkokäyttäytymisen seuraimia — käynnistyksestä sulkeutumiseen asti.
 
 
 ;Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
-Poista helposti sivuhistoriasi, salasanat ja evästeet, jotta ei-halutut komponentit, kuten mainokset eivät voi seurata selailuasi.
+Poista helposti sivuhistoria, salasanat ja evästeet, jotta esimerkiksi ei-toivotut mainokset eivät voi seurata selailuasi.
 
 
 ;“Private browsing” on most browsers isn’t comprehensive or easy to use.
@@ -46,11 +46,11 @@ AUTOMAATTINEN YKSITYISYYS
 
 
 ;Blocks a wide range of common Web trackers without any settings to set
-Estää useimpien verkkoseuraajien jäljityksen ilman säädettäviä asetuksia
+Estää useimmat verkkoseuraimet seuraamasta sinua, ilman säädettäviä asetuksia
 
 
 ;Easily erases your history — no passwords, no cookies, no trackers
-Poista selaushistoriasi helposti — ei salasanoja, ei evästeitä, ei seuraajia
+Poista selaushistoriasi helposti — ei salasanoja, ei evästeitä, ei seuraimia
 
 
 ;BROWSE FASTER
@@ -58,7 +58,7 @@ SELAA NOPEAMMIN
 
 
 ;By removing trackers and ads, Web pages may require less data and load faster
-Verkkosivut vaativat vähemmän dataa ja latautuvat nopeammin, kun seuraajat ja mainokset poistetaan
+Verkkosivut vaativat vähemmän dataa ja latautuvat nopeammin, kun seuraimet ja mainokset poistetaan
 
 
 ;MADE BY MOZILLA
