@@ -37,7 +37,7 @@ Firefox Nightly è realizzato per consentire agli utenti di sperimentare tutte l
 
 # Do no translate {{bug_link}}, it will replaced by a link
 ;Found a bug? Report it at {{bug_link}}
-Hai scoperto un bug? Segnalalo qui: {{bug_link}}
+Found a bug? Report it at {{bug_link}}
 
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
