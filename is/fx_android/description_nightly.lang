@@ -8,22 +8,22 @@
 # b) Firefox Nightly for Devs (or the equivalent abbreviation for “developers”)
 # c) Firefox Nightly
 ;Firefox Nightly for Developers
-Firefox Nightly for Developers
+Firefox næturútgáfa fyrir forritara
 
 
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+Fyrir forritara - vertu með þeim fyrstu til að prófa Firefox morgundagsins
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox næturútgáfa er þróunarrás fyrir nýjar útgáfur af Mozilla Firefox.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Vinsamlegast athugið að Firefox Aurora er ekki lengur í boði. Verkefnið hefur runnið saman við Firefox næturútgáfu. Meiri upplýsingar: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
