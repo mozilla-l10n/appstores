@@ -14,27 +14,27 @@ Hanki virallinen Firefox Beta -selain ja anna palautetta!
 
 
 ;Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
-Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version.
+Auta jalostamaan ja viimeistelemään uusimmat melkein virallista julkaisua varten valmiit ominaisuudet. Firefoxin beetaversiolla saat uusimmat suorituskykyyn, mukautettavuuteen ja tietoturvaan liittyvät parannukset, ennen kuin ne julkaistaan seuraavaan vakaaseen versioon.
 
 
 ;Have an impact by helping to put the finishing touches on features and functionality.
-Have an impact by helping to put the finishing touches on features and functionality.
+Vaikuta auttamalla meitä viimeistelemään uudet ominaisuudet ja toiminnallisuudet.
 
 
 ;We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
-We need your help testing Intel x86 Atom based devices! If you have an Intel x86 Atom based device, download Firefox Beta and tell us what you think.
+Tarvitsemme testausapua Intel x86 Atom -pohjaisilla laitteilla! Jos sinulla on Intel x86 Atom -pohjainen laite, lataa Firefox Beta ja kerro meille kokemuksestasi.
 
 
 ;Find a bug? Report it at {{android_bugs}}.
-Find a bug? Report it at {{android_bugs}}.
+Löysitkö vian? Ilmoita siitä meille osoitteessa {{android_bugs}}.
 
 
 ;Want to know more about the permissions Firefox requests? {{permission_link}}
-Want to know more about the permissions Firefox requests? {{permission_link}}
+Haluatko tietää lisää Firefoxin pyytämistä käyttöoikeuksista? Lue {{permission_link}}
 
 
 ;See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
-See our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/.
+Tuettujen laitteiden lista ja järjestelmän vähimmäisvaatimukset löytyvät osoitteesta https://www.mozilla.org/en-US/firefox/mobile/platforms/.
 
 
 # TITLE
@@ -43,7 +43,7 @@ TIETOJA MOZILLASTA
 
 
 ;Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
-Mozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands.
+Mozilla on voittoa tavoittelematon organisaatio, joka on omistautunut pitämään verkon voiman tavallisten ihmisten käsissä.
 
 
 ;We're a global community of users, contributors and developers working to innovate on your behalf.
@@ -55,6 +55,6 @@ When you use Firefox, you become a part of that community, helping us build a br
 
 
 ;Learn more at {{mozilla_org_link}}.
-Learn more at {{mozilla_org_link}}.
+Lue lisää osoitteessa {{mozilla_org_link}}.
 
 
