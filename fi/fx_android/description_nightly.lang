@@ -14,25 +14,25 @@ Firefox Nightly kehittäjille
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+Kehittäjille - Ole ensimmäisten joukossa testaamassa tulevia Firefox-julkaisuja
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
-Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
+Firefox Nightly on kehityskanava uusille Mozilla Firefox -julkaisuille.
 
 
 # Do no translate {{dawn_post}}, it will replaced by a link
 ;Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
-Please note that Firefox Aurora is no longer available and has transitioned to Firefox Nightly. More details here: {{dawn_post}}
+Firefox Aurora ei ole enää saatavilla ja se on siirretty Firefox Nightlyyn. Lisätietoja: {{dawn_post}}
 
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+Lataa Firefoxin viimeisin versio täältä: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
-Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
+Firefox Nightlyn on tarkoitus esitellä kehitysasteella olevia Firefox-versioita. Nightly-kanava mahdollistaa käyttäjien kokea uusimmat Firefox-innovaatiot epävakaassa ympäristössä ja antaa palautetta ominaisuuksista sekä suorituskyvystä. Saadun palautteen avulla päätetään, mitä viralliseen vakaaseen julkaisuun päätyy.
 
 
 # Do no translate {{bug_link}}, it will replaced by a link
@@ -42,21 +42,21 @@ Löysitkö vian? Ilmoita siitä osoitteessa {{bug_link}}
 
 # Do no translate {{telemetry_link}}, it will replaced by a link
 ;Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
-Firefox Nightly automatically sends feedback to Mozilla: {{telemetry_link}}
+Firefox Nightly lähettää automaattisesti palautetta Mozillalle: {{telemetry_link}}
 
 
 # Do no translate {{permissions_link}}, it will replaced by a link
 ;Want to know more about the permissions Firefox requests? {{permissions_link}}
-Want to know more about the permissions Firefox requests? {{permissions_link}}
+Haluatko lisätietoja Firefoxin pyytämistä käyttöoikeuksista? Lue {{permissions_link}}
 
 
 # Do no translate {{requirements_link}}, it will replaced by a link
 ;See our list of supported devices and latest minimum system requirements at {{requirements_link}}
-See our list of supported devices and latest minimum system requirements at {{requirements_link}}
+Tuettujen laitteiden lista ja järjestelmän vähimmäisvaatimukset löytyvät osoitteesta {{requirements_link}}
 
 
 # Do no translate {{privacy_link}}, it will replaced by a link
 ;Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
-Mozilla marketing: In order to understand the performance of certain Mozilla marketing campaigns, Firefox sends data, including a Google advertising ID, IP address, timestamp, country, language/locale, operating system, app version, to our third party vendor. Learn more by reading our Privacy Notice here: {{privacy_link}}
+Mozilla-markkinointi: Ymmärtääksemme tiettyjen Mozilla-markkinointikamppanjoiden tehokkuuden, Firefox lähettää tietoja, mukaan lukien Google-mainostustunnisteen, IP-osoitteen, aikaleiman, maan, kielen/maa-asetuston, käyttöjärjestelmän, sovelluksen version, kolmannelle osapuolelle. Lue lisää yksityisyyskäytännöstämme: {{privacy_link}}
 
 
