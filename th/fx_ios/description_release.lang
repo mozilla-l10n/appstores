@@ -28,7 +28,7 @@ Firefox เป็นเบราว์เซอร์อิสระที่ใ
 
 
 ;Upgrade today and join hundreds of millions who depend on Firefox for a more personal browsing experience.
-อัปเกรดวันนี้และเข้าร่วมผู้คนนับร้อยล้านที่พึ่งพา Firefox เพื่อประสบการณ์การท่องเว็บที่เป็นส่วนบุคคลมากกว่า
+อัปเกรดวันนี้และเข้าร่วมผู้คนนับร้อยล้านที่พึ่งพา Firefox เพื่อประสบการณ์การเรียกดูที่เป็นส่วนบุคคลมากกว่า
 
 
 # Slogan in uppercase, displayed as a category title
@@ -41,7 +41,7 @@ Firefox ถูกสร้างขึ้นโดยมีคุณอยู่
 
 
 ;That’s why we design the product with smart features that take the guesswork out of browsing.
-นั่นจึงเป็นเหตุผลที่เราออกแบบผลิตภัณฑ์ให้มีคุณลักษณะอันชาญฉลาดที่ช่วยให้ท่องเว็บได้โดยไม่ต้องคาดเดา
+นั่นจึงเป็นเหตุผลที่เราออกแบบผลิตภัณฑ์ให้มีคุณลักษณะอันชาญฉลาดที่ช่วยให้เรียกดูได้โดยไม่ต้องคาดเดา
 
 
 # Slogan in uppercase, displayed as a category title
@@ -58,15 +58,15 @@ Firefox คาดการณ์ความต้องการของคุ
 
 
 ;BROWSE PRIVATELY
-ท่องเว็บอย่างเป็นส่วนตัว
+เรียกดูอย่างเป็นส่วนตัว
 
 
 ;Your personal information belongs to you. In Private Browsing mode, Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.
-ข้อมูลส่วนบุคคลของคุณเป็นของคุณ ในโหมดการท่องเว็บแบบส่วนตัว Firefox จะไม่จดจำประวัติหรือคุกกี้ใด ๆ ของคุณ แต่ที่คั่นหน้าใหม่จะถูกบันทึกไว้
+ข้อมูลส่วนบุคคลของคุณเป็นของคุณ ในโหมดการเรียกดูแบบส่วนตัว Firefox จะไม่จดจำประวัติหรือคุกกี้ใด ๆ ของคุณ แต่ที่คั่นหน้าใหม่จะถูกบันทึกไว้
 
 
 ;Delete your browsing history, passwords and more in a single tap.
-ลบประวัติการท่องเว็บ, รหัสผ่าน และอื่น ๆ ของคุณในการแตะเพียงครั้งเดียว
+ลบประวัติการเรียกดู, รหัสผ่าน และอื่น ๆ ของคุณในการแตะเพียงครั้งเดียว
 
 
 ;Choose the private data you want to remove.
@@ -204,7 +204,7 @@ Mozilla ดำรงอยู่เพื่อสร้างอินเทอ
 
 # Screenshot text, displayed as a bold title, adjust line break tag (<br>) position for your language
 ;Seamless browsing <br>with Sync
-การท่องเว็บแบบไร้รอยต่อ<br>ด้วย Sync
+การเรียกดูแบบไร้รอยต่อ<br>ด้วย Sync
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -214,7 +214,7 @@ Mozilla ดำรงอยู่เพื่อสร้างอินเทอ
 
 # Screenshot text, displayed as a bold title
 ;Private Browsing
-การท่องเว็บแบบส่วนตัว
+การเรียกดูแบบส่วนตัว
 
 
 # Screenshot description below the title, adjust line break tag position (<br>) for your language
@@ -224,7 +224,7 @@ Mozilla ดำรงอยู่เพื่อสร้างอินเทอ
 
 # metadata keywords, used for search on iTunes, maximum length is 100 characters, incognito is Chrome private browsing mode
 ;internet,safari,chrome,opera,explorer,search,adblock,flash,browser,browsing,incognito,private,browse
-internet,safari,chrome,opera,explorer,ค้นหา,adblock,flash,เบราว์เซอร์,ท่องเว็บ,ไม่ระบุตัวตน,ส่วนตัว
+internet,safari,chrome,opera,explorer,ค้นหา,adblock,flash,เบราว์เซอร์,เรียกดู,ไม่ระบุตัวตน,ส่วนตัว
 
 
 # Copyright notice on the page
