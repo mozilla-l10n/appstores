@@ -3,10 +3,10 @@
 
 
 ;Quantum CSS improvements which improve page rendering times
-Quantum CSS improvements which improve page rendering times
+စာမျက်နှာ ချယ်မှုန်းခြင်းဆိုင်ရာ အကြိမ် ပိုမိုကောင်းမွန်လာသည့် Quantum CSS တိုးတက်မှုများ
 
 
 ;Faster scrolling due to treating touch event listeners as passive by default
-Faster scrolling due to treating touch event listeners as passive by default
+Touch Event Listeners ကို ပုံသေအားဖြင့် passive အနေဖြင့် လုပ်ဆောင်သောကြောင့် ပိုမိုမြန်ဆန်လာသော စာမျက်နှာ ပေါ်အောက်ရွှေ့ခြင်း
 
 
