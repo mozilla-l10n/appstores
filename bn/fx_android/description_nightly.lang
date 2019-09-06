@@ -14,7 +14,7 @@ Developers দের জন্য Firefox Nightly
 # This is the short tagline for the app on Google Play.
 # Max length is 80 characters, so you might have to rephrase in order to fit.
 ;For Developers - Be the first to test future releases of Firefox
-For Developers - Be the first to test future releases of Firefox
+ডেভেলপারদের জন্য - Firefox এর ভবিষ্যৎ সংস্করণ প্রকাশের পূর্বেই পরীক্ষা করুন
 
 
 ;Firefox Nightly is a developmental channel for new Mozilla Firefox releases.
@@ -28,7 +28,7 @@ Please note that Firefox Aurora is no longer available and has transitioned to F
 
 # Do no translate {{download_link}}, it will replaced by a link
 ;Download the release version of Firefox here: {{download_link}}
-Download the release version of Firefox here: {{download_link}}
+এখানে Firefox এর অবমুক্ত সংস্করণটি ডাউনলোড করুন: {{download_link}}
 
 
 ;Firefox Nightly is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.
